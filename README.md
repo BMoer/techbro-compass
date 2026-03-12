@@ -1,4 +1,4 @@
-# techbro-oder-faschist
+# techbro-compass
 
 **Political Compass für DACH Tech-Podcasts**
 
@@ -9,7 +9,7 @@ Fun Feature: "Tech Bro oder Faschist?" — Rate die Aussage.
 ## Repo-Struktur
 
 ```
-techbro-oder-faschist/
+techbro-compass/
 ├── README.md
 ├── .gitignore
 ├── data/
@@ -34,7 +34,7 @@ techbro-oder-faschist/
 
 ```bash
 # 1. Repo erstellen
-mkdir techbro-oder-faschist && cd techbro-oder-faschist
+mkdir techbro-compass && cd techbro-compass
 git init
 
 # 2. .gitignore
@@ -67,7 +67,7 @@ git add .
 git commit -m "init: repo structure"
 
 # 7. GitHub repo erstellen + pushen
-# gh repo create techbro-oder-faschist --public --source=. --push
+# gh repo create techbro-compass --public --source=. --push
 # ODER: manuell auf github.com → New Repository → push
 ```
 
@@ -75,7 +75,7 @@ git commit -m "init: repo structure"
 
 **GitHub Pages** für die statische Website:
 - Settings → Pages → Source: `main` branch, `/web` folder
-- URL: `https://<username>.github.io/techbro-oder-faschist/`
+- URL: `https://<username>.github.io/techbro-compass/`
 - Alternativ: Custom Domain (z.B. `techbro.moerzinger.eu`)
 
 ## Workflow

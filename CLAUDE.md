@@ -1,17 +1,17 @@
-# CLAUDE.md — techbro-oder-faschist
+# CLAUDE.md — techbro-compass
 
 ## Projekt
 
 Longitudinale politische Verortung von DACH Tech-Podcasts auf dem Political Compass (Economic Left–Right × Social Authoritarian–Libertarian). Automatisiert via LLM-Coding von Podcast-Transkripten, visualisiert als interaktive Website.
 
-Fun Feature: "Tech Bro oder Faschist?" — Quiz mit echten Podcast-Zitaten.
+Fun Feature: "Tech Bro oder Faschist?" — Quiz mit echten Podcast-Zitaten. (Quiz aktuell deaktiviert)
 
 Hobbyprojekt. Deadline: Montag.
 
 ## Repo-Struktur
 
 ```
-techbro-oder-faschist/
+techbro-compass/
 ├── CLAUDE.md              ← du bist hier
 ├── .gitignore
 ├── .env                   # ANTHROPIC_API_KEY (nicht committen)
@@ -24,10 +24,8 @@ techbro-oder-faschist/
 │   ├── 02_analyze_episodes.py
 │   ├── coding_scheme.md
 │   └── requirements.txt
-├── web/
-│   └── index.html         # Single-file Website (GitHub Pages)
-└── docs/
-    └── methodik.md
+└── docs/                  # GitHub Pages (index.html, data.json, methodik.html)
+    └── index.html
 ```
 
 ## Status
