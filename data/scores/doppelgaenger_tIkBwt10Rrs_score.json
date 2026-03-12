@@ -1,0 +1,117 @@
+{
+  "economic_score": 1.8,
+  "social_score": 1.2,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Nvidia-Chips über Singapur nach China schmuggeln ist praktisch und die Schmuggelmargen sind nur 5-10%",
+      "speaker": "host",
+      "economic": 0,
+      "social": -2,
+      "reasoning": "Akzeptanz illegaler Umgehung von Exportkontrollen, schwache Enforcement"
+    },
+    {
+      "text": "Man muss davon ausgehen, dass China deutlich mehr Chips hat als offiziell gemeldet",
+      "speaker": "host",
+      "economic": 0,
+      "social": -3,
+      "reasoning": "Implizite Akzeptanz von Sanktionsumgehung als Marktregelation"
+    },
+    {
+      "text": "Die Ausfuhrrestriktionen könnten durch Lizenzmode in Chips gelöst werden, wie bei E-Scootern",
+      "speaker": "host",
+      "economic": -4,
+      "social": -5,
+      "reasoning": "Befürwortung staatlicher Kontrollmechanismen und Hardware-Einschränkungen"
+    },
+    {
+      "text": "Nvidia hat keine Incentive, Chip-Schmuggel zu unterbinden, mehr verkaufen ist immer gut",
+      "speaker": "host",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Kapitalistisches Profitdenken, gegen Regulierung"
+    },
+    {
+      "text": "Softbank reinzugehen ist ein Sell-Signal für OpenAI-Investoren",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Skeptik gegenüber spekulativem Venture-Kapital, vorsichtige Haltung"
+    },
+    {
+      "text": "OpenAI wird massiv überbewertet, ich glaube nicht an diese Bewertung",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritik an Marktbewertung, implizite Skeptik gegenüber Tech-Bubble"
+    },
+    {
+      "text": "Tesla macht immer noch relativ gute Ergebnisse trotz Automobilkrise",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Anerkennung unternehmerischer Effizienz und Leistung"
+    },
+    {
+      "text": "Meta kann weiter in AI investieren, weil sie 13 Milliarden KI-Umsatz machen und 27% FCF-Marge haben",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Bewunderung für operative Effizienz und Kapitaleffizienz"
+    },
+    {
+      "text": "Begnadigungen durch Präsidenten sind ein großer Fehler der US-Demokratie und Aussetzen der Gewaltenteilung",
+      "speaker": "host",
+      "economic": -3,
+      "social": 6,
+      "reasoning": "Kritik an Machkonzentration, Befürwortung institutioneller Checks & Balances"
+    },
+    {
+      "text": "RFK Junior sollte nicht Gesundheitsminister sein, weil er Impfskeptiker ist und das gefährlich für Bevölkerung ist",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Befürwortung wissenschaftlicher Standards in Regierungsamt, Volkgesundheit vor Ideologie"
+    },
+    {
+      "text": "Norwegen hat seinen Ölreichtum smart über 25 Jahre in einen Staatsfond investiert",
+      "speaker": "host",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Befürwortung von staatlicher Vermögensbildung und kollektiven Wohlstand"
+    },
+    {
+      "text": "Amazon und Apple werben auf X, um Elon Musk/Trump in der Regierung gefallen zu tun",
+      "speaker": "host",
+      "economic": -1,
+      "social": -4,
+      "reasoning": "Kritik an politischer Einflussnahme durch Kapital, Korruptionsverdacht"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Nvidia hat keine Incentive, das zu unterbinden—mehr verkaufen ist ja immer gut für sie",
+      "context": "Diskussion über Chip-Schmuggel nach China trotz Exportkontrollen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die erste Regel als Angel Investor: Wenn Softbank reingeht, gehe ich raus",
+      "context": "Kritik an OpenAI-Bewertung von 300 Mrd. USD durch Softbank-Investment",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Begnadigungen sind ein großer Fehler der US-Demokratie—du setzt damit die Gewaltenteilung aus",
+      "context": "Kritik an Präsidenten-Begnadigungen und Sam Bankman-Fried-Fall",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_tIkBwt10Rrs",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_tIkBwt10Rrs",
+  "date": null,
+  "country": "DE",
+  "word_count": 11503
+}

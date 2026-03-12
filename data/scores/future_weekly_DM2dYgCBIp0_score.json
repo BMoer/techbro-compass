@@ -1,0 +1,75 @@
+{
+  "economic_score": 1.67,
+  "social_score": 0.83,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Nevada will Startups mit $250M anlocken, um eigene Utopias zu bauen mit eigenen Gesetzen",
+      "speaker": "host",
+      "economic": 3,
+      "social": -4,
+      "reasoning": "Unternehmertum & Deregulierung, aber autoritäre Strukturen (eigene Gesetze, Ghettoisierung)"
+    },
+    {
+      "text": "Google-ähnliche Utopias fördern Arbeitssucht und Ghettoisierung der Reichen vs. Armen",
+      "speaker": "host",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Kritik an sozialer Segregation und Überwachung durch Kontrolle der Umgebung"
+    },
+    {
+      "text": "Gesetze müssen regelmäßig überprüft werden; alte sollten automatisch verfallen",
+      "speaker": "host",
+      "economic": 2,
+      "social": 3,
+      "reasoning": "Modernisierung & Effizienz (rechts), mehr Partizipation & Transparenz (libertär)"
+    },
+    {
+      "text": "Amtsblätter & Gesetze müssen in einfacher Sprache sein - Demokratie braucht Verständlichkeit",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Partizipation & Bürgerrechte, Anti-Elitismus, Transparenz"
+    },
+    {
+      "text": "DPD-Liefersystem ist strukturell kaputt - Botner haben keine Anreize, korrekt zu liefern",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Marktmechanismus; Prekarität von Selbstständigen, fehlende Regulation"
+    },
+    {
+      "text": "Bitcoin ist jetzt ein solider Wertspeicher geworden - große Unternehmen investieren",
+      "speaker": "host",
+      "economic": 6,
+      "social": 4,
+      "reasoning": "Pro-Freier Markt, pro-dezentrale Finanzen & Libertarianismus"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn du dein Utopia bauen kannst - warum solltest du noch in San Francisco sein?",
+      "context": "Nevada's Versprechen als Alternative zu den Problemen des Silicon Valley",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn ein Zehnjähriger nicht erklären kann, warum du das machen musst - das Gesetz ist zu kompliziert",
+      "context": "Forderung nach einfacher Sprache in Rechtstexten als demokratische Pflicht",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Strukturelle Kaputheit ist schlimmer als einzelne Fehler - DPD macht es einfach absichtlich falsch",
+      "context": "Kritik an Lieferdiensten, die systematisch falsch funktionieren",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_DM2dYgCBIp0",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_DM2dYgCBIp0",
+  "date": null,
+  "country": "AT",
+  "word_count": 9678
+}

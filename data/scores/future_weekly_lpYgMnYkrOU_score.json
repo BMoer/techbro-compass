@@ -1,0 +1,103 @@
+{
+  "economic_score": 2.8,
+  "social_score": 1.4,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wir verdienen gutes Geld aber wirtschaften auch vernünftig, überlegen uns wofür wir Geld ausgeben",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatische Marktwirtschaft, keine radikale Position"
+    },
+    {
+      "text": "Wir machen kleine Testballons, experimentieren nicht überbordend - sehr überlegt",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Konservative, risikominimale Geschäftspraxis, nicht libertär"
+    },
+    {
+      "text": "Das Unternehmertum sollte in jeder Schule und Ausbildung vermittelt werden",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 2,
+      "reasoning": "Pro-unternehmerische Haltung, gewisses Vertrauen in Märkte"
+    },
+    {
+      "text": "70% unserer Kunden nutzten vorher Papier und Bleistift - digitale Transformation der Industrie",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Technologische Innovation innerhalb Marktsystem, neutral positioniert"
+    },
+    {
+      "text": "Blockchain würde Sinn machen für Transaktionen, aber momentan haben wir andere Herausforderungen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Technologieaffin aber pragmatisch, nicht ideologisch"
+    },
+    {
+      "text": "Ich delegiere, nicht alles alleine - Multiplizieren statt addieren",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Vertrauensbasierte Zusammenarbeit, gewisse Dezentralisierung"
+    },
+    {
+      "text": "Meine Frau hat uns finanziell unterstützt - alles Geld aus dem Gründerteam in die Firma investiert",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Bootstrapping-Mentalität, persönliches Risiko eingegangen"
+    },
+    {
+      "text": "Ich gebe meinen alten Gewohnheiten nach, schaue dass ich das gut verlege bei vernünftigen Sachen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Mäßiger Konsum trotz Wohlstand, nicht hedonistisch"
+    },
+    {
+      "text": "Die Menschheit wird von Software abhängig und computergesteuert - unvermeidlich",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Akzeptanz von Automatisierung/Kontrolle durch Technologie, leicht autoritär"
+    },
+    {
+      "text": "Solange Kapitalismus überwiegt und Neid der Hund ist, vermeiden wir Kriege nicht",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -2,
+      "reasoning": "Kritik am Kapitalismus, pessimistische Sicht auf Systemfragen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Es gibt Momente wo ich an die Decke gefallen bin natürlich, aber man reflektiert, schaut sich an wird das so ist",
+      "context": "Zur Frage von Krisen während des Wachstums",
+      "quiz_suitable": true
+    },
+    {
+      "text": "70% aller Kunden nutzten vorher Papier und Bleistift global - das zeigt wie weit wir noch weg sind vom Exit",
+      "context": "Gast erklärt warum kein baldiger Exit geplant ist",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Bauindustrie hat keine Software und niemand hat sich was drunter vorstellen können",
+      "context": "Über Skeptizismus gegenüber seiner Gründungsidee",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_lpYgMnYkrOU",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_lpYgMnYkrOU",
+  "date": null,
+  "country": "AT",
+  "word_count": 7668
+}

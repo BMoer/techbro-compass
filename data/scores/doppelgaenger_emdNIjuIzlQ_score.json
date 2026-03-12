@@ -1,0 +1,122 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.67,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Unternehmen sollten exklusive Daten nicht an Konkurrenten weitergeben",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-Unternehmertum, Datenmonopol als Wettbewerbsvorteil"
+    },
+    {
+      "text": "Schlecht, wenn Google Mitarbeiter rauswirft um in KI-Infrastruktur zu investieren",
+      "speaker": "host",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Kritik an Workforce-Reduktion für Kapitalinvestitionen; soziale Kosten"
+    },
+    {
+      "text": "KI-Überwachung durch Meta zum Tracken privater Konversationen ist Designfehler",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Kritik an Datenschutz-Verletzung, pro Nutzerprivatsphäre"
+    },
+    {
+      "text": "Ich würde kein Geld von Elon Musk nehmen trotz 10 Mio für Prinzipien",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Werteerhalt über finanzielle Anreize, Anti-Korruption"
+    },
+    {
+      "text": "Salesforce muss zwischen Kundeninteressen und Firmeninteressen abwägen",
+      "speaker": "host",
+      "economic": 3,
+      "social": 1,
+      "reasoning": "Pragmatisches Unternehmertum mit sozialer Verantwortung"
+    },
+    {
+      "text": "Open AI muss mehrere Cloud-Provider nutzen wegen Ressourcenhunger",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kapitalintensität, Marktdynamik bevorzugt große Player"
+    },
+    {
+      "text": "Kleine Publisher können langfristig von Google nicht überleben",
+      "speaker": "host",
+      "economic": -2,
+      "social": -1,
+      "reasoning": "Kritik an Marktkonzentration, existenzielle Bedrohung für kleine Akteure"
+    },
+    {
+      "text": "AIO-Optimierung ist Quatsch, Chatbots geben kaum Traffic ab",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Skeptische Marktanalyse, neutral-pragmatisch"
+    },
+    {
+      "text": "Medizin wird durch KI unterstützt aber nicht obsolet, Markt ist gesichert",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 0,
+      "reasoning": "Vertrauen in Marktmechanismen bei Automatisierung"
+    },
+    {
+      "text": "Wenn USA AGI dominieren würde, könnte das andere Länder zu Präventivschlag treiben",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Szenario zunehmender Sicherheitsbedrohung durch Machtkonzentration"
+    },
+    {
+      "text": "Trump musste sich aus Angst vor SpaceX-Verträgen Elon unterordnen",
+      "speaker": "host",
+      "economic": 1,
+      "social": -3,
+      "reasoning": "Unternehmermacht über Politik, aber fragwürdige Machtdynamik"
+    },
+    {
+      "text": "Ark Invest prognostiziert SpaceX bei 2.5 Billionen - zu optimistisch wie bei Tesla",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritik an spekulativem Kapitalismus und unrealistischen Bewertungen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Exklusive Daten sind unheimlich wertvoll. Wer zusätzliche private Daten hat, hat großen Vorteil.",
+      "context": "Diskussion über Daten als Wettbewerbsvorteil für SaaS-Plattformen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn deine Website nur eine Frage beantwortet, war sie vor 5 Jahren schon obsolet.",
+      "context": "Google AI Overviews dezimieren Traffic für Content-Publisher",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn ein Land AGI dominiert, könnte das andere Länder zu Präventivschlag treiben wie beim Atomwaffenprogramm.",
+      "context": "Geopolitische Black-Mirror-Szenarien durch AGI-Monopolisierung bis 2027",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Pentagon Pizza Report: Pizzabestellungen um 7 Uhr zeigen, ob Pentagon in Alarmbereitschaft ist.",
+      "context": "Datenspuren von Logistik enthüllen geopolitische Krisen früher als offizielle Kanäle",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_emdNIjuIzlQ",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_emdNIjuIzlQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 6868
+}

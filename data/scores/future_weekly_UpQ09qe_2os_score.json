@@ -1,0 +1,108 @@
+{
+  "economic_score": 2.4,
+  "social_score": 1.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Wir haben die ersten 20 Geräte im ersten Jahr vollkommen gebootstrappt mit niedrigen Lohnkosten",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Bootstrap-Mentalität, Effizienz, minimales Kapital - pragmatisch unternehmerisch"
+    },
+    {
+      "text": "Die Kunden finanzieren es durch, wir verlangen Kautionen für die Geräte",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Clevere Kapitalallokation, Kundenfinanzierung statt Fremdkapital"
+    },
+    {
+      "text": "Unternehmerische Smartness hat nichts mit IQ zu tun sondern schnell Dinge auffassen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatische, marktorientierte Philosophie über theoretisches Wissen"
+    },
+    {
+      "text": "Ich möchte dass Leute voll in ihrem Job aufgehen, falsche Aufgaben verursachen Burnout",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Mitarbeiterwohl, Work-Life-Balance, menschenzentriertes Unternehmertum"
+    },
+    {
+      "text": "Gutes Essen führt dazu dass Mitarbeiter zufriedener sind und besser gelaunt",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 2,
+      "reasoning": "Verbindung von Mitarbeiterwohl mit produktivem Outcome, moderately pragmatisch"
+    },
+    {
+      "text": "Firmen brauchen jetzt Benefits im Büro um Leute zurück zu bringen nach Corona",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Marktmechanismus erkannt, eher neutral-pragmatisch"
+    },
+    {
+      "text": "Der beste Beweis sind einfach Zahlen - Kunden gewinnen, Zahlungsbereitschaft zeigen",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Revenue-fokussiert, empirische Evidenz über Rhetorik"
+    },
+    {
+      "text": "Datenschutz und Sichrheit sind mir wichtig bei Betrieb der digitalen Systeme",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Schwache implizite Aussage über digitale Verantwortung"
+    },
+    {
+      "text": "Ich bin impulsiv in meinen Entscheidungen, das schadet Teamprozessen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Selbstreflexion über persönliche Limitationen im Teamkontext"
+    },
+    {
+      "text": "Menschen nicht Firmen sind zentral - persönliche Beziehungen entscheiden über Deals",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Humankapital-fokussiert, relationale Ökonomie über transaktional"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Unternehmerische Smartness hat nichts mit IQ zu tun sondern schnell Dinge auffassen",
+      "context": "Gründer erklärt was echte unternehmerische Fähigkeit bedeutet vs. akademisches Wissen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir lassen es durch die Kunden teilweise finanzieren - Kautionen verlangen",
+      "context": "Stefan beschreibt wie Schrankal ohne Venture Capital wächst durch Cashflow-Optimierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich bin fest davon überzeugt dass es für jeden die richtige Position auch gibt",
+      "context": "Gründer äußert fundamental optimistische Vision über Potenzial-Entfaltung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Corona war kein Vorteil für uns außer dass wir gut Food sourcen konnten",
+      "context": "Klarstellung dass Pandemie nur operativ geholfen hat, nicht strategisch",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_UpQ09qe_2os",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_UpQ09qe_2os",
+  "date": null,
+  "country": "AT",
+  "word_count": 6300
+}

@@ -1,0 +1,122 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.67,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.82,
+  "coded_statements": [
+    {
+      "text": "Wir müssen global denken von Stunde Null, brauchen starke Finanzierung und globale Präsenz",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Befürwortung von Kapitalismus, starker Finanzierung und Marktpräsenz"
+    },
+    {
+      "text": "Wir brauchen in Europa eine größere Kooperationskultur und Ökosystemkultur zwischen großen und kleinen Firmen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Kritik am reinen Marktmodell, Befürwortung von Kooperationen; kollaborativ inklusiv"
+    },
+    {
+      "text": "Die beste Finanzierung kommt aus eigenem Umsatz und Cashflow, nicht von Venture Capital",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Skepsis gegenüber VC-Modell, Betonung von Unabhängigkeit und nachhaltiger Finanzierung"
+    },
+    {
+      "text": "Europa muss seine Stärken in Industrie und Technologie besser kommunizieren, nicht pessimistisch sein",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 1,
+      "reasoning": "Pragmatisches Framing ohne klare ideologische Position; leicht optimistischer Ton"
+    },
+    {
+      "text": "Kapitalismus ist der einzige Weg für Wohlstand und Leistung, wir brauchen funktionierende Aktienmärkte",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Starke Pro-Kapitalismus-Aussage, Befürwortung von Marktmechanismen und Börsen"
+    },
+    {
+      "text": "Wir brauchen eine europäische Technologiebörse, unabhängig vom physischen Ort, virtuell in der Cloud",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 3,
+      "reasoning": "Technologieoptimismus und Dezentralisierungsgedanke; offener für neue Strukturen"
+    },
+    {
+      "text": "Menschen und Menschlichkeit sind sehr wichtig, wir agieren partnerschaftlich und kollegial auf Augenhöhe",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 5,
+      "reasoning": "Betonung von Humanität, Anti-Hierarchie, Basisdemokratie in der Unternehmenskultur"
+    },
+    {
+      "text": "Venture Capital ist wie Zucker oder Süßigkeiten – man muss ein Limit setzen und auf eigenen Füßen stehen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Ambivalente Haltung zu VC: Nutzen ja, aber mit Vorsicht; Betonung von Unabhängigkeit"
+    },
+    {
+      "text": "Stay Focus, Simplification – weniger ist manchmal mehr, Prioritäten setzen und konsequent durchziehen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Neutrale managementphilosophie, pragmatisch; weder links noch rechts ideologisch"
+    },
+    {
+      "text": "Autonome Systeme werden überall sein und das wird unsere Wertschöpfung extrem verändern",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 1,
+      "reasoning": "Technologie-Optimismus mit Kapitalismus-Gläubigkeit; kurze Sorge um Verlierer erwähnt"
+    },
+    {
+      "text": "Europa muss ein Kontinent sein, wo die besten Köpfe gerne arbeiten und leben wollen mit Wohlstand und Nachhaltigkeit",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 4,
+      "reasoning": "Balance zwischen Wohlstand (Kapitalismus) und Nachhaltigkeit/Lebensqualität"
+    },
+    {
+      "text": "Wir brauchen Mut und Ambition große Dinge zu machen, wie in Amerika und China, nicht immer pessimistisch sein",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Unternehmertum und Risikofreudigkeit bejahend; wirtschaftspolitisch optimistisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Kapitalismus ist der einzige Weg für Wohlstand und Leistung",
+      "context": "Georg beschreibt seine wirtschaftspolitische Überzeugung zum Abschluss des Interviews",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Weniger ist manchmal mehr, das Weglassen ist wichtiger als das Zunehmen",
+      "context": "Sein größtes Learning nach 25+ Jahren als Gründer und CEO",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Europa muss nicht der Urlaubsort sein, sondern ein Industriestandort mit digitaler Technologie",
+      "context": "Kritik an der europäischen Selbstwahrnehmung und Forderung nach mehr Ambition",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Autonomy Everywhere – die Maschinen werden autonom und das wird unser Leben komplett verändern",
+      "context": "Sein erster Moonshot für die Zukunft",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_MDfh-I8Ao1s",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_MDfh-I8Ao1s",
+  "date": null,
+  "country": "AT",
+  "word_count": 8288
+}

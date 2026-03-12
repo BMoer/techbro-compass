@@ -1,0 +1,108 @@
+{
+  "economic_score": 1.4,
+  "social_score": 0.4,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wir wollen die ganze Welt verändern, deshalb müssen wir den Preis signifikant nach unten bringen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Fokus auf Zugänglichkeit/Demokratisierung statt Profitmaximierung"
+    },
+    {
+      "text": "Wenn du nicht arbeiten kannst oder die Kohle hast, dann machst du einfach weiter mit Notizen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Bootstrapping-Mentalität, weder Links noch Rechts"
+    },
+    {
+      "text": "Bei der Magenta hatte ich einen Traumjob, aber in einem Konzern bist du eingegrenzt",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritik an Konzernhierarchien, leichte unternehmerische Neigung"
+    },
+    {
+      "text": "Red Bull ist eigentlich eine Marketing-Firma, keine Produkt-Firma - das ist genial",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung von Marktmechanismen und innovativem Marketing"
+    },
+    {
+      "text": "Am Tag 0 haben wir parallel zum Produkt auch professionell eine Marke aufgebaut",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatischer Fokus auf Effizienz, keine ideologische Position"
+    },
+    {
+      "text": "Supply Chain Probleme sind mega Herausforderung, wir müssen unabhängiger von internationalen Märkten werden",
+      "speaker": "guest",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Vorsicht vor globalisierter Abhängigkeit, Fokus auf Resilienz"
+    },
+    {
+      "text": "Wenn man innovative Produkte macht, kann man nicht wie die großen Konzerne arbeiten",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Unterscheidung zwischen etablierter und neuer Ökonomie, unternehmerisch"
+    },
+    {
+      "text": "Transparenz durch Blutzucker-Tracking wird Menschen zum Umdenken bewegen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 4,
+      "reasoning": "Befürwortung von Transparenz und informierten Entscheidungen"
+    },
+    {
+      "text": "2040 soll es möglich sein, etwas zu haben, das wie Zucker schmeckt aber gesund ist",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Technologischer Optimismus kombiniert mit sozialem Nutzen"
+    },
+    {
+      "text": "Diabetes im Jugendalter in der USA - das ist für keinen Menschen lustig und vermeidbar",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Sozialer Fokus auf Prävention statt Profit, gesundheitliche Gerechtigkeit"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn das irgendwer schon gemacht hätte, dann gebe es ja dieses Produkt schon",
+      "context": "Gründungsmotivation trotz fehlender Branchenerfahrung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir haben 7 Jahre gebraucht - privates Geld, Existenzängste, aber das Umfeld glaubte dran",
+      "context": "Langer Entwicklungsweg mit persönlichen Opfern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Du musst die richtige Person finden, die das Potenzial erkennt - da muss man Statuen hinstellen",
+      "context": "Kritische Rolle von Entscheidungsträgern in Unternehmen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "2040 in irgendwo in Amerika - die signifikant weniger Zucker-Effekte sehen und ich trage einen Teil dazu bei",
+      "context": "Vision für globale Gesundheitstransformation",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_oNC1e-ukCMc",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_oNC1e-ukCMc",
+  "date": null,
+  "country": "AT",
+  "word_count": 8766
+}

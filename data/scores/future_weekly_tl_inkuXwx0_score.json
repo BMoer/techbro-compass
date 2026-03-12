@@ -1,0 +1,136 @@
+{
+  "economic_score": 1.57,
+  "social_score": 2.14,
+  "n_coded": 14,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Neuwahlen bedeuten ein bis zwei Jahre Stillstand, das kann sich das Land nicht leisten",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Sicht auf politische Stabilität für wirtschaftliche Kontinuität"
+    },
+    {
+      "text": "Regierungen müssen unabhängig wirken, das ist eine Chance für Ministerien Gas zu geben",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Dezentralisierung, weniger Top-down-Kontrolle, mehr Eigenverantwortung"
+    },
+    {
+      "text": "Inserate der Regierung in Medien müssen unmöglich werden, das ist Korruption",
+      "speaker": "host",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Anti-Korruptionshaltung, mehr Transparenz und Unabhängigkeit von Medien"
+    },
+    {
+      "text": "Medienförderung sollte auf objektiven Kriterien basieren, nicht auf guter Berichterstattung",
+      "speaker": "host",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Strukturelle Reform zur Reduktion von Abhängigkeiten, Fairness-Gedanke"
+    },
+    {
+      "text": "Politiker sollten authentisch sein und auch weinend gezeigt werden dürfen",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Anti-Kontrollzwang, für mehr Authentizität und weniger Message Control"
+    },
+    {
+      "text": "Klimawandel ist das Bildungsthema, nicht das Reproduktionsthema",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritik an der zu kurzfassenden Diskussion, Fokus auf systemic education"
+    },
+    {
+      "text": "Bildung muss unterhaltsam sein und allen zugänglich",
+      "speaker": "host",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Demokratische Teilhabe, gegen Bildungszugang-Ungleichheit"
+    },
+    {
+      "text": "Speedinvest ist weltmeister bei Investments, das ist eine Erfolgsgeschichte Österreichs",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Lob für Unternehmerisches Erfolgsmodell und freien Markt"
+    },
+    {
+      "text": "NFT-basierte Startup-Investment-Games sind sehr cool, aber müssen vor Gambling geschützt werden",
+      "speaker": "host",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Innovation befürwortet, aber mit regulatorischen Bedenken zu Suchtpotenzial"
+    },
+    {
+      "text": "N26 investiert in Krypto-Trading, das ist smart weil Bitcoin institutionalisiert ist",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-Krypto, Pro-Markt-Expansion, technologie-optimistisch"
+    },
+    {
+      "text": "74% österreichischer Unternehmen haben Probleme, digitale Experten einzustellen",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Faktenaussage, keine Wertung"
+    },
+    {
+      "text": "Team Ico mit 4-Tage-Woche ist ein Gangster Move gegen Fachkräftemangel",
+      "speaker": "host",
+      "economic": -1,
+      "social": 4,
+      "reasoning": "Pro-Work-Life-Balance, gegen klassische Kontrolle, Output-Fokus statt Anwesenheit"
+    },
+    {
+      "text": "Bolsonaro in Den Haag anzuzeigen für Amazonas-Zerstörung ist ein smarter legaler Weg",
+      "speaker": "host",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Pro-Umwelt, Pro-Internationales-Recht, Anti-Autoritär-Ansatz gegen Machtmissbrauch"
+    },
+    {
+      "text": "Malaria-Impfung durch WHO ist eine der besten News des Jahres",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Pro-Wissenschaft, Pro-Gesundheit, humanitär fokussiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Neuwahlen würde bedeuten alle Ministerien stoppen, alles es gibt ein bis zwei Jahre Stillstand",
+      "context": "Diskussion über Regierungsstabilität in Österreich",
+      "quiz_suitable": true
+    },
+    {
+      "text": "74 Prozent aller österreichischen Unternehmen haben Probleme digitale Experten anzuheuern",
+      "context": "Fachkräftemangel als wirtschaftliches Problem",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Bitcoin und Co sind mittlerweile institutionalisiert und gehören in jedes Portfolio",
+      "context": "N26 Investment in Krypto-Trading",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Kultur wie man sich benimmt wenn keiner zuschaut, das ist etwas wonach ich stark werte",
+      "context": "Integrität in Politik und Leadership",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_tl_inkuXwx0",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_tl_inkuXwx0",
+  "date": null,
+  "country": "AT",
+  "word_count": 10364
+}

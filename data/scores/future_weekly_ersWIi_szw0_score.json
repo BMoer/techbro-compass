@@ -1,0 +1,113 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Der Staat sollte indirekt über Fonds in Startups investieren, nicht direkt mit Vorstandssitzen",
+      "speaker": "host",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Pragmatische Mittelposition ohne klare ideologische Ausrichtung"
+    },
+    {
+      "text": "Staatliche Beteiligungen direkt im Board sind schwerfällig und bremsen Geschwindigkeit",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an staatlicher Ineffizienz, Effizienz-Argument (leicht rechts)"
+    },
+    {
+      "text": "Startups sind die Großkonzerne von morgen - Bürger sollten partizipieren",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Befürwortung von Bürgerbeteiligung, redistributives Denken (leicht links)"
+    },
+    {
+      "text": "China hält nach 10-15 Jahren den Kapitalismus auf den Kopf, wählt selektiv Rosinen",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an unkontrolliertem Kapitalismus, Regulierungsbefürwortung"
+    },
+    {
+      "text": "Europa verpasst technologische Souveränität und Unabhängigkeit strategisch",
+      "speaker": "host",
+      "economic": -1,
+      "social": 3,
+      "reasoning": "Kritik an zu wenig staatlicher Lenkung (links), aber auch Souveränitäts-Argument (libertär)"
+    },
+    {
+      "text": "Piloten sind jetzt Busfahrer der Luft - der Job wird in 10-20 Jahren obsolet",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Automatisierung, Effizienz, technologischer Fortschritt (rechts)"
+    },
+    {
+      "text": "Atomkraftwerke hätten nicht abgedreht werden sollen vor Kohlekraftwerken",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Energiepolitik, gegen ideologische Ansätze (leicht rechts)"
+    },
+    {
+      "text": "Regulierung von Medikonzernen und Tech-Plattformen ist notwendig",
+      "speaker": "host",
+      "economic": -3,
+      "social": 1,
+      "reasoning": "Befürwortung von Regulierung, aber nicht anti-kapitalistisch (links)"
+    },
+    {
+      "text": "Evergarde-Krise zeigt: China könnte Kapitalisten auch selbst ausbaden lassen",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Skeptisch gegenüber zu viel Rettung privater Unternehmen (links)"
+    },
+    {
+      "text": "NFT-Fußballkarten sind nicht für Gesellschaft wertvoll, aber das ist okay",
+      "speaker": "host",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Neutrale Akzeptanz für Spekulation/Glücksspiel ohne klare Position"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Eigentlich müsste man ja Flugzeuge auch aus der Entfernung steuern können",
+      "context": "Diskussion über Automatisierung im Luftverkehr vs. menschliche Sicherheit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Job des Piloten ist in 10-20 Jahren wahrscheinlich kaum noch existent",
+      "context": "Provokante These zur Automatisierung von Berufen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ronaldos Karte kostet 245.000 Euro - nächste Woche vermutlich 300.000",
+      "context": "Kritik an NFT-Spekulation und modernen Blasen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Europa ist noch immer mehr Traum als Realität - keine echte politische Einheit",
+      "context": "Kritik an fehlender europäischer Identität trotz EU",
+      "quiz_suitable": true
+    },
+    {
+      "text": "China pickt sich die Rosinen des Kapitalismus raus und hält ihn ansonsten im Zaum",
+      "context": "Analyse von Chinas pragmatischem Umgang mit Marktwirtschaft",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_ersWIi_szw0",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_ersWIi_szw0",
+  "date": null,
+  "country": "AT",
+  "word_count": 8483
+}

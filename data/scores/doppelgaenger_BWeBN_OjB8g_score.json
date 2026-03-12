@@ -1,0 +1,122 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.0,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode, Verlage haben Werbeprobleme, zu intrusive Ads schaden der Profitabilität",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, Marktmechanismen-Vertrauen"
+    },
+    {
+      "text": "Öffentliche Rechnerzeit für AI-Training in Europa subventionieren, Hardwarekosten sind der Bottleneck",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Staatliche Investitionen, öffentliche Ressourcen, Infrastruktur"
+    },
+    {
+      "text": "Dezentrale europäische AI-Institute sind besser als zentrale EU-Lösung, Länder sollen konkurrieren",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Wettbewerb statt Zentralisierung, Föderalismus, Effizienz"
+    },
+    {
+      "text": "Booking.com Marktposition ist missbräuchlich, Bestpreisgarantie-Verbote sind unfair gegenüber Hotels",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Monopolmacht, für mehr Wettbewerb und Dezentralisierung"
+    },
+    {
+      "text": "AI-Chatbots können Leute überzeugend manipulieren und zu Trading/Krypto-Betrug verleiten",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Bedenken zu Manipulation, Betrug, Autonomie/Freiheit"
+    },
+    {
+      "text": "Deep Fake Videos auf X/Twitter ohne klare Warnung sind gegen Terms of Service, Elon toleriert es",
+      "speaker": "host",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Kritik an Platform-Governance, Misinformation, Schaden für demokratische Prozesse"
+    },
+    {
+      "text": "Apple zwingt mir zu viel AI/Siri auf, kann Standard-Apps nicht deinstallieren trotz EU-Regulierung",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an Zwang, mangelnde Wahlfreiheit, Kritik an Monopolist"
+    },
+    {
+      "text": "Newsletter sind besser als Web-Artikel, weil sie weniger Werbung haben und sauberer sind",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Präferenz für bessere User Experience, Datenschutz/Transparenz"
+    },
+    {
+      "text": "Temu Händler sind unglücklich mit neuen Logistik-Kosten-Modell, verdienen weniger als auf Amazon",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Platform-Extraktivismus, unfaire Verteilung von Risiko"
+    },
+    {
+      "text": "Nvidia kann nicht dauerhaft 4x ihrer Erzeugungskosten als Marge verlangen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Markt-Skeptizismus, langfristige Preiskonvergenz erwartet"
+    },
+    {
+      "text": "Luxusindustrie leidet unter schwacher Konsumentenlage, weniger Alkoholkonsum, Inflation schränkt Nachfrage",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Makroökonomische Analyse, keine politische Position"
+    },
+    {
+      "text": "Shein IPO ist zum Abstosszeitpunkt konzipiert, Zahlen werden enttäuschen, Wachstum stagniert",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Skeptische Marktanalyse, aber keine regulatorische Position"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "dumme Leute mit viel Energie ist das schlimmste was gibt auf der Welt",
+      "context": "Diskussion über überschwemmte E-Mail-Inboxen und Newsletter-Spam",
+      "quiz_suitable": true
+    },
+    {
+      "text": "ich bin jetzt schon Apple Siri müde... das erste Mal ready von Apple wegzugehen",
+      "context": "Kritik an erzwungener AI-Integration und mangelnder Kontrolle",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Europa reguliert sich zu Tode... Europa ist nicht mehr der einer der größten fünf Hardware Produzenten in China",
+      "context": "Diskussion über AI-Infrastruktur und wirtschaftliche Wettbewerbsfähigkeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wenn das die Quality Assurance kaputt macht... was dann?",
+      "context": "Kritik an Platform-Ökosystem-Schäden bei Temu",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "doppelgaenger_BWeBN_OjB8g",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_BWeBN_OjB8g",
+  "date": null,
+  "country": "DE",
+  "word_count": 13559
+}

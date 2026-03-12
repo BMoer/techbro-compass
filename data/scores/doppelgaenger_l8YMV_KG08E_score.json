@@ -1,0 +1,127 @@
+{
+  "economic_score": 1.8,
+  "social_score": 2.4,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wer nicht arbeitet, soll nicht essen - implizite Kritik an Sozialeistungen",
+      "speaker": "host",
+      "economic": 8,
+      "social": -3,
+      "reasoning": "Stark libertär-rechts, Leistungsprinzip, skeptisch zu Umverteilung"
+    },
+    {
+      "text": "AI-Regulierung wie in Italien: 20 Tage Frist oder 20 Mio Strafe",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Autoritäre Kontrolle durch Staat, Überwachung/Beschränkung von Technologie"
+    },
+    {
+      "text": "Europa reguliert sich zu Tode, wir sind zu blauäugig auf KI",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, für weniger staatliche Kontrolle"
+    },
+    {
+      "text": "Intelligenz ist global gleich verteilt - müssen talentierte Menschen fördern",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 3,
+      "reasoning": "Egalitäre Überzeugung, Chancengerechtigkeit, gegen Ressourcenverschwendung"
+    },
+    {
+      "text": "Jobs verschwinden nicht, aber Struktur ändert sich - Top 10% werden Monster",
+      "speaker": "host",
+      "economic": 6,
+      "social": -2,
+      "reasoning": "Meritokratisches Denken, Ungleichheit akzeptiert, Mark-Dynamiken"
+    },
+    {
+      "text": "Praktische Handwerksberufe wie Elektrikerin sind zukunftssicher",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatisches, anti-elitäres Denken, weniger wirtschaftsideologisch"
+    },
+    {
+      "text": "Beratung wird wertvoll beim AI-Implementieren in bestehende Geschäftsmodelle",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Markt, kapitalistische Integration neuer Technologie"
+    },
+    {
+      "text": "Großunternehmen mit Datenzugang werden Gewinner (Google, Meta, Amazon)",
+      "speaker": "guest",
+      "economic": 6,
+      "social": -3,
+      "reasoning": "Oligopol-kritisch aber resignativ, konzentriert Macht bei wenigen"
+    },
+    {
+      "text": "Demokratische Bürgerversammlung sollte KI-Werte entscheiden",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Pro-Partizipation, Anti-Top-Down-Kontrolle durch Eliten"
+    },
+    {
+      "text": "Menschen individuelle Karrierechancen wichtiger als kollektiver Schutz",
+      "speaker": "host",
+      "economic": 7,
+      "social": -1,
+      "reasoning": "Individualistisch, meritokratisch, gegen Kollektivschutz"
+    },
+    {
+      "text": "KI wird komplett außer Kontrolle geraten - Verbot wäre klüger",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Für präventive Staatskontrolle trotz Unbehagen, Sicherheit > Innovation"
+    },
+    {
+      "text": "Vertrauen in Wikipedia und Google Maps - warum nicht in ChatGPT?",
+      "speaker": "audience",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Pragmatisch, libertär-skeptisch zu Paternalismus, vertraut Marktmechanismen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die größte Verschwendung: Nobel-Preisträger Potenzial sitzt in Afrika beim Reisanbau",
+      "context": "Argument für Talentförderung durch globale Intelligenztest-Games",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Dein Job wird nicht von AI ersetzt, sondern von jemandem der AI gut einsetzt",
+      "context": "Kernthese zur Zukunft von Arbeit und Produktivität",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir können alles regulieren, aber es braucht nur einen Menschen mit USB-Stick",
+      "context": "AI-Sicherheitsparadoxon: Lab-Bedingungen unmöglich bei Open-Source",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Excel und PowerPoint Jobs verschwinden in 5 Jahren zu >80%",
+      "context": "Prognose zur Disruption von Beraterjobs durch Automatisierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Pressearbeit versäumt = selbst in den Fuß schießen (Gorillas-Beispiel)",
+      "context": "Kritik am fehlenden Media-Training von Gründern",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_l8YMV_KG08E",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_l8YMV_KG08E",
+  "date": null,
+  "country": "DE",
+  "word_count": 11443
+}

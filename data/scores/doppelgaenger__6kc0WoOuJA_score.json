@@ -1,0 +1,122 @@
+{
+  "economic_score": 1.2,
+  "social_score": -0.8,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Netflix Preiserhöhung war ein Measure of Last Resort, kann man nicht jedes Jahr machen",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Preiserhöhungsmodell, Sorge um Marktsättigung"
+    },
+    {
+      "text": "Man sollte Trading Apps mit Optionen/Zertifikaten nie anfassen wenn man's nicht versteht",
+      "speaker": "host",
+      "economic": 2,
+      "social": 5,
+      "reasoning": "Warnung vor Finanzprodukten, Verbraucherschutz, auch libertär (Eigenverantwortung)"
+    },
+    {
+      "text": "Plattformen zahlen 300$ Provision weil Nutzer im Schnitt 800-2000$ verlieren",
+      "speaker": "host",
+      "economic": 6,
+      "social": -4,
+      "reasoning": "Kritik an predatorischem Geschäftsmodell, aber frei-marktlich beschrieben"
+    },
+    {
+      "text": "Tesla kontrolliert Kosten sehr gut, weil keine Gewerkschaft und kein Bundesland im Board",
+      "speaker": "host",
+      "economic": 7,
+      "social": -6,
+      "reasoning": "Verherrlicht niedrige Arbeitsstandards/Deregulierung, antigewerkschaftlich"
+    },
+    {
+      "text": "Snap wächst schneller als TikTok bei Nutzerzahlen, das ist essentiell wertvoll",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Reine Marktbeobachtung, keine Meinung"
+    },
+    {
+      "text": "ICO/Crypto Gründer bekommen 100% Geld upfront, falsche Anreize zum Weitermachen",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Anreizstrukturen, leichte pro-Leistung-Skepsis"
+    },
+    {
+      "text": "Apple hat mit App Tracking Transparency strategisch Werbenetzwerken geschadet",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Datenschutz-Maßnahme als strategischer Vorteil, leicht libertär"
+    },
+    {
+      "text": "Amazon baut sich ein 100% integriertes Gesundheitssystem, das ist sinnvoll",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Befürwortung von Vertikaler Integration und Kosteneffizienz"
+    },
+    {
+      "text": "Snap hat Kostenproblem: Kosten +46%, Umsatz nur +13% YoY",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Marktkritik zu Kostenstruktur, pro-Effizienz"
+    },
+    {
+      "text": "Big Tech sollte nicht mehr Regulierung bekommen, sondern intelligent Märkte nutzen",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Anti-Regulierungs-Haltung, pro-Marktmechaniken"
+    },
+    {
+      "text": "Shoulderpay/Warrant-Komplexität: Viele verstehen Bedingungen nicht, total problematisch",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an Intransparenz, Verbraucherschutz (libertär)"
+    },
+    {
+      "text": "Werbemarkt wird wieder anziehen, Snap wird Phoenix aus Asche sein wenn Users wachsen",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Optimismus auf freien Markt, pro-Wachstum"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Plattformen zahlen 300$ Provision weil Nutzer im Schnitt 800-2000$ verlieren – das Geschäftsmodell basiert auf Kundenabbau",
+      "context": "Warnung vor predatorischen Trading-Apps und deren Provisionssystem",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Tesla kontrolliert Kosten, weil sie keine Gewerkschaft und kein Bundesland im Board haben",
+      "context": "Analyse von Teslas Kostenmanagement verglichen mit etablierten Autobauern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "ICO-Gründer kriegen 100% des Geldes upfront – das ist vom Anreizsystem komplett verkehrt",
+      "context": "Kritik am Crypto-Finanzierungsmodell vs. klassisches Startup-Grinding",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Amazon baut sich selbst das AWS für Healthcare – der nächste Schritt ist Krankenhausketten kaufen",
+      "context": "Analyse von Amazons vertikaler Integration im Gesundheitswesen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger__6kc0WoOuJA",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger__6kc0WoOuJA",
+  "date": null,
+  "country": "DE",
+  "word_count": 10864
+}

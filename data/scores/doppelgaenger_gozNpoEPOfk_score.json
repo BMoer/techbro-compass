@@ -1,0 +1,103 @@
+{
+  "economic_score": 1.6,
+  "social_score": 1.2,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Slack als Ökosystem-Produkt mit offenen APIs und Integrationen ist gut",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Produktbewertung, keine politische Dimension"
+    },
+    {
+      "text": "Produktivitäts-KPIs wie Meetingzeit sind dumm, sollten Output messen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an Überwachungsmetriken, Plädoyer für Vertrauenskultur"
+    },
+    {
+      "text": "Microsoft Tracking-Dashboard für Homeoffice-Mitarbeiter ist surveillance capitalism",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Kritik an Überwachung, libertäre Sorge um Privatspähre"
+    },
+    {
+      "text": "Versicherung basiert auf Solidarität; Individualisierung gefährdet System",
+      "speaker": "host",
+      "economic": -4,
+      "social": -3,
+      "reasoning": "Plädoyer für Umverteilung + kollektive Absicherung über Risikopooling"
+    },
+    {
+      "text": "Würde aus privater KV austreten, eigen Risiko tragen können",
+      "speaker": "host",
+      "economic": 6,
+      "social": -4,
+      "reasoning": "Marktwirtschaftliches Denken + Ablehnung sozialer Umverteilung"
+    },
+    {
+      "text": "REITS haben langfristig besser als Markt performt",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pro-Markt, unterstützt private Kapitalanlage"
+    },
+    {
+      "text": "Peloton nutzt intelligente Preisdifferenzierung statt Rabatte",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Bewunderung für Preisgestaltung, marktwirtschaftlich"
+    },
+    {
+      "text": "Firmen sollten Kommunikation minimieren, Teams klein halten",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Effizienzdenken, Anti-Bürokratie, eher libertär"
+    },
+    {
+      "text": "Frauen mit Kindern brauchen Möglichkeit, Karriere zu machen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Progressive Haltung zu Vereinbarkeit, mild pro-Umverteilung"
+    },
+    {
+      "text": "Quoten sind nur andere Form der Diskriminierung",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Libertäre Ablehnung von Regulierung, Pro-Meritokratie"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Produktivität ist kein Selbstzweck",
+      "context": "Diskussion über Multitasking und Lebensqualität vs. bloße Effizienz",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Versicherung als Risiko-Ausgleichskollektiv funktioniert nicht mehr bei totaler Individualisierung",
+      "context": "Analyse der Adverse Selection durch nutzungsabhängige Versicherungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der schlimmste Mitarbeiter sitzt morgens zuerst am Tisch und geht abends zuletzt raus",
+      "context": "Kritik an Anwesenheitskultur als Produktivitätsmessstab",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_gozNpoEPOfk",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_gozNpoEPOfk",
+  "date": null,
+  "country": "DE",
+  "word_count": 21520
+}

@@ -9,14 +9,17 @@ Takes podcast transcripts and scores them on two axes:
 Uses the "Ask and Average" method (Le Mens et al., 2025).
 """
 
+import argparse
 import json
 import os
+import random
 import sys
 import time
+from collections import defaultdict
 from pathlib import Path
 from dotenv import load_dotenv
 
-load_dotenv()
+load_dotenv(Path(__file__).resolve().parent.parent / ".env", override=True)
 
 # Try to import anthropic, give helpful error if missing
 try:
@@ -112,7 +115,7 @@ def analyze_episode(transcript_path: Path, client: anthropic.Anthropic) -> dict:
     
     prompt = CODING_PROMPT.format(
         podcast_name=episode["podcast_name"],
-        episode_title=episode["title"],
+        episode_title=episode.get("title", transcript_path.stem),
         hosts=episode.get("hosts", "unbekannt"),
         transcript=transcript,
     )
@@ -120,7 +123,7 @@ def analyze_episode(transcript_path: Path, client: anthropic.Anthropic) -> dict:
     print(f"  Sending to Claude API ({len(transcript):,} chars)...")
     
     message = client.messages.create(
-        model="claude-sonnet-4-20250514",
+        model="claude-haiku-4-5-20251001",
         max_tokens=4096,
         messages=[{"role": "user", "content": prompt}],
     )
@@ -128,12 +131,12 @@ def analyze_episode(transcript_path: Path, client: anthropic.Anthropic) -> dict:
     response_text = message.content[0].text.strip()
     
     # Parse JSON response
-    # Strip markdown fences if present
-    if response_text.startswith("```"):
-        response_text = response_text.split("\n", 1)[1]
-        if response_text.endswith("```"):
-            response_text = response_text[:-3]
-    
+    response_text = response_text.strip().lstrip("\ufeff")
+    start = response_text.find("{")
+    end = response_text.rfind("}") + 1
+    if start >= 0 and end > start:
+        response_text = response_text[start:end]
+
     try:
         result = json.loads(response_text)
     except json.JSONDecodeError as e:
@@ -145,7 +148,7 @@ def analyze_episode(transcript_path: Path, client: anthropic.Anthropic) -> dict:
     result["episode_id"] = f"{episode['podcast_id']}_{episode['video_id']}"
     result["podcast"] = episode["podcast_name"]
     result["podcast_id"] = episode["podcast_id"]
-    result["title"] = episode["title"]
+    result["title"] = episode.get("title", transcript_path.stem)
     result["date"] = episode.get("upload_date")
     result["country"] = episode.get("country")
     result["word_count"] = episode.get("word_count")
@@ -153,28 +156,54 @@ def analyze_episode(transcript_path: Path, client: anthropic.Anthropic) -> dict:
     return result
 
 
+def sample_per_podcast(files, n_per_podcast):
+    """Pick n random files per podcast for a representative sample."""
+    by_podcast = defaultdict(list)
+    for f in files:
+        podcast_id = f.stem.rsplit("_", 1)[0]
+        by_podcast[podcast_id].append(f)
+
+    sampled = []
+    for pid, pfiles in sorted(by_podcast.items()):
+        pick = min(n_per_podcast, len(pfiles))
+        sampled.extend(random.sample(pfiles, pick))
+    return sorted(sampled)
+
+
 def main():
+    parser = argparse.ArgumentParser(description="Analyze podcast transcripts")
+    parser.add_argument("--sample", type=int, default=0,
+                        help="Analyze N random episodes per podcast (0 = all)")
+    parser.add_argument("files", nargs="*", help="Specific transcript files to analyze")
+    args = parser.parse_args()
+
     api_key = os.getenv("ANTHROPIC_API_KEY")
     if not api_key:
         print("ERROR: Set ANTHROPIC_API_KEY in .env or environment")
         sys.exit(1)
-    
+
     client = anthropic.Anthropic(api_key=api_key)
-    
-    # Find transcript files
-    transcript_dir = Path("data/transcripts")
-    if not transcript_dir.exists():
-        print(f"ERROR: {transcript_dir} not found. Run 01_fetch_transcripts.py first.")
-        sys.exit(1)
-    
-    transcript_files = sorted(transcript_dir.glob("*.json"))
-    transcript_files = [f for f in transcript_files if f.name != "index.json"]
-    
+
+    if args.files:
+        transcript_files = [Path(f) for f in args.files]
+    else:
+        transcript_dir = Path("data/transcripts")
+        if not transcript_dir.exists():
+            print(f"ERROR: {transcript_dir} not found. Run 01_fetch_transcripts.py first.")
+            sys.exit(1)
+
+        transcript_files = sorted(transcript_dir.glob("*.json"))
+        transcript_files = [f for f in transcript_files if f.name != "index.json"]
+
     if not transcript_files:
         print("No transcript files found.")
         sys.exit(1)
-    
-    print(f"Found {len(transcript_files)} episodes to analyze")
+
+    if args.sample > 0:
+        transcript_files = sample_per_podcast(transcript_files, args.sample)
+        print(f"SAMPLE MODE: {len(transcript_files)} episodes ({args.sample} per podcast)")
+    else:
+        print(f"Found {len(transcript_files)} episodes to analyze")
     
     # Output directory
     scores_dir = Path("data/scores")
@@ -217,7 +246,7 @@ def main():
     master = {
         "generated_at": time.strftime("%Y-%m-%dT%H:%M:%S"),
         "method": "LLM-based coding (Le Mens et al. 2025 Ask-and-Average)",
-        "model": "claude-sonnet-4-20250514",
+        "model": "claude-haiku-4-5-20251001",
         "episodes": []
     }
     
@@ -261,7 +290,6 @@ def main():
     print(f"Episodes analyzed: {len(all_results)}")
     print(f"\nResults by podcast:")
     
-    from collections import defaultdict
     by_podcast = defaultdict(list)
     for r in all_results:
         by_podcast[r.get("podcast", "?")].append(r)

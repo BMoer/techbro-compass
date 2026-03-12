@@ -1,0 +1,120 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.6,
+  "n_coded": 11,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Big Tech muss zerschlagen werden / Microsoft kauft sich OpenAI",
+      "speaker": "host",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Kritik an Monopolmacht, aber pragmatisch-realistisch, nicht radikal anti-Kapitalismus"
+    },
+    {
+      "text": "Das Board ist jetzt ein Business-Board, nicht Science-fokussiert",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik dass weniger Wissenschaftler, mehr Business-Leute; leicht marktwirtschaftlich orientiert"
+    },
+    {
+      "text": "Wir brauchen Transparenz, nicht totale Regulierung von OpenAI",
+      "speaker": "host",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Fordert Offenlegung/Sichtbarkeit, befürwortet Bügerrechte auf Information; libertär bezüglich Datenschutz"
+    },
+    {
+      "text": "AI-Regulierung muss sein, aber Innovation nicht ersticken",
+      "speaker": "host",
+      "economic": -1,
+      "social": -1,
+      "reasoning": "Gemischte Abwägung zwischen Marktfreiheit und Sicherheit, pragmatisch"
+    },
+    {
+      "text": "Europa reguliert sich zu Tode, das schadet Wettbewerb",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, free-market Perspektive"
+    },
+    {
+      "text": "Der Grund für Sam Almans Erfolg: Er spaltet Firma, loyale bleiben",
+      "speaker": "host",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Kritik an Manipulation/Unterdrückung von Dissent durch Einsatz von Fear; autoritär"
+    },
+    {
+      "text": "Datenschutz/Transparenz ist ein Grundrecht bei wichtiger Technologie",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Starke libertäre Position zu Bürgerrechten und Informationsfreiheit"
+    },
+    {
+      "text": "Jack Dorsey baut schneller, schafft CTO-Position und räumt auf",
+      "speaker": "host",
+      "economic": 6,
+      "social": -3,
+      "reasoning": "Effizienzgewinne durch weniger Management, schnellere Entscheidungen; Performance Druck"
+    },
+    {
+      "text": "Nvidia verdreifacht Umsatz, 74% Rohmarge - fantastisches Geschäft",
+      "speaker": "host",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Bewunderung für Marktkraft und Profitabilität, unkritisch"
+    },
+    {
+      "text": "China-Sanktionen auf Chips könnten über Umwege umgangen werden",
+      "speaker": "guest",
+      "economic": -1,
+      "social": -2,
+      "reasoning": "Skeptisch gegenüber Regulierungseffektivität; realpolitisch"
+    },
+    {
+      "text": "Die Menschheit adaptiert sich an Technologie, wird klarkommen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Vertraut auf menschliche Anpassungsfähigkeit; eher libertär, weniger Angst vor Innovation"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn das mit 3 Jahren sowas kann, was kann es mit 18 sein? Wie fucking mächtig wird es?",
+      "context": "Warnung vor exponentialer AI-Entwicklung und Verlachung von aktuellen Limitierungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich glaube das ist das Psychogramm jedes Silicon Valley Founders",
+      "context": "Differenzierung: Almans Verhalten als branchentypisch, nicht überraschend",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der einzige den es überlegtwurde ist Adam Dangelo - der konnte seinen Seat retten",
+      "context": "Verdacht auf Interessenskonflikte im neuem Board",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Transparenz ist das kleinste Problem was wir haben",
+      "context": "Ironie: Obwohl extremer Mangel an Transparenz bei kritischer Technologie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es wird sich keiner so richtig trauen irgendwas dagegen zu machen",
+      "context": "Pessimismus über Kontrolle von OpenAI trotz neuem Board",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_vFKDeMj_m4U",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_vFKDeMj_m4U",
+  "date": null,
+  "country": "DE",
+  "word_count": 12041
+}

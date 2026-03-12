@@ -1,0 +1,87 @@
+{
+  "economic_score": -2.0,
+  "social_score": 3.43,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wir arbeiten direkt mit Bauern zusammen, nicht über Großkonzerne. Der Bauer kann wieder unabhängig sein.",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 2,
+      "reasoning": "Anti-Großkonzern, pro-lokale Wertschöpfung, aber marktwirtschaftlich pragmatisch"
+    },
+    {
+      "text": "Förderungen machen Landwirte abhängig. Sie brauchen echte Unabhängigkeit, nicht Subventionen.",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 1,
+      "reasoning": "Kritik an Wohlfahrtsstaat, aber Fokus auf eigenständige Wirtschaft, nicht Deregulierung"
+    },
+    {
+      "text": "Bio ist nicht gleich Bio. Wir denken die ganze Wertschöpfungskette durch, vom Boden zum Kunden.",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Holistisches, nicht-profitorientiertes Denken; Beziehungsaufbau über Markt"
+    },
+    {
+      "text": "Unser Ziel ist nicht bahnbrechende Innovation, sondern zurück zu den Wurzeln. Vor 8000 Jahren war das beste Brot am einfachsten.",
+      "speaker": "guest",
+      "economic": -5,
+      "social": 4,
+      "reasoning": "Anti-Konsumerismus, Rückkehr zu Handwerk, Qualität über Quantität"
+    },
+    {
+      "text": "Wir wollen eine Lebensschule sein, nicht nur ein Arbeitgeber. Menschen sollen zusammen denken und sich weiterentwickeln.",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 6,
+      "reasoning": "Gemeinwohlökonomie-Ansatz, soziale Entfaltung, Anti-Ausbeutung"
+    },
+    {
+      "text": "Wir schauen, dass jede Entscheidung unseren Nachkommen einen besseren Planeten hinterlässt.",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Ökologische Verantwortung, generationenübergreifendes Denken, langfristig über kurzfristig"
+    },
+    {
+      "text": "Der Beruf muss menschlich werden. Wir haben die Produktion umgestellt, damit Lehrlinge nicht mehr nachts arbeiten müssen.",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 7,
+      "reasoning": "Pro-Arbeitnehmerrechte, Humanisierung von Arbeit, gegen Ausbeutung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Bio ist nicht gleich Bio. Wir denken die ganze Wertschöpfungskette durch.",
+      "context": "Georg erklärt die Philosophie hinter ihrer Rohstoffauswahl.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Vor 8000 Jahren war das beste Brot am einfachsten. Vielleicht sind wir zu kompliziert geworden.",
+      "context": "Abschließende Vision: Rückkehr zu handwerklichen Wurzeln statt Innovation.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir wollen eine Lebensschule sein. Menschen sollen zusammen denken, nicht nur arbeiten.",
+      "context": "Vision einer Gemeinwohlökonomie im Handwerksbetrieb.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Bauer ist abhängig von Förderungen und kann gar nicht selbst entscheiden. Das ist irrsinniges Denken.",
+      "context": "Kritik an EU-Agrarpolitik und Subventionssystem.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_i-qLtKNJKgw",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_i-qLtKNJKgw",
+  "date": null,
+  "country": "AT",
+  "word_count": 8747
+}

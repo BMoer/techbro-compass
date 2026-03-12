@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 39 column 19 (char 1261)",
+  "raw_response": "{\n  \"economic_score\": -1.33,\n  \"social_score\": 4.67,\n  \"n_coded\": 15,\n  \"insufficient_data\": false,\n  \"confidence\": 0.78,\n  \"coded_statements\": [\n    {\n      \"text\": \"Große Unternehmen beeinflussen Regulierung zu ihrem Vorteil (regulatory capture)\",\n      \"speaker\": \"host\",\n      \"economic\": -5,\n      \"social\": null,\n      \"reasoning\": \"Kritik an Marktmacht & Monopolisierung durch Regulierung\"\n    },\n    {\n      \"text\": \"Revolving Door zwischen Regierung & Konzernen ist ein Riesenproblem\",\n     ",
+  "episode_id": "doppelgaenger_ROr_7g6JHnY",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_ROr_7g6JHnY",
+  "date": null,
+  "country": "DE",
+  "word_count": 10634
+}

@@ -1,0 +1,108 @@
+{
+  "economic_score": 2.4,
+  "social_score": 1.2,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Ich merkte schnell, dass ich als Angestellte nicht das tun wollte, was ich selbst machen kann",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Entrepreneurial spirit, Ablehnung von Angestelltenverhältnis, Selbstständigkeit befürwortend"
+    },
+    {
+      "text": "In der Agentur brauchst du immer neue Leute und Kunden, es ist schwierig zu skalieren",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an Geschäftsmodell-Effizienz, aber nicht ideologisch, eher pragmatisch"
+    },
+    {
+      "text": "Wenn du als Führungsperson gestresst bist, steckst du jeden an. Deine Priorität ist, auf dich selbst zu schauen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Betonung von Work-Life-Balance, Selbstschutz vor Burnout, Anti-Hustle-Mentalität"
+    },
+    {
+      "text": "Man muss sehr früh monetarisieren, um zu sehen wer wirklich zahlt und wer nie zahlen würde",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktmechanismus-Fokus, Zahlungsbereitschaft als Validierungskriterium"
+    },
+    {
+      "text": "90% der Events kannst du streichen, du musst nur hinsetzen und executen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Effizienzdenken, ROI-Fokus, Skeptik gegenüber Networking-Events"
+    },
+    {
+      "text": "Ich finde dein Herz schlägt für komplexere Sachen wie Produktbau, nicht nur Content produzieren",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Produktentwicklung über Content-Marketing bevorzugt, Wertsteigerung durch Systeme"
+    },
+    {
+      "text": "Wenn du zu fest am Startup klammerst, zerstörst du es. Man braucht gesunde Distanz für objektive Entscheidungen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Anti-Obsession-Haltung, Rationalität über emotionale Bindung"
+    },
+    {
+      "text": "Man sollte nicht alles automatisieren, kreative Menschen passen nicht in komplexe Prozesskulturen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Kritik an Über-Automatisierung, Menschenfaktor bleibt wichtig"
+    },
+    {
+      "text": "Wir haben Angel-Runde gemacht, nicht VC, weil wir nicht komplettes Aufblasen wollen sondern stabil machen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Bewusste Ablehnung des VC-Wachstum-Dogmas, Profitabilität über Skalierung"
+    },
+    {
+      "text": "In Zukunft wird jeder mit KI Content machen. Das ist Potenzial, keine Bedrohung - mehr Qualität möglich",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pro-KI, optimistische Technologie-Sicht, Effizienz-Gewinne positiv"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn du zu fest klammerst, dann zerstörst du es - du brauchst eine gesunde Distanz",
+      "context": "Eva über emotionale Abhängigkeit von Startups und notwendige Distanz",
+      "quiz_suitable": true
+    },
+    {
+      "text": "90% der Events kannst du streichen - du musst nur hinsetzen und executen",
+      "context": "Eva über Überoptimierung und echte Erfolgsfaktoren beim Startup-Aufbau",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Solange du nicht monetarisierst, weißt du nicht wer dein Produkt nutzt",
+      "context": "Eva über kritischen Fehler im Beta-Management und echte User-Validierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Man muss am Anfang schon wissen wie die Architektur aussieht - wir haben komplett neu angefangen",
+      "context": "Eva über technische Grundentscheidungen und den radikalen Restart nach 6 Monaten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_z-3VbQUvnvE",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_z-3VbQUvnvE",
+  "date": null,
+  "country": "AT",
+  "word_count": 8819
+}

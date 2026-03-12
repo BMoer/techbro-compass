@@ -1,0 +1,94 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.25,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Wir haben ohne Geld ein schönes Portfolio von Startups gehabt, investieren ohne Geld",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatische Kapitalmarkt-Navigation, kreatives Finanzierungsmodell"
+    },
+    {
+      "text": "An der Börse darf man keine Märchen erzählen, das fliegt einem immer um die Ohren",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Markttransparenz & Regulierungsakzeptanz, moderate Marktkritik"
+    },
+    {
+      "text": "Lohnkosten runter ja natürlich, aber wir haben ein Sozialmodell das niedrigen Lohnkosten diametral gegenüber steht",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Befürwortung von Sozialmodell trotz Effizienzbedenken, ausgewogene Sicht"
+    },
+    {
+      "text": "Wir müssen Risikokapital steuerlich begünstigen und Fehlerkultur in Österreich verändern",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Marktorientierte Reformforderung, Befürwortung innovativer Risikobereitschaft"
+    },
+    {
+      "text": "Europa hat nicht die Kapitaldecke um global mit China und USA zu spielen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Regulatorische/strukturelle Kritik am europäischen Kapitalmarkt-Modell"
+    },
+    {
+      "text": "Ich bin sicher niemand der sagt Lohnkosten so senken dass man mit China wettbewerbsfähig ist",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Ablehnung von Dumping-Wettbewerb, Wertbewahrung von Sozialstandards"
+    },
+    {
+      "text": "Ich würde wünschen dass es keine unglücklichen Kinder gibt, die nichts zum Essen haben",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 6,
+      "reasoning": "Umverteilungs- & Sozialsicherungsgedanke, Betonung von Kinderarmut"
+    },
+    {
+      "text": "Wir sind nur erfolgreich wenn wir in control waren, nicht als reine Finanzinvestoren",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kontrollpräferenz über passive Kapitalanlagen, aktivistisches Investmentmodell"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ein Ziel ohne Plan ist ein Traum",
+      "context": "Lebensweisheit der Ehefrau zum Thema Zielsetzung und Umsetzung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Schuster bleibt bei deinem Leisten – mach das was du verstehst und kontrollieren kannst",
+      "context": "Kernlerning aus 25 Jahren Investmenttätigkeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Amazon mit 20 Jahren Verluste hätte in Europa nicht funktioniert – europäische Mentalität der Kapitalstruktur",
+      "context": "Analyse des Europa-Amerika-Unterschieds in der Kapitalfinanzierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Artificial Intelligence wird ganz viele Bereiche unseres Lebens massiv verändern",
+      "context": "Prediction zum Zukunftsthema AI, bei dem Berger unsicher ist",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_K5OIh8rswZQ",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_K5OIh8rswZQ",
+  "date": null,
+  "country": "AT",
+  "word_count": 6271
+}

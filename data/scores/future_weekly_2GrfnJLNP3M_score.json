@@ -1,0 +1,101 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.1,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Chat GPT eliminiert repetitive Jobs, freut mittelmäßige Personen müssen zittern",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Technologische Disruption, neutral zur Markt-Position"
+    },
+    {
+      "text": "Automatisierung ist Chance zur Jobqualitäts-Verbesserung, nicht Bedrohung",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pro-Innovation, gemäßigt marktfreundlich, optimistisch"
+    },
+    {
+      "text": "Kernfusion würde geopolitische Abhängigkeiten und Energieprobleme lösen",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Technologie-Optimismus, pragmatisch, nicht ideologisch"
+    },
+    {
+      "text": "mRNA-Technologie bekämpft gezielt nur Krebszellen statt wie Chemotherapie alles",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Medizinische Innovation, wertneutral beschrieben"
+    },
+    {
+      "text": "Speed Invest sammelt 500M € ein trotz Krise - bullisches Zeichen für Startup-Ökosystem",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Befürwortung Kapitalismus/Unternehmertum, pro-Investment"
+    },
+    {
+      "text": "Elon Musks Twitter-Kulturkrieg gegen Demokraten ist geschäftsschädigend",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Kritik impulsiver Geschäftsführung, warnt vor politischer Polarisierung"
+    },
+    {
+      "text": "Qatar nutzt Geld um politische Interessen in Europa durchzusetzen - Korruption",
+      "speaker": "host",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Kritik Bestechung/Korruption, autoritäre Praktiken"
+    },
+    {
+      "text": "Transparenzoffensive bei Krypto-Exchanges (Reserve-Daten) ist positiv",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Pro-Datenschutz, Pro-Transparenz, Anti-Opacity"
+    },
+    {
+      "text": "Gorillas-Exit unter Bewertung ruinös für späte Investoren - Marktversagen",
+      "speaker": "guest",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritik unsauberer Marktmechanismen, 15-Min-Delivery wirtschaftlich nicht tragbar"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Chat GPT ist wie eine Tiefkühlpizza - fertig, aber nicht italienischer Neapel-Standard",
+      "context": "Diskussion über Begrenztheit von KI-Texten vs. menschlicher Kreativität",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Elon auf Bühne 8 Minuten ausgebuht - kostet Milliarden Image, begreift Sentiment nicht",
+      "context": "Kritik Elon Musks fehlender emotionaler Intelligenz bei Dave Chappelle-Auftritt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "SPF und Prince Andrew im Knast - würde ich 5€/Monat Netflix zahlen für Reality-Serie",
+      "context": "Galgenhumor über Skandale als Unterhaltung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Speed Invest 500M in Krise = bullisches Zeichen für 5-7-Jahre-Zukunft",
+      "context": "Optimismus trotz schwierigster Fundraising-Jahre seit 15 Jahren",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "future_weekly_2GrfnJLNP3M",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_2GrfnJLNP3M",
+  "date": null,
+  "country": "AT",
+  "word_count": 11622
+}

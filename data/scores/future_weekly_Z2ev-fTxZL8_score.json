@@ -1,0 +1,108 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.0,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "KI-Demokratisierung: Lösung soll super einfach, schnell zu implementieren und leistbar sein",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatischer Zugang zu Technologiezugang, weder links noch rechts"
+    },
+    {
+      "text": "Bootstrapping bevorzugt: Keine Investoren im Background, schneller Exit möglich gemacht",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Unternehmerische Unabhängigkeit, Vertrauen in Markt statt externe Geldgeber"
+    },
+    {
+      "text": "Kostenlos-Strategie in COVID: Großhändler helfen, Gastronomen unterstützen, später monetisieren",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Sozialstaat-ähnliches Handeln in Krise, aber mit Erwartung späterer Rentabilität"
+    },
+    {
+      "text": "Headless-Integration statt neue Plattform: Bestehende Systeme nutzen, keine Migration nötig",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Marktanpassung, Kundenzentrierung statt Verkaufsindoktrinierung"
+    },
+    {
+      "text": "Europa muss bei KI-Entwicklung aufholen vs. China - technologischer Rückstand",
+      "speaker": "guest",
+      "economic": 1,
+      "social": -2,
+      "reasoning": "Wettbewerbsorientierung (econ neutral), Sorge um staatliche Überwachung (soc leicht autoritär)"
+    },
+    {
+      "text": "China-Reise: Facial Recognition mit Social Score System - 'scary' aber hocheffizient",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Beeindruckt von Überwachungstechnologie, aber kritisch zu Einsatzweise (gemischt)"
+    },
+    {
+      "text": "Arbeitskräftemangel ab 2030: KI wird Automatisierung ermöglichen, keine Weltuntergangsszenarios",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Optimistisch zu Marktkräften und Technologie als Problemlöser, pro-Automatisierung"
+    },
+    {
+      "text": "Menschen sollten sich auf soziale Fähigkeiten fokussieren, je mehr Maschine automatisiert",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Betonung von menschlichen Werten, Zusammenhalt über technische Ersetzbarkeit"
+    },
+    {
+      "text": "Nische FMCG-Branche bevorzugt: Spezialisierung statt breite Industrieexpansion",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Fokussierte Marktstragie, pragmatisch-unternehmerisch, keine ideologische Position"
+    },
+    {
+      "text": "Nicht aufgeben ist das größte Learning: Schlecht aussehende Situationen haben Lösungen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Glaube an persönliche Verantwortung und Marktmechanismen, libertär-unternehmerisches Mindset"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das Feuer wurde gerade entdeckt - wir sind noch Steinzeitmenschen, die mit Ästen auf Jagd gehen",
+      "context": "Erik vergleicht KI-Status mit früher Feuerentdeckung, extremes Anfangsstadium",
+      "quiz_suitable": true
+    },
+    {
+      "text": "10.000 Babyboomer verlassen TÄGLICH den Arbeitsmarkt ab 2030 - KI wird das ausgleichen",
+      "context": "Erik prognostiziert KI-Einsatz als Lösung für demografischen Wandel",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich war so überfahren von der Frage, dass ich einfach eine Fantasiezahl ausgedacht habe",
+      "context": "Erik beschreibt ad-hoc Kaufpreis-Verhandlung beim ersten Exit humorvoll",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Datenschützer haben gesagt: schwarze Plattform ist befremdlich - wir änderten Farben, Nutzung stieg",
+      "context": "Erik erklärt Customer Exploration und UX-Design aus echtem User Feedback",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_Z2ev-fTxZL8",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_Z2ev-fTxZL8",
+  "date": null,
+  "country": "AT",
+  "word_count": 8287
+}

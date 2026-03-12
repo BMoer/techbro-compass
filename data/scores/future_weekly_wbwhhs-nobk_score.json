@@ -1,0 +1,51 @@
+{
+  "economic_score": 2.5,
+  "social_score": 0,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Ego-Shooter waren früher gesellschaftlich stigmatisiert, jetzt sind sie akzeptiert",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Gesellschaftliche Liberalisierung, weniger moralische Panik/Zensur"
+    },
+    {
+      "text": "Call of Duty machte 1 Milliarde Umsatz in 10 Tagen - bester Spielstart",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Marktkraft, kommerzieller Erfolg, Kapitalismus-freundliche Perspektive"
+    },
+    {
+      "text": "Videospiele fressen Hollywood auf - Kampf um Aufmerksamkeit",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Marktverschiebung konstatiert, keine ideologische Positionierung"
+    },
+    {
+      "text": "Immer mehr Menschen spielen Spiele statt ins Kino zu gehen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Verbraucherverlagerung zu profitablerer Medienform, schwach marktorientiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wir fressen Hollywood weil da kämpft man um die Aufmerksamkeit",
+      "context": "Vergleich der Marktmacht von Gaming-Industrie vs. Film-Industrie",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_wbwhhs-nobk",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_wbwhhs-nobk",
+  "date": null,
+  "country": "AT",
+  "word_count": 173
+}

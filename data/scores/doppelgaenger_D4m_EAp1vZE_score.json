@@ -1,0 +1,122 @@
+{
+  "economic_score": 2.1,
+  "social_score": 0.3,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Sozialleistungen machen abhängig, wer nicht arbeitet soll nicht essen",
+      "speaker": "host",
+      "economic": 8,
+      "social": -3,
+      "reasoning": "Starke Skeptik gegenüber Sozialstaat, Leistungsanforderung"
+    },
+    {
+      "text": "Stock-based Compensation ist legitim bei hohen Aktienbewertungen",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Rationalität, Shareholder-freundlich"
+    },
+    {
+      "text": "Inflation abzuziehen ist nicht fair, nur Geld zählt am Ende",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pragmatische, marktwirtschaftliche Perspektive auf Nominalwerte"
+    },
+    {
+      "text": "Elon Musk hat Recht, Twitter braucht Dringlichkeit und Wandel",
+      "speaker": "host",
+      "economic": 6,
+      "social": -2,
+      "reasoning": "Effizienzsteigerung durch Kostendruck, akzeptiert hohe Arbeitslast"
+    },
+    {
+      "text": "84-Stunden-Wochen sind übertrieben, aber Dringlichkeit hilft",
+      "speaker": "host",
+      "economic": 5,
+      "social": -1,
+      "reasoning": "Kritik gemildert, sieht Nutzen in Druck"
+    },
+    {
+      "text": "Robin Hood verdient mehr mit Optionen als mit echtem Aktienhandel",
+      "speaker": "host",
+      "economic": -1,
+      "social": -3,
+      "reasoning": "Kritik an Hochrisiko-Hebelprodukte-Fokus, implizite Verbraucherkritik"
+    },
+    {
+      "text": "Margin-Trading und gehebelte Produkte sind das Geschäftsmodell",
+      "speaker": "host",
+      "economic": 4,
+      "social": -4,
+      "reasoning": "Marktwirtschaftlich neutral beschrieben, aber kritischer Unterton"
+    },
+    {
+      "text": "Klarna ist hoffnungslos: Kredite verlieren dreimal den Umsatz",
+      "speaker": "host",
+      "economic": -2,
+      "social": -2,
+      "reasoning": "Märchenwirtschaftliche Kritik am BNPL-Modell"
+    },
+    {
+      "text": "Wechselkurseffekte sind Pech, irrelevant für echte Leistung",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Sicht: Markteffekte sind Realität"
+    },
+    {
+      "text": "Kanadas 2% Share-Buyback-Steuer ist homöopathisch wirkungslos",
+      "speaker": "host",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Kritik an Regulierung, skeptisch zu Umverteilungeffekten"
+    },
+    {
+      "text": "Datenschutz und Factscheck auf Twitter: Elon hypokritisch",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an Doppelmoral bei Redefreiheit vs. eigenem Narrativ"
+    },
+    {
+      "text": "Free Speech ist wichtig, aber Wahrheit und Volksverhetzung sind grenzfälle",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Libertäre Position mit ethischen Nuancen, Anti-Zensur aber verantwortungsvoll"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Robin Hood verdient 124 Millionen mit Optionen, nur 31 Millionen mit Aktien",
+      "context": "Analyse des Geschäftsmodells von Retail-Trading-App",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Klarna verliert 8,4 Mio durch schlechte Kredite bei 3,1 Mio Umsatz",
+      "context": "Kritik am BNPL-Geschäftsmodell in Australien",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Elon Musk tweetet über Free Speech während er Fake News teilt",
+      "context": "Kritik an Inkonsequenz bei Twitter-Reform",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Mit 27 Mio Marketing 3 Mio Umsatz generieren - das ist Marketing-Wahnsinn",
+      "context": "Analyse der Klarna-Zahlen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_D4m_EAp1vZE",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_D4m_EAp1vZE",
+  "date": null,
+  "country": "DE",
+  "word_count": 14890
+}

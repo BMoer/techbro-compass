@@ -1,0 +1,136 @@
+{
+  "economic_score": 0.86,
+  "social_score": 2.14,
+  "n_coded": 14,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Bürokratie abbau oder Digitalisierung, das ist kein Entweder oder",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Pragmatische Reformposition, moderate Kritik an Staat"
+    },
+    {
+      "text": "Komplexitätskosten sind immer schädlich. Je mehr Dinge du bedenken musst, desto schwerer wird es",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Effizienzfokus, kritisch gegenüber Staatsüberwuchs"
+    },
+    {
+      "text": "Subventionen abbauen: Dieselprivileg, Dienstwagenregelung sind Umverteilung von Steuerzahler zu Unternehmern",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Subventionen, redistribuierend, links-liberal"
+    },
+    {
+      "text": "Modelle sollten nicht zu ideologischen Gründen zwei Meinungen geben, sondern wissenschaftliche Mehrheitsmeinung abbilden",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Anti-Zensur, für unverfälschte Information, libertär"
+    },
+    {
+      "text": "Mark Zuckerberg künstlich ein Modell rechts auszubalancieren ist Erhebung über gesammeltes Wissen der Menschheit",
+      "speaker": "host",
+      "economic": null,
+      "social": 7,
+      "reasoning": "Kritik an willkürlicher Content-Moderation, libertär"
+    },
+    {
+      "text": "Google hat State of the Art Knowledge mit Handcuffs blockiert, damit Konkurrenten es nicht bekommen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": -4,
+      "reasoning": "Kritik an Wettbewerbsverzerrung und Arbeitnehmerfreiheit"
+    },
+    {
+      "text": "Zölle bringen Ineffizienz, Unsicherheit, Meetings, unnötige Analysen statt produktive Arbeit",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an Protektionismus, pro-Freihandel"
+    },
+    {
+      "text": "Trump hat sich unter Druck die Zölle abgeschaltet wie ein Lichtschalter",
+      "speaker": "host",
+      "economic": 5,
+      "social": -2,
+      "reasoning": "Kritik an arbiträren Entscheidungen, volatil und ungerecht"
+    },
+    {
+      "text": "Die Nate-Gründer haben mit KI-Versprechen 50 Millionen gesammelt, aber Menschen im Backoffice eingesetzt",
+      "speaker": "guest",
+      "economic": -5,
+      "social": -3,
+      "reasoning": "Kritik an Fraud, Betrug, Missbrauch von Investorenvertrauen"
+    },
+    {
+      "text": "Jedes Mal wenn man ein Modell eingreift, wird es tendentiell schlechter und ineffizienter",
+      "speaker": "host",
+      "economic": 2,
+      "social": 5,
+      "reasoning": "Anti-Zensur-Position, Kritik an Modell-Manipulation"
+    },
+    {
+      "text": "Digitalisierungsministerium ist wie ein Chief Digital Officer - Signal, dass es nicht in der DNA ist",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Milde Kritik an Regierungsstruktur, skeptisch"
+    },
+    {
+      "text": "CEOs sind viel zu ruhig und vorsichtig, trauen sich nicht Position gegen Trump zu nehmen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Kritik an Selbstzensur, fehlende Meinungsfreiheit durch Machtasymmetrie"
+    },
+    {
+      "text": "Leute mögen sich nicht selbst überflüssig machen, deswegen keine Inpute für Bürokratieabbau",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritik an Anreizstrukturen in Bürokratie, praxisorientiert"
+    },
+    {
+      "text": "EU sollte Tech-Giganten wie Amazon besteuern, wenn USA Zölle machen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Regulierung großer Tech, Handelsschutz, milde Intervention"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Remove all the tariffs, stupid.",
+      "context": "ChatGPT antwort auf Trumps Zoll-Chaos",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das ist die Erhebung eines einzelnen Menschen über das gesamte Wissen und die Wissenschaftlichkeit der Menschheit",
+      "context": "Kritik an Zuckerbergs ideologischer Modell-Manipulation",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Trump hat auf True Social kurz vorher gepostet: This is a great time to buy!!!",
+      "context": "Potentielles Insider-Trading via Social Media",
+      "quiz_suitable": true
+    },
+    {
+      "text": "0% der Orders am Ende von KI gemacht worden, 100% von Menschen - Nate-Deception",
+      "context": "Startup-Fraud mit $50M Fundraising",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_-JwUcl1lZNk",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_-JwUcl1lZNk",
+  "date": null,
+  "country": "DE",
+  "word_count": 9497
+}

@@ -1,0 +1,122 @@
+{
+  "economic_score": 1.8,
+  "social_score": 2.1,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Big Tech sitzt auf 50-200 Mrd Cash, alle auf Shopping Tour - letzte Hoffnung für Tech-Aktien",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Marktbeobachtung, keine normative Position"
+    },
+    {
+      "text": "Microsoft kauft günstig ein bei Aktivision mit Discount - opportun und strategisch sinnvoll",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Befürwortung von M&A im Freien Markt, effizienter Kapitaleinsatz"
+    },
+    {
+      "text": "TikTok verdreifacht sich, Netflix verliert 50% in China - Disruption durch Short-Form Video",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an etabliertem Geschäftsmodell, Marktverschiebung durch Innovation"
+    },
+    {
+      "text": "Smart Thermostate sparen 20% Energie durch Tracking von Bewegungen",
+      "speaker": "host",
+      "economic": 3,
+      "social": -3,
+      "reasoning": "Effizienzgewinn positiv, aber Überwachung/Tracking-Kritik implicit"
+    },
+    {
+      "text": "Instagram/Facebook mit Fake-Profilen - sollten Apple AppStore Rules durchsetzen",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Plädoyer für Plattform-Regulation und Bürgerrechtsschutz gegen Betrug"
+    },
+    {
+      "text": "Aldi Shop&Go ohne Kassier - Personalkosteneinsparung statt echte Zeiteinsparung",
+      "speaker": "host",
+      "economic": 4,
+      "social": -2,
+      "reasoning": "Befürwortung von Automatisierung/Effizienz, aber Arbeitsplatzabbau"
+    },
+    {
+      "text": "Aktivision Wachstum verlangsamt (nur 9%) - schwer aus Profitabilität rauszuwachsen",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Skeptische Bewertung langfristiger Wachstumsstrategie"
+    },
+    {
+      "text": "Streaming in China -50% durch TikTok - Nutzer sitzen Stunden vor Short-Video statt Netflix",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritische Sicht auf alte Geschäftsmodelle gegenüber neuem Konsum"
+    },
+    {
+      "text": "Google täuscht Publisher und Advertiser über Ad-Auktionsmechanismen - Intransparenz vertikale Integration",
+      "speaker": "host",
+      "economic": -5,
+      "social": 2,
+      "reasoning": "Kritik an Monopolmachtsausnutzung, Kartell-ähnliches Verhalten"
+    },
+    {
+      "text": "Insider Trading passiert täglich und ist schwer zu verfolgen - nur wenn verkabelt wird es erwischt",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an Regulierungslücken und Straffreiheit von Finanzmarktbetrug"
+    },
+    {
+      "text": "N26 mit Bafin-Beschränkung auf 100k Nutzer - Regulierung begrenzt Wachstum",
+      "speaker": "host",
+      "economic": -3,
+      "social": 1,
+      "reasoning": "Kritik an Regulierung die Innovation bremst, aber auch Compliance-Lob"
+    },
+    {
+      "text": "Shein und Shopify als Top-Shopping Apps - Fast Fashion Expansion weltweit",
+      "speaker": "host",
+      "economic": 2,
+      "social": -4,
+      "reasoning": "Neutrale Beobachtung von Marktentwicklung, aber Host hat Bedenken zu Fast Fashion"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Milliardäre sind doppelt so reich geworden und immer mehr Leute haben das wisst ihr alles",
+      "context": "Oxfam Vermögensreport zeigt Wealth Inequality",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Below my line - das wird zum Meme des Jahres in Finanz-Twitter",
+      "context": "Scamath Palapatia Statement zu Uiguren-Frage wird viral",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Streaming platzt nicht - TikTok platzt Netflix stattdessen",
+      "context": "Diskussion über langfristige Netflix-Disruption",
+      "quiz_suitable": true
+    },
+    {
+      "text": "No user funds were lost - aber wir stoppen Withdrawals trotzdem",
+      "context": "Crypto.com 15M Ether Hack Kommunikation",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_Jgq5xc0Py4Y",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_Jgq5xc0Py4Y",
+  "date": null,
+  "country": "DE",
+  "word_count": 15503
+}

@@ -1,0 +1,122 @@
+{
+  "economic_score": 1.5,
+  "social_score": 1.75,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "YouTube-Plattformen brauchen schnellere Moderation gegen Spam/Scams",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Regulierung von Plattformen, Sicherheit vs. Freiheit"
+    },
+    {
+      "text": "YouTube ist quasi Monopol, hat wenig Anreiz für sichere Umgebung",
+      "speaker": "host",
+      "economic": -4,
+      "social": 2,
+      "reasoning": "Monopol-Kritik, Marktkonzentration, Creator-Autonomie"
+    },
+    {
+      "text": "Creator sollten diversifizieren, nicht nur auf YouTube verlassen",
+      "speaker": "host",
+      "economic": 3,
+      "social": 4,
+      "reasoning": "Marktfreiheit, Dezentralisierung, Unabhängigkeit"
+    },
+    {
+      "text": "Sonos Motors: Anzahlung für Auto einsammeln ist moralisch fragwürdig",
+      "speaker": "host",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Verbraucherschutz, ethische Geschäftspraktiken"
+    },
+    {
+      "text": "Crowdfunding-Video von Sonos ist staged und manipulativ",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Kritik an Authentizität, Transparenz in Kommunikation"
+    },
+    {
+      "text": "EV-Startup-Blase dekompensiert: 400 Mrd. Bewertung für 2 Mrd. Umsatz",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Marktineffizienzen, Spekulationskritik, Marktkorrektion"
+    },
+    {
+      "text": "Unicorns werden nächstes Jahr massiv Leute entlassen müssen",
+      "speaker": "host",
+      "economic": 2,
+      "social": -2,
+      "reasoning": "Marktrealisierung, Effizienzanpassung, Arbeitnehmerbelastung"
+    },
+    {
+      "text": "Claner hat mehr als 10% der Leute entlassen, trotz PR-Narrativ",
+      "speaker": "host",
+      "economic": 1,
+      "social": 3,
+      "reasoning": "Transparenzkritik, Informationsasymmetrie"
+    },
+    {
+      "text": "Tonis: Kreativ-Tonis haben keine Lizenzkosten, höhere Rohmargen",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Geschäftsmodell-Innovation, Effizienzsteigerung"
+    },
+    {
+      "text": "Spotify sollte Tonis kaufen zur Kundengewinnung vor TikTok",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Strategische M&A, Marktkonzentration, Plattformökonomie"
+    },
+    {
+      "text": "Bei 5 Jahren Anlagehorizont: 80% sichere Anleihen, 20% Aktien",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Konservativer, risikoaverser Investitionsansatz"
+    },
+    {
+      "text": "Bei 15 Jahren: MSCI World mit moderatem Risiko optimal",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Markteffizienz-Annahme, langfristiges Vertrauen in Märkte"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Sono Motors: 3500 Kunden sollen 27.000€ zahlen damit das Projekt ausliefert werden kann",
+      "context": "Diskussion über problematisches Crowdfunding-Modell von EV-Startup in Finanzierungskrise",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die EV-Blase: 400 Milliarden Bewertung für nur 2 Milliarden Umsatz insgesamt",
+      "context": "Analyse der ÜberBewertung von E-Auto-Startups bei Börsengang",
+      "quiz_suitable": true
+    },
+    {
+      "text": "YouTube hat Monopol-Position und wenig Anreiz, sichere Umgebung zu schaffen",
+      "context": "Kritik an Plattform-Regulierung und Moderations-Versäumnissen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Tonis: 20 Tonis pro Box über Lebenszyklus = Revenue Expansion ohne neue Boxen",
+      "context": "Diskussion des Geschäftsmodells und Margenpotenziale",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_x5FbtVfJOO0",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_x5FbtVfJOO0",
+  "date": null,
+  "country": "DE",
+  "word_count": 15958
+}

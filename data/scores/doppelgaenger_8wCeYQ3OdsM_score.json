@@ -1,0 +1,122 @@
+{
+  "economic_score": 2.8,
+  "social_score": 0.0,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Regulierung kostet Wirtschaft Geld und bremst Innovation aus",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Implizite Kritik an zu starker Regulierung, marktwirtschaftliche Sicht"
+    },
+    {
+      "text": "Grüne Energiekonzerne könnten 20 Mrd. Wert erreichen, wenn vertikal integriert",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatischer Blick auf Geschäftsmodelle ohne klare ideologische Position"
+    },
+    {
+      "text": "Fotovolatik-Installer und Handwerker sind knappes Gut - großes Marktpotential",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Analyse von Supply-Demand, neutral"
+    },
+    {
+      "text": "Netflix sollte mit Account-Splitting und Preiserhöhung wachsen, nicht organisch",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik am künstlichen Wachstum durch Monetarisierungs-Tricks statt echter Value"
+    },
+    {
+      "text": "Free Cash Flow ist wichtiger als Buchgewinne - Netflix ist auf dieser Basis überbewertet",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Fundamentale, kapitalistische Bewertungslogik ohne Regulierungsforderung"
+    },
+    {
+      "text": "Trade Republic hat besseres Modell als N26/Klarna durch klare Margen beim Aktienhandel",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pragmatische Bewertung von Geschäftsmodellen auf Rentabilität"
+    },
+    {
+      "text": "Shein produziert Kleidung mit Arbeitern à 3 Cents pro Stück - unethisch",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Ausbeutung, aber nicht systemische Kapitalismuskritik"
+    },
+    {
+      "text": "Klarna/N26 verdienen weniger mit Banking als mit Spekulation - Modell fragwürdig",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Neutral-kritische Geschäftsmodell-Analyse ohne ideologische Schärfe"
+    },
+    {
+      "text": "Deutschland muss Niedrig-Energieland werden um Wettbewerbsvorteil zu sichern",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Grüne Industriepolitik, aber pragmatisch-ökonomisch begründet, nicht ideologisch"
+    },
+    {
+      "text": "Snapchat wird schlecht berichten - Werbemarkt ist kaputt",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pessimistische Marktanalyse, keine Regulierungsforderung"
+    },
+    {
+      "text": "Salesforce/Microsoft lassen erstmals Leute gehen - Softwarebranche schwächt ab",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Zyklische Marktbeobachtung, pragmatisch"
+    },
+    {
+      "text": "Starker Dollar drückt auf Tech-Earnings - Währungseffekt größer als erwartet",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Reine Marktanalyse, neutral"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Netflix generiert 6 Mrd. Operating Income aber nur 800 Mio. Free Cash Flow - Taschenspieler-Tricks",
+      "context": "Kritik an Bilanzierungspraktiken vs. echten Cashflows bei Netflix",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn China plötzlich keine Solarpanele mehr liefert, ist unsere ganze Energiewende weg",
+      "context": "Warnung vor geopolitischen Abhängigkeiten bei Grüner Technologie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Klarna ist nicht optimale Investition - Bankkredit selbst aufzunehmen ist Financial finanziell besser",
+      "context": "Analyse warum FinTech-Modelle für Privatpersonen nicht rentabel sind",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Shein-Arbeiter verdienen 3 Cents pro Artikel bei 500 Stück täglich - 0,03 Pence",
+      "context": "Aufdeckung von Lohnausbeutung in der Fast-Fashion-Lieferkette",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_8wCeYQ3OdsM",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_8wCeYQ3OdsM",
+  "date": null,
+  "country": "DE",
+  "word_count": 15930
+}

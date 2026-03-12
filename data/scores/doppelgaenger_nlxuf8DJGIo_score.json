@@ -1,0 +1,127 @@
+{
+  "economic_score": 1.5,
+  "social_score": 1.25,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Die Luca App sollte sich als Gast-Planung, Reservierung und Bezahlungs-App positionieren",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Moderate Geschäftsmodell-Optimierung, pragmatisch-marktorientiert"
+    },
+    {
+      "text": "Wenn du nicht arbeiten kannst, weil dein Auto weg ist, dann ist das System kaputt",
+      "speaker": "host",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Kritik an Markteffizienz, Sorge um Bürgerbeteiligung im System"
+    },
+    {
+      "text": "Die Scooter sind im Dunkeln einfach zu gefährlich, sollten nicht fahren",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Sicherheits-Regulierung befürworten, Sicherheit > Freiheit"
+    },
+    {
+      "text": "Das Luca-Geschäftsmodell funktioniert nicht, weil weniger Trinkgeld ohne Kontakt entsteht",
+      "speaker": "host",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Kritik an digitaler Desintermediation, humanistische Bedenken"
+    },
+    {
+      "text": "Elon hätte sich bei China nicht getrauen, aber er hat sich zur Taiwan-Frage geäußert und sich auf Chinas Seite geschlagen",
+      "speaker": "host",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Kritik an fehlender liberaler Wertebindung, geopolitische Kritik"
+    },
+    {
+      "text": "Man sollte etwa 2,60€ monatlich von jedem N26-Kunden nehmen, um profitabel zu werden",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktpragmatismus, Unternehmensrentabilität über Wachstum"
+    },
+    {
+      "text": "About You hat sich massiv eingedeckt mit Ware, die jetzt nicht verkauft wird - das ist riesiger Fehler",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Kritik an Planungsfehler, wertneutrale ökonomische Analyse"
+    },
+    {
+      "text": "Katy Wood manipuliert Daten tendenziös, um die Fed zu beeinflussen und Deflation zu postulieren",
+      "speaker": "host",
+      "economic": -4,
+      "social": 2,
+      "reasoning": "Kritik an Marktmacht einzelner Investor:innen, Transparenz-Forderung"
+    },
+    {
+      "text": "TikTok baut jetzt E-Commerce-Infrastruktur auf - warum sollte ich bei TikTok fulfilmen wenn Amazon besser ist?",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktwettbewerb akzeptierend, Effizienzfragen"
+    },
+    {
+      "text": "Banking ist so fucking undifferenziert, das einzige was zählt ist ob du damit bezahlen kannst oder nicht",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Marktskepsis, Commoditization-Kritik"
+    },
+    {
+      "text": "Wer hat nach 3D-Metaverse gefragt? Es gibt null Value, nur mehr Komplexität für keinen Informationsgewinn",
+      "speaker": "host",
+      "economic": 2,
+      "social": 4,
+      "reasoning": "Tech-Skeptizismus, Effizienz-Fokus, User-Experience-Kritik"
+    },
+    {
+      "text": "Gorillas-Exit zu Getir mit 100M Cash-Kompensation ist kein Fund-Returner-Deal, eher Notverkauf",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritische VC-Analyse, realistische Marktbewertung, kein ideologisches Statement"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die beste Monetarisierungsstrategie von Twitter ist dass der Top User 44 Mrd dafür hinlatzt",
+      "context": "Sarkasmus zu Elon Musks Übernahmeangebot",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Banking ist so fucking undifferenziert - das einzige was zählt ist ob du damit bezahlen kannst",
+      "context": "Kritik an Retail-Banking-Geschäftsmodellen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wer hat nach 3D-Metaverse gefragt? Es gibt null Value, nur Komplexität für keinen Gewinn",
+      "context": "Meta's Metaverse-Strategie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "About You hat sich mit Ware eingedeckt und ihr Geld liegt jetzt nicht mehr auf dem Konto sondern im Regal",
+      "context": "Inventory-Probleme im E-Commerce",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Katy Wood manipuliert Daten tendenziös um die Fed zu beeinflussen und Deflation zu postulieren",
+      "context": "Kritik an ARK Invest und Marktmacht von Einzelinvestoren",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_nlxuf8DJGIo",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_nlxuf8DJGIo",
+  "date": null,
+  "country": "DE",
+  "word_count": 13155
+}

@@ -1,0 +1,115 @@
+{
+  "economic_score": 2.1,
+  "social_score": 0.3,
+  "n_coded": 11,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "KI wird Website-Building und Online-Marketing ersetzen, kaufe die Agentur nicht",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Disruptive tech-Optimismus, Vertrauen in Marktmechanismen über etablierte Geschäftsmodelle"
+    },
+    {
+      "text": "Agenturen werden bedroht, aber KI-Anwendung beim Kunden einführen schafft neuen Wert",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Anpassung an Marktveränderung, nicht ideologisch"
+    },
+    {
+      "text": "Die Börse bewertet Wachstum höher, selbst in jetzigen Zeiten, weil hinten raus könnte es spannender sein",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktzutrauen, Effizienz der Preisbildung, Optimismus über zukünftige Profitabilität"
+    },
+    {
+      "text": "Wenn du eine Agentur verkaufst, glaubst du, sie ist weniger wert als der Kaufpreis - das ist der einzige Grund zum Verkauf",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktrationalität, Informationsasymmetrie, klassische ökonomische Logik"
+    },
+    {
+      "text": "Dein Gefühl sagt dir, das Business wird kurzfristig gesetzt - dann würde ich das dreimal überlegen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Skeptizismus gegenüber Disruption-Narrativen, Vorsicht vor Überoptimismus"
+    },
+    {
+      "text": "Viele bauen Convertible Notes und verwässern die Aktie um 68% - aber es gibt keine Konsequenzen",
+      "speaker": "host",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Kritik an Kapitalmarktnormen und mangelnder Rechenschaftspflicht von Gründern"
+    },
+    {
+      "text": "Die Hyperscaler bauen CloudFlare-Features nach - das ist die echte Konkurrenz, nicht Akamai",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Akzeptanz von Konkurrenz und schöpferischer Zerstörung, neutrale Marktanalyse"
+    },
+    {
+      "text": "Robin Hood macht Optionen so profitabel weil Kunden schlechte Trader sind und hohe Spreads zahlen",
+      "speaker": "host",
+      "economic": 2,
+      "social": -4,
+      "reasoning": "Kritik am Geschäftsmodell, das Informationsasymmetrie ausnutzt; Sorge um Verbraucherschutz"
+    },
+    {
+      "text": "Duolingo schafft es, Marketing unter Umsatzwachstum zu halten - effizienz-Skalierung",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Bewunderung für operative Exzellenz und Markteffizienzen"
+    },
+    {
+      "text": "Oatly macht jetzt wieder Promotional Activity - aber wenn Produktionsprobleme bestehen, warum nicht die Marge arbeiten?",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Logische Konsistenzprüfung von Management-Narrativen, analytische Skepsis"
+    },
+    {
+      "text": "Ralf Dümmel und Hagemann verkaufen Firma für 200M, kaufen sie für 6.5M zurück - ganz ordentlich",
+      "speaker": "host",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Implizite Kritik an Kapitalmarkt-Governance und Informationsasymmetrien zugunsten von Insidern"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn du glaubst das Business wird kurzfristig gesetzt, würde ich das dreimal überlegen",
+      "context": "Bewertung einer Agentur-Übernahme in Zeiten von KI-Disruption",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Börse bewertet Wachstum höher, selbst in jetzigen Zeiten - weil hinten raus könnte es spannender sein",
+      "context": "Erklärung für CloudFlare höhere Bewertung trotz kleinerer Marge als Akamai",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Robin Hood macht 5% ihres Umsatzes mit Aktienhandel, aber das 4x mit Optionen - weil die Spreads höher sind",
+      "context": "Analyse des Geschäftsmodells von Retail-Brokern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Solche Leute laufen nicht mehr frei herum - aber Ralf Dümmel und Hagemann schon",
+      "context": "Kritik an ausbleibenden Konsequenzen für fragwürdige Kapitalmarkttransaktionen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_b9ZHq2nLzVA",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_b9ZHq2nLzVA",
+  "date": null,
+  "country": "DE",
+  "word_count": 12423
+}

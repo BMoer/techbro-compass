@@ -1,0 +1,96 @@
+{
+  "economic_score": 2.8,
+  "social_score": 1.2,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wir haben uns hart zugetraut, wahrscheinlich weil wir über Design Thinking aus dem Prototyping Ansatz kommen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Unternehmerischer Pragmatismus, Fokus auf praktische Umsetzung statt Ideologie"
+    },
+    {
+      "text": "Hardware produzieren ist ja was unglaublich einfaches... Version 1.0 ist ein riesen Erfolg",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Leicht ironische Kritik an unrealistischen Erwartungen, eher pragmatisch-zentristisch"
+    },
+    {
+      "text": "Gründe nicht selbst sondern unterschreibs irgendwo beim Corporate oder hilfs gerne auch in einem anderen Zahl",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Befürwortung von Unternehmertum und Risikobereitschaft vs. Corporate Sicherheit, leicht pro-Markt"
+    },
+    {
+      "text": "Wir haben für 100 Leute WSOPs... die ganz am Anfang dabei waren haben da schon Substanzielles mitgenommen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 1,
+      "reasoning": "Mitarbeiter-Beteiligung und Profit-Sharing, sozial ausgewogen, nicht radikal umverteilend"
+    },
+    {
+      "text": "If you want to go fast go alone if you want to go far go together",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Betonung von Kooperation und Gemeinschaft als Erfolgsfaktor, eher kooperativ-libertär"
+    },
+    {
+      "text": "Ich sehe unsere Zukunft hier deutschsprachigen Raum ein bisschen schwarz... wir sind viel zu behäbig und träge",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an mangelndem unternehmerischem Elan und Wohlstands-Trägheit, pro-Unternehmertum"
+    },
+    {
+      "text": "Everything is amazing but nobody is happy... we live with golden spoon in mouth",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 0,
+      "reasoning": "Kritik an Entitlement und mangelndem Arbeitsethos in wohlhabenden Gesellschaften, pragmatisch"
+    },
+    {
+      "text": "Wir haben wirklich so viel Energie reingesteckt... 7 Tage die Woche hier gearbeitet",
+      "speaker": "guest",
+      "economic": 5,
+      "social": 0,
+      "reasoning": "Verherrlichung von extremer Arbeitsleistung und persönlichem Einsatz, pro-Unternehmertum"
+    },
+    {
+      "text": "Die Kultur muss sich mitentwickeln mit der Firma... die Firma muss heute ein bisschen anders ticken",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Adaptive Organisationshaltung, flexible Unternehmenskultur, eher zentristisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn du dir da vorher Gedanken machst dass der Weg möglichst einfach wird dann bist du halt auch kein Gründer",
+      "context": "Manuel erklärt, warum rationale Risikovermeidung nicht zu echtem Unternehmertum führt.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir haben wirklich Schwierigkeiten im Vertrieb mal wirklich bis aufs C-Level hochzukommen weil der Business Case so offensichtlich ist",
+      "context": "Das Produkt ist so efficient dass Management-Zustimmung fast unmöglich zu verwehren ist.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt immer einen der noch krasser ist als du... das Glück zu haben diese Person kennenzulernen",
+      "context": "Manuel reflektiert über kontinuierliches Lernen von noch erfolgreicheren Unternehmern.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_cccsv5EtMp4",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_cccsv5EtMp4",
+  "date": null,
+  "country": "AT",
+  "word_count": 12132
+}

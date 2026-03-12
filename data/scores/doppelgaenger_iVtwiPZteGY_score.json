@@ -1,0 +1,82 @@
+{
+  "economic_score": 1.29,
+  "social_score": 2.14,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Kopfhörer-Ersatzteile direkt beim Hersteller kaufen ermöglicht Kreislaufwirtschaft und gibt der Marke Kundendaten",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Befürwortung von Datensammlung und Kundenkontrolle für Nachhaltigkeitszwecke"
+    },
+    {
+      "text": "Ikea Secondhand-Plattform lässt Kunden Möbel verkaufen und mit Giftcards wieder bei Ikea einkaufen",
+      "speaker": "host",
+      "economic": 2,
+      "social": 2,
+      "reasoning": "Marktstrategie zur Bindung von Kundensegmenten + nachhaltiger Konsum"
+    },
+    {
+      "text": "Telegram-Moderation verstoßen gegen französisches Recht; Gründer zu Recht festgenommen",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Befürwortung staatlicher Durchsetzung von Regulierung über maximale Meinungsfreiheit"
+    },
+    {
+      "text": "Verbrechen zu bekämpfen ist keine Zensur; Meinungsfreiheit erlaubt nicht die Ermöglichung von Straftaten",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Autoritäre Position: Sicherheit und Gesetz vor grenzenloser Redefreiheit"
+    },
+    {
+      "text": "Google nutzt Chrome-Marktposition um Lens und Gemini-Features einzubauen und damit AI-Markt zu dominieren",
+      "speaker": "host",
+      "economic": -4,
+      "social": 2,
+      "reasoning": "Kritik an vertikaler Integration und Monopolmissbrauch; aber pragmatische Sicht auf Datenschutz"
+    },
+    {
+      "text": "Pindodo und Shein werden mit Gaming-Logik Gamification langfristig schwer überzeugen, Churn bleibt Problem",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Skepsis gegenüber Geschäftsmodellen, die auf Kundenbindung durch psychologische Tricks setzen"
+    },
+    {
+      "text": "Nvidia muss 31 Mrd Umsatz schaffen um nicht zu enttäuschen; Enttäuschungspotenzial größer als Upside",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Neutrale Analyse; keine politische/gesellschaftliche Dimension"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Verbrechen zu bekämpfen ist keine Zensur; das ist Durchsetzung des Rechtsstaats",
+      "context": "Diskussion über Telegram-Gründer Durov und Meinungsfreiheit vs. Sicherheit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Google nutzt ihr Browser-Monopol um AI-Features einzubauen und damit den Markt zu dominieren",
+      "context": "Kritik an vertikaler Integration bei Chrome und Gemini-Integration",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Bei Pindodo wird irgendwann jeder Kunde getroffen und verbrannt; das Modell ist nicht nachhaltig",
+      "context": "Analyse des Growth-Slowdowns bei Pindodo trotz hoher Marketing-Ausgaben",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_iVtwiPZteGY",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_iVtwiPZteGY",
+  "date": null,
+  "country": "DE",
+  "word_count": 10756
+}

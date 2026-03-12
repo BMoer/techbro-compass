@@ -1,0 +1,103 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.0,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Google sollte innovative Projekte nicht einstellen, sondern Cash nutzen um Firmen zu akquirieren",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Wachstumsstrategie, leicht pro-Markt ohne Ideologie"
+    },
+    {
+      "text": "CEOs sollten Krisen nutzen um 10% Mitarbeiter zu entlassen, die sie nicht 100% überzeugen",
+      "speaker": "host",
+      "economic": 6,
+      "social": -3,
+      "reasoning": "Arbeitsmarkt-Deregulierung, aber auch opportunistische Härte"
+    },
+    {
+      "text": "Landesbank Berlin und Amazon haben mich in einen Kreditvertrag gestoßen, ohne dass ich das realisiert habe - das ist Abzocke",
+      "speaker": "host",
+      "economic": -4,
+      "social": 5,
+      "reasoning": "Kritik an Finanzkonzern-Praktiken, Verbraucherschutz-Perspektive"
+    },
+    {
+      "text": "Hosting-Branche hat viel Private Equity Aktivität wegen guter Cash Flows und hoher Predictability",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Affirmative Sicht auf PE-Investitionen in profitable Businesses"
+    },
+    {
+      "text": "Ein erforderliches Kriterium für Venture Case ist dass das Modell skalierbar ist mit operating leverage",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pro-VC Position, aber technologisch pragmatisch"
+    },
+    {
+      "text": "Unabhängigkeit und Freiheit ist mir sehr am Herzen - wenn es ohne VC geht würde ich bootstrappen",
+      "speaker": "host",
+      "economic": 1,
+      "social": 4,
+      "reasoning": "Betonung von Unabhängigkeit, aber nicht ideologisch gegen VC"
+    },
+    {
+      "text": "Specs waren insgesamt eine schlechte Idee - IPOs performten besser, Specs noch schlechter",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Kritik an Finanzinstrument-Qualität, aber keine ideologische Position"
+    },
+    {
+      "text": "Porsche aus dem VW-Konglomerat rauszuschneiden macht Sinn - Edelmarken funktionieren besser",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Dekonglomeration, Effizienz-Argument"
+    },
+    {
+      "text": "Spotify könnte Audible gefährlich werden wenn sie Audiobooks anbieten - verstärkt Tech-Monopolisierung",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Leichte Skepsis gegenüber Plattform-Dominanz"
+    },
+    {
+      "text": "Google lockerte Gambling-Policies weil Werbeumsätze schlechter werden - reduzieren Standards bei Druck",
+      "speaker": "host",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Kritik an Profit-über-Ethik, regulatorische Bedenken"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "CEOs sollten Krisen nutzen um 10% Mitarbeiter zu entlassen die sie nicht 100% überzeugen",
+      "context": "Diskussion über Google-Sparmaßnahmen und wirtschaftliche Strategien",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Landesbank Berlin hat mich in einen Kreditvertrag gestoßen von dem ich gar nicht wusste, dass ich ihn habe",
+      "context": "Persönliche Erfahrung mit versteckten Finanzprodukten und Kundenfallen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Unabhängigkeit und Freiheit ist mir sehr am Herzen - wenn es ohne VC geht würde ich bootstrappen",
+      "context": "Antwort auf die Frage, ob man beim nächsten Startup auch VC nehmen würde",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_FMSDIILCyYI",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_FMSDIILCyYI",
+  "date": null,
+  "country": "DE",
+  "word_count": 6751
+}

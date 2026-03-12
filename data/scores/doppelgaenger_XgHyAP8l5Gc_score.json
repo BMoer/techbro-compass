@@ -1,0 +1,122 @@
+{
+  "economic_score": 1.0,
+  "social_score": 2.17,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Unternehmen müssen nur Shareholder Value steigern, alles andere regelt der Staat",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Marktwirtschaft ohne Unternehmensverantwortung"
+    },
+    {
+      "text": "SAP streicht DEI-Ziele, weil US-Geschäft Druck macht",
+      "speaker": "host",
+      "economic": -2,
+      "social": -4,
+      "reasoning": "Regulierungsdruck aus USA, Rückgang von Diversity-Initiativen"
+    },
+    {
+      "text": "Firmen sponsern Pride nur aus Mode, nicht Überzeugung",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an opportunistischem LGBTQ+-Support unter Druck"
+    },
+    {
+      "text": "Google reguliert das Netz erheblich durch Datenformate",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Monopolmacht, De-facto-Regulierung durch Plattform"
+    },
+    {
+      "text": "SEOs müssen sich neue Jobs suchen, weil AI die Arbeit ersetzt",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Technologische Disruption von Arbeitsmarkt, aber neutral berichtet"
+    },
+    {
+      "text": "Trump nimmt 400-Millionen-Jet von Qatar an",
+      "speaker": "host",
+      "economic": -7,
+      "social": -6,
+      "reasoning": "Korruption/Bestechung eines Präsidenten, ethisch fragwürdig"
+    },
+    {
+      "text": "USA nehmen 59 weiße südafrikanische Farmer auf, lehnen andere Flüchtlinge ab",
+      "speaker": "host",
+      "economic": null,
+      "social": -8,
+      "reasoning": "Rassistische Diskriminierung in Flüchtlingspolitik"
+    },
+    {
+      "text": "Kopyrightbehördenleitung gefeuert nach Kritik an KI-Piraterie",
+      "speaker": "host",
+      "economic": -5,
+      "social": -4,
+      "reasoning": "Politische Einflussnahme gegen Regulierung, Racheakt"
+    },
+    {
+      "text": "Google hat wenig Angst vor KI-Konkurrenz, Monopol hält sich",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Optimistisch für Monopolmachterhalt, defensive Marktposition"
+    },
+    {
+      "text": "Kundenservice braucht Balance zwischen KI und Menschen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 3,
+      "reasoning": "Pragmatisches Mittel zwischen Automatisierung und Menschenwürde"
+    },
+    {
+      "text": "Unternehmen, die Pride weiter unterstützen, zeigen echte Werte",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Kritik an Performativismus, Wertschätzung für echtes Engagement"
+    },
+    {
+      "text": "Rohstoffe und Energie werden unter KI zum einzigen Wert",
+      "speaker": "guest",
+      "economic": 7,
+      "social": -2,
+      "reasoning": "Geopolitische Rohstoff-Zentralität, imperialistische Implikationen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ganz ehrlich war es natürlich bei vielen anderen Formaten auch schon zuvor, dass Google hauptsächlich diese Daten woll",
+      "context": "Google zwingt via Standards Webseiten, ihre Daten preiszugeben",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das heißt, dass die USA nicht irgendwo mit Qatar auch mal sich auf dem Schlachtfeld zumindest über sagen, Stellvertreter äh gegenüber stehen",
+      "context": "Spekulation über Rohstoffinteressen und Geopolitik hinter Flugzeug-Deal",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt weder ein Genozid noch irgendeine Art von Verfolgung [in Südafrika gegen weiße Farmer]",
+      "context": "Debunking des Verschwörungsnarrativs, auf dem die selective Aufnahme basiert",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn dein Geschäftsmodell darauf beruht hat, Dinge so Absatz beantworten kann, dann muss man sich auch fragen, ob das langfristig nachhaltig aufgesetzt war",
+      "context": "Kritik an unsustainablen SEO/Publisher-Geschäftsmodellen im AI-Zeitalter",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_XgHyAP8l5Gc",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_XgHyAP8l5Gc",
+  "date": null,
+  "country": "DE",
+  "word_count": 11530
+}

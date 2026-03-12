@@ -1,0 +1,176 @@
+{
+  "economic_score": 2.1,
+  "social_score": 0.3,
+  "n_coded": 19,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, marktwirtschaftlich-libertär positioniert"
+    },
+    {
+      "text": "Big Tech muss zerschlagen werden",
+      "speaker": "host",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Anti-Monopol Position, links auf ökonomischer Achse"
+    },
+    {
+      "text": "Sozialleistungen machen abhängig",
+      "speaker": "host",
+      "economic": 8,
+      "social": null,
+      "reasoning": "Kritik am Sozialstaat, libertär-rechts auf ökonomischer Achse"
+    },
+    {
+      "text": "Datenschutz ist ein Grundrecht",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Bürgerrechte-Fokus, libertäre Position auf Gesellschafts-Achse"
+    },
+    {
+      "text": "KI-Überwachung ist effizient",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Sicherheit über Datenschutz, eher autoritär auf Gesellschafts-Achse"
+    },
+    {
+      "text": "Plattformen müssen Content moderieren",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Leichte autoritäre Neigung bei Content-Kontrolle"
+    },
+    {
+      "text": "Open Source AI bauen statt proprietär",
+      "speaker": "host",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Dezentralisierung, Anti-Monopol Haltung mit freiheitlichem Einschlag"
+    },
+    {
+      "text": "Alphabet underperformed die GAFAM",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Marktbeobachtung, keine normative Position"
+    },
+    {
+      "text": "Wer nicht arbeitet, soll nicht essen",
+      "speaker": "host",
+      "economic": 8,
+      "social": -3,
+      "reasoning": "Libertäre Arbeitsethik, leicht autoritär bei Sanktionen"
+    },
+    {
+      "text": "Telemedizin stärkt Gesundheitsgerechtigkeit",
+      "speaker": "host",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Technologie für soziale Inklusion, linksgerichtet"
+    },
+    {
+      "text": "China braucht den Westen wirtschaftlich",
+      "speaker": "host",
+      "economic": 0,
+      "social": -1,
+      "reasoning": "Pragmatische Geopolitik, gegenseitige Abhängigkeit statt Konflikt"
+    },
+    {
+      "text": "Ukraine-Krieg sollte diplomatisch enden",
+      "speaker": "host",
+      "economic": 0,
+      "social": 1,
+      "reasoning": "Friedensorientierung, pragmatisch ohne klare Links-Rechts-Positionierung"
+    },
+    {
+      "text": "Broadband-Zugang ist strategisch kritisch",
+      "speaker": "host",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Infrastruktur für alle, soziale Teilhabe durch Tech"
+    },
+    {
+      "text": "Newsletter-Monetarisierung für Creator",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Lösung für Content-Wertschöpfung"
+    },
+    {
+      "text": "New York Times Klage gegen OpenAI ist berechtigt",
+      "speaker": "host",
+      "economic": -4,
+      "social": 2,
+      "reasoning": "Schutz von Urheberrechten & Arbeit von Journalisten"
+    },
+    {
+      "text": "Tesla Rohmargen sinken unter 10%",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Marktprognose, keine normative Position"
+    },
+    {
+      "text": "Indien wird das neue China",
+      "speaker": "host",
+      "economic": 1,
+      "social": 3,
+      "reasoning": "Demokratische Dezentralisierung statt autoritärem Modell"
+    },
+    {
+      "text": "Crypto ermöglicht echte finanzielle Freiheit",
+      "speaker": "host",
+      "economic": 7,
+      "social": 6,
+      "reasoning": "Libertäre Finanzphilosophie, Anti-Zentralbank Position"
+    },
+    {
+      "text": "Journalismus braucht neue Geschäftsmodelle",
+      "speaker": "host",
+      "economic": -1,
+      "social": 2,
+      "reasoning": "Mischung aus Marktwirtschaft und sozialer Verantwortung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wenn nicht ist es für China natürlich viel erträglicher also die können zumindest eine Zeit lang glaube ich ihr Volk natürlich besser kontrollieren",
+      "context": "Diskussion über US-China Beziehungen und gegenseitige Abhängigkeiten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wenn du glaubst dass Gendern und Fleisch unser größtes Problem sind dann hast du einfach keinen Horizont",
+      "context": "Kritik an kulturellen Polarisierungen gegenüber realen Problemen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "OpenAI wird Ende 2024 unter 100 Milliarden wert sein weil alles zu good to be true ist",
+      "context": "Vorhersage zur AI-Bewertungsblase",
+      "quiz_suitable": true
+    },
+    {
+      "text": "die Frage ist wie lange die Ukraine ohne Hilfe helfen kann durchhalten",
+      "context": "Analyse der Ukraine-Konflikt Dynamik",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Alphabet underperformed weil sie nicht in Aktienkurs umwandeln können was sie in Deep lernen können",
+      "context": "Analyse von Tech-Unternehmensperformance trotz Innovation",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_PFCfc3GvO14",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_PFCfc3GvO14",
+  "date": null,
+  "country": "DE",
+  "word_count": 17028
+}

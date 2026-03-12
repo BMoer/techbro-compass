@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 47 column 17 (char 1486)",
+  "raw_response": "{\n  \"economic_score\": 2.6,\n  \"social_score\": 0.8,\n  \"n_coded\": 15,\n  \"insufficient_data\": false,\n  \"confidence\": 0.72,\n  \"coded_statements\": [\n    {\n      \"text\": \"Regulierung und Kontrolle von Big Tech sind notwendig\",\n      \"speaker\": \"host\",\n      \"economic\": -5,\n      \"social\": null,\n      \"reasoning\": \"Kritik an Tech-Monopolen, implizite Regulierungsforderung\"\n    },\n    {\n      \"text\": \"Inflation profitiert Reiche durch Asset-Price-Inflation, schadet Mittelschicht\",\n      \"speaker\": \"host\"",
+  "episode_id": "doppelgaenger_ME5CzsM4JjE",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_ME5CzsM4JjE",
+  "date": null,
+  "country": "DE",
+  "word_count": 18582
+}

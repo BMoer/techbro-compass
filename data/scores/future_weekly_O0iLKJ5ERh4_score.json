@@ -1,0 +1,122 @@
+{
+  "economic_score": -1.67,
+  "social_score": 2.5,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wir wollen ein Ökosystem bauen, das Menschen dabei unterstützt, ihre Ideen zu realisieren",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Fokus auf Gemeinschaft & Impact statt Profitmaximierung, progressiv"
+    },
+    {
+      "text": "Staat sollte Risiko-Kapital übernehmen, weil Investoren am Markt nicht bereit sind",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Staatliche Unterstützung für Innovatoren, gegen reinen Markt"
+    },
+    {
+      "text": "Der Fokus muss auf robustem Geschäftsmodell liegen, um Mitarbeiter zu zahlen und zu skalieren",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Markt-Logik: ohne Geld kein Impact"
+    },
+    {
+      "text": "Mehr Flexibilität in Förderprogrammen nötig, weil Märkte sich schneller ändern als Förderverträge",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Deregulierung von Förderstrukturen für Innovation"
+    },
+    {
+      "text": "Wichtig ist eine positive Grundhaltung in Jury-Prozessen, nicht Ablehnung von oben herab",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Menschenwürde, offene Kommunikation, anti-autoritär"
+    },
+    {
+      "text": "Kinder sollten lernen, wie man mit Geld umgeht und eigene Ideen realisiert",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Praktische Bildung, Partizipation & Eigenverantwortung"
+    },
+    {
+      "text": "Es gibt keine Korrelation zwischen investierter Zeit und gutem Output – Pausen sind essentiell",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Work-Life-Balance, gegen Überarbeitungskultur"
+    },
+    {
+      "text": "Die wirklich erfolgreichen Start-ups machen Profit und Impact zusammen, nicht getrennt",
+      "speaker": "host",
+      "economic": 1,
+      "social": 1,
+      "reasoning": "Aligned incentives, pragmatischer Impact-Ansatz"
+    },
+    {
+      "text": "Wir sollten Herausforderungen nicht nur regional, sondern global denken",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Globale Zusammenarbeit, kosmopolitisch"
+    },
+    {
+      "text": "Gesellschaft braucht breite Allgemeinbildung UND praktische Lebenskompetenzen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Ausgewogener Mittelweg zwischen Theorie & Praxis"
+    },
+    {
+      "text": "Führungskräfte müssen ehrliches Feedback geben und persönliche Beziehung aufbauen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Humanistische Führung, gegen hierarchische Distanz"
+    },
+    {
+      "text": "Wir werden bald radikale neue Lernmodelle sehen, weg von Fach-Strukturen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Progressive Bildungsreform, kooperativ & partizipativ"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn der Fördergeber verlangt, dass das Projekt genau so umgesetzt wird wie eingereicht, zwingt man sie zu tun, was der Markt nicht braucht",
+      "context": "Kritik an rigiden Förderstrukturen, die Innovation bremsen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Angry Birds war der 51. Titel von Rovio – davor 50 Flops. Wie würde man mit jemandem umgehen, der zum 50. Mal abgelehnt wird?",
+      "context": "Argument für wohlwollende Jury-Kultur und Persistenz",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Impact ist nicht nur Umverteilung – es geht um drei Disconnects: Mensch zu Mensch, Mensch zu Umwelt, Mensch zu sich selbst",
+      "context": "Definition von Impact über Verbindungslosigkeit statt nur Ökonomie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "The Most Important Thing ist jeden Morgen zu fragen, nicht 200 E-Mails abarbeiten",
+      "context": "Praktischer Hack gegen Überbelastung durch Priorisierung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_O0iLKJ5ERh4",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_O0iLKJ5ERh4",
+  "date": null,
+  "country": "AT",
+  "word_count": 10237
+}

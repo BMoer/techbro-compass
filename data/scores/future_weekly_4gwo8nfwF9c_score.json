@@ -1,0 +1,108 @@
+{
+  "economic_score": 3.4,
+  "social_score": 2.8,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wir haben gelernt mit wenig, müssen globaler denken, nicht nur Heimmarkt",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatischer Marktansatz, weder stark links noch rechts"
+    },
+    {
+      "text": "Sprachbarrieren hindern uns, Teams nutzen zu viel Deutsch statt Englisch",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an institutionellen Barrieren, moderates Anliegen"
+    },
+    {
+      "text": "Unternehmertum ist Haltung, Lebenseinstellung, innerer Kompass",
+      "speaker": "guest",
+      "economic": 5,
+      "social": 3,
+      "reasoning": "Betont Eigenverantwortung und Freiheit der Unternehmerpersönlichkeit"
+    },
+    {
+      "text": "Wirtschaft schafft Fortschritt: weniger Armut, Krankheiten, Innovation",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Starke Pro-Markt-Position, verteidigt Wirtschaftssystem"
+    },
+    {
+      "text": "Bildungssystem trainiert Neugierde und Risikoverhalten ab, nicht an",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an autoritären Strukturen, Forderung nach mehr Freiheit"
+    },
+    {
+      "text": "Unternehmertum braucht Vorbildwirkung und Narrativ, nicht nur Pitches",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 5,
+      "reasoning": "Kulturelle Umgestaltung gefordert, freire Selbstentfaltung erwünscht"
+    },
+    {
+      "text": "Problem-Löser-Mentalität: Stört dich was, schau ob 5 andere es auch stört",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pragmatischer Unternehmeransatz, Marktorientierung"
+    },
+    {
+      "text": "Wir machen rahmenbedingungen, aber oft schwierig gegen all odds",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung von Regulierung und Rahmensetzung"
+    },
+    {
+      "text": "Innovation wird durch Pandemie Katalysator, Welt wird besser",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Optimistische pro-innovation, aber auch pro-markt Position"
+    },
+    {
+      "text": "Finanzierung im seed/wachstum: Österreich spielt untergeordnete Rolle",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik am Kapitalmarkt, aber nicht grundsätzlich anti-kapitalistisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die Wirtschaft ist schuld - sehr einfach, populistische Erklärung für alles",
+      "context": "Mahrer kritisiert pauschale Wirtschaftskritik als zu simpel",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Unternehmertum ist eine Haltung - ein Wertesystem, innerer Kompass",
+      "context": "Definition von Entrepreneurship jenseits von Profit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Elon Musk arbeitet seit Jahrzehnten 7 Tage/Woche, nicht alle Dinge funktionieren",
+      "context": "Unternehmer sind nicht privilegiert, sondern hart arbeitend",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn halb Europa sieht wie einer singt und kritisiert - warum nicht Unternehmertum?",
+      "context": "Plädoyer für Vorbildwirkung von Unternehmern wie bei Sportstars",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_4gwo8nfwF9c",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_4gwo8nfwF9c",
+  "date": null,
+  "country": "AT",
+  "word_count": 9587
+}

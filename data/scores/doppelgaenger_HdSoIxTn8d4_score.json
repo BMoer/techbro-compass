@@ -1,0 +1,143 @@
+{
+  "economic_score": 1.6,
+  "social_score": 2.0,
+  "n_coded": 15,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Algorithmen funktionieren besser als Medienhäuser - Algorithmen capturieren Attention besser",
+      "speaker": "host",
+      "economic": 5,
+      "social": -2,
+      "reasoning": "Marktkräfte über journalistische Qualität; leichte Autoritarismus durch Zensorbedenken"
+    },
+    {
+      "text": "Medienplattformen müssen Debattenformate mit beiden Seiten zeigen statt nur Parteiische",
+      "speaker": "host",
+      "economic": 0,
+      "social": 4,
+      "reasoning": "Pluralismus, gegen Filterblase; libertäre Informationsfreiheit"
+    },
+    {
+      "text": "Google verbraucht massiv mehr CO2, aber pro Umsatz-Dollar effizienter als Weltwirtschaft",
+      "speaker": "host",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Technische Effizienzbetrachtung, ideologisch neutral positioniert"
+    },
+    {
+      "text": "Man sollte das robots.txt-Protokoll umkehren - standardmäßig Bots blocken, whitelist erlauben",
+      "speaker": "host",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Datenschutz/Webmaster-Rechte; Regulation gegen unnütze Bots; libertär (Kontrolle)"
+    },
+    {
+      "text": "CloudFlare könnte das ganze Netz grüner machen durch Bot-Filterung und Millionen Tonnen CO2 sparen",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Ökologische Verantwortung; technische Lösung für Gemeinwohl"
+    },
+    {
+      "text": "CloudFlare könnte auch zum Gatekeeper werden - Whitelisting gegen Gebühren wie AdBlock Plus",
+      "speaker": "host",
+      "economic": -4,
+      "social": -3,
+      "reasoning": "Kritik an potenzieller Monopolisierung und Erpressung; regulatorische Besorgnis"
+    },
+    {
+      "text": "APIs statt Web-Scraping - Unternehmen sollten direkte Schnittstellen statt Websites crawen",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Effizienz und Datenschutz; gegen exploitative Bot-Praktiken"
+    },
+    {
+      "text": "Temu/Shein manufacturer-to-consumer Modell ist wahrscheinlich die größte E-Commerce Innovation in 10 Jahren",
+      "speaker": "host",
+      "economic": 6,
+      "social": 0,
+      "reasoning": "Marktliberalismus, Disruption bestehender Handelsfunktionen, Effizienzgewinne"
+    },
+    {
+      "text": "About You sollte das europäische Temu-Modell nicht exakt kopieren - Kostenstruktur unterscheidet sich zu sehr",
+      "speaker": "host",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Pragmatische Marktanalyse, keine Ideologie"
+    },
+    {
+      "text": "Nvidia wird von Frankreich wegen CUDA-Lock-in und Marktmacht angeklagt - künstliche Hürde",
+      "speaker": "host",
+      "economic": -4,
+      "social": -2,
+      "reasoning": "Pro-Wettbewerb; gegen monopolistische Praktiken; regulatorische Intervention"
+    },
+    {
+      "text": "Elon/XAI trainiert grock3 auf 100.000 Nvidia GPUs - viel Rechenpower, wenig klarer Vorteil",
+      "speaker": "host",
+      "economic": 5,
+      "social": 0,
+      "reasoning": "Beschreibung von Kapitalismus/Wettbewerb durch Rohstoffansatz"
+    },
+    {
+      "text": "Hims generisches GLP-1 Modell könnte jederzeit vom Gesetz unterbunden werden",
+      "speaker": "host",
+      "economic": -2,
+      "social": 0,
+      "reasoning": "Regulatorisches Risiko, keine substanzielle Besorgnis über Geschäftsmodell"
+    },
+    {
+      "text": "Hunter Brook short report zitiert anonyme Reddit-Nutzer statt wissenschaftlicher Studien - mangelnde Glaubwürdigkeit",
+      "speaker": "host",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Kritik an unseriöser Informationspraxis; Transparenzforderung"
+    },
+    {
+      "text": "Threads wächst, X sinkt - Meta könnte von Wechseldynamiken profitieren",
+      "speaker": "host",
+      "economic": 3,
+      "social": 0,
+      "reasoning": "Markttrends, Plattformkonkurrenz"
+    },
+    {
+      "text": "Magic.de will Coworker für Developer bauen - großer Kontextwindow (5M Tokens) für Legacy-Software-Verstehen",
+      "speaker": "host",
+      "economic": 5,
+      "social": 0,
+      "reasoning": "Kapitalistische Innovation, Wettbewerb um AI-Entwickler-Tools"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Algorithmen funktionieren besser als Medienhäuser - Algorithmen capturieren Attention deutlich besser",
+      "context": "Diskussion über Journalismusverfall und Social-Media-dominierte Nachrichtenverteilung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Man könnte davon ausgehen dass bis zu 50% des Web-Traffics gar nicht von Menschen kommt - Roboter",
+      "context": "ÖkologischeAuswirkungen von Bot-Traffic auf Datenzentren und Stromverbrauch",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Temu/Shein manufacturer-to-consumer ist wahrscheinlich die größte E-Commerce-Innovation der letzten 10 Jahre",
+      "context": "E-Commerce-Modelle und Disruption traditioneller Handelsstrukturen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "CloudFlare könnte Millionen Tonnen CO2 sparen indem sie Bot-Traffic blockieren - und das am besten uneigennützig",
+      "context": "Klimaaspekte der Internetinfrastruktur und corporate ESG-Strategien",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_HdSoIxTn8d4",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_HdSoIxTn8d4",
+  "date": null,
+  "country": "DE",
+  "word_count": 13544
+}

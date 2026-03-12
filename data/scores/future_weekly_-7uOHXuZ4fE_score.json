@@ -1,0 +1,122 @@
+{
+  "economic_score": 1.2,
+  "social_score": 2.6,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "ein Unternehmen mit 0 Umsatz, 0 Kunden wird mit einer Milliarde bewertet",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Investment in Future, pragmatisch-bewertend, nicht wertend"
+    },
+    {
+      "text": "Marc Andreessen investiert 350 Millionen - das ist eine Wette auf die Zukunft",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Befürwortung risikokapitalistischer Innovationsfinanzierung, leicht libertär"
+    },
+    {
+      "text": "Wohnen wird zum Massenproblem - nur noch Top 1% können sich Eigentum leisten",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Marktversagen, soziales Problem, implizit regulierungsbedürftig"
+    },
+    {
+      "text": "Crypto löst das Problem der Intransparenz und des Overheads bei Zahlungen",
+      "speaker": "host",
+      "economic": 5,
+      "social": 4,
+      "reasoning": "Pro-Dezentralisierung, Marktlibertarismus, Anti-Bürokratie"
+    },
+    {
+      "text": "Internet Provider verkaufen illegal Tracking-Daten an Werbefirmen weiter",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Datenschutz-Kritik, libertäre Besorgnis um Privatspäre"
+    },
+    {
+      "text": "China zwingt TikTok und Alibaba zur Offenlegung ihrer Algorithmen",
+      "speaker": "host",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Regulierung von oben, potenzielle Zensurinfrastruktur, Überwachungspotenzial"
+    },
+    {
+      "text": "Algorithmus-Offenlegung kann zur besseren Zensur genutzt werden",
+      "speaker": "host",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Warnung vor autoritärer Nutzung technischer Transparenz"
+    },
+    {
+      "text": "Wenn man Daten offen legt, misinterpretieren Menschen diese als Waffe",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Skeptische Sicht auf öffentliche Informationsverarbeitung"
+    },
+    {
+      "text": "Enkel-Vermietung gegen Einsamkeit - interessant aber moralisch fragwürdig",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Marktlösung für Sozialprobleme, Communitarismus mit Commodification"
+    },
+    {
+      "text": "Kindergärten und Altersheime sollten zusammengelegt werden",
+      "speaker": "host",
+      "economic": -1,
+      "social": 6,
+      "reasoning": "Innovative Gemeinschaftslösung, hochgradig libertär-voluntaristisch"
+    },
+    {
+      "text": "Google Maps sollte Spritsparen-Route als Standard setzen",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Tech-Regulierung für Umweltziele, implizite Kritik an Marktmacht"
+    },
+    {
+      "text": "Apple wird Werbung in seinen Apps einführen - User Experience Risiko",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kommerzialisierung, aber skeptisch-neutral analysiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wenn Andreessen Horowitz investiert, funktioniert das hier - Self-Fulfilling Prophecy",
+      "context": "Über Marktmacht von Top-Investoren und deren Signalwirkung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Früher konnte ein Schuhverkäufer 1987 ein Haus mit 2 Autos kaufen - heute unmöglich",
+      "context": "Über Vermögenspolarisierung und Immobilienkrise",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Crypto ist nicht Bitcoin - das Konzept und die Blockchain sind die Lösung",
+      "context": "Über Unterschied zwischen Crypto-Technologie und spezifischen Coins",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Nord Korea hat Covid besiegt - satirische Referenz auf offizielle Propaganda",
+      "context": "Ironie über totalitäre Regimes und deren Informationskontrollen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_-7uOHXuZ4fE",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_-7uOHXuZ4fE",
+  "date": null,
+  "country": "AT",
+  "word_count": 10087
+}

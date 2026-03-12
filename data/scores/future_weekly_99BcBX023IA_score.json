@@ -1,0 +1,94 @@
+{
+  "economic_score": 0.6,
+  "social_score": 1.8,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.62,
+  "coded_statements": [
+    {
+      "text": "Bauen ist die teuerste Art zu validieren",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an kapitalintensiven Methoden, Befürwortung lean startup/pragmatischer Ressourcennutzung"
+    },
+    {
+      "text": "Wir hätten viel früher in Crypto investieren sollen",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktwirtschaftliches Denken, Profitmaximierung durch frühe Positionierung in neuen Märkten"
+    },
+    {
+      "text": "Das Bildungssystem ist nicht flexibel genug für digitale Skills",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Kritik an institutionellem System, Befürwortung von Bildungsreformen (autoritär-Achse: kritisch vs. status quo)"
+    },
+    {
+      "text": "Geld verdienen bei Banking ist kein Problem, wenn es fließt",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Pro-Markt, optimistisch bezüglich Monetarisierungspotenziale, klassisch liberal-ökonomisch"
+    },
+    {
+      "text": "LinkedIn könnte best geeignet sein für Matching-Algorithmen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 3,
+      "reasoning": "Datengetriebenes Denken, Effizienzglaube, aber auch Transparenz-/Privatsphären-Bewusstsein"
+    },
+    {
+      "text": "Ich möchte nachhaltiger wachsen, weniger Kompromisse machen",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 1,
+      "reasoning": "Qualität über Growth-at-all-costs, nachhaltige/sozialverantwortliche Haltung"
+    },
+    {
+      "text": "Lehrer müssen Unternehmertum selbst verkörpern und fördern",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 4,
+      "reasoning": "Befürwortung von gesellschaftlicher Transformation durch Bildung, libertär (Empowerment statt Regulierung)"
+    },
+    {
+      "text": "Viele werden bei Operations-Hype blind kopieren statt zu denken",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Kritik an Herdentrieb in Startup-Ökosystem, Rationalität vs. blinde Marktnachfolge"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Bauen ist die teuerste Art um zu validieren",
+      "context": "Markus erklärt Startups ihre größten Fehler beim MVP-Ansatz",
+      "quiz_suitable": true
+    },
+    {
+      "text": "LinkedIn könnte einen Score kreieren: Passt diese Person zu dieser Firma",
+      "context": "Vision für datengetriebenes Recruiting und Matching im Jobs-Markt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich möchte keine Hypergrowth-Company mehr bauen, sondern nachhaltiger wachsen",
+      "context": "Markus reflektiert über seine Prioritäten nach Endlich-Sechs Erfahrung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Problem: Autonome Autos funktionieren nur wo Regeln gelten",
+      "context": "Diskussion über Amsterdam-Fahrräder als Gegenbeispiel zu European altstadt",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_99BcBX023IA",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_99BcBX023IA",
+  "date": null,
+  "country": "AT",
+  "word_count": 13580
+}

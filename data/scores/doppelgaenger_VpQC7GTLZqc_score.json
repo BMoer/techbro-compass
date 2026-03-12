@@ -1,0 +1,122 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.6,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, pro-Deregulierung"
+    },
+    {
+      "text": "Wir brauchen eine deutsche Cloud und Datensouveränität",
+      "speaker": "host",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Staatliche Kontrolle von Infrastruktur, aber zur Freiheitssicherung"
+    },
+    {
+      "text": "Stock Buybacks statt Investitionen sind Sickerverluste für die Wirtschaft",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik am Kapitalismus ohne Reinvestition"
+    },
+    {
+      "text": "Inflation ist eine Steuer auf arme Menschen",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an regressive Effekte von Inflation"
+    },
+    {
+      "text": "Wenn wir Konzerne nicht besteuern können, muss Energie das Mittel sein",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Staatliche Kontrolle als Regulierungsmittel"
+    },
+    {
+      "text": "Verstaatlichung von TikTok ist kompletter Unfug",
+      "speaker": "host",
+      "economic": 4,
+      "social": 3,
+      "reasoning": "Anti-Verstaatlichung, für private Marktwirtschaft und Freiheit"
+    },
+    {
+      "text": "Menschen sollten aus wirtschaftlichen Gründen zu deutschen Clouds wechseln, nicht aus Patriotismus",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatisch, marktorientiert, keine ideologische Forderung"
+    },
+    {
+      "text": "Stock Buybacks haben sich in 15 Jahren verdreifacht statt Investitionen zu tätigen",
+      "speaker": "host",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Kritik an Kapitalallokation zugunsten von Aktionären"
+    },
+    {
+      "text": "Elon Musk führt Pressekonferenzen durch wie Show-Politik, um Deals zu marketen",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Manipulationstaktiken, illiberale Machttechniken"
+    },
+    {
+      "text": "Leute sollten nicht aus ideologischen Gründen ihre Daten bei US-Konzernen hosten",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Für Datenschutz und Bürgerrechte"
+    },
+    {
+      "text": "Man kann nicht erwarten, dass 40.000 Hörer alle gleich denken und die Podcaster nach dem Mund reden",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Pro-Meinungsfreiheit, gegen Cancel Culture"
+    },
+    {
+      "text": "Sich konstruktives im kleineren Rahmen zu machen hilft mental mehr als sich über Weltpolitik zu verzweifeln",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Keine ökonomische oder autoritäre Dimension"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Stock Buybacks sind Sickerverluste für die Wirtschaft, während echte Investition sie stimuliert",
+      "context": "Kritik an der Kapitalallokationsstrategie von Tech-Unternehmen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn Trump die Grenzen dicht macht und Zölle einführt, steigen Preise und Löhne - das ist Inflation als Steuer auf arme Menschen",
+      "context": "Prognose zu wirtschaftlichen Folgen von Trumps Politik",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die gleichen Instagram Accounts schreien 'Free Speech!' und sagen dann 'wie kannst du es wagen das als Hitler-Gruß zu bezeichnen'",
+      "context": "Kritik an Heuchelei von Free-Speech-Aktivisten beim Elon Musk Salut",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Stargate ist Bullshit - rotes Band um bestehende Projekte, damit Trump bei der Pressekonferenz abliefern kann",
+      "context": "Skeptische Analyse des Stargate AI-Investitionsversprechens",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_VpQC7GTLZqc",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_VpQC7GTLZqc",
+  "date": null,
+  "country": "DE",
+  "word_count": 11265
+}

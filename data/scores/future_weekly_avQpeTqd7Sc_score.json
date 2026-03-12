@@ -1,0 +1,96 @@
+{
+  "economic_score": 1.0,
+  "social_score": 2.33,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Venture Capital profitiert von Tech-Feudalismus und wird deshalb nicht umdenken",
+      "speaker": "host",
+      "economic": -5,
+      "social": -3,
+      "reasoning": "Kritik an VC-Machtkonzentration, aber pragmatisch-resignativ"
+    },
+    {
+      "text": "Elon Musk betreibt brutale Marktmanipulation mit Bitcoin und Memes",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an Missbrauch von Plattformmacht, keine ökonomische Position"
+    },
+    {
+      "text": "Universitäten sollten unabhängig sein, aber auch Wandel ermöglichen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Abwägend, pragmatisch, kein klares ideologisches Statement"
+    },
+    {
+      "text": "Kulturwandel muss beschleunigt werden, um mit technologischem Wandel mittzuhalten",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Pro-Veränderung, pro-Innovation, gesellschaftlich reformorientiert"
+    },
+    {
+      "text": "Bei Pandemie-Impfung sollten Logistiker entscheiden, nicht Ethiker",
+      "speaker": "host",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Effizienz über Partizipation, autoritäre Entscheidungsfindung bevorzugt"
+    },
+    {
+      "text": "Aktienmarkt-Spekulation schafft keinen echten wirtschaftlichen Wert",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an reiner Finanzspekulation ohne Realwirtschaftsbezug"
+    },
+    {
+      "text": "Digitale NFT-Kunstwerke bieten Authentizität, Transparenz und neuen Künstlermarkt",
+      "speaker": "host",
+      "economic": 4,
+      "social": 4,
+      "reasoning": "Pro-Dezentralisierung, pro-Innovation, demokratisiert Kunstmarkt"
+    },
+    {
+      "text": "Third-Party Cookies regulieren schadet Wettbewerb, Data Trusts wären smarter",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Kritik an Regulierung, aber für gemeinwohlorientierte Alternative"
+    },
+    {
+      "text": "Österreichische Gründer verlassen Land wegen fehlender Bedingungen - Anreize nötig",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pro-Unternehmertum, pro-Innovation, aber auch kritisch zu Standort"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das größte Problem ist, dass wir probieren, allen irgendwie recht zu machen",
+      "context": "Diskussion über langsame institutionelle Entscheidungsfindung vs. schnelle Änderungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Strukturell ist nach 30 Jahren nichts nachgekommen zwischen Ost- und Westdeutschland",
+      "context": "Beispiel für kulturellen Wandel, der nicht funktioniert",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Bei diesen Themen musst du aus deinem Silo raushören, um mithalten zu können",
+      "context": "Anforderung an modernen Information-Consumer",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_avQpeTqd7Sc",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_avQpeTqd7Sc",
+  "date": null,
+  "country": "AT",
+  "word_count": 11503
+}

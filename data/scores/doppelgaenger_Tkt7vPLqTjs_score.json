@@ -1,0 +1,148 @@
+{
+  "economic_score": 1.33,
+  "social_score": 2.67,
+  "n_coded": 15,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Die großen Tech-Unternehmen sind bereit, alles zu tun, um AGI zu gewinnen",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unternehmertum, aggressiver Wettbewerb, wenig Regulierung"
+    },
+    {
+      "text": "Cloudflare macht Defaults bei KI-Crawlern zu - das ist de facto Regulierung",
+      "speaker": "host",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Infrastruktur-Machtposition setzt Kontrollen durch, schützt Nutzer"
+    },
+    {
+      "text": "Content-Creator werden von KI-Firmen wie Open AI ausgebeutet ohne Kompensation",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Kapitalverhältnissen, Umverteilung gegen Unternehmen"
+    },
+    {
+      "text": "Google bricht den Internet-Vertrag - nimmt Content ohne Traffic zurückzugeben",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Marktmacht-Kritik, unfaire Geschäftsbedingungen"
+    },
+    {
+      "text": "Ich würde 80% in Infrastruktur/Hardware stecken, nicht in Model-Training",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktorientierter Invest-Ansatz, Skeptik ggü. Hype"
+    },
+    {
+      "text": "KI-Tools wie Peak AI werden keine Unicorns - ökonomischer Nutzen fehlt",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Marktkritische Analyse, Skepsis ggü. Bewertungen"
+    },
+    {
+      "text": "Cloudflare schafft einen zweiseitigen Marktplatz für Content - bessere Verhandlungsposition",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Marktkräfte regeln Allokation, aber mit infrastruktureller Macht"
+    },
+    {
+      "text": "Wenn alle ISPs KI-Crawler blocken, funktioniert RAG-Suche nicht mehr",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Technische Kontrolle über Informationsfluss, Kollektivhandeln"
+    },
+    {
+      "text": "Elon Musk nach Südafrika zu deportieren wäre lustig und berechtigt",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Skeptische/feindliche Haltung zu Migration von Eliten"
+    },
+    {
+      "text": "Tesla-Verkäufe fallen 13,5% weil Leute Elon Musk unsympathisch finden",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Markt reagiert auf persönliche Faktoren, nicht rein rational"
+    },
+    {
+      "text": "Peak AI ist nicht offensichtlich lukrativ - KI-Traffic zu klein",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Sachliche Marktbewertung, Skeptik ggü. Bubble"
+    },
+    {
+      "text": "Robin Hood tokenisiert Aktien - Settlement wird real-time ohne DTCC",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Deregulierung, Blockchains, Umgehung traditioner Strukturen"
+    },
+    {
+      "text": "Gegen Elon Musk auf Prediction Markets zu wetten ist statistisch sinnvoll",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktineffizienzen ausnutzen, rationales Investieren"
+    },
+    {
+      "text": "Sparkasse + Google Wallet ermöglicht Age-Gating über EC-Karte",
+      "speaker": "host",
+      "economic": 2,
+      "social": 5,
+      "reasoning": "Tech-Lösung für Jugendschutz, dezentrale Authentifizierung"
+    },
+    {
+      "text": "Der AI-Wahnsinn ist erst der Anfang - wird noch schlimmer",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unregulierter Wettbewerb, Eskalation, high-stakes-Dynamik"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das ist der letzte Jackpot der Menschheit - danach macht der Rest KI",
+      "context": "Erklärung des existenziellen Drucks im AGI-Rennen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "1700 mal crawlen für einen Besucher bei Open AI",
+      "context": "Asymmetrie zwischen KI-Trainingsdaten-Extraktion und Web-Traffic",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Defaults Matter - wenn Cloudflare das ändert, ändert sich das ganze Web",
+      "context": "Infrastruktur als stille Regulierungsmacht",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Code becomes law, not by thee, but by the default toggle",
+      "context": "Google-Mitarbeiter bestätigt infrastrukturelle Governance",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir haben keinen Gedanke davon, wie wichtig dieses Thema ist",
+      "context": "Warnung vor eskalierender Industrial Espionage im AI-Rennen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_Tkt7vPLqTjs",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_Tkt7vPLqTjs",
+  "date": null,
+  "country": "DE",
+  "word_count": 15653
+}

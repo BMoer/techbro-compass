@@ -1,0 +1,108 @@
+{
+  "economic_score": 1.4,
+  "social_score": 3.4,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Wir brauchen Entrepreneurship, smarte Lösungen von Menschen, die anders, wilder, radikaler, mutiger denken",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Pro-Unternehmertum, Progressive Haltung"
+    },
+    {
+      "text": "Project Europe: Accelerator mit 200.000€ Funding pro Startup, Unterstützung von Top-Gründern",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kapitalistische Förderung von Innovation"
+    },
+    {
+      "text": "Diversity Programme werden einfach abgesägt - zeigt, dass es doch nicht so wichtig war wie behauptet",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Kritik an Rückbau von Inklusionspolitik, libertäre Perspektive"
+    },
+    {
+      "text": "Die ganzen CEOs sagen Diversity ist Fundament, springen um und fahren Programme runter",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Pro-Pluralismus, Kritik an autoritärer Wendung"
+    },
+    {
+      "text": "Wenn man anfängt Comedy zu zensieren ist das historisch nie richtig gewesen - Indikator für falsche Entwicklung",
+      "speaker": "host",
+      "economic": null,
+      "social": 7,
+      "reasoning": "Stark libertär: Anti-Zensur als Freiheitsschutz"
+    },
+    {
+      "text": "Wissenschaft darf nicht durch Ideologie überstellt werden - das sehen wir historisch immer als warnsignal",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Libertär: Wissensfreiheit vor ideologischer Kontrolle"
+    },
+    {
+      "text": "Nur 4 von 134 Startups mit Finanzierungsrunde hatten rein weibliches Founding Team 2024",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Kritik an Marktversagen & Ungleichheit, Forderung nach Intervention"
+    },
+    {
+      "text": "Tech-Milliardäre kaufen sich ins politische System ein, Peter Thiel: 'Zero to One' - Monopol koste es was es wolle",
+      "speaker": "host",
+      "economic": -5,
+      "social": -3,
+      "reasoning": "Anti-Monopol, Kritik an ungeregelter Tech-Macht und Kapitalkonzentration"
+    },
+    {
+      "text": "Gründen als Eltern bedeutet Freiheit - niemand fremdsteuert dich, du entscheidest selbst",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 5,
+      "reasoning": "Pro-Autonomie, Pro-Unternehmertum als liberale Alternative zu Angestelltenverhältnissen"
+    },
+    {
+      "text": "Europa hat Chance: bessere Elternzeitregelungen, Kindergartenplätze, Support statt 'morgen wieder arbeiten'",
+      "speaker": "host",
+      "economic": -3,
+      "social": 6,
+      "reasoning": "Pro-Sozialleistungen, Kritik am autoritären US-Modell"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn man anfängt Comedy zu zensieren ist das historisch nie richtig gewesen",
+      "context": "Warnung vor autoritären Tendenzen und Redefreiheitsgefährdung in den USA",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die CEOs sagen alle: Diversity ist unser Fundament. Regierung springt um und sie fahren alle Programme weg.",
+      "context": "Kritik an Scheinheiligkeit der Tech-Branche bei Diversity-Fragen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Peter Thiel: Wie baut man ein Monopol auf? Koste es was es wolle? Und jetzt probiert die Techbranche genau das gerade.",
+      "context": "Warnung vor unkontrollierter Marktkonzentration durch Tech-Magnaten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "In dem Moment wo man es nicht mehr erwähnen muss, ist es auch schon erledigt - so wie Farbfernsehen",
+      "context": "Vision von Geschlechterparität als Normalzustand ohne weitere Diskussionsbedarf",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_qaq4HfCKZbE",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_qaq4HfCKZbE",
+  "date": null,
+  "country": "AT",
+  "word_count": 6877
+}

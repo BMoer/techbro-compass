@@ -1,0 +1,127 @@
+{
+  "economic_score": 1.67,
+  "social_score": 1.67,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Open AI wird höhere Produktivitätssteigerung bringen als ganz Web3/Crypto",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Marktdisruption durch AI-Technologie, Pro-Innovation"
+    },
+    {
+      "text": "Wenn Daten liberalisiert würden, könnte OpenAI Google ablösen",
+      "speaker": "host",
+      "economic": -5,
+      "social": 5,
+      "reasoning": "Datenschutz/Eigentumsrechte, Anti-Monopol, Regulierung"
+    },
+    {
+      "text": "Entwickler werden durch No-Code und AI obsolet",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Technologische Disruption, ideologisch neutral"
+    },
+    {
+      "text": "Business Angels verlieren im Median Geld",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Faktische Aussage über Marktrenditen"
+    },
+    {
+      "text": "Mit 1 Million kann man gerade so von Dividenden leben",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Vermögensanalyse, keine Wertung"
+    },
+    {
+      "text": "YouTube-Spam und Scam nehmen zu, Plattform verdient mit",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an mangelnder Moderation und Kontrollmechanismen"
+    },
+    {
+      "text": "Regulierung ist Hauptinhibitor für autonome Fahrzeuge, nicht Technologie",
+      "speaker": "host",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Pro-Regulierung, Skeptik gegenüber unregulierten Disruption"
+    },
+    {
+      "text": "ChatGPT3 ist beeindruckend, aber Datenbasis begrenzt im Vergleich zu Google",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Technische Analyse, keine ideologische Position"
+    },
+    {
+      "text": "AI-Prompting wird nächster kritischer Marketing-Skill",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-Technologie-Adoption, Effizienzsteigerung"
+    },
+    {
+      "text": "Viele Startups werden gebaut, nur um GPT3/4 zu monetarisieren",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Opportunistische Kapitalisierung von Technologie"
+    },
+    {
+      "text": "AI verdient im Median gar nicht besser als am Aktienmarkt durchschnitts investieren",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Statistisch-pragmatische Aussage zur Rendite"
+    },
+    {
+      "text": "Metaverse-Wette von Zuckerberg falsch, OpenAI wichtiger",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Bewertung von Tech-Investitionen, pro-AI-Richtung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die AI hebt auf jeden Fall auf im Vergleich zu schlauen Menschen",
+      "context": "Diskussion über ChatGPT und ob es Jobs gefährdet",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Entwickler sind Toast - erst no-code, dann AI-code",
+      "context": "Prognose über betroffene Berufsgruppen in der Software",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn man die Daten aus den Walled Gardens befreien würde, gäbe es brutale Innovationsschübe",
+      "context": "Forderung nach Datenliberalisierung gegen Google-Monopol",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Median Business Angel verliert Geld",
+      "context": "Realistische Einschätzung von Private-Equity-Renditen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "YouTube-Kommentare sind komplett kaputt durch Spam und Scam",
+      "context": "Kritik an Content-Moderation auf Plattformen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_ptbh4ni-tcg",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_ptbh4ni-tcg",
+  "date": null,
+  "country": "DE",
+  "word_count": 10072
+}

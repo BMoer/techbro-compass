@@ -1,0 +1,127 @@
+{
+  "economic_score": -0.6,
+  "social_score": 1.2,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Krisen sind beste Zeit für gute Ideen, man muss mit Geld haushalten",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Befürwortet Sparsamkeit in Krisen, aber nicht anti-kapitalistisch"
+    },
+    {
+      "text": "Investoren halten Geld lieber in Werten, verkaufen ungern bei Kursverlust",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an zu vorsichtiger Kapitalallokation, eher marktkritisch"
+    },
+    {
+      "text": "Big Tech Plattformen müssen ethische Verantwortung übernehmen bei neuen Techs",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Fordert Regulierung von Tech, aber mit Freiraum für Innovation"
+    },
+    {
+      "text": "Facebook/Meta vernachlässigt moralische und ethische Themen für Wachstum",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an fehlender ethischer Verantwortung, libertäre Perspektive"
+    },
+    {
+      "text": "Netzwerk-Recruiting führt zu Betriebsblindheit und fehlender Diversität",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Warnt vor Insider-Netzwerken, befürwortet mehr Offenheit"
+    },
+    {
+      "text": "Lebensmittelverschwendung ist massives Problem, muss Priorität sein",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 1,
+      "reasoning": "Sozialverträgliche Problemlösung, aber nachhaltiger Fokus"
+    },
+    {
+      "text": "Spitzenforschung in KI wird vernachlässigt, Österreich verliert Wettbewerbsfähigkeit",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Fordert staatliche Investition in Forschung, kompetitiv orientiert"
+    },
+    {
+      "text": "Politiker setzen auf Breite statt Spitze aus Wahlgründen, falsche Priorität",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Kritik an populistischer Politikgestaltung"
+    },
+    {
+      "text": "Neue Venture Funds mit Gender Balance investieren strategisch besser",
+      "speaker": "host",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Befürwortet Diversität als Geschäftsprinzip und Gesellschaftswert"
+    },
+    {
+      "text": "Meta kooperiert mit Luxusbrands für Avatar-Fashion, problematisch für Psyche",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Besorgt um Auswirkungen auf mentale Gesundheit durch virtuelle Identität"
+    },
+    {
+      "text": "Anonyme Apps wie BeReal ermöglichen ehrliches Feedback, aber riskant für Cybermobbing",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Abwägend zwischen Freiheit und Schutzbedarfen"
+    },
+    {
+      "text": "Antizyklisches Arbeiten in Krisen schafft positive Value für Startup-Community",
+      "speaker": "host",
+      "economic": -1,
+      "social": 2,
+      "reasoning": "Sozialökonomisches Denken, gemeinschaftsorientiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Facebook ist eine Sekte, Meta hat jetzt echte Sekten im Department",
+      "context": "Diskussion über Fellowship of Friends in Googles Developer Studio",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Krisen sind beste Zeit gute Ideen zu bauen - Airbnb & Facebook entstanden in Krisen",
+      "context": "Begründung warum Rezession Chancen für Startups bietet",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn man nur Leute mit gleichen Überzeugungen hat, wird man betriebsblind",
+      "context": "Kritik an Homogenität in Tech-Unternehmen-Netzwerken",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir verlieren Top-Forscher an Deutschland weil Österreich kein Geld in Spitzenforschung steckt",
+      "context": "Sepp Hochreiter kritisiert Linzer Digital-Universität",
+      "quiz_suitable": true
+    },
+    {
+      "text": "In Online-Vorlesungen sieht keiner dass ich im Rollstuhl sitze - vollständige Gleichheit",
+      "context": "Positive Beispiele von Technologie für Menschen mit Behinderungen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_Gxd3KXQNsgc",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_Gxd3KXQNsgc",
+  "date": null,
+  "country": "AT",
+  "word_count": 6988
+}

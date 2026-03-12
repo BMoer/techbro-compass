@@ -1,0 +1,127 @@
+{
+  "economic_score": 1.8,
+  "social_score": 0.2,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "wenn du gründen willst darfst du auf keinen Fall zur Unternehmensberatung gehen",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Management-Consulting, fördert unternehmerische Mentalität statt Optimierung"
+    },
+    {
+      "text": "deutsche Startups machen nur 5-10% besser, niemand 2-3x besser - das ist das Problem",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik an inkrementeller Innovation statt disruptiver Gründertätigkeit"
+    },
+    {
+      "text": "Big Tech muss zerschlagen werden - Meta mit Open Source kaputt den Markt",
+      "speaker": "guest",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Anti-Monopol-Position, kritisiert Meta-Dumping-Strategie"
+    },
+    {
+      "text": "Regulierung bei der AI - Europa reguliert sich zu Tode",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-Deregulierung, Anti-Regulierung im Tech-Sektor"
+    },
+    {
+      "text": "Plattformen müssen Content moderieren - das ist staatliche Aufgabe nicht privat",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an privater Content-Moderation, autoritäre Tendenz"
+    },
+    {
+      "text": "Tesla wird kein Monopolist sein - andere Hersteller werden gleich gut",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Markteinschätzung, keine ideologische Position"
+    },
+    {
+      "text": "Apple wird selber AI trainieren um Nutzerdaten nicht zu teilen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 4,
+      "reasoning": "Pro-Datenschutz, libertäre Haltung zu Privatsphäre"
+    },
+    {
+      "text": "Robotaxis werden nicht von Tesla dominiert - Uber gewinnt am Ende",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Marktskeptizismus gegenüber monopolistischen Narrativen"
+    },
+    {
+      "text": "IBM verliert weil Consulting stagniert - AI Expertise wird nicht glaubhaft",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktkritik, aber pragmatische Wettbewerbsanalyse"
+    },
+    {
+      "text": "Oatly hat durch Kostensenkung endlich profitable Margen erreicht",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Lob für Effizienzsteigerung und Profitabilität statt Wachstum"
+    },
+    {
+      "text": "Amazon wird durch AWS-Wachstum überzeugen, E-Commerce ist nicht mehr interessant",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Marktkonzentration bei besseren Margen"
+    },
+    {
+      "text": "Pinterest beschleunigt Wachstum durch besseres Tracking trotz Apple Privacy",
+      "speaker": "guest",
+      "economic": 5,
+      "social": -2,
+      "reasoning": "Profitorientiert, ignoriert Datenschutz-Implikationen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wenn du gründen willst darfst du auf keinen Fall zur Unternehmensberatung gehen weil du anfängst diesen Bullshit zu glauben",
+      "context": "Diskussion über Karrierewege von Gründern und warum Deutschland keine disruptiven Startups hat",
+      "quiz_suitable": true
+    },
+    {
+      "text": "deutsche Skill ist irgendwie den Common Rail Diesel Motor noch mal 5% besser zu machen jede Dekade",
+      "context": "Kritik an deutschen Unternehmen, die inkrementell statt disruptiv innovieren",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Mark Zuckerberg wird sympathisch und gibt mit Meta kostenlos Foundation Models raus die den Markt kaputt machen",
+      "context": "Analyse von Metas Open-Source-Strategie und deren Marktfolgen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Tesla wird kein Monopolist in Robotaxis - Regulierung entscheidet am Ende nicht Technologie",
+      "context": "Skeptische Bewertung von Tesla-Narrativen zu autonomem Fahren",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Oatly hat endlich verstanden dass man nicht mehr Fabriken bauen muss wenn man nicht wächst",
+      "context": "Analyse von Oatlys Turnaround durch Kostendisziplin statt Wachstum",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_yym7aDr7aoM",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_yym7aDr7aoM",
+  "date": null,
+  "country": "DE",
+  "word_count": 12471
+}

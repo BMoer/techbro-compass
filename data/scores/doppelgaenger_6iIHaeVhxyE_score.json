@@ -1,0 +1,141 @@
+{
+  "economic_score": 1.2,
+  "social_score": 2.1,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Google muss schnell delivern, Kultur Problem gelöst",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Unternehmenskritik, keine ökonomische Position"
+    },
+    {
+      "text": "Google kopiert Features von Konkurrenten mit Manpower & Hardware",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Rohstoffvorteil & Kapitalintensität als Wettbewerbsfaktor, marktwirtschaftlich"
+    },
+    {
+      "text": "Neue Startups wie Entropic/Mistral haben es schwerer ohne Kundenzugang & Daten",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Marktkonzentration kritisiert, aber als Realität der Marktkräfte akzeptiert"
+    },
+    {
+      "text": "Tesla-Daten sind wertvoll für KI-Physik-Verständnis",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Datenmonerisierung & Unternehmenseffizienzvorteil befürwortet"
+    },
+    {
+      "text": "Agents sind schlecht benannt, sollten Assistenten heißen",
+      "speaker": "both",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Semantik-Kritik an Tech-Naming, leicht libertär (Sprachfreiheit)"
+    },
+    {
+      "text": "KI-Anrufe sind Problem, brauchen Authentifizierungsmechanismen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Datenschutz & Sicherheit wichtig, Bürgerrechte schützen"
+    },
+    {
+      "text": "Google investiert 20 Mrd in grüne Energie, nicht nur Nuklear",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Diversifikation, pragmatisch"
+    },
+    {
+      "text": "Erneuerbare werden günstiger, Nuklear wird unwirtschaftlich",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktmechanismen führen zu besseren Lösungen, marktwirtschaftlich"
+    },
+    {
+      "text": "Reiche zahlen faktisch 0,1% Erbschaftssteuern durch Loopholes",
+      "speaker": "guest",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Kritik an Steuervermeidung & struktureller Ungleichheit, leicht links"
+    },
+    {
+      "text": "IRS ist chronisch unterfinanziert, kann Reiche nicht auditen",
+      "speaker": "guest",
+      "economic": -4,
+      "social": -3,
+      "reasoning": "Kritik an Staatsunfähigkeit & Ungleichheit, regulatorisch-links"
+    },
+    {
+      "text": "Databricks valuation von 14 Mrd bei 3 Mrd Revenue ist gesund",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Capital Efficiency & Marktverhältnisse akzeptiert"
+    },
+    {
+      "text": "Tech-CEOs spenden für Trump-Inauguration zur Risikominimierung",
+      "speaker": "host",
+      "economic": 0,
+      "social": -1,
+      "reasoning": "Realpolitische Analyse, leicht autoritär (Compliance-Denken)"
+    },
+    {
+      "text": "Masa verspricht 100 Mrd Investment in USA, wird nicht umgesetzt",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Skepsis gegenüber Großversprechungen, realistisch-pragmatisch"
+    },
+    {
+      "text": "Friedrich Merz ETF-Rente ab 6 Jahren statt ab Geburt sinnlos",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Sozialpolitik sollte inklusiv sein, alle Kinder fördern (links-libertär)"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die Frage ist wirklich wo Mistral die nächsten 6 Milliarden herbekommt um mitzumachen",
+      "context": "Diskussion über Marktkonzentration in KI-Industrie und Kapitalzugang",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Nur Morons würden noch die Erbschaftssteuern zahlen",
+      "context": "Kritik an Steuervermeidung durch Millionäre und fehlendem Staats-Enforcement",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Telefon ist einfach tot",
+      "context": "Vorhersage zur Zukunft der Kommunikationsmittel im KI-Zeitalter",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Google wird zu Samsung - die hauen halt jetzt alles raus",
+      "context": "Kritik an Apples Innovation und Produktstrategie im Vergleich zu Konkurrenten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "KI-Modelle brauchen letztlich echte Daten aus der Realität, nicht YouTube",
+      "context": "Diskussion über Training-Datenquellen und Tesla-Fahrzeugdaten als Vorteil",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_6iIHaeVhxyE",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_6iIHaeVhxyE",
+  "date": null,
+  "country": "DE",
+  "word_count": 10801
+}

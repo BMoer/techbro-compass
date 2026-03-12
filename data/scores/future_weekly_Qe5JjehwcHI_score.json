@@ -1,0 +1,89 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.25,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Qualität in dem was man macht ist das allerwichtigste, Kompromiss bei Qualität darf nie sein",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Qualitätsorientierung, weder links noch rechts, zentristisch"
+    },
+    {
+      "text": "Die Parfümindustrie braucht spezialisierte High-End Parfümerien als Gatekeeper, nicht Direct-to-Consumer",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Marktwirtschaftlich orientiert, aber erkennt Marktstruktur/Spezialisierung an"
+    },
+    {
+      "text": "Unternehmertum ist mit Risiko behaftet, Krisen hemmen den Unternehmergeist und Akzeptanz für Scheitern ist gering",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 1,
+      "reasoning": "Befürwortung von Unternehmertum (+3), aber kritisch zur Risikoaversion in Gesellschaft"
+    },
+    {
+      "text": "Niedrige Eintrittsbarrieren in der Parfümindustrie führen zu Marktübersättigung - viele neue Marken konkurrieren",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Beschreibung von Marktdynamiken, pragmatisch, leicht pro-Wettbewerb"
+    },
+    {
+      "text": "Ich hoffe wir finden wieder zu einem Gefühl einer Menschheit auf einem Planeten statt Abgrenzung",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Vision von globaler Verbundenheit, anti-nationalistisch, libertär-kosmopolitisch"
+    },
+    {
+      "text": "Meine Prediction: Trend geht in nächsten Jahren eher zu Abgrenzung und Komplexitätsreduktion statt Öffnung",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Erwartet stärkere gesellschaftliche Abgrenzung, eher autoritäre Tendenzen"
+    },
+    {
+      "text": "Kultur des Scheiterns in USA wird anders akzeptiert als in Europa - dort ist Scheitern Teil des Prozesses",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Befürwortung von unternehmerischer Risikokultur, vergleichsweise pro-kapitalistisch"
+    },
+    {
+      "text": "Einzelne künstlerische Vision (wie 'Jackson Pollock') funktioniert manchmal, manchmal nicht - Kunstwerk-Logik",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Wertschätzung für künstlerische Freiheit und individuelle kreative Autonomie"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Parfum teleportiert dich in einen anderen Gemütszustand, eine andere Zeit, einen anderen Ort",
+      "context": "Paul erklärt, warum Parfum das perfekte Medium ist, um seine Großvater-Geschichte zu erzählen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Gatekeeper sind die Parfümerien - sie wählen aus, was bei ihnen steht und was an ihre Kunden weitergegeben wird",
+      "context": "Paul beschreibt die Marktstruktur und Herausforderung, neue Marken zu etablieren",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Scheitern hat bei uns viel weniger Akzeptanz - das Positive am Scheitern ist bei uns nicht Teil des Prozesses",
+      "context": "Paul kritisiert europäische Mentalität gegenüber unternehmerischem Risiko",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_Qe5JjehwcHI",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_Qe5JjehwcHI",
+  "date": null,
+  "country": "AT",
+  "word_count": 7176
+}

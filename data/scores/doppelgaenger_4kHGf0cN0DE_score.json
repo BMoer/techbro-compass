@@ -1,0 +1,127 @@
+{
+  "economic_score": 1.2,
+  "social_score": 1.4,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, marktwirtschaftliche Position"
+    },
+    {
+      "text": "Big Tech muss zerschlagen werden",
+      "speaker": "host",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Monopolkritik, Entflechtung von Großkonzernen gefordert"
+    },
+    {
+      "text": "Google sitzt auf Geschäftsmodell mit 60% Rohmargen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Deskriptiv, aber impliziert kritische Haltung zu Profitabilität"
+    },
+    {
+      "text": "Daten liberalisieren für Innovation würde helfen",
+      "speaker": "host",
+      "economic": -3,
+      "social": 6,
+      "reasoning": "Pro-Wettbewerb, Anti-Datenmacht, Regulierung zugunsten von Nutzern"
+    },
+    {
+      "text": "KI macht Effizienzmaßnahmen und Entlassungen einfacher",
+      "speaker": "host",
+      "economic": 4,
+      "social": -3,
+      "reasoning": "Befürwortung von Automatisierung/Effizienz, aber Sorge um Arbeitnehmerschutz"
+    },
+    {
+      "text": "Sozialleistungen sind ok, aber Demographiewandel unhaltbar",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Gemischte Haltung: Sozialstaat akzeptiert, aber strukturelle Probleme"
+    },
+    {
+      "text": "Google manipuliert Search-Ergebnisse mit eigenen Produkten",
+      "speaker": "host",
+      "economic": -5,
+      "social": 2,
+      "reasoning": "Monopolmissbrauch kritisiert, Verbraucherschutz befürwortet"
+    },
+    {
+      "text": "Rezensionen manipulieren ist verbreitet, aber nicht ok",
+      "speaker": "host",
+      "economic": -4,
+      "social": 3,
+      "reasoning": "Marktmanipulation kritisiert, für Transparenz"
+    },
+    {
+      "text": "Arbeitgeber darf Kundenbewertungen nicht incentivieren",
+      "speaker": "host",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Konsumentenschutz, Fairness im Wettbewerb"
+    },
+    {
+      "text": "Coinbase ist essentiell für Krypto-Wertschöpfung",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Pro-Marktlösung, Vertrauen in Privatunternehmen"
+    },
+    {
+      "text": "Mach deine Kunden glücklich, nicht ihre Reviews",
+      "speaker": "host",
+      "economic": 0,
+      "social": 5,
+      "reasoning": "Ethische Geschäftspraxis, gegen Manipulation"
+    },
+    {
+      "text": "AI-Investitionen schaffen mögliche Bubble-Bedingungen",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Überinvestition, warnt vor Marktverzerrung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Coinbase ist nicht das AOL, sondern der Schaufelhersteller",
+      "context": "Debatte über Kryptos Infrastruktur und Bedeutung von Börsenplattformen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Google hat kein Anreiz für Innovation, weil die Margen zu hoch sind",
+      "context": "Analyse des Innovators Dilemma bei Google Search vs. KI",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn du eine Bubble bauen wolltest, ist das die perfekte Grundlage",
+      "context": "Kritik an VC-Investitionen von Tech-Konzernen in AI-Startups",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Show me the incentives and I show you the outcome",
+      "context": "Charlie Mungers Zitat zur Erklärung von Tech-Investitionszyklen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Optimus kann Hemden falten, aber braucht noch Teleoperation",
+      "context": "Elon Musk Robotik-Demo und Kritik an Marketing vs. Faktenlage",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_4kHGf0cN0DE",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_4kHGf0cN0DE",
+  "date": null,
+  "country": "DE",
+  "word_count": 16105
+}
