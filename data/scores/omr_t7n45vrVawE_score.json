@@ -1,0 +1,148 @@
+{
+  "economic_score": -0.6,
+  "social_score": 1.9,
+  "n_coded": 15,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Qualitätsjournalismus in Zeitungen ist enorm wichtig für die Demokratie",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Regulierung/Schutz von Medienqualität vor Marktkräften"
+    },
+    {
+      "text": "Diese elektronischen Medien verlieren an Bedeutung wenn sie versuchen mit sozialen Medien schritt zu halten",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an Zentralisierung, Bewahrung von Vielfalt/Pluralismus"
+    },
+    {
+      "text": "Persönlichkeitsrechte müssen gegen Plattform-Unternehmerfreiheit geschützt werden",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Regulierung der Wirtschaft für Bürgerrechte, Datenschutz"
+    },
+    {
+      "text": "Soziale Marktwirtschaft mit Betriebsräten ist erfolgreicher als reiner Kapitalismus",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 0,
+      "reasoning": "Arbeitnehmerrechte und Mitbestimmung vor Kapitalrendite"
+    },
+    {
+      "text": "Das deutsche Gesundheitssystem mit universaler Versorgung ist wichtig für die Gesellschaft",
+      "speaker": "guest",
+      "economic": -3,
+      "social": -1,
+      "reasoning": "Regulierung für Daseinsvorsorge, akzeptiert Bürokratie"
+    },
+    {
+      "text": "Europa muss mehr in Forschung und Bildung investieren, weniger in Landwirtschaft",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Staatliche Investitionen in Zukunftstechnologien"
+    },
+    {
+      "text": "Tesla in Brandenburg hat schnellere Entscheidungsstrukturen die man lernen kann",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 1,
+      "reasoning": "Anerkennung von Privatwirtschaftseffizienz, aber mit Vorbehalten"
+    },
+    {
+      "text": "Betriebsräte und Mitbestimmung vermeiden Konflikte und fördern wirtschaftlichen Erfolg",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -1,
+      "reasoning": "Regulierung/Governance als wirtschaftlicher Vorteil"
+    },
+    {
+      "text": "Die Dieseltechnologie sollte nicht zugunsten von E-Mobilität aufgegeben werden",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatische Technologiepolitik, gegen Überregulierung"
+    },
+    {
+      "text": "Gas ist notwendig als Übergangstechnologie nach Atomausstieg",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatisch-ökonomische Sichtweise auf Energiewende"
+    },
+    {
+      "text": "Kernenergie scheitert an der Entsorgungsfrage, nicht an der Technologie",
+      "speaker": "guest",
+      "economic": -1,
+      "social": -2,
+      "reasoning": "Regulierungsproblem, Ablehnung von technologischem Optimismus"
+    },
+    {
+      "text": "Öffentliche Gelder sollten in Wagniskapital für Start-ups fließen wenn nötig",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Staatliche Investitionsförderung, aber pragmatisch"
+    },
+    {
+      "text": "China sollte sich entwickeln dürfen, Handelskrieg gegen China ist falsch",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Freihandel, gegen Protektionismus und administrative Maßnahmen"
+    },
+    {
+      "text": "Wir brauchen Datenschutz und technologische Fähigkeit gegen Überwachung",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Klare Forderung nach Datenschutz als Grundrecht"
+    },
+    {
+      "text": "Demokratische Entscheidungsfindung ist langsamer aber wir dürfen Strukturen nicht außer Kraft setzen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Zweifel an Effizienz vs. Demokratie, aber Priorisierung von letzterem"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Zum regieren brauchte man früher Bild, Bams und Glotze - das ist nicht mehr aktuell",
+      "context": "Schröder kommentiert seinen legendären Spruch zur Medienmacht",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Freundschaft zu Putin ist eine, die begann in unserer aktiven Zeit und hielt danach auch weiter",
+      "context": "Schröder verteidigt seine persönliche Beziehung zu Putin",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Betriebsräte sind mindestens so interessiert am Erfolg wie das Management, das sind ihre Arbeitsplätze",
+      "context": "Verteidigung des deutschen Mitbestimmungsmodells",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn diese Balance zwischen wirtschaftlichem Erfolg und sozialer Gerechtigkeit gehalten wird, ist das besser als in Amerika",
+      "context": "Schröder vergleicht deutsches und amerikanisches Modell",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich möchte gegenwärtig in Amerika nur als absolut wohlhabender Mensch leben, sonst nicht",
+      "context": "Kritik am amerikanischen Sozialmodell",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_t7n45vrVawE",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_t7n45vrVawE",
+  "date": null,
+  "country": "DE",
+  "word_count": 7823
+}

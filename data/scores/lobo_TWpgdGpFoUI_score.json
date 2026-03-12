@@ -1,0 +1,63 @@
+{
+  "economic_score": -2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wirtschaftsministerin Reiche sabotiert den Bau kleiner Solaranlagen durch Gesetzesentwurf",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Regulierung die Dezentralisierung behindert, pro-Unternehmertum/Mittelstand"
+    },
+    {
+      "text": "Selbst am rechten Rand ist die Solartechnologie beliebt - 57% der AfD-Wähler dafür",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Faktenberichterstattung über Umfrage, keine Wertung"
+    },
+    {
+      "text": "Donald Trump formte die US-Medienlandschaft nach seinen Vorstellungen um",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Konzentration von Medienmacht, implizite Sorge um pluralistische Demokratie"
+    },
+    {
+      "text": "81% der Deutschen befürworten Social Media Verbot für Kinder und Jugendliche",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Regulierungsbefürwortung zur Schutzbedürftiger, Sicherheit über Freiheit"
+    },
+    {
+      "text": "Die Chance liegt darin, sich mit vielen kleinen Anlagen autark zu machen",
+      "speaker": "host",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Befürwortung von dezentraler Energieproduktion, leicht libertäre Konnotation (Unabhängigkeit)"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Damit würde die beliebteste Form der erneuerbaren Energien bewusst sabotiert",
+      "context": "Kritik von Grünen-Chef Bannerchau an Reiche's Solaranlagen-Gesetzesentwurf",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ein weiteres Mal könnte sich Donald Trump dabei durchgesetzt haben, die US-Medienlandschaft nach seinen Vorstellungen zu formen",
+      "context": "Analyse der Warner Bros./Paramount Bieterschlacht mit politischen Implikationen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_TWpgdGpFoUI",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_TWpgdGpFoUI",
+  "date": null,
+  "country": "DE",
+  "word_count": 834
+}

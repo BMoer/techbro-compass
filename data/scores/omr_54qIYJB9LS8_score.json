@@ -1,0 +1,122 @@
+{
+  "economic_score": 3.2,
+  "social_score": 1.4,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Regulierung vor Innovation: Europa reguliert KI, während Amerikaner entwickeln und Chinesen Daten holen",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an EU-Überregulierung hemmt wirtschaftliche Entwicklung"
+    },
+    {
+      "text": "Wir haben kein Einnahmeproblem, wir haben ein Ausgabenproblem - wir werfen Symptome mit Geld zu",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Kritik an Staatsausgaben, marktwirtschaftliche Perspektive"
+    },
+    {
+      "text": "Man muss sich selbst vermarkten, LinkedIn Posts selbst schreiben - nicht delegieren",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Betonung persönlicher Authentizität, Transparenz über soziale Medien"
+    },
+    {
+      "text": "Digitale Schulen Förderung: 5 Mrd bereitgestellt, nur 1,5 Mrd abgerufen wegen Bürokratie",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an ineffizienter Verwaltung und Föderalismus, progressive Bildungsförderung"
+    },
+    {
+      "text": "Bei kritischen KI-Themen wie Roboter oder Diagnosen braucht es Regulierung",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Befürwortung gezielter Sicherheitsregulierung, Sicherheit vor reiner Freiheit"
+    },
+    {
+      "text": "Föderalismus ist gescheitert beim digitalen Schulprogramm - zu viele Anforderungen (80 Seiten)",
+      "speaker": "guest",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritik an Staatsbürokratie, Forderung nach Vereinfachung"
+    },
+    {
+      "text": "Cloud Services waren Miniumsatz, aber ich fokussierte drauf weil es die Zukunft ist",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Unternehmertum, Fokus auf innovatives Wachstum über Gewinn"
+    },
+    {
+      "text": "Deutschland könnte mit EU-Impulsen geben, aber enthält sich zu oft in Positionen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an fehlender Führung, Forderung nach klarer Positionierung"
+    },
+    {
+      "text": "Neutralität in geopolitischen Fragen bewahren, aber Resilienz in wichtigen Bereichen schaffen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Pragmatische Mittelposition: Unabhängigkeit ohne ideologische Lagerbildung"
+    },
+    {
+      "text": "Arbeitszeitgesetz zu starr - sollte Wochenregelung statt Tagesregelung haben",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Forderung nach Deregulierung und Flexibilisierung des Arbeitsmarkts"
+    },
+    {
+      "text": "630.000 Fachkräfte fehlen, 140.000 in Informatik - Bildungssystem ist das Problem",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Systemkritik Bildung, fordert staatliche Intervention"
+    },
+    {
+      "text": "Bill Gates war immer philanthropisch, hat sich nicht verändert - nur Medienwahrnehmung",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Verteidigung konsistenter Werte, persönliche Authentizität betont"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Regulieren wir bevor die KI überhaupt da ist - Amerikaner entwickeln, Chinesen nehmen Daten, wir regulieren",
+      "context": "Kritik an europäischer Überregulierung versus amerikanischer und chinesischer Innovationsdynamik",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir haben kein Einnahmeproblem, wir haben ein Ausgabenproblem - Symptome mit Geld zuwerfen statt Ursachen bekämpfen",
+      "context": "Diagnose des deutschen Budgetproblems aus Unternehmersicht",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Tu Gutes und rede darüber - das ist kein Eigenpromtion, das ist essentiell für moderne CEOs",
+      "context": "Verteidigung von authentischer Selbstvermarktung auf LinkedIn und öffentlich",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Nach 5 Jahren weiß man, ob man gut ist oder nicht - dann muss man konsequent handeln",
+      "context": "Pattern in seiner Karriere: regelmäßige Jobwechsel nach 5 Jahren",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_54qIYJB9LS8",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_54qIYJB9LS8",
+  "date": null,
+  "country": "DE",
+  "word_count": 15679
+}

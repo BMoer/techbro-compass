@@ -1,0 +1,148 @@
+{
+  "economic_score": 4.6,
+  "social_score": -1.4,
+  "n_coded": 15,
+  "insufficient_data": false,
+  "confidence": 0.82,
+  "coded_statements": [
+    {
+      "text": "Es darf keine Milliardäre geben, finde ich einfach unschön.",
+      "speaker": "guest",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Kritik an Vermögenskonzentration, aber nicht radikal anti-kapitalistisch"
+    },
+    {
+      "text": "Milliardäre schaffen Arbeitsplätze und leisten volkswirtschaftlichen Dienst.",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Verteidigung von Unternehmertum und Vermögensbildung"
+    },
+    {
+      "text": "Gerade die Menschen, die Milliardäre eliminieren wollen, sollten bedenken, ob sie bereit sind, sich so einzusetzen.",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Kritik an Neid-Rhetorik, Verteidigung von Leistungsprinzip"
+    },
+    {
+      "text": "Wir zahlen zweistellige Millionen Summen an Steuern – gute Kontribution zur Funktionalität des Gemeinwesens.",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Betonung von Steuerzahlerpflichten als Legitimation von Reichtum"
+    },
+    {
+      "text": "Immer höhere Löhne zu verlangen in diesem Ausmaß – das kann nicht funktionieren.",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Kritik an Lohnforderungen, pragmatische Wirtschaftssicht"
+    },
+    {
+      "text": "Unternehmen müssen Produktion ins Ausland verlagern, wenn deutsche Kosten zu hoch sind.",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Pro-Markt-Logik, Kritik an Kostennachteilen Deutschlands"
+    },
+    {
+      "text": "Gewerkschaften treiben praktisch die Wirtschaft aus dem Land.",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Anti-gewerkschaftliche Position, freemarkt-orientiert"
+    },
+    {
+      "text": "Eine Firma, die nicht mit 10% wächst pro Jahr, ist krank – aber ich schränke das ein.",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Wachstumsorientierung mit pragmatischer Selbstkorrektur"
+    },
+    {
+      "text": "Wir brauchen große Rüstungsausgaben, um Russland abzuschrecken – das ist notwendig.",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -5,
+      "reasoning": "Befürwortung hoher Staatsausgaben für Sicherheit/Verteidigung, autoritär begründet"
+    },
+    {
+      "text": "USA unter Trump entwickelt sich zur Demokratur – Exekutive ignoriert Justiz.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Kritik an mangelnder Gewaltenteilung, autoritäre Tendenzen beobachtet"
+    },
+    {
+      "text": "Elon Musk ist ein begnadeter Unternehmer – aber Genie und Wahnsinn sind eng beieinander.",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Anerkennung von Unternehmertum mit Vorsicht gegenüber Exzess"
+    },
+    {
+      "text": "Die Verdächtigung gegen Russland ist berechtigt – wir müssen uns verteidigen können.",
+      "speaker": "guest",
+      "economic": -1,
+      "social": -4,
+      "reasoning": "Sicherheitsorientierung überwiegt, akzeptiert hohe Rüstungskosten"
+    },
+    {
+      "text": "Job-Hopper mit 5 Arbeitgebern lade ich nicht zum Gespräch ein – Kontinuität ist wichtig.",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Wertschätzung von Stabilität und Betriebsloyalität, traditional-konservativ"
+    },
+    {
+      "text": "Mit meiner Frau nach 68 Jahren zusammen zu bleiben hat sich unglaublich gelohnt.",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Betonung von langfristigen persönlichen Bindungen, gesellschaftlich eher konservativ"
+    },
+    {
+      "text": "Wir investieren in KI-Automatisierung und generieren massive Kostenvorteile.",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unterstützung von technologischer Optimierung und Effizienzgewinnen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Es darf keine Milliardäre geben, finde ich einfach unschön.",
+      "context": "Widerspruch: Spricht gegen Vermögensverteilung, verteidigt dann aber sein eigenes Vermögen mit Arbeitsleistung.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Herr Mask ist der König von Amerika und Herr Trump ist der Kanzler.",
+      "context": "Kritik an Konzentration von Macht bei Tech-Oligarch unter Trump-Präsidentschaft.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Gewerkschaften treiben praktisch die Wirtschaft aus dem Land.",
+      "context": "Begründung für Produktionsverlagerung ins Ausland wegen hoher Lohnkosten in Deutschland.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Bei 75 Arbeitsjahren müssen wir daran denken, mehr zu arbeiten wie seither.",
+      "context": "Forderung nach mehr Arbeitszeit und weniger Sozialleistungen als Lösung wirtschaftlicher Probleme.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Putin weiß, dass er Deutschland nicht mal mit Armee braucht – da genügt die Feuerwehr.",
+      "context": "Warnung vor militärischer Unterlegenheit Deutschlands, Befürwortung von Rüstungsausgaben.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_Ukq0VUSoCgk",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_Ukq0VUSoCgk",
+  "date": null,
+  "country": "DE",
+  "word_count": 5467
+}

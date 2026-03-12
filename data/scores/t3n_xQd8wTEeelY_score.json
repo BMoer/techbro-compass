@@ -1,0 +1,56 @@
+{
+  "economic_score": 0,
+  "social_score": 1.25,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Die KI, ob das jetzt Chat GPT oder Gemini ist, das Denken soll euch nicht abgenommen werden. Es ist immer nur eine Hilfestellung.",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Befürwortung von Autonomie und kritischem Denken statt Abhängigkeit von Technologie"
+    },
+    {
+      "text": "Ihr könnt euch nicht immer drauf verlassen, dass das stimmt. Chat GPT und Gemini halluzinieren auch bei persönlichen Eingaben.",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Skepsis gegenüber unkontrollierter KI-Nutzung, Warnung vor blinder Vertrauenswürdigkeit"
+    },
+    {
+      "text": "Kein Copypaste. Passt es wirklich an. Es kommt euch nur zugute. Im Worst Case tragt ihr falsche Infos vor.",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Betonung persönlicher Verantwortung und Überprüfung statt passiver Übernahme"
+    },
+    {
+      "text": "Arbeitet das KI Modell strukturierter, wenn ihr Zeilenangaben verlangt. Die Wahrscheinlichkeit falscher Infos ist niedriger.",
+      "speaker": "host",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Neutrale, pragmatische Aussage zur technischen Optimierung ohne politische Dimension"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das Denken soll euch nicht abgenommen werden. Es ist immer nur eine Hilfestellung.",
+      "context": "Warnung vor unkritischer KI-Abhängigkeit und Autonomieverlust",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn ihr das alles nicht macht, läuft ihr Gefahr, mit falschen Infos vor eurem Prof oder Chef zu glänzen.",
+      "context": "Dramatische Warnung vor Konsequenzen mangelnder Kontrolle",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_xQd8wTEeelY",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_xQd8wTEeelY",
+  "date": null,
+  "country": "DE",
+  "word_count": 2329
+}

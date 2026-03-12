@@ -1,0 +1,122 @@
+{
+  "economic_score": 1.4,
+  "social_score": 0.8,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Balkonkraftwerk anzuschaffen sobald es irgendwie eine Möglichkeit gibt",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Empfehlung für niedriginvestive Technologie, pragmatisch"
+    },
+    {
+      "text": "Ein Balkonkraftwerk mit 500€ ist eine überschaubare Investition",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Befürwortung erschwinglicher privater Energielösung"
+    },
+    {
+      "text": "Die Modulpreise sind in den letzten Jahren so stark gesunken",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Marktbeobachtung, keine Wertung"
+    },
+    {
+      "text": "800 Watt Anlage wird ungefähr 800 Kilowattstunden im Jahr erzeugen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Sachliche technische Aussage, keine Meinung"
+    },
+    {
+      "text": "Strom der überschüssig ist geht dann einfach unbezahlt ins Netz",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Verschwendung, aber nicht ideologisch"
+    },
+    {
+      "text": "Man darf das bei Balkonkraftwerk einfach so lange betreiben wie es der Netzbetreiber nicht schafft zu tauschen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": -3,
+      "reasoning": "Toleranz für Regelumgehung, opportunistisch-libertär"
+    },
+    {
+      "text": "Speicher lohnen sich wirtschaftlich erst bei größeren Anlagen wirklich",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Kostenanalyse ohne ideologische Position"
+    },
+    {
+      "text": "Eine Kilowattstunde Speicher kostet momentan etwa 500€",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Reine Marktinformation"
+    },
+    {
+      "text": "Mit Speicher kann man den Eigenverbrauch optimieren und Gewinne machen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Befürwortung privaten Unternehmertums im Energiebereich"
+    },
+    {
+      "text": "Balkonkraftwerk ist ein absoluter Nobrainer, beim Speicher muss man gucken",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Differenzierte Kosten-Nutzen-Abwägung, pragmatisch"
+    },
+    {
+      "text": "Den Strompreis billig volltanken wenn Speicher vorhanden und Preise günstig",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 2,
+      "reasoning": "Marktorientierte Optimierung, gewisse Anti-Zentralismus-Note"
+    },
+    {
+      "text": "Über 10 Gigawattstunden Speicherleistung kommen aus Privathaushalten",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Beschreibung dezentraler Energiewende-Beteiligung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Strom geht dann einfach unbezahlt ins Netz - das ist schlechte Nachricht",
+      "context": "Kritik an Verschwendung von Solarstrom ohne Speicher",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Man darf das betreiben solange Netzbetreiber keinen neuen Zähler einbaut",
+      "context": "Beschreibung der Grauzone bei rückwärtslaufenden Zählern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Über 10 Gigawattstunden sind einfach in Privathaushalten verbaut",
+      "context": "Dezentralisierung der Energiespeicherung in Deutschland",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Balkonkraftwerk ist absoluter Nobrainer, beim Speicher muss man gucken",
+      "context": "Differenzierte Empfehlung zu Wirtschaftlichkeit von PV-Systemen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_BrF4wn_6MF8",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_BrF4wn_6MF8",
+  "date": null,
+  "country": "DE",
+  "word_count": 9599
+}

@@ -1,0 +1,56 @@
+{
+  "economic_score": 0,
+  "social_score": 0.4,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.5,
+  "coded_statements": [
+    {
+      "text": "KI-Bilder mit organischen Materialien (Daunen) funktionieren besser als technische Motive",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Technisches Faktum ohne Wertung"
+    },
+    {
+      "text": "Man sollte sich nicht von schönen Hauptmotiven blenden lassen, sondern kritisch Details prüfen",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Befürwortung von Medienkritik und Datenkompetenz"
+    },
+    {
+      "text": "Wenn Bilder komisch wirken, lohnt sich ein kritischer Blick statt unkritische Verbreitung",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Plädoyer für kritischen Umgang mit Inhalten, gegen Desinformation"
+    },
+    {
+      "text": "KI macht hyperexpressive Bilder wie da Vincis Gemälde statt realistischer Schnappschüsse",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Beschreibung von KI-Verhaltensweisen, implizite Warnung vor Manipulation"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Der Teufel liegt im Detail",
+      "context": "Zusammenfassung: Fake-Bilder erkennt man an kleinen Details wie Fingern, Brillen, Fenstermustern, nicht am Gesamteindruck",
+      "quiz_suitable": true
+    },
+    {
+      "text": "KI macht sowas nicht wie Mittelalter, wo jede Hand zu bedeuten hat",
+      "context": "KI erzeugt künstlerisch übertriebene Szenen statt realistische Schnappschüsse",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_0IiwFtM_8Tc",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_0IiwFtM_8Tc",
+  "date": null,
+  "country": "DE",
+  "word_count": 2119
+}

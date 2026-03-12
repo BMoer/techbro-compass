@@ -1,0 +1,58 @@
+{
+  "economic_score": 0.4,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Mac Mini M4 Pro für 1500€ ist preislich relativ okay und guter Deal",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Positive Bewertung des Preis-Leistungs-Verhältnisses, pragmatische Marktsicht"
+    },
+    {
+      "text": "Leistung pro Geld bei Mac Mini immer noch sehr gut",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Emphasis auf Effizienz und Wertpropositon im Markt"
+    },
+    {
+      "text": "Mac Studio kostet $4000 aber übertrifft Nvidia-Kisten komplett",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Objektive Marktvergleich ohne ideologische Position"
+    },
+    {
+      "text": "Apple Studio Display ist unverschämt teuer aber solide Qualität",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Kritik an Preisgestaltung, aber akzeptiert Premium-Positioning"
+    },
+    {
+      "text": "Private Cloud Computer auf Mac Studios zu stapeln wäre absurde Strategie",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Kritik an ineffizienter Infrastruktur-Lösung, technisch-pragmatisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Bitte nicht ausschalten - Post-it auf Mac Studio im Büro",
+      "context": "Vergleich zwischen improvisierten IT-Lösungen und Apple Private Cloud",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_2a69zwzUzeg",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_2a69zwzUzeg",
+  "date": null,
+  "country": "DE",
+  "word_count": 2677
+}

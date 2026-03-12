@@ -1,0 +1,127 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.5,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "wichtigste ist dass die Leute gut gelaunt sind und dann läuft auch automatisch Umsatz",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Fokus auf Mitarbeiterzufriedenheit und Arbeitsklima, positive Sicht"
+    },
+    {
+      "text": "schlimmste was es gibt ist wenn jemand eine Flasche versprühen würde, passt nicht zu uns",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kuratierung von Gästen, subtile soziale Kontrolle durch Ausgrenzung"
+    },
+    {
+      "text": "du darfst dich als Besitzer nicht selbst feiern, es ist der Club nicht du",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Demut und Team-Fokus, jedoch auch hierarchische Positionierung des Besitzers"
+    },
+    {
+      "text": "Normal Gastronomie lebt von der Persönlichkeit die da ist, von der Gastwirt",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Anerkennung persönlicher Arbeit, weder links noch rechts positioniert"
+    },
+    {
+      "text": "Systemgastronomie wie Osteria funktioniert, aber das ist nicht unser Ding",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Ablehnung von Skalierungsmodellen, Fokus auf Qualität statt Standardisierung"
+    },
+    {
+      "text": "Ich konnte das Geld von der Bank leihen, die waren damals großzügig",
+      "speaker": "guest",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Vertrauen in Banken/Kapital, aber auch Dankbarkeit für Unterstützung"
+    },
+    {
+      "text": "Umsatzrendite sollte irgendwo um 8-10% liegen, mehr geht nicht",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Realistische Margenerwartung, pragmatische Sicht auf Profitabilität"
+    },
+    {
+      "text": "Personal ist das größte Problem, die wollen und müssen rechtwohl verdienen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Verständnis für Arbeitnehmerrechte und faire Bezahlung, sozial progressiv"
+    },
+    {
+      "text": "Normale Gastwirtschaften sterben aus, nur noch Systemgastronomie funktioniert",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kapitalistischer Marktdruck, Marktkonzentration, eher rechte Diagnose"
+    },
+    {
+      "text": "Kafer ist eine Marke mit Geschichte, damit können wir arbeiten",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Brand-Kapitalismus, Nutzung von Markenassets für Lizenzierung"
+    },
+    {
+      "text": "Ich wollte nie verkaufen, was soll ich dann machen, das ist meine Leidenschaft",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 1,
+      "reasoning": "Arbeit als Sinn, nicht nur Profit-Maximierung, aber auch Besitzverhältnisse"
+    },
+    {
+      "text": "Die Stadt München ist streng mit Werbung, das schätze ich absolut",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 2,
+      "reasoning": "Befürwortung von Regulierung und Markenschutz, pro-Gemeinwohl"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wichtigste ist dass die Leute gut gelaunt sind und dann läuft automatisch Umsatz",
+      "context": "Gast erklärt Erfolgsgeheimnis von Nachtlokalen und Events",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Normal Gastronomie sterbt aus, nur noch Systemgastronomie wie Osteria funktioniert",
+      "context": "Gast analysiert Markttrends in deutscher Gastronomie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Kafer ist eine Marke mit Geschichte, damit können wir arbeiten",
+      "context": "Gast erklärt Lizenzstrategie und Markenaufbau",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich konnte mein Onkel die Anteile abkaufen, die Bank war großzügig damals",
+      "context": "Gast beschreibt Übernahme des Familienunternehmens",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Umsatzrendite sollte um 8-10% liegen, mehr geht in diesem Business nicht",
+      "context": "Gast offenbart Profitabilität von Gastro und Event-Catering",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_um2nctLV5Vo",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_um2nctLV5Vo",
+  "date": null,
+  "country": "DE",
+  "word_count": 16230
+}

@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.0,
+  "social_score": 3.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "OpenAI rüstet Chat GPT mit Datenschutz-Optionen nach, Nutzer können bestimmen, dass Chatverläufe nicht gespeichert werden",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Nutzerrechte, Datenschutz und Kontrolle über eigene Daten fördern libertäre Werte"
+    },
+    {
+      "text": "OpenAI führt Business-Abo ein für mehr Kontrolle über Daten, reagiert auf Datenschutz-Bedenken",
+      "speaker": "host",
+      "economic": 1,
+      "social": 4,
+      "reasoning": "Marktlösung durch Premium-Angebot (+1 econ), gleichzeitig Datenschutz und Verbraucherkontrolle (+4 soc)"
+    },
+    {
+      "text": "Verkauf von E-Autos ist in drei Jahren enorm angestiegen, bedeutet Öl-Einsparungen und technologischer Fortschritt",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Berichterstattung von Markttrends ohne normative Stellungnahme"
+    },
+    {
+      "text": "Elon Musk teilt versehentlich zweiten Twitter-Account mit 24.700 Followern und potentiellen Einnahmen von 1,2 Mio. USD/Jahr",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Illustration von Transparenzmangel und fehlender Datensicherheit durch prominentes Beispiel"
+    },
+    {
+      "text": "Fintech-Unternehmen wie Revolut, N26 und Klarna in Bewertungskrise, Fintech-Boom ist vorbei",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Marktanalyse, keine normative ökonomische oder gesellschaftliche Stellungnahme"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Datenschützer-Bedenken führten in Italien zum Chat-GPT-Verbot, OpenAI reagiert mit Datenschutz-Features",
+      "context": "OpenAI muss auf regulatorischen Druck reagieren und Nutzerkontrolle über Daten erhöhen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Elon Musk betreibt inoffiziellen Twitter-Account mit 24.700 zahlenden Followern - versehentlich öffentlich gemacht",
+      "context": "Datenschutz-Panne bei Milliardär zeigt Informationskontrollprobleme auf Plattformen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_jE-3AtTT8R0",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_jE-3AtTT8R0",
+  "date": null,
+  "country": "DE",
+  "word_count": 713
+}

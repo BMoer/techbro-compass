@@ -1,0 +1,96 @@
+{
+  "economic_score": -2.0,
+  "social_score": 1.5,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Die Revolutionswächter kontrollieren ein Drittel bis zwei Drittel des iranischen BSP durch Holdings",
+      "speaker": "guest",
+      "economic": -7,
+      "social": null,
+      "reasoning": "Kritik an staatlicher Kontrolle von Wirtschaftssektoren durch Militär"
+    },
+    {
+      "text": "Ein Präsident ohne Macht kann den Pasdaran nicht sagen, ihre Milliarden-Profite aufzugeben",
+      "speaker": "guest",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik an Vermögens-Konzentration und mangelnder wirtschaftlicher Kontrolle"
+    },
+    {
+      "text": "Saudi-Arabien ließ Religionspolizei zu Hause, gab Frauen Freiheiten ohne Machteinbußen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 5,
+      "reasoning": "Befürwortung liberaler Reformen als pragmatisches Machtmodell"
+    },
+    {
+      "text": "Die iranische Bevölkerung ist die wahrscheinlich säkularste in einem islamischen Land",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Anerkennung von Pluralismus und Säkularisierung gegen autoritäre Ideologie"
+    },
+    {
+      "text": "Das Regime hat niemanden mehr übrig gelassen, mit dem es reden kann",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an Repression und Zerschlagung aller Organisationen"
+    },
+    {
+      "text": "Wenn die Führung untergeht, aber dann Doomsday für alle - das schafft Angst bei Golfstaaten",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Beschreibung von Abschreckung durch potenzielle Zerstörungskraft"
+    },
+    {
+      "text": "Menschen wollen keinen Rachbar, keinen Schar, sondern einen normalen, berechenbaren Staat",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 7,
+      "reasoning": "Forderung nach Demokratie und Rechtsstaatlichkeit statt Autoritarismus"
+    },
+    {
+      "text": "Das Regime könnte Sanktionen abbauen, Konflikte mit USA/Israel beilegen und Zustimmung gewinnen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 3,
+      "reasoning": "Pragmatische Reformoption: wirtschaftliche Liberalisierung + außenpolitische Entspannung"
+    },
+    {
+      "text": "Streitkräfte mit Zuckerfabriken und Hotelketten - das Modell könnte lange anhalten",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Kritik an Militär-Wirtschafts-Verflechtung als System der Korruption"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das Regime hat niemanden mehr übrig gelassen, mit dem es reden kann.",
+      "context": "Christoph Reuter zitiert Abbas Abdi zur Folge der systematischen Unterdrückung aller Oppositionsgruppen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Irgendwann hat die Angst die Seiten gewechselt - das war der Anfang vom Ende.",
+      "context": "Richard Kapuscinski über Umschlagspunkt in Revolutionen, angewandt auf Iran",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Tränen werden sie sich mit den Konterauszügen trocknen.",
+      "context": "Juan Moreno über Eliten, die Privilegien behielten, wenn Khamenei stirbt",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_ZARV7T-g8xg",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_ZARV7T-g8xg",
+  "date": null,
+  "country": "DE",
+  "word_count": 6032
+}

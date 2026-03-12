@@ -1,0 +1,96 @@
+{
+  "economic_score": -2.8,
+  "social_score": 5.4,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Datenschutzgründen ist es eine Katastrophe wenn Standortdaten auf US-Server liegen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Pro-Datenschutz, Anti-US-Kontrolle, libertäre Haltung"
+    },
+    {
+      "text": "Google gibt Standortdaten auf – möglicherweise wegen behördlichen Anfragen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an Überwachung durch Behörden, implizite Datenschutz-Position"
+    },
+    {
+      "text": "Ich möchte selbst Kontrolle über meine Daten haben, nicht Google-Abhängigkeit",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 7,
+      "reasoning": "Anti-monopolistisch, Datenautonomie, libertäre Kontrolle"
+    },
+    {
+      "text": "Open-Source-Alternativen sind mittlerweile qualitativ genauso gut wie Google-Produkte",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 5,
+      "reasoning": "Befürwortung von dezentralen, gemeinschaftlichen Lösungen statt Großkonzernen"
+    },
+    {
+      "text": "Man braucht Google nicht – dezentrale Lösungen funktionieren besser",
+      "speaker": "guest",
+      "economic": -5,
+      "social": 8,
+      "reasoning": "Anti-Monopol, Pro-Dezentralisierung, maximale Nutzer-Autonomie"
+    },
+    {
+      "text": "Die alte Google-Lösung war praktischer – komplexer ist unbequemer",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Praktische Sicherheitsbedenken überwiegen Convenience-Argumente"
+    },
+    {
+      "text": "Selbst-Hosting macht mehr Arbeit, aber ich habe volle Kontrolle über meine Daten",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 7,
+      "reasoning": "Akzeptiert Kosten/Aufwand für Datensouveränität und Emanzipation"
+    },
+    {
+      "text": "KI-Modelle sind Open-Source, und Raspis sind günstig – man kann alles selbst machen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 6,
+      "reasoning": "Demokratisierung von Technologie, Anti-Monopol-Ansatz"
+    },
+    {
+      "text": "Es ist cool, sich von großen Tech-Konzernen zu emanzipieren",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 7,
+      "reasoning": "Explizite Kritik an Tech-Monopolen, Pro-Dezentralisierung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Datenschutzgründen ist es wirklich eigentlich eine ganz große Katastrophe wenn es auf einem US-amerikanischen Server liegt",
+      "context": "Kritik an Google Maps Standortverlauf-Speicherung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich habe mich hier so ein bisschen emanzipiert von den großen Technikfirmen",
+      "context": "Fazit zur Self-Hosting-Philosophie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die viele KI Modelle sind halt auch Open Source und die Raspis sind mittlerweile so leistungsfähig – du kannst das alles selber machen",
+      "context": "Demokratisierung von High-Tech durch Open Source",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_0f7Qi_aybhQ",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_0f7Qi_aybhQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 6407
+}

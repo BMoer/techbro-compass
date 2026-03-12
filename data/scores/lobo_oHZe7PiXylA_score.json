@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.0,
+  "social_score": 0.2,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Man muss dezentralisiert die Stadt auf dem laufenden halten, mit kleineren Generationen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Infrastrukturlösung, keine ideologische Positionierung"
+    },
+    {
+      "text": "Mit Hilfe Deutschlands hat man sehr viel in den Schutz der Energieinfrastruktur investiert",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Internationale Zusammenarbeit, keine ökonomische Ideologie erkennbar"
+    },
+    {
+      "text": "Es ist schwierig, eine konstruktive Haltung zu Friedensgesprächen auszuarbeiten, wenn man ständig angegriffen wird",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Implizit: Sicherheit/Überleben geht vor abstrakte Friedensprozesse, leicht autoritär gefärbt"
+    },
+    {
+      "text": "Die Punkte der Unbeugsamkeit sind kleine Zimmer mit Generator, Tee und Internetzugang",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Beschreibung von Notfallmaßnahmen, keine Wertung erkennbar"
+    },
+    {
+      "text": "Für viele Soldaten ist nicht die Frage ob es dich trifft, sondern wann - das ist ein Lottery",
+      "speaker": "guest",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Beschreibung von Existenzunsicherheit durch Krieg, leicht autoritär gefärbt durch Kontrollverlust"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Unbeugsam kann man vier Jahre lang nicht wirklich sein. Man hat gar nicht die Wahl, beugsam oder unbeugsam zu sein, wenn du kein Strom und wenn du kalt bist",
+      "context": "Kritische Reflexion des ukrainischen Narrativs der 'Unbeugsamkeit' angesichts materieller Notlagen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Krieg ist echt brutal geworden und für viele Soldaten ist es dann auch gar nicht mehr die Frage, ob es dich trifft, sondern wann",
+      "context": "Beschreibung der psychologischen und physischen Realität moderner Kriegsführung mit Drohnen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_oHZe7PiXylA",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_oHZe7PiXylA",
+  "date": null,
+  "country": "DE",
+  "word_count": 2913
+}

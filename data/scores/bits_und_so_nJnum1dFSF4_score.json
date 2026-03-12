@@ -1,0 +1,63 @@
+{
+  "economic_score": -3.4,
+  "social_score": 0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "das Patentsystem ist halt kaputt und dann das ist halt Müll",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik am Patentsystem als Monopol-Instrument, das Innovation behindert"
+    },
+    {
+      "text": "Sowas es ist auch sowieso Müll, dass die ganze HDR Geschichte halt hinter dem diesen Dolby Patenten versteckt ist",
+      "speaker": "host",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Patentierter Tech als Marktverzerrung; fordert implizit mehr Offenheit/Regulierung"
+    },
+    {
+      "text": "Dolby Vision sieht halt immer gut aus und HDR10 oft nicht und das braucht halt immer irgendwie rumgewurstelt",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Sachliche Beobachtung ohne Wertung der Marktsituation"
+    },
+    {
+      "text": "dieser eine Patentverwerter, der nicht Troll genannt werden möchte, hinter Disney hergelaufen",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Patenttrolle/Lizenzgebühren; ironischer Ton erkannt"
+    },
+    {
+      "text": "Ist es nicht genau das, was ein Patentroll sagen würde?",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Rhetor. Frage zur Absurdität von Patenttrolle-Definition; milde Kritik"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "das Patentsystem ist halt kaputt und dann das ist halt Müll",
+      "context": "Kritik an Patentverwertung, die Disney Plus in Deutschland schadet",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ist es nicht genau das, was ein Patentroll sagen würde?",
+      "context": "Ironische Reaktion auf Absurdität des Patent-Lizenzstreits",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_nJnum1dFSF4",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_nJnum1dFSF4",
+  "date": null,
+  "country": "DE",
+  "word_count": 599
+}

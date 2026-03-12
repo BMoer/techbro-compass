@@ -1,0 +1,70 @@
+{
+  "economic_score": 0.0,
+  "social_score": 2.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "desinfekt kann auch im geschäftlichen Umfeld eingesetzt werden, wir sagen klar wenn jemand das auf drei vier Rechnern benutzt ist es okay",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Flexible Regulierung, pragmatische Balance zwischen Einzelnutzung und Unternehmenseinsatz"
+    },
+    {
+      "text": "es wäre dann nur fair ein Heft eine Lizenz, wir haben auch schon Kunden mit 100 Lizenzen, wir schneiden ein maßgeschneidertes Paket zu",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Faire Preisgestaltung, Entgegenkommen für unterschiedliche Kundengrößen, kooperativer Ansatz"
+    },
+    {
+      "text": "BitLocker ist immer häufiger standardmäßig aktiviert, dadurch wäre desinfekt in dem Fall sinnlos, aber wir haben eine BitLocker Unterstützung drin",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Datenschutz und Sicherheit ernst nehmen, technische Lösungen gegen proprietäre Verschlüsselung"
+    },
+    {
+      "text": "wir haben unser eigenes desinfekt Repository, nicht Ubuntu, aus Sicherheitsgründen gesperrt damit sich keiner das System kaputt konfiguriert",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Sicherheit über Offenheit, kontrollierte Umgebung, paternalistischer Sicherheitsansatz"
+    },
+    {
+      "text": "desinfekt ist leider kein Allheilmittel, man muss es als Analyse und Rettungstool verstehen, im schlimmsten Fall muss man den Rechner platt machen",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Realistische Einschätzung von Sicherheitsgrenzen, keine Übertreibung"
+    },
+    {
+      "text": "man kann den USB-Stick auch kaufen, wenn man das Heft kauft kann man desinfekt kostenlos runterladen und selbst installieren",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 5,
+      "reasoning": "Open-Source-freundlich, Wahlfreiheit zwischen Dienst und DIY, Transparenz und Zugänglichkeit"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "BitLocker ist immer häufiger standardmäßig aktiviert, dadurch wäre desinfekt in dem Fall sinnlos",
+      "context": "Diskussion über Herausforderungen durch Windows-Verschlüsselung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "desinfekt ist leider kein Allheilmittel, im schlimmsten Fall muss man den Rechner platt machen",
+      "context": "Realistische Bewertung der Grenzen von Malware-Bereinigungstools",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_2zTUum_pkFw",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_2zTUum_pkFw",
+  "date": null,
+  "country": "DE",
+  "word_count": 3647
+}

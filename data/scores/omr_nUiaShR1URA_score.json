@@ -1,0 +1,94 @@
+{
+  "economic_score": 4.2,
+  "social_score": 1.0,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wir haben das ganze in den Katalog gebracht... Versandhandel war in den 80ern viel lukrativer als stationärer Handel",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-Markt-Geschäftsmodell, Effizienzpräferenz für Versand über Retail"
+    },
+    {
+      "text": "Man kann nur ein Schnitzel essen... wir wollten danach uns auch wieder neu finden",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatischer Kapitalismus: Gewinnmitnahme statt Maximierung, Work-Life-Balance"
+    },
+    {
+      "text": "Die Banken haben sich zurückgezogen... musste das Ganze aus eigenem Cash Flow bestreiten",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Bankensystem, Präferenz für Eigenfinanzierung/Unabhängigkeit"
+    },
+    {
+      "text": "Monaco ist ein kleiner Polizeistaat... ganz Monaco ist Video überwacht",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Befürwortung von Überwachung für Sicherheit, sicherheitsorientiert über Freiheit"
+    },
+    {
+      "text": "Europa stagniert... Dubai ist alles neu, in Europa ist alles alt",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Pro-Deregulierung, Pro-Marktwirtschaft, Kritik an europäischer Regulierung/Bürokratie"
+    },
+    {
+      "text": "Ich bin auch einer der so aus dem Bauch raus kauft",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Intuitive Marktorientierung, risikobereite Unternehmermentalität"
+    },
+    {
+      "text": "Datenschutz/Privatsphäre der Kinder zeigen für authentische Familie - bewusste Entscheidung",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Pragmatische Balance zwischen Öffentlichkeit und Privacy, leicht libertär"
+    },
+    {
+      "text": "Abgezogen von Freund bei Startup-Fonds... gehe ich bis aufs letzte vor Gericht",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Starke Eigentums-/Vertragsrechte-Mentalität, rigides juristisches Durchsetzen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Mein Opa sagte immer: Man kann nur ein Schnitzel essen",
+      "context": "Begründung, warum er die Firma verkaufte statt weiterzuwachsen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "In Monaco kann ich mich nicht reich fühlen, weil jeder reich ist",
+      "context": "Erklärung, warum Bruder Monaco ablehnte und er sich dort trotzdem wohlfühlt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Vor 30 Jahren hatte noch kein einer ein Handy, in 30 Jahren fliegen wir mit Drohnen - Dubai wird Vorreiter",
+      "context": "Begründung für Expansion nach Dubai statt europäisches Stagnieren",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Abziehen können dich nur Familie, Freunde oder Menschen du vertraust - ansonsten bist du selber schuld",
+      "context": "Fazit nach Millionenverlust durch Freund bei Startup-Fond",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_nUiaShR1URA",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_nUiaShR1URA",
+  "date": null,
+  "country": "DE",
+  "word_count": 15879
+}

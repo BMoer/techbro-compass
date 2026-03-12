@@ -1,0 +1,108 @@
+{
+  "economic_score": 1.4,
+  "social_score": 0.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Open AI muss sich als eigenständige Plattform etablieren, nicht von Apple abhängig sein",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unternehmerische Unabhängigkeit, Anti-Abhängigkeit von Big Tech"
+    },
+    {
+      "text": "Diese Zusammenarbeit mit Apple war ein Fehler, jetzt Konfrontationskurs statt Partnerschaft",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Marktkonkurrenz, eher kooperativ als libertär"
+    },
+    {
+      "text": "Leute bleiben beim Dienst, wenn sie Hardware kaufen - Abonnement-Geschäftsmodell",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Geschäftsmodell-Fokus, Kapitalistische Logik von Lock-in"
+    },
+    {
+      "text": "Open AI ist ein Kartenhaus, das auf vielen dünnen Eisscheiben steht",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an fragiler Unternehmensstruktur, implizit regulierungsbedürftig"
+    },
+    {
+      "text": "Johnny Ive braucht eine Bremse - ohne Apple ist das interessant aber unkontrolliert",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Bedarf nach Kontrolle/Hierarchie über kreativer Freiheit"
+    },
+    {
+      "text": "Steve Jobs' Führungsstil - Leute anschreien und beleidigen - funktioniert besser",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Autoritäre Führungsmethoden als effektiv befürwortet"
+    },
+    {
+      "text": "Hardware ist schwächster Eindruck bei KI-Transkriptions-Tools - großes Verbesserungspotenzial",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Technische Marktlücke erkannt, kommerzielles Interesse"
+    },
+    {
+      "text": "Datenschutz-Creep: Der Dienst häuft immer mehr Daten über dich an",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Kritik an Überwachung, Datenschutz-Bedenken"
+    },
+    {
+      "text": "Audioeingabe für Coding-Assistant noch nicht freigeschaltet - Trainingdaten-Potenzial",
+      "speaker": "guest",
+      "economic": 3,
+      "social": -1,
+      "reasoning": "Datenextraktion zur Geschäftsoptimierung, leichte Überwachungslogik"
+    },
+    {
+      "text": "Ob es der Umhängestift wird - da bin ich mir nicht sicher, bessere Formfaktoren möglich",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Produktdesign-Kritik, neutral bewertend"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Open AI ist ein Kartenhaus, das auf vielen dünnen Eisscheiben steht",
+      "context": "Kritik an fragiler Unternehmensstruktur von OpenAI trotz KI-Erfolg",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Johnny Ive ohne Bremse - interessant, was da rauskommt",
+      "context": "Diskussion über fehlende Kontrolle von Designer ohne Apple-Limits",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Leute bleiben beim Dienst, wenn sie Hardware kaufen",
+      "context": "Geschäftsmodell-Strategie für Hardware-Bundle mit Abos",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Grund, warum man das haben will, der schließt sich mir noch nicht so ganz",
+      "context": "Skeptik gegenüber Nutzen eines KI-Stifts als drittes Gerät",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_vcdxBAgPa50",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_vcdxBAgPa50",
+  "date": null,
+  "country": "DE",
+  "word_count": 5896
+}

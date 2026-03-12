@@ -1,0 +1,75 @@
+{
+  "economic_score": 0.0,
+  "social_score": 0.8,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Wenn ich mehr Server habe, kann ich einmal definieren was passieren soll und es für alle gleich einrichten",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Demokratisierung von Systemadmin-Fähigkeiten, Emanzipation durch Automatisierung"
+    },
+    {
+      "text": "Mit Ansible habe ich eine Dokumentation meiner IT-Infrastruktur, ich weiß genau was passiert ist",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Transparenz und Nachvollziehbarkeit von Systemen, Anti-Blackbox-Mentalität"
+    },
+    {
+      "text": "Der größte Vorteil ist dass es die eigene IT-Infrastruktur reproduzierbar macht",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Open-Source-Ethos von Reproduzierbarkeit und Offenlegung statt Proprietary Locking"
+    },
+    {
+      "text": "Diese Bausteine sind veröffentlicht, es gibt keine Passwörter drin, man kann sie teilen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Befürwortung von Open-Source-Sharing, Anti-Vendor-Lock-in, dezentralisierte Ressourcenteilung"
+    },
+    {
+      "text": "Server sind werkseitig mit Linux vorinstalliert aber nur mit üblichen Consolen-Tools - maximale Performance braucht Minimalismus",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatisches Effizienz-Denken, Ressourcen-Optimierung als Default"
+    },
+    {
+      "text": "Mit Git Versionierung kann ich sagen nee das haut nicht hin, ich rolle eine Versionsstufe zurück",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Befürwortung von dezentraler Versionskontrolle, Autonomie und Fehlertoleranz ohne externe Abhängigkeiten"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Man hat sich halt dann total komfortables Nest gebaut und die Sachen die ich eigentlich haben wollte kommen dann oben drauf",
+      "context": "Über Basis-Infrastruktur-Automation durch Ansible Playbooks",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das ist quasi für mich gibt es einfach so ein peace of mind - ich weiß genau was los ist auf meinem Server",
+      "context": "Über den Vorteil von dokumentierter Automation versus manueller Konfiguration",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der King ist der User und die verschiedenen Dienste sind die Bediensteten des Staates",
+      "context": "Metapher zur Beschreibung der Server-Architektur mit Rollen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_a57s3ce9b_E",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_a57s3ce9b_E",
+  "date": null,
+  "country": "DE",
+  "word_count": 5630
+}

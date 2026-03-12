@@ -229,15 +229,17 @@ def main():
             with open(score_file, 'w', encoding='utf-8') as f:
                 json.dump(result, f, ensure_ascii=False, indent=2)
             
-            econ = result.get("economic_score", "?")
-            soc = result.get("social_score", "?")
+            econ = result.get("economic_score")
+            soc = result.get("social_score")
             n = result.get("n_coded", 0)
-            print(f"  ✓ Econ: {econ:+.1f} | Soc: {soc:+.1f} | {n} statements coded")
+            econ_str = f"{econ:+.1f}" if isinstance(econ, (int, float)) else "?"
+            soc_str = f"{soc:+.1f}" if isinstance(soc, (int, float)) else "?"
+            print(f"  ✓ Econ: {econ_str} | Soc: {soc_str} | {n} statements coded")
             
             all_results.append(result)
             
-            # Rate limiting
-            time.sleep(1)
+            # Rate limiting — generous delay to avoid 429s
+            time.sleep(5)
             
         except Exception as e:
             print(f"  ✗ Error: {e}")
@@ -295,9 +297,11 @@ def main():
         by_podcast[r.get("podcast", "?")].append(r)
     
     for podcast, episodes in sorted(by_podcast.items()):
-        econ_avg = sum(e.get("economic_score", 0) for e in episodes) / len(episodes)
-        soc_avg = sum(e.get("social_score", 0) for e in episodes) / len(episodes)
-        print(f"  {podcast:35s} Econ: {econ_avg:+.1f} | Soc: {soc_avg:+.1f} ({len(episodes)} eps)")
+        econ_vals = [e.get("economic_score") for e in episodes if isinstance(e.get("economic_score"), (int, float))]
+        soc_vals = [e.get("social_score") for e in episodes if isinstance(e.get("social_score"), (int, float))]
+        econ_avg = sum(econ_vals) / len(econ_vals) if econ_vals else 0
+        soc_avg = sum(soc_vals) / len(soc_vals) if soc_vals else 0
+        print(f"  {podcast:35s} Econ: {econ_avg:+.1f} | Soc: {soc_avg:+.1f} ({len(episodes)} eps, {len(econ_vals)} valid)")
     
     print(f"\nQuiz quotes collected: {len(all_quotes)}")
     print(f"Files saved to {scores_dir}/")

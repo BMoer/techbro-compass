@@ -1,0 +1,122 @@
+{
+  "economic_score": 2.1,
+  "social_score": 1.4,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Die erste Finanzierung vom Werkhaus war mehrere Millionen, 100% fremdfinanziert, nur mit Mietverträgen als Eigenkapital",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatische Nutzung von Fremdkapital und Kreativität bei Eigenkapitalersatz, eher pro-Markt"
+    },
+    {
+      "text": "Die Bank sagt immer ganz einfach: wenn es keinen Markt gibt, gibt's auch keine Finanzierung",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Akzeptanz marktwirtschaftlicher Logik der Banken, marktabhängiges Denken"
+    },
+    {
+      "text": "Wir versuchen das Ganze selbst zu machen, die Bank finanziert sowas nicht, also wollte ich nie Elektrogeräte-Hersteller werden",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Unternehmerischer Pragmatismus, Anpassung an Marktbedingungen, Bootstrapping-Mentalität"
+    },
+    {
+      "text": "Ich habe mich damals am Anfang noch in den Geburtsgeburtslichkeiten des Vaters selbständig gemacht",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Familienbasierte Ressourcennutzung, traditionelles Unternehmertum, neutral positioniert"
+    },
+    {
+      "text": "Riskieren ist wesentlich besser als bereuen, drum haben wir sehr schnell einiges riskiert auch finanziell",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Starkes Unternehmertum, Risikobereitschaft, innovativ-kapitalistisches Denken"
+    },
+    {
+      "text": "Die Bank durfte es wir praktisch für die Küche verwenden aber extra ausgeschlossen dass man nie für Autos machen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Verhandlung mit Regulierung, akzeptiert Regeln, pragmatisch"
+    },
+    {
+      "text": "Bei zwei Finanzierungen musste man Kapitalzahlungen hin und her schieben, Mitarbeiter später bezahlen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Kritik an eigener Liquiditätssituation, aber transparente Kommunikation mit Mitarbeitern schafft soziales Vertrauen"
+    },
+    {
+      "text": "Wenn du so verdoppelst, musst du den Cashflow versteuern, bevor er da ist - da bleibt nicht so lange was übrig",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Steuersystem, wünscht sich verminderten Steuersatz für Startups - leicht links positioniert"
+    },
+    {
+      "text": "Die erste Startupphase, weiß nicht drei oder fünf Jahre, würde schöne Geste von der Politik sein mit verminderten Steuersatz",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Befürwortung staatlicher Unterstützung für Startups, progressive Steueridee"
+    },
+    {
+      "text": "Ich bin eher der 20-80 Typ, wenn 20% passen dann drückt man auf Go",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Starkes unternehmerisches Risiko-Denken, pragmatisch-kapitalistisch"
+    },
+    {
+      "text": "Wir sind klarer Marktführer ja, nur im Premium-Segment, im Massenmarkt sind wir nicht so stark",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Akzeptanz von Marktsegmentierung, akzeptiert Spezialisierung statt Flächenstrategie"
+    },
+    {
+      "text": "Es gibt sehr viele Wettbewerber jetzt, aber das schadet euch nicht, ihr wachst trotzdem weiter",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Bestätigung marktkonkurrenz-positiver Haltung, Wettbewerb als stimulierend"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Riskieren ist wesentlich besser als bereuen",
+      "context": "Gründer erklärt seine Philosophie beim Aufbau von Bora",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wenn es keinen Markt gibt, gibt's auch keine Finanzierung",
+      "context": "Gründer zitiert Bankenlogik, warum er selbst bootstrappen musste",
+      "quiz_suitable": true
+    },
+    {
+      "text": "ich bin eher der 20-80 Typ, wenn 20% passen dann drückt man auf Go",
+      "context": "Selbstbeschreibung als unternehmerischer Risiko-Typ",
+      "quiz_suitable": true
+    },
+    {
+      "text": "die erste Startupphase würde schöne Geste von der Politik sein mit verminderten Steuersatz",
+      "context": "Kritik am deutschen Steuersystem für schnell wachsende Unternehmen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_zRU2hf_vCIg",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_zRU2hf_vCIg",
+  "date": null,
+  "country": "DE",
+  "word_count": 13296
+}

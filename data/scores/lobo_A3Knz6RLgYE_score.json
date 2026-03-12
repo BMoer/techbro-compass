@@ -1,0 +1,17 @@
+{
+  "economic_score": 0.0,
+  "social_score": 0.0,
+  "n_coded": 0,
+  "insufficient_data": true,
+  "confidence": 0.85,
+  "coded_statements": [],
+  "notable_quotes": [],
+  "reasoning": "Das Transkript ist eine Nachrichtensendung (Spiegelformat) mit faktischen Berichterstattungen über politische Ereignisse (Irankrieg, Landtagswahlen Baden-Württemberg/Bayern, Münchner OB-Wahl, Ukraine, USA). Es enthält keine meinungstragenden Aussagen des Moderators Sascha Lobo. Der Text präsentiert objektive Nachrichtenformate ohne bewertende oder argumentative Positionen zu politisch-ökonomischen oder gesellschaftlichen Fragen. Lobo fungiert als Sprecher/Moderator, nicht als Kommentator. Eine Codierung nach den Vorgaben erfordert mindestens 5 meinungstragende Aussagen, die hier nicht vorhanden sind.",
+  "episode_id": "lobo_A3Knz6RLgYE",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_A3Knz6RLgYE",
+  "date": null,
+  "country": "DE",
+  "word_count": 896
+}

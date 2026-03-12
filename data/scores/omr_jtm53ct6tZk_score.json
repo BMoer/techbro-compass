@@ -1,0 +1,127 @@
+{
+  "economic_score": -3.2,
+  "social_score": 2.1,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Die Verwaltung ist zu schwach aufgestellt, wir konnten lange Zeit keine Banken durchsuchen, weil wir schlicht keine Leute hatten.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an staatlicher Unterfinanzierung und Ineffizienz der Behörden"
+    },
+    {
+      "text": "Das Legalitätsprinzip in Deutschland bedeutet, der Staat darf da nicht weggucken, muss jedem Ansatz nachgehen.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Unterstützung für staatliche Durchsetzung, aber pragmatisch"
+    },
+    {
+      "text": "Wenn man guckt: Betriebsprüfer kosten 80.000-100.000€, bringen aber dem Staat eine Million im Jahr. Das ist irrational, dass das nicht gemacht wird.",
+      "speaker": "guest",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Befürwortung staatlicher Investitionen wegen positiver ROI gegen Steuerkriminalität"
+    },
+    {
+      "text": "Die Finanzbranche setzt natürlich viele Mittel ein durch Lobbyarbeit, um ihre Geschäfte abzuschirmen, auf unsere Kosten mit Steuergeldern.",
+      "speaker": "guest",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Kritik an Marktmacht und Lobbyismus der Finanzindustrie"
+    },
+    {
+      "text": "Top 10 Finanzlobbyisten haben 2024 fast 40 Millionen Euro aufgewendet für Lobbyarbeit in einem Jahr.",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Faktische Kritik an Deregulierungslobby, impliziert Bedarf für Regulierung"
+    },
+    {
+      "text": "Wirtschaftskriminelle kriegen in der Regel Halbstrafe, müssen nur Hälfte der Strafe absitzen, anders als andere Kriminelle.",
+      "speaker": "guest",
+      "economic": -5,
+      "social": -2,
+      "reasoning": "Kritik an Zwei-Klassen-Justiz und mangelnder Gleichheit vor dem Gesetz"
+    },
+    {
+      "text": "Bei Komex-Dächern war kaum jemand in Untersuchungshaft. Von 1700 Leuten vielleicht ein oder zwei.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Aufdeckung von Bevorteilung von Wirtschaftskriminellen im Strafvollzug"
+    },
+    {
+      "text": "Wir haben alle unterschiedliche Datenschutzregeln zwischen Bundesländern - die einen durften E-Mails verschlüsseln, andere nicht. Wie soll man da ermitteln?",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kritik an mangelnder föderaler Koordination und Datenschutz-Zersplitterung"
+    },
+    {
+      "text": "Ich bin dann zur NGO Finanzwende gewechselt, weil von innen verändert sich da gar nichts. Man kann nur von außen was ändern.",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Unzufriedenheit mit staatlichen Reformmöglichkeiten, Vertrauen in Zivilgesellschaft"
+    },
+    {
+      "text": "Bei Finanzwende finanzieren wir uns aus Mitgliedschaften und Spenden, keine öffentlichen Gelder, sehr dezentral von Einzelspenden.",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 5,
+      "reasoning": "Betonung auf dezentraler, basisdemokratischer Finanzierung und Transparenz"
+    },
+    {
+      "text": "Die Börsenhändler nutzen bilaterale Derivatgeschäfte zur Geldwäsche - das läuft völlig unterhalb des Radars, weil Behörden die Tricks gar nicht kennen.",
+      "speaker": "guest",
+      "economic": -4,
+      "social": -1,
+      "reasoning": "Kritik an unzureichender Überwachung und Regulierung von Finanzmarktaktivitäten"
+    },
+    {
+      "text": "Wir haben bei der Barfin oder Betriebsprüfungen keine Börsenhändler. Das ist ein Wissensdefizit bei den Behörden.",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Forderung nach besserer staatlicher Expertise und Ausstattung für Finanzmarktüberwachung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn das weiterhin so bleibt, dann werden wir daran nichts ändern, dass wir immer nur die kleinen Fische kriegen und nicht die großen.",
+      "context": "Borhiker erklärt ihr Ausstieg aus dem Staatsdienst mit Frustration über strukturelle Unmöglichkeit, mächtige Wirtschaftskriminelle zu verfolgen.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Subkulturtheorie besagt: wenn man sich in einem Milieu befindet, wo Normen umgedeutet werden, ist kriminell plötzlich nicht mehr kriminell, sondern clever.",
+      "context": "Erklärung, wie wirtschaftliche Kriminelle ihre moralischen Grenzen rationalisieren und anpassen.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Steuerhinterziehung hat eine Sogwirkung auf alle möglichen Menschen und Firmen - wenn der Staat nicht einschreitet, gibt es bald keine ehrlichen Unternehmer mehr am Markt.",
+      "context": "Argument für die Notwendigkeit staatlicher Intervention gegen Steuerkriminalität.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es ist völlig irrational, dass man bei Betriebsprüfern, die eine Million pro Jahr für den Staat erwirtschaften, nicht mehr einstellt.",
+      "context": "Kritik an fehlender staatlicher Investition in Steuerfahndung troetto positiver Rendite.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Mir war schon bewusst, dass ich das Gesicht nach außen bin, aber viel viel größere Teams im Hintergrund haben auch nicht die Sichtbarkeit bekommen.",
+      "context": "Borhiker reflektiert über ihre Medienpräsenz und die mangelnde Anerkennung ihrer Kolleg:innen.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_jtm53ct6tZk",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_jtm53ct6tZk",
+  "date": null,
+  "country": "DE",
+  "word_count": 20991
+}

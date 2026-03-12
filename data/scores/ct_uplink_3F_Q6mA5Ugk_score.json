@@ -1,0 +1,75 @@
+{
+  "economic_score": 0.5,
+  "social_score": 0.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Die Entwicklungskosten für Notebooks sind teuer und müssen auf Stückzahlen umgelegt werden",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an hohen Kosten/Marktzugangsbarrieren, aber akzeptierend"
+    },
+    {
+      "text": "Apple verlangt 230€ Aufpreis für jeden RAM-Upgrade ohne Relation zu Komponentenpreisen",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Kritik an restriktiven Preispolitik/Monopolpreisen im Premium-Segment"
+    },
+    {
+      "text": "Der Markt wird sich diversifizieren - nicht mehr jeder CPU bei jedem Hersteller",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Beobachtung von Marktfragmentierung/Exklusivdeals, tendenziell pro-Markt"
+    },
+    {
+      "text": "AMD muss Preise senken um Massenmarkt zu erreichen, war früher günstiger",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Preispositionierung, Forderung nach Wettbewerb"
+    },
+    {
+      "text": "Bei Qualcomm fehlen noch Grafiktreiber-Updates, manche Geräte seit Juni keine Updates",
+      "speaker": "guest",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritik an Marktentwicklung/unzureichender Supportinfrastruktur"
+    },
+    {
+      "text": "Framework ermöglicht Reparierbarkeit und Aufrüstbarkeit als Differenzierungsmerkmal",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Pro-Reparatur/Anti-Wegwerfkultur, kritisch zu Mainstream-Repair"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Es gibt keine CPU die alles zusammen könnte - lange Akkulaufzeit, dicke NPU und hohe Rechenleistung zugleich",
+      "context": "Diskussion der technischen Trade-offs bei aktuellen Notebook-CPUs",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Apple lötet sowieso komplett auf, da geht gar nichts - bei den vielen anderen nicht bei allen",
+      "context": "Vergleich der Reparierbarkeit zwischen Herstellern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Markt wird sich immer weiter diversifizieren - muss eben noch mehr drauf achten",
+      "context": "Ausblick auf fragmentierte CPU-Landschaft 2025",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "ct_uplink_3F_Q6mA5Ugk",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_3F_Q6mA5Ugk",
+  "date": null,
+  "country": "DE",
+  "word_count": 12409
+}

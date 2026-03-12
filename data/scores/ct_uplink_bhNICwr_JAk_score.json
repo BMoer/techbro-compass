@@ -1,0 +1,77 @@
+{
+  "economic_score": 0.71,
+  "social_score": 1.43,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Mac Hardware kostet mehr für den Namen, aber die Software läuft besser und effizienter",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritik an Premium-Preisgestaltung, aber pragmatische Anerkennung von Mehrwert"
+    },
+    {
+      "text": "Windows Skalierung ist ein Problem - das ist ein typisches Linux Problem, schlechte Koordination zwischen Technik und Software",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Technische Kritik ohne ideologische Position"
+    },
+    {
+      "text": "Ich bin glücklich wieder ohne Desktop zu sein und alles in einem Notebook zu haben",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Effizienzpräferenz, neutral wirtschaftlich"
+    },
+    {
+      "text": "Der Fahrradladen wollte Monate Wartezeit, ich habe das Problem lieber selbst gelöst",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "DIY über Marktleistung, Skeptik gegenüber Dienstleistern, Eigenverantwortung"
+    },
+    {
+      "text": "Mit Homebrew kriegt man auf Mac ähnlich die Bequemlichkeit von Linux Distributionen",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Befürwortung von Open-Source-Tools, Dezentralisierung von Kontrolle"
+    },
+    {
+      "text": "DSP Technik ist spannend weil man sich Analog-Bauteile sparen kann und flexibler wird",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Präferenz für Effizienz und technologischen Fortschritt über traditionelle Hardware"
+    },
+    {
+      "text": "Röhrenverstärker klingen toll aber das ist teuer und nicht das Originalsignal",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatische Kritik an ästhetischer Irrationalität, Effizienz-orientiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ich fand es immer schade dass es nicht kaputt gegangen ist, damit ich mir Ausreden ausdenken musste warum ich mir was Neues kaufe",
+      "context": "Nachhaltigkeit vs. Konsumzwang bei Tech-Produkten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Vorteil an so einem DSP Modul ist dass du nicht dir ein Berg von Bauteilen hinlegen musst sondern einfach die Filter einstellen kannst",
+      "context": "Digitalisierung und Flexibilität gegenüber analoger Hardware",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_bhNICwr_JAk",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_bhNICwr_JAk",
+  "date": null,
+  "country": "DE",
+  "word_count": 12320
+}

@@ -1,0 +1,155 @@
+{
+  "economic_score": 2.1,
+  "social_score": 1.4,
+  "n_coded": 16,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Software wir plötzlich viel einfacher produzieren, viel mehr Software produzieren",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-technologischer Fortschritt, höhere Produktivität durch Marktmechanismen"
+    },
+    {
+      "text": "Big Tech muss zerschlagen werden wäre wie: schlechte Regulierung kann massiven Impact haben",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an regulatorischen Hürden für Innovation, skeptisch gegenüber überregulierung"
+    },
+    {
+      "text": "Wir investieren nicht mehr in China aus legalen Gründen, Regulierung nicht gewünscht",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Kritik an Regulierung, nationale Sicherheitsbedenken schränken Markt ein"
+    },
+    {
+      "text": "Deutschland hat Internet durch zu teure Modems und illegale Verbote verschlafen",
+      "speaker": "guest",
+      "economic": -5,
+      "social": -2,
+      "reasoning": "Überregulierung als Bremser für Innovation und Wirtschaftsentwicklung"
+    },
+    {
+      "text": "Europäischer AI Act macht Dinge komplizierter, Entrepreneur bauen lieber USA",
+      "speaker": "guest",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Regulierung vertreibt Unternehmer, Marktverzerrung durch staatliche Eingriffe"
+    },
+    {
+      "text": "Wenn Geschäftsmodell unklar, aber Wertschöpfung klar, findet man Modell raus",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktoptimismus, Vertrauen in unternehmerisches Problemlösen"
+    },
+    {
+      "text": "Technologie-Führerschaft wichtig, lieber demokratisches Land mit Technologie hat",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Betonung demokratischer Werte, aber vorsichtig ausgedrückt"
+    },
+    {
+      "text": "AI schafft Mehrwert, LMS funktionieren praktisch, aber Bullshit in Boom-Markt",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Technologie-Optimismus mit realistischer Einschätzung von Marktdynamiken"
+    },
+    {
+      "text": "Coding is dead, Software development is still alive durch AI-Agents",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Massive Produktivitätssteigerung durch Automatisierung, disruptiver Wandel"
+    },
+    {
+      "text": "Schlechte Regulierung kann massiven Impact haben auf Technologie-Entwicklung",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung als Innovationsbremse"
+    },
+    {
+      "text": "Am liebsten IPO und eigenständige Firma, kommt Offer nicht nein sagen",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-Unternehmertum, Marktoptimismus, Exit-Mentalität"
+    },
+    {
+      "text": "Gründer und Technologie sind wichtigsten Sachen bei Investment-Entscheidung",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Vertrauen in freie Unternehmertätigkeit und Meritokratie"
+    },
+    {
+      "text": "Rückkaufaktionen für GPUs weil zu gefährlich war komplett bullshit",
+      "speaker": "guest",
+      "economic": 6,
+      "social": 5,
+      "reasoning": "Ironie über übertriebene AI-Angstszenarien, Skepsis gegenüber Alarmismus"
+    },
+    {
+      "text": "Venture ist Risikokapital, nicht jede investierte Firma erfolg wird, okay",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Akzeptanz von Marktrisiken, liberale Investitionsmentalität"
+    },
+    {
+      "text": "Eine starke Demokratie wichtig, aber Politik will ich raushalten",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Vorsichtige demokratische Haltung, aber Fokus auf Apolitikalität"
+    },
+    {
+      "text": "Quantencomputer-Probleme: Welche echten Probleme kann man effizient lösen?",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatisches Denken, Skepsis gegenüber Hype ohne praktischen Nutzen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Coding is dead, Software development is still alive",
+      "context": "Portfolio CEO beschreibt fundamentale Verschiebung durch AI-Agenten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Deutschland hat Internet durch illegale Modem-Verbote verschlafen",
+      "context": "Guest erklärt historische Folgen von Überregulierung in Deutschland",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt Booms und Busts - am Ende wurden 5 der 10 wertvollsten Firmen ausgetauscht",
+      "context": "Gido argumentiert, dass Dot-Com-Crash trotzdem massiv Wert schöpfte",
+      "quiz_suitable": true
+    },
+    {
+      "text": "AI generiert personalisierte Software nur für mich - in Zukunft kann jeder das",
+      "context": "Guest beschreibt seinen Goldfisch-Überwachungs-Bot als Metapher für AI-Demokratisierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Rückkaufaktionen für GPUs weil zu gefährlich - komplett bullshit",
+      "context": "Gido über übertriebene AI-Sicherheitsbedenken aus AI-Risiko-Debatte",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_jrlKg4X_GcQ",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_jrlKg4X_GcQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 13591
+}

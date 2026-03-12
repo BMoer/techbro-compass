@@ -1,0 +1,134 @@
+{
+  "economic_score": 2.1,
+  "social_score": 1.4,
+  "n_coded": 13,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Provisionsfreier Aktienhandel ist in sich profitabel, wir geben Zinsen 1:1 an Kunden weiter",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Fair-Pricing-Ansatz, anti-Profit-Maximierung, aber marktwirtschaftlich"
+    },
+    {
+      "text": "Wir verdienen durch Payment for Order Flow, revenue share mit ETF-Emittenten, Fremdkostenpauschale",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Diversifizierte Geschäftsmodelle, marktbasierte Einnahmeströme"
+    },
+    {
+      "text": "Payment for Order Flow wird 2026 verboten - Lobbyismus der Monopolbörsen",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 2,
+      "reasoning": "Kritik an Marktkonzentration, Regulierungsskepsis, Verbraucherschutz"
+    },
+    {
+      "text": "Wir werden die vier Millionen Kunden vertreten, damit Kräfteverhältnis nicht zu Lasten der Anleger verschiebt",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Pro-Konsument, gegen Marktmacht, aber auch Eigeninteresse"
+    },
+    {
+      "text": "Bankenlizenz zu bauen mit 25 - das schaffst du nicht, Markt ist gesättigt",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Zitiert Skeptiker, impliziert Unternehmertum gegen Marktlogik"
+    },
+    {
+      "text": "Rentenlücke ist mathematisch hart - jeder fünfte Euro Steuern geht in Rentenkasse",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -1,
+      "reasoning": "Systemkritik Sozialstaat, aber pragmatisch, nicht ideologisch"
+    },
+    {
+      "text": "Mit 25 Jahren ohne private Altersvorsorge wirst du mit Sicherheit in Altersarmut leben",
+      "speaker": "guest",
+      "economic": 5,
+      "social": -2,
+      "reasoning": "Pro-Privatisierung Rente, Individuelle Verantwortung, marktliberal"
+    },
+    {
+      "text": "Wir bieten keine Platzierungen für Geld in der App - Kundeninteresse geht vor",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Anti-Korruption, Verbraucherschutz, gegen Kickback-Kultur"
+    },
+    {
+      "text": "Schwarze Lügen von Bankern mit Incentives - daher Best Execution Prinzip",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Kritik traditionelle Finanzbranche, Transparenz vor Profit"
+    },
+    {
+      "text": "Europa hat keine Chipfabriken, Datenschutzgesetze, teure Energie - KI geht an uns vorbei",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Systemkritik Europa, wirtschaftspolitische Pessimismus"
+    },
+    {
+      "text": "Investoren wählen wir nicht nach Höchstbewertung, sondern besten Partnern",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Anti-Finanz-Optimierung, Quality over Money"
+    },
+    {
+      "text": "Mit 2-3% Umsatzrendite ist profitables Wachstum möglich - Venture Case funktioniert bei 4% Zinsen nicht",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Geschäftslogik, aber Zinsabhängigkeit kritisiert implizit"
+    },
+    {
+      "text": "Kryptowährungen sind echte Kryptowerte, keine Derivate - echte Ownership",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 2,
+      "reasoning": "Pro-Dezentralisierung, Anti-Finanz-Mittler, libertäre Anklänge"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Rentenlücke ist mathematisch hart - jeder zweite Euro muss in die Rentenkasse gehen",
+      "context": "Argumentation für private Altersvorsorge und Notwendigkeit von Börseninvestitionen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich war 18 in Münsterland, Banker verkaufte mir schlechtes Zertifikat wegen Kickback",
+      "context": "Persönliche Anekdote erklärt, warum TR Republic keine Platzierungsgebühren akzeptiert",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Strichliste vor Mitarbeiter-1:1 - drittes Mal kein gutes Gefühl = Trennung",
+      "context": "Keith Rabois' Weisheit für Führung, absolute Vereinfachung von Personalentscheidungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Europa hat keine Chips, Datenschutz, teure Energie - KI-Revolution geht an uns vorbei",
+      "context": "Begründet, warum europäische Privatanleger global investieren müssen um vom KI-Boom zu profitieren",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Venture Case funktioniert bei 4% Zinsen weltweit für fast keine Firma",
+      "context": "Erklärt, warum VC-Bewertungen derzeit unter Druck sind trotz TR Republics Profitabilität",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_Rrm7joyp1zI",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_Rrm7joyp1zI",
+  "date": null,
+  "country": "DE",
+  "word_count": 14410
+}

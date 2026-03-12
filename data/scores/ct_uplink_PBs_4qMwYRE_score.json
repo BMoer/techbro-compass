@@ -1,0 +1,75 @@
+{
+  "economic_score": 0.4,
+  "social_score": 0.2,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Wer nur einmal pro Woche Banking macht, braucht keinen guten Monitor",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Deskriptive Aussage, keine Wertung zu Märkten/Regulierung/Freiheiten"
+    },
+    {
+      "text": "Günstige Monitore unter 100€ sind für Dauerarbeit nicht zu empfehlen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Schwache Kritik an billiger Massenproduktion, pragmatische Verbraucherberatung"
+    },
+    {
+      "text": "Ergonomiefunktionen sollten Standard sein, kosten aber extra",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an Kostensparmaßnahmen auf Kosten der Arbeitnehmergesundheit"
+    },
+    {
+      "text": "OLED-Monitore sind noch zu teuer für Normalverbraucher",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Neutrale Marktbeobachtung, keine ökonomische Positionierung"
+    },
+    {
+      "text": "Hersteller spezialisieren sich eher auf Spieler als auf Büroarbeiter",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Marktentwiclung beschreibend, keine Werturteile zu Kapitalismus/Regulierung"
+    },
+    {
+      "text": "Samsung sagt LED-Monitor, obwohl alle LED haben – Marketing-Quatsch",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 1,
+      "reasoning": "Kritik an irreführender Bewerbung (light regulation needed), anti-konsumkritisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Aus dem Fenster schmeißen",
+      "context": "Ein Monitor mit wackeligem Fuß ist so schlecht, dass man ihn entsorgen sollte.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Augen werden besser geleitet und ich muss nicht neu fokussieren",
+      "context": "Warum leicht gekrümmte Monitore für breite Bildschirme sinnvoll sind.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Gebogen braucht kein Mensch – bis ich es selbst hatte",
+      "context": "Persönliche Vorurteilskorrektur zum Mehrwert von Kurven-Displays.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_PBs_4qMwYRE",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_PBs_4qMwYRE",
+  "date": null,
+  "country": "DE",
+  "word_count": 11013
+}

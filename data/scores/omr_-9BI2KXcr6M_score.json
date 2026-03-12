@@ -1,0 +1,127 @@
+{
+  "economic_score": 2.8,
+  "social_score": 4.4,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Wir haben die Firma ohne externe Investoren aufgebaut, mit eigenem Geld der Gründer",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unternehmertum, Eigenkapital statt Fremdkapital, bootstrapping-Mentalität"
+    },
+    {
+      "text": "Wir konzentrieren uns fokussieren fokussieren und investieren in Startups",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktorientiert, Fokus auf Effizienz, proaktives Investment in Markt"
+    },
+    {
+      "text": "Sozialleistungen, Kantine, CO2-Accounting für Mitarbeiter sind wichtig",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Soziale Verantwortung, Employee Benefits, Nachhaltigkeitsmanagement"
+    },
+    {
+      "text": "Atomkraft ist nicht versicherbar und teuerste Energieform, Solar günstiger",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Marktverzerrung, Ablehnung von Subventionen für Kernenergie"
+    },
+    {
+      "text": "Der Markt wird reguliert durch 17 Formulare bei 17 Netzbetreibern",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung und Bürokratie, Effizienzproblem"
+    },
+    {
+      "text": "Großkonzerne wie RWE, BP geben jetzt Vollgas im Solar-Markt",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktdynamik, Wettbewerb, Marktkonzentration akzeptiert"
+    },
+    {
+      "text": "Wir sind profitabel seit Tag 1, trimmen auf Cashflow nicht auf Umsatz",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Gewinnorientierung, rationale Wirtschaftsprinzipien, Effizienzfokus"
+    },
+    {
+      "text": "Datenschutz und transparente Geschäftsmodelle sind notwendig für Vertrauen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Transparenz, Vertrauensaufbau, Bürgerrechte im Geschäftsmodell"
+    },
+    {
+      "text": "Unabhängigkeit von Russland/Uran durch eigene erneuerbare Energien",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Kritik an geopolitischer Abhängigkeit, Souveränität durch Dezentralisierung"
+    },
+    {
+      "text": "Marketing mit Plakaten an Solaranlagen 'Welt retten' funktioniert besser als Digital",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 5,
+      "reasoning": "Lokale/bodenständige Kommunikation, Impact-Purpose vor Profit-Narrative"
+    },
+    {
+      "text": "Investmentbanker-Skills für Projektfinanzierung und Bewertung notwendig",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kapitalmarktorientierung, professionelle Finanzstrukturen"
+    },
+    {
+      "text": "Der Grund warum Länder Solar bauen ist egal, Hauptsache die Dynamik stimmt",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Pragmatismus, Ergebnisfokus, Pluralität der Motivationen akzeptiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wir haben die ganze Firma eigentlich gar nicht auf Umsatz getrimmt sondern immer nur auf Cashflow",
+      "context": "Gründungsstrategie vs. typisches Startup-Denken",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Atomkraft ist nicht versicherbar – Punkt. Das ist die zentrale Frage.",
+      "context": "Kernenergie-Debatte mit praktischem Argument",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Grund warum ein Land das so macht ist dem Thema egal – Hauptsache die Dynamik",
+      "context": "Pragmatische Sicht auf globale Energiewende",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir fliegen gerne unter dem Radar – das ist unser Credo",
+      "context": "Gegenpol zu typischem VC/IPO-Denken",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das ist unglaublich spannend in dieser Welt dabei zu sein – das ist ein geiles Gefühl",
+      "context": "Impact-Motivation vs. pure Profitmotivation",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_-9BI2KXcr6M",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_-9BI2KXcr6M",
+  "date": null,
+  "country": "DE",
+  "word_count": 13189
+}

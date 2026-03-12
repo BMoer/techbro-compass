@@ -1,0 +1,115 @@
+{
+  "economic_score": 0.8,
+  "social_score": 2.6,
+  "n_coded": 11,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Windows ist eine gigantische Spionage-Software",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an proprietärer Software, aber nuanciert: Sicherheitslücken ermöglichen theoretische Überwachung, nicht systematische Spionage. Libertäre Skepsis gegenüber Closed Source."
+    },
+    {
+      "text": "Linux ist per se sicherer als Windows oder MacOS",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Mythos-Dekonstruktion: Betont Benutzerverhalten statt Betriebssystem. Social Engineering bleibt unabhängig vom OS relevant. Moderate Skepsis gegenüber Sicherheitsmythen."
+    },
+    {
+      "text": "Mit Visakarte sieht Visa was ich alles kaufe - Drogerieartikel im Detail",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Mythos-Dekonstruktion: Visa sieht nur aggregierte Daten, keine Personendaten. Bank kennt Details. Moderate Datenschutzkritik, aber faktenbasiert."
+    },
+    {
+      "text": "Bei Payback-Karte erfährt Firma Payback was ich kaufe im Detail",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Bestätigung von bewusstem Daten-für-Vorteile-Tausch. Keine fundamental kritische Position, pragmatische Sicht auf Datenhandel."
+    },
+    {
+      "text": "Google Pay: Google nimmt sich weitgehende Rechte raus, kennt Standorte",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an Datenverzehr durch Tech-Konzerne. Google nutzt Daten zu Marketing. Datenschutz-Kritik ohne radikale Ablehnung."
+    },
+    {
+      "text": "Apple Pay: Apple nutzt Daten nicht für Marketing, schröpft dafür die Banken",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 1,
+      "reasoning": "Anerkennung von Geschäftsmodell-Differenz. Apple monetarisiert über Gebühren, nicht Daten. Pragmatisches Verständnis kapitalistischer Strategien."
+    },
+    {
+      "text": "Passwörter regelmäßig ändern ist Quatsch",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an verbreiteter Sicherheitspraxis. Fordert Evidenzbasierung statt Dogma. Libertäre Haltung: Benutzer sollten selbst entscheiden."
+    },
+    {
+      "text": "WLAN nachts ausschalten spart keine Energie und ist Quatsch",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Mythos-Dekonstruktion. Befürwortet faktenbasierte statt Gewohnheits-Entscheidungen. Schwach libertär: Aufklärung statt Bevormundung."
+    },
+    {
+      "text": "Zwei getrennte Geräte für Banking sind sicherer, aber eine Abwägung",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Pragmatische Risiko-Abwägung: Perfekt ist Feind des Guten. Betont individuelle Entscheidung statt Dogmatismus. Libertäre Autonomie."
+    },
+    {
+      "text": "Brief-Verifizierung für Banking ist sicherer als SMS, verzögert Betrug",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Präferenz für bewusstem, langsameren Prozess gegenüber Instant-Gratifikation. Sicherheit > Komfort-Argumente, aber pragmatisch."
+    },
+    {
+      "text": "Fotovoltaik-Anlagen mit Akkus schützen nicht automatisch vor Stromausfällen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Dekonstruktion von grünem Mythos. Netzgebundene Systeme schalten ab bei Ausfall. Faktenbasiert, keine ökonomische Positionierung."
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Linux per se sicherer - das ist Mythos. Social Engineering funktioniert überall.",
+      "context": "Andy kritisiert Fehlglauben, dass Betriebssystem Sicherheit garantiert.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Passwörter regelmäßig ändern ist Quatsch - auch BSI empfiehlt das lange selbst.",
+      "context": "Greta über hartnäckige Sicherheitsmythen trotz besserer Erkenntnisse.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Bei Payback erfährt Firma was ich kaufe im Detail - das ist korrekt.",
+      "context": "Markus über bewussten Daten-für-Vorteile-Tausch im Alltag.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Fotovoltaik-Anlage ohne Extra-Hardware bietet keinen Notstrom - netzgebunden.",
+      "context": "Mythos-Dekonstruktion: Grüne Energie schützt nicht automatisch vor Blackouts.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_G_Jq0HEDTlM",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_G_Jq0HEDTlM",
+  "date": null,
+  "country": "DE",
+  "word_count": 6964
+}

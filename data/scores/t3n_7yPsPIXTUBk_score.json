@@ -1,0 +1,75 @@
+{
+  "economic_score": 0.0,
+  "social_score": 2.5,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "CIA sollte sich im Darknet bewegen, um Informationen zu schützen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Befürwortung von Anonymität und Datenschutz für Quellenschutz"
+    },
+    {
+      "text": "Journalisten brauchen sichere Briefkästen für Hinweise, nicht GMX",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Starkes Interesse an Datenschutz und Sicherheit bei Quellen"
+    },
+    {
+      "text": "Tesla Cybertruck mit Edelstahl - Material macht Probleme bei Produktion",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Analyse von Produktionsfehler, keine ökonomische Position"
+    },
+    {
+      "text": "KI-gestützte Hautkrebs-Erkennung unterstützt Ärzte, ersetzt sie nicht",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Befürwortung menschlich-KI-Kooperation, Schutz von Menschenwürde"
+    },
+    {
+      "text": "Bei KI-Daten reingefüttert = Vorurteile kommen raus, auch Bias",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritische Reflexion über Datenbias und Fairness in KI-Systemen"
+    },
+    {
+      "text": "Elon Musk hätte sich mit Cybertruck sein eigenes Grab geschaufelt",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an fragwürdigem Produktmanagement und ökonomischen Verlusten"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "die CIA hat auf Ex Telegram Link geteilt und der Link wurde gekürzt - verkehrter Channel",
+      "context": "Sicherheitsmitarbeiter Kevin Meehan konnte CIA-Telegram-Kanal kapern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "ChatGPT kann jetzt sprechen und hören - nur mit Abo in iOS App",
+      "context": "Live-Experiment mit KI als Podcast-Moderatorin durchgeführt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Fingerabdrücke auf Edelstahl-Cybertruck - wird zum Volkssport",
+      "context": "Praktische Herausforderung bei Wartung und Optik des Fahrzeugs",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_7yPsPIXTUBk",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_7yPsPIXTUBk",
+  "date": null,
+  "country": "DE",
+  "word_count": 7884
+}

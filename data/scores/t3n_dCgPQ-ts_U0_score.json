@@ -1,0 +1,32 @@
+{
+  "economic_score": 0.0,
+  "social_score": 0.0,
+  "n_coded": 2,
+  "insufficient_data": true,
+  "confidence": 0.3,
+  "coded_statements": [
+    {
+      "text": "man kann mit KI kreativ arbeiten, aber nicht im Sinne von, dass KI was ausspuckt",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Technische Debatte, keine politische Meinungsäußerung"
+    },
+    {
+      "text": "KI kann dich auf neue Ideen bringen und dazu bringen um die Ecke zu denken",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Pragmatische Beschreibung von KI-Funktionalität, keine Wertung"
+    }
+  ],
+  "notable_quotes": [],
+  "analysis_note": "Das Transkript ist ein Tech-Podcast über Prompt Engineering und KI-Textgenerierung. Es enthält primär technische Anleitungen und praktische Tipps zur Bannlisten-Nutzung. Es fehlen vollständig meinungstragende Aussagen zu ökonomischen Fragen (Regulierung, Marktordnung, Vermögensverteilung) oder gesellschaftlich-autoritären Themen (Freiheit, Datenschutz, Sicherheit, Überwachung). Der Inhalt ist bewusst neutral und sachlich, daher nicht codierbar nach den gegebenen Kriterien.",
+  "episode_id": "t3n_dCgPQ-ts_U0",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_dCgPQ-ts_U0",
+  "date": null,
+  "country": "DE",
+  "word_count": 2238
+}

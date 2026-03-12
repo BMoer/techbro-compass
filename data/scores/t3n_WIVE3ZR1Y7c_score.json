@@ -1,0 +1,103 @@
+{
+  "economic_score": -1.0,
+  "social_score": 2.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Montana wollte TikTok verbieten, aber das verstößt gegen Meinungsfreiheit",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Kritik an staatlichem Verbot aus Freiheitsgründen, libertäre Position"
+    },
+    {
+      "text": "Datenschutz ist ein Grund TikTok zu verbieten, chinesische Datennutzung verhindern",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Sicherheitsargument über Freiheit, aber mit Datenschutzbegründung gemischt"
+    },
+    {
+      "text": "Medienkompetenzbedarf statt Pauschalverbot, damit Desinformation bekämpfen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Plädiert für Aufklärung statt Zensur/Verbote, libertär ausgerichtet"
+    },
+    {
+      "text": "TikTok selbst zensiert Begriffe, die in China kontrovers sind",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an Plattform-Zensur durch chinesische Einflussnahme"
+    },
+    {
+      "text": "ChatGPT ist inspiriert von menschlichen Gehirnen, aber keine echte Intelligenz",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Technische Einordnung, neutral, keine politische Meinung"
+    },
+    {
+      "text": "Energieverbrauch von KI-Modellen ist problematisch, Wasserverbrauch besorgniserregend",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Ressourcenverbrauch durch Konzerne, ökologisches Anliegen"
+    },
+    {
+      "text": "Schulen sollten Prüfungssysteme überdenken, ChatGPT integrieren statt verbieten",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Progressive Position: Technologie akzeptieren, Systeme reformieren statt restriktiv"
+    },
+    {
+      "text": "KI-Diskriminierung durch verzerrte Trainingsdaten ist ein großes Problem",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Fairness-Problemen, fordert implizit mehr Regulation/Gerechtigkeit"
+    },
+    {
+      "text": "Wenn Rolltreppen kaputt sind, können Menschen mit Mobilitätseinschränkungen nicht fahren",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Barrierefreiheit als Grundrecht, kritisiert Diskriminierung durch Infrastruktur-Versagen"
+    },
+    {
+      "text": "WhatsApp-Verschlüsselung mit verborgenem Code schützt Dissidente in autoritären Regimen",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Stark libertär: Bürgerrechte, Anti-Überwachung, Schutz von Minderheiten vor Verfolgung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Datenschutz ist ein Grundrecht, aber TikTok zensiert selbst chinesische Themen",
+      "context": "Diskussion über Montana TikTok-Verbot und Meinungsfreiheit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Schulen brauchen neue Prüfungsformen statt Hausaufgabenverbote für ChatGPT",
+      "context": "Debatte über KI-Nutzung in Bildung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "KI-Modelle reproduzieren Wahrscheinlichkeiten wie Papageien, keine echte Intelligenz",
+      "context": "Technische Erklärung der Grenzen von ChatGPT",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_WIVE3ZR1Y7c",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_WIVE3ZR1Y7c",
+  "date": null,
+  "country": "DE",
+  "word_count": 8517
+}

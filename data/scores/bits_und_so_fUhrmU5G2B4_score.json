@@ -1,0 +1,70 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.4,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Man bekommt diese 2€ AliExpress Tracker, die genauso funktionieren wie teure Markenvarianten",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Marktkritik: Günstige Alternativen ersetzen Premium-Produkte erfolgreich"
+    },
+    {
+      "text": "Apple verkauft 300€ Zubehör dazu, obwohl es nicht funktional ist - der Markt regelt es selbst",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Vertraut auf Marktmechanismen statt Regulierung zur Lösung von Produktmängeln"
+    },
+    {
+      "text": "Es gibt große Unterschiede in Qualität und Langlebigkeit zwischen 2€ und 30-40€ Trackern",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Beobachtung über Preisqualitäts-Verhältnis, keine normative Aussage"
+    },
+    {
+      "text": "Das AirTag-Protokoll ist offen genug, dass man selbst basteln kann - man kann lustige Sachen selber bauen",
+      "speaker": "host",
+      "economic": 3,
+      "social": 4,
+      "reasoning": "Befürwortet Offenheit und Hacking-Kultur; positive Bewertung von User-Autonomie"
+    },
+    {
+      "text": "Fahrraddiebstahl ist oft Gelegenheit (betrunken, braucht Rad nach Hause), weniger professionell organisiert",
+      "speaker": "host",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Sachliche Analyse der Diebstahlmotivationen ohne normative Bewertung"
+    },
+    {
+      "text": "Black Friday ist gut zum Kaufen - Viererpack AirTags gibt es dann günstig",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Praktisches Shopping-Mindset; freier Markt, flexible Preisgestaltung akzeptiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "der Markt regelt es halt jetzt selbst, weil jedes von diesen 2€ Dingern hat natürlich eine Öse",
+      "context": "Apple bietet schlecht designtes Zubehör, aber Marktkonkurrenz löst das Problem",
+      "quiz_suitable": true
+    },
+    {
+      "text": "ich bin echt übergegangen all meinen Krempel gar nicht wegen Diebstahl, sondern einfach um zu wissen, wo ich halt mein Zeug hab",
+      "context": "Tracking wird nicht aus Sicherheitsgründen sondern aus Convenience verwendet",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_fUhrmU5G2B4",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_fUhrmU5G2B4",
+  "date": null,
+  "country": "DE",
+  "word_count": 3599
+}

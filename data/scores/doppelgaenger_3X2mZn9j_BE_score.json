@@ -1,0 +1,110 @@
+{
+  "economic_score": 1.6,
+  "social_score": 1.5,
+  "n_coded": 11,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Deutschland Milliardäre noch mindestens 500 Mrd mehr Vermögen als angenommen",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Informativ, keine Meinungsäußerung zur Verteilung"
+    },
+    {
+      "text": "Wärmepumpen-Startups lösen Fachkräftemangel durch Spezialisierung, nicht Meisterausbildung",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Befürwortet Deregulierung von Berufsausbildung, pragmatische Arbeitsmärkte"
+    },
+    {
+      "text": "Sechsstellige Firmenkredite mit hohem Hebel sind erhebliches Risiko",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Warnt vor übermäßiger Fremdfinanzierung, eher konservativ"
+    },
+    {
+      "text": "Alex Jones sollte nicht replatformed werden wegen Sandy Hook Deformierungen",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Stark pro Zensur/Deplatforming zur Opferschutz, libertär negativ"
+    },
+    {
+      "text": "Elon Musk hat Prinzipien bei Alex Jones Replatforming aufgegeben für Engagement",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an fehlender Konsistenz, implizit für höhere Standards"
+    },
+    {
+      "text": "X wird zur rechten Plattform transformiert, nicht nur durch Algo sondern Agenda",
+      "speaker": "host",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Kritik an bewusster Rechtsverdriftung, autoritär-libertär gemischt"
+    },
+    {
+      "text": "Free Speech Prinzip sollte auch für Neonazis und Holocaust-Leugner gelten",
+      "speaker": "host",
+      "economic": null,
+      "social": 7,
+      "reasoning": "Stark libertäre Sicht auf absolute Redefreiheit"
+    },
+    {
+      "text": "Google Play Store Monopolisierung mit Payment-Bundling ist antikompetitiv",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Pro Regulierung gegen Marktmacht, eher linksliberal"
+    },
+    {
+      "text": "Mistral AI Open Source Modelle kostenlos verteilen ist schlau für Adoption",
+      "speaker": "host",
+      "economic": 2,
+      "social": 1,
+      "reasoning": "Befürwortet Open Source Geschäftsmodelle, pragmatisch"
+    },
+    {
+      "text": "AI Durchbrüche in Wissenschaft (Antibiotika, Materialwissenschaft) sind spannenster Aspekt",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Wertneutrale Technologie-Begeisterung"
+    },
+    {
+      "text": "Deutsche Ausbildungssystem hemmt kurzfristige Fachkräfte-Lösungen",
+      "speaker": "host",
+      "economic": 4,
+      "social": 1,
+      "reasoning": "Kritik an Regulierungsrigidität, marktliberal"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wer eine Firma verkauft glaubt dass sie weniger wert ist als du zahlst",
+      "context": "Warnung vor Übernahmerisiken bei Unternehmenskauf",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Free Speech heißt nicht dass Plattform alles erlauben muss",
+      "context": "Kritik an Musks absolutistischer Replatforming-Politik",
+      "quiz_suitable": true
+    },
+    {
+      "text": "AI findet 2,2 Millionen neue stabile Kristallstrukturen die Menschheit nie kannte",
+      "context": "DeepMind/Google Durchbruch in Materialwissenschaft",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_3X2mZn9j_BE",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_3X2mZn9j_BE",
+  "date": null,
+  "country": "DE",
+  "word_count": 15967
+}

@@ -1,0 +1,63 @@
+{
+  "economic_score": 1.4,
+  "social_score": 0.6,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Die Schnittmenge bei Kartoffelverkäufern und Leuten, die die Reichsmark zurückhätten und nur Bargeld wollen, ist sehr hoch",
+      "speaker": "host",
+      "economic": 7,
+      "social": -4,
+      "reasoning": "Kritik an Bargeld-Fundamentalisten; impliziert Nostalgiedenken, Anti-Digitalisierung, etwas autoritär gefärbt (Reichsmark)"
+    },
+    {
+      "text": "Diese Kartoffelverkäufer glauben auch nicht an Steuern",
+      "speaker": "host",
+      "economic": 5,
+      "social": -3,
+      "reasoning": "Kritik an Steuervermeidung; impliziert Anarcho-kapitalistische Tendenzen in ländlicher Bevölkerung"
+    },
+    {
+      "text": "Wenn die Kasse immer geklaut wird, ist vielleicht auch eine Steuer an jemand anders dann so",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Pragmatische Einsicht, dass digitale Zahlungen Steuertransparenz fördern; leicht links-regulatorisch gefärbt"
+    },
+    {
+      "text": "Es gibt Möglichkeiten, verschiedene digitale Zahlungsmethoden anzubieten und zu sehen, was angenommen wird",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Pragmatische, marktoffene Haltung; libertär gefärbt durch Konsumentenwahl-Fokus, technologieoffen"
+    },
+    {
+      "text": "Es ist nett, wenn ein Vertrauenssystem auf der Alm funktioniert, aber das Problem ist, dass die Autofahrer kommen",
+      "speaker": "host",
+      "economic": -1,
+      "social": 2,
+      "reasoning": "Nostalgie für lokale, vertrauensbasierte Systeme; subtil kritisch gegenüber Massentourismus/Kommerzialisierung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn ich meine Bankgeschäfte per Telefon mache, per Anruf, da siehst du, was für eine Klasse du hast. Das ist High-End Bankgeschäft.",
+      "context": "Ironische Kritik an rückständigen Banking-Methoden älterer Menschen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Schnittmenge bei Kartoffelverkäufern und Leuten, die die Reichsmark zurückhätten, ist leider sehr hoch",
+      "context": "Kritik an ländlichen Antidigitalisten und impliziter Nostalgie-Autoritarismus",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_g9L_1oIfedk",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_g9L_1oIfedk",
+  "date": null,
+  "country": "DE",
+  "word_count": 2705
+}

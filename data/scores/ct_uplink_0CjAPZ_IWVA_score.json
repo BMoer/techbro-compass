@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 47 column 17 (char 1764)",
+  "raw_response": "{\n  \"economic_score\": -1.4,\n  \"social_score\": 3.6,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.72,\n  \"coded_statements\": [\n    {\n      \"text\": \"Big Tech (Apple, Google) sperrt NFC-Schnittstelle ab, Sparkassen/Raiffeisenbanken müssen eigene Apps bauen\",\n      \"speaker\": \"guest\",\n      \"economic\": -4,\n      \"social\": -3,\n      \"reasoning\": \"Kritik an Marktkonzentration + Datenhoheit-Kontrolle durch Plattformen\"\n    },\n    {\n      \"text\": \"Google behält sich vor Zahlungsdaten z",
+  "episode_id": "ct_uplink_0CjAPZ_IWVA",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_0CjAPZ_IWVA",
+  "date": null,
+  "country": "DE",
+  "word_count": 9313
+}

@@ -1,0 +1,141 @@
+{
+  "economic_score": 2.14,
+  "social_score": 1.43,
+  "n_coded": 14,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Wir müssen selber ordentlich Geld verdienen und Cash generieren, um in Zukunft investieren zu können",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatischer Fokus auf Eigenfinanzierung und Wirtschaftlichkeit ohne radikale Positionen"
+    },
+    {
+      "text": "Marktplatzgeschäft ist wirtschaftlich viel attraktiver als selber Händler zu sein mit Lagerrisiko",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Befürwortung effizienzorientierter Geschäftsmodelle, leicht marktwirtschaftlich positioniert"
+    },
+    {
+      "text": "Als Familienunternehmen haben wir den Vorteil, langfristig zu transformieren statt Quartale zu optimieren",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Kritik an Kurzfristdenken, Betonung von langfristiger Verantwortung; leicht anti-Kapitalismus, aber gemäßigt"
+    },
+    {
+      "text": "Wir wollen unsere Marktplatzpartner selektieren nach Nachhaltigkeitsstandards und sozialen Kriterien",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 4,
+      "reasoning": "Datenschutz und ethische Standards bei Partner-Auswahl; libertäre Betonung von Verantwortung"
+    },
+    {
+      "text": "KI wird das E-Commerce-Beratung noch intuitiver und personalisierter machen, stationär unter Druck",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Optimistische Haltung zu Tech-Effizienz und Marktverschiebung, eher pro-Innovation"
+    },
+    {
+      "text": "Wir nutzen die KI-Potenziale auch für Effizienzgewinne und werden Mitarbeiterzahlen reduzieren",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Klare Priorisierung von Kostenoptimierung durch Automation, marktwirtschaftliche Rationalität"
+    },
+    {
+      "text": "Trotz Rationalisierung versuchen wir sozialverträglich vorzugehen und Mitarbeiter umzuschulen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 3,
+      "reasoning": "Balance zwischen Effizienz und sozialer Verantwortung; gemäßigt auf beiden Achsen"
+    },
+    {
+      "text": "Transparente Kommunikation statt zentral kontrollierter Messaging; Mitarbeiter über Zahlen informieren",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 6,
+      "reasoning": "Starkes Pro-Bürgerrechte und Transparenz; libertäre Haltung zu Information und Mitsprache"
+    },
+    {
+      "text": "LinkedIn ist gut geeignet, um Botschaften zu setzen und auch kritische Dialoge zu führen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Befürwortung von dezentraler Kommunikation und offener Debatte, anti-zentralistisch"
+    },
+    {
+      "text": "Europa braucht eine eigene KI-Agenda neben USA und China, nicht nur regulativ sondern gestaltend",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 3,
+      "reasoning": "Kritik an zu defensiver Regulierung; Befürwortung von Innovation mit europäischen Werten"
+    },
+    {
+      "text": "Wir sind Teil von Made for Germany Initiative, weil wir mit europäischen Unternehmen koalieren wollen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 2,
+      "reasoning": "Gemäßigte Position für europäische Zusammenarbeit statt radikale Abschottung oder Globalisierung"
+    },
+    {
+      "text": "Beim Autoreply eines Mitarbeiters musste ich persönlich Grenzen setzen, obwohl Kulturwandel da war",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Moderates Engagement mit neuen Technologien; Betonung von Dialog statt Übergriff"
+    },
+    {
+      "text": "Ich definiere mich nicht über Geld, sondern über unternehmerische Freiheiten und Lernmöglichkeiten",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 5,
+      "reasoning": "Ablehnung von materiellem Reichtum als primäres Ziel; Betonung von Freiheit und Selbstbestimmung"
+    },
+    {
+      "text": "Hybridarbeit bleibt, nicht wegen Flexibilität sondern weil komplexe Transformationen Präsenz brauchen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Pragmatische Balance zwischen Modernität und persönlichen Beziehungen; eher zentristisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Lieber einmal zu viel aggressiv ausprobieren als zu sagen: Maybe habe ich zu wenig Geld",
+      "context": "Familienunternehmen-DNA: Entrepreneurship vor Vorsicht",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir werden höhere Ergebnisse sehen. Ein Milliardenergebnis ist wieder machbar.",
+      "context": "Stark ambitioniertes Ziel für künftige Profitabilität der Otto-Gruppe",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Europa braucht eine eigene KI-Agenda, nicht nur regulativ sondern auch gestaltend",
+      "context": "Kritik an europäischer Regulierungsmentalität vs. chinesisch-amerikanischer Gestaltungskraft",
+      "quiz_suitable": true
+    },
+    {
+      "text": "15 Milliarden Umsatz bewegen, um am Ende 250 Millionen übrig zu haben - Handel ist hart",
+      "context": "Illustration der dünnen Margen im E-Commerce und Einzelhandel",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir lassen zu, dass wir uns selbst disruptieren - deshalb entstehen interne Spannungen bei About You",
+      "context": "Paradox des Familienunternehmens: Einräumung von Spielraum für interne Konkurrenz",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_GjJ7bZHYCB4",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_GjJ7bZHYCB4",
+  "date": null,
+  "country": "DE",
+  "word_count": 15237
+}

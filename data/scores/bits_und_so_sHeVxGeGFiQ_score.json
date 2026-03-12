@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Der Mac Pro ist krass überteuert, die Marge ist wunderbar",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an hohen Preisen/Margen, aber nicht fundamental antikapitalistisch"
+    },
+    {
+      "text": "Apple sollte den Mac Pro aus der Produktlinie rausfliegen",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Marktentscheidung, schwach marktwirtschaftlich argumentiert"
+    },
+    {
+      "text": "Mac Studio konzentriert sich auf aktuell relevante Produkte",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Ressourcenallokation, leicht kapitalismuskritisch"
+    },
+    {
+      "text": "Das Lizenzmodell für virtuelle Macs macht Mac Pro unattraktiv",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Analyse von Lizenzstrukturen, keine Wertung"
+    },
+    {
+      "text": "Ein Rack-Mount Mac Pro mit Mac Minis wäre besser als großes teures Gehäuse",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Effizienz/Kostenoptimierung über Prestige, marktwirtschaftlich orientiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das Produkt ist eine Verunsicherung für Apple. Die wissen damit nicht umzugehen.",
+      "context": "Kritik an der mangelnden strategischen Klarheit beim Mac Pro.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Mac Pro verkörpert die Vergangenheit, muss ernsthaft sagen.",
+      "context": "Aussage zur Obsoleszenz des Produkts im aktuellen Apple-Portfolio.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_sHeVxGeGFiQ",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_sHeVxGeGFiQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 1785
+}

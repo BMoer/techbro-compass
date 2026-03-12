@@ -1,0 +1,94 @@
+{
+  "economic_score": 0.0,
+  "social_score": 2.5,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "EU reguliert sich zu Tode mit Datenschutz-Regeln",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Implizite Kritik an Regulierung, aber auch Anerkennung des Datenschutzes als Grundrecht"
+    },
+    {
+      "text": "Datenschutz ist ein Grundrecht, das muss man respektieren",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Klares Bekenntnis zu Datenschutz als Bürgerrecht gegen Überwachung"
+    },
+    {
+      "text": "Man muss die Geräte zeigen und Aufklärung leisten",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Transparenz und Bürgerbeteiligung für informierte Gesellschaft befürwortet"
+    },
+    {
+      "text": "Pentesting braucht Verträge mit dem Auftraggeber zur Absicherung",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 0,
+      "reasoning": "Betonung von Vertragsrecht und privatwirtschaftlicher Regulierung statt staatlich"
+    },
+    {
+      "text": "Hardware-Hacking ist legitim für Sicherheitsforschung",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 4,
+      "reasoning": "Für Dual-Use-Geräte und Forschungsfreiheit, gegen pauschale Verbote"
+    },
+    {
+      "text": "Mitarbeiter müssen schulen und aufklären über Gefahren",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Bildung und Prävention statt nur technische Kontrollmechanismen"
+    },
+    {
+      "text": "Diese Tools kosten 100-150 Dollar, sind also für viele erreichbar",
+      "speaker": "host",
+      "economic": 0,
+      "social": -2,
+      "reasoning": "Bedenken über demokratisierte Spionagetools, implizite Sicherheitskritik"
+    },
+    {
+      "text": "Man darf über Hacking berichten, aber keine Anleitungen für Straftaten geben",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Austarieren von Meinungsfreiheit mit Verantwortung, libertäre Auslegung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Diese Dinger sind jetzt so komfortabel und portable geworden - das macht es gefährlicher",
+      "context": "Entwicklung von Hacking-Gadgets zu benutzerfreundlicher, tragbarer Hardware",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das omg-Cable kostet 150 Dollar - vor ein paar Jahren hätte man so etwas nur bei der NSA vermutet",
+      "context": "Erschreckend günstige Technologie für Datenausspähung, die früher Geheimdienst-Domäne war",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Bauchgefühl: wenn sich etwas falsch anfühlt, weil man damit rechnet dass es illegal ist - dann ist es wahrscheinlich auch illegal",
+      "context": "Praktischer Ratschlag zur ethischen Grenzziehung bei Hacking-Tool-Nutzung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Man muss nur eine Einwilligung vom Auftraggeber haben - dann bin ich aus der Strafbarkeit raus",
+      "context": "Pentesting-Rechtsfrage: Verträge als Schutz vor Strafverfolgung",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "ct_uplink_fmXm94Z3pFw",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_fmXm94Z3pFw",
+  "date": null,
+  "country": "DE",
+  "word_count": 10932
+}

@@ -1,0 +1,96 @@
+{
+  "economic_score": 0.6,
+  "social_score": 3.4,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wir müssen im blauen Modus auch ein bisschen die Luft rauslassen und Bürokratie in Unternehmen reduzieren",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Deregulierung, Effizienzsteigerung durch Reduktion von Regeln und Prozessen"
+    },
+    {
+      "text": "Naïve Fragen stellen, auch gegen Konsens argumentieren, um Innovation zu fördern",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Anti-Zensur, Meinungsfreiheit, Infragestellung von Autoritäten und etablierten Narrativen"
+    },
+    {
+      "text": "Deutschland entwickelt gute Ideen, macht aber die Implementierung nicht, weil Angst vor Fehlern",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an zu viel Regulierung und Kontrolle, implizite Befürwortung schnellerer Marktdynamiken"
+    },
+    {
+      "text": "Bei Mobilfunkmasten: Regeln ein bisschen biegen, bauen ohne Genehmigung, dann notfalls abbauen",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 6,
+      "reasoning": "Regelbruch zur Effizienz, Risikobereitschaft; auch anti-autoritär, Infragestellung von staatlichen Genehmigungsprozessen"
+    },
+    {
+      "text": "Datenschutz und Privatsphäre sind ein Grundrecht, aber wir müssen Innovationsprozesse auch zulassen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 4,
+      "reasoning": "Balancierung zwischen Freiheit und pragmatischer Regulierung, leicht libertär"
+    },
+    {
+      "text": "Menschen im Privatleben sind mutig und kreativ, nur die Unternehmenskultur hat ihnen das abtrainiert",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Kritik an Kontrollkultur und Autoritarismus in Organisationen, Forderung nach Freiräumen"
+    },
+    {
+      "text": "Führungskräfte und Mitarbeitende sollten bewusst komplett anders arbeiten, z.B. Meetings verbieten oder besprechungsfrei arbeiten",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 6,
+      "reasoning": "Anti-hierarchisch, gegen Überregulierung, libertäre Selbstorganisation, aber auch wirtschaftlich effizient"
+    },
+    {
+      "text": "Unternehmen müssen zwischen Stabilität und Innovation balancieren, nicht eines gegen das andere ausspielen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Mitte, keine klare Position zu Links-Rechts-Achse"
+    },
+    {
+      "text": "Piratenideologie: Grenzen dehnen, Regeln kreativ brechen, wenn es nicht illegal ist, um schneller zu sein",
+      "speaker": "guest",
+      "economic": 5,
+      "social": 7,
+      "reasoning": "Pro-Marktdynamik, gegen Überregulierung, anti-autoritär, Infragestellung staatlicher Kontrollmechanismen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Warum brauchen Taxiunternehmen eigentlich Taxis? - Diese naive Frage ist das Geschäftsmodell von Uber.",
+      "context": "Guest illustriert die Kraft naiver Fragen für echte Innovation",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Piratenidee: Baue Mobilfunkmasten ohne Genehmigung, entferne dann jeden tausendsten wieder.",
+      "context": "Guest beschreibt regelbreches unternehmerisches Denken als Innovation",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Deutschland entwickelt MP3, Apple monetarisiert es. Wir haben Angst vor Fehlern, andere Länder nicht.",
+      "context": "Guest kritisiert deutsche Kultur der Risikominderung vs. Pioniergeist",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_FPjNzNes46w",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_FPjNzNes46w",
+  "date": null,
+  "country": "DE",
+  "word_count": 6979
+}

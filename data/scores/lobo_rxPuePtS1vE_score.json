@@ -1,0 +1,96 @@
+{
+  "economic_score": 1.6,
+  "social_score": -1.4,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Endlich haben wir einen mutigen starken Präsidenten, der sich etwas traut und das iranische Volk von seinem Elend befreit",
+      "speaker": "guest",
+      "economic": 5,
+      "social": -3,
+      "reasoning": "Pro-Trump, pro-militärische Aktion, autoritäre Befürwortung von Militäreinsätzen"
+    },
+    {
+      "text": "Er bringt die Wirtschaft wieder nach vorne, mit ihm können wir Millionen und Milliarden verdienen",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Pro-Kapitalismus, pro-Unternehmertum, Fokus auf Profitmaximierung"
+    },
+    {
+      "text": "Das ist eine unfassbar gespaltene Gesellschaft. Speziell in Minneapolis habe ich unfassbare Brutalität gesehen durch paramilitärische Truppen gegen Migranten",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Kritik an autoritärer Polizeigewalt, paramilitärischen Strukturen und Unterdrückung"
+    },
+    {
+      "text": "Die Stadtbevölkerung hat sich organisiert und Widerstand organisiert und letztlich gewonnen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Befürwortung von Bürgerwiderstand und Selbstorganisation gegen autoritäre Maßnahmen"
+    },
+    {
+      "text": "Er lebt in einer Wohlfühlblase, wo ihn die Leute bewundern, während seine Politik anderen Angst und Schrecken versetzt",
+      "speaker": "guest",
+      "economic": 0,
+      "social": -4,
+      "reasoning": "Kritik an Machtseparation und deren dystopische Konsequenzen für vulnerable Gruppen"
+    },
+    {
+      "text": "Es sind größtenteils Clubmitglieder mit einer Million Dollar Aufnahmegebühr - eine relativ geschlossene Welt von Millionären und Milliardären",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Beschreibung elitärer kapitalistische Strukturen, Klassenprivilegien ohne Wertung"
+    },
+    {
+      "text": "Die Leute sind sehr nett wenn man die Politik mal beiseite lässt, freundliche Umgangsformen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Neutrale Beobachtung über Sozialverhalten, keine politische Position erkennbar"
+    },
+    {
+      "text": "Man muss sich manchmal ein bisschen pitchen und sagen: Denk mal dran, wo du eigentlich bist und was hier gerade passiert",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Subtile Kritik an Realitätsverweigerung und Ausklammerung politischer Realität"
+    },
+    {
+      "text": "Im Nebenraum von eurem Dinner saß der Präsident und schaute sich an, wie amerikanische Raketen und Bomben gerade in Iran einschlagen",
+      "speaker": "host",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Kritische Darstellung militärischer Entscheidungsfindung aus privatem, nicht-institutionellem Raum"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Endlich zeigt's mal jemand, dass es geht - Applaus für Bombenabwurf während des Dinners",
+      "context": "Trump-Anhänger applaudieren den Iran-Angriff während eines Clubdinners",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Im Nebenraum fliegen die Raketen, im Restaurant fragt er: Wie war euer Essen?",
+      "context": "Trump wechselt zwischen Kriegsbefehlshaber und Clubmanager-Modus",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Zwei Menschen erschossen, unschuldige amerikanische Bürger - nur weil sie zugegen waren als seine paramilitärischen Truppen gegen Migranten vorgingen",
+      "context": "Hornig berichtet über Gewalt durch Trump-Administration in Minneapolis",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_rxPuePtS1vE",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_rxPuePtS1vE",
+  "date": null,
+  "country": "DE",
+  "word_count": 3386
+}

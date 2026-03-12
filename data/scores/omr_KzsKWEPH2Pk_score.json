@@ -1,0 +1,127 @@
+{
+  "economic_score": 3.2,
+  "social_score": -1.4,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Wir müssen Bürokratie abbauen, Energiepreise senken, Unternehmensteuern anpassen",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Deregulierung, Steuersenkungen, marktfreundliche Reformen"
+    },
+    {
+      "text": "Deutschland arbeitet zu wenig: 27-28h/Woche vs. Singapur 44h/Woche",
+      "speaker": "host",
+      "economic": 4,
+      "social": -3,
+      "reasoning": "Kritik an Arbeitszeitkultur, autoritäre Effizienz-Narrativ"
+    },
+    {
+      "text": "Leistungswille und Leistungsfähigkeit sind entscheidend, nicht nur Talente",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Betonung von Leistung und individuellen Anstrengungen"
+    },
+    {
+      "text": "Große Institute müssen Einzelsportler wie Oliver unterstützen",
+      "speaker": "host",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Corporate Social Responsibility, gesellschaftliche Verantwortung"
+    },
+    {
+      "text": "Olympische Sportart Rudern ist underfunded im Vergleich zu Fußball",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an ungleicher Ressourcenverteilung im Sport"
+    },
+    {
+      "text": "Ich konnte mein Potenzial nicht ausschöpfen wegen fehlender Finanzierung",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Strukturelle Benachteiligung von Einzelsportlern"
+    },
+    {
+      "text": "Deutschland braucht strategisch starke europäische Banken gegen USA",
+      "speaker": "host",
+      "economic": 2,
+      "social": -2,
+      "reasoning": "Geopolitische Argumentation, State-Interest-Banking, Sicherheitsdenken"
+    },
+    {
+      "text": "Wir haben goldene Dekade verschlummert, müssen jetzt schneller reagieren",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Wettbewerbslogik, Wachstumsdruck, Efficiency-Narrativ"
+    },
+    {
+      "text": "Ich fokussiere mich auf Leistung, nicht auf Social Media wie andere Athleten",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Authentizität, Autonomie über Kommerzialisierung"
+    },
+    {
+      "text": "Ausländische Trainer kosten mehr, Deutsche können wir uns nicht leisten",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Regulatorische Barrieren hemmen Wettbewerb"
+    },
+    {
+      "text": "Für Rentenversicherung brauchen wir 2% Wirtschaftswachstum jährlich",
+      "speaker": "host",
+      "economic": 3,
+      "social": -2,
+      "reasoning": "Wachstumszwang begründet durch Sozialsystem, Leistungsdruck"
+    },
+    {
+      "text": "Kinder sollen machen was ihnen Spaß macht, aber mit Leistungswillen",
+      "speaker": "host",
+      "economic": 4,
+      "social": 1,
+      "reasoning": "Liberale Wahlfreiheit, aber normativ unterlegt mit Leistungsethos"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn wir nicht gegensteuern, werden wir der kranke Mann Europas",
+      "context": "Christian Sewing warnt vor wirtschaftlichem Niedergang Deutschlands",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Deutsche Bank muss die europäische Alternative zu amerikanischen Großbanken sein",
+      "context": "Sewing definiert ambitioniertes Ziel der Bank im geopolitischen Kontext",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich weiß nicht, ob ich in meiner Karriere die Rahmenbedingungen schaffe, nicht arbeiten zu müssen",
+      "context": "Oliver Zeitler beschreibt strukturelle Unterfinanzierung von Einzelsport",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Leistungsbereitschaft wird uns von vielen Investoren nicht abgesprochen, aber angezweifelt",
+      "context": "Sewing gesteht impliziten Leistungs-Ruf-Schaden Deutschlands ein",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Resilienz ist wichtiger als Leistungsfähigkeit - der Wille zählt",
+      "context": "Zentrale These über Erfolgsfaktoren in Sport und Wirtschaft",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_KzsKWEPH2Pk",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_KzsKWEPH2Pk",
+  "date": null,
+  "country": "DE",
+  "word_count": 13443
+}

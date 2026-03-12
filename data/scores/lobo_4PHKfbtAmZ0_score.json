@@ -1,0 +1,63 @@
+{
+  "economic_score": -1.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "EU sollte Schranken setzen und Sektoren wirksam schützen, muss aber Risiken anerkennen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Befürwortung von Industrieschutz/Protektionismus, aber pragmatisch-abwägend, nicht radikal"
+    },
+    {
+      "text": "Kauft europäisch-Klausel: Mindestanteil Wertschöpfung in EU knüpfen an Aufträge",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Regulierung zugunsten lokaler Wirtschaft, aber nicht extrem protektionistisch"
+    },
+    {
+      "text": "Bedenken einzelner Mitgliedstaaten dürfen Paket nicht so aufweichen, dass nichts bleibt",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Effektivität von Regulierung betont, moderater regulatorischer Ansatz"
+    },
+    {
+      "text": "CDU fordert: Alles was Energie verteuert sollte ausgesetzt werden, neuer Tankrabatt",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Steuerentlastung und Subventionen für Verbraucher/Wirtschaft, leicht marktorientiert"
+    },
+    {
+      "text": "SPD kritisiert Tankstellenbetreiber für zu frühe Preiserhöhungen statt Entlastungen",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Marktakteuren, Verbraucherschutz-Perspektive, regulatorische Tendenz"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Muss ein Kanzler, der Europa führen will, nicht auch in schwierigen Situationen hinter seinen Partnern stehen?",
+      "context": "Kritische Frage zur diplomatischen Haltung des Kanzlers gegenüber Trump",
+      "quiz_suitable": false
+    },
+    {
+      "text": "Wir müssen uns ganz genau überlegen, welche Sektoren für unsere Zukunft relevant sind und diese wirksam schützen",
+      "context": "Argument für selektiven europäischen Protektionismus gegen China und USA",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_4PHKfbtAmZ0",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_4PHKfbtAmZ0",
+  "date": null,
+  "country": "DE",
+  "word_count": 844
+}

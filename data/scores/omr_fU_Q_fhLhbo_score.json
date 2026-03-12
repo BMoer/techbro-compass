@@ -1,0 +1,122 @@
+{
+  "economic_score": 6.2,
+  "social_score": 1.5,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Ich produziere für 7 Euro, verkaufe für 300 Euro - 80% Profit",
+      "speaker": "guest",
+      "economic": 8,
+      "social": null,
+      "reasoning": "Radikale Gewinnmaximierung, Anti-Regulierung, reiner Kapitalismus"
+    },
+    {
+      "text": "Warum sollte ich Douglas 80% geben? Ich verkaufe direkt für 100",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Ablehnung von Intermediären, Disintermediation, freier Markt"
+    },
+    {
+      "text": "Die Leute sind dumm - Rabatt-Psychologie nutzen für höhere Preise",
+      "speaker": "guest",
+      "economic": 6,
+      "social": -3,
+      "reasoning": "Konsumentenkritik, manipulative Preisgestaltung, moralisch fragwürdig"
+    },
+    {
+      "text": "Ich habe keine Mitarbeiter, nur Freelancer - spart Kosten",
+      "speaker": "guest",
+      "economic": 8,
+      "social": null,
+      "reasoning": "Gig-Economy befürwortung, Flexibilisierung, Kostensenkung"
+    },
+    {
+      "text": "Materialismus ist nicht relevant - Familie und Fame reichen mir",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Neubewertung von Wohlstand, zentristisch"
+    },
+    {
+      "text": "Ich lehne Netflix/DSDS ab, mache nur was ich will - totale Freiheit",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Anti-Establishment, künstlerische Autonomie, Selbstbestimmung"
+    },
+    {
+      "text": "Kauft keine NFTs/virtuellen Gebäude - das ist dumm",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 2,
+      "reasoning": "Skeptisch gegenüber Spekulation, warnt vor finanziellem Brainwashing"
+    },
+    {
+      "text": "Ich bin ein One-Man-Show, schneide nicht, alles uncut und authentisch",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Authentizität statt Polished-Content, Anti-Manipulation, Transparenz"
+    },
+    {
+      "text": "Ich lerne von Luxus-CEOs und Unternehmern, nicht nur meiner Branche",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Profit-orientiertes Lernen, Business-Elite-Anbindung"
+    },
+    {
+      "text": "Douglas will mitunehmen - aber warum 80:20 statt 50:50?",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Infragestellung unfairer Handelsstrukturen, aber pro-Kapitalismus"
+    },
+    {
+      "text": "Ich bin grateful und dankbar - Familie unterstütze ich finanziell",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Familiale Solidarität, Umverteilung im privaten Kreis"
+    },
+    {
+      "text": "Ich investiere in Google-Aktien, nicht in NFTs - echte Werte",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Kapitalanlage-Strategie, Vertrauen in etablierte Konzerne"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ich produziere für 7 Euro, verkaufe für 300 Euro - 80% Profit",
+      "context": "Erklärt seine extreme Gewinnmarge bei Luxus-Düften",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Leute sind dumm - ein Rabatt gibt ihnen mehr Lust als echter Wert",
+      "context": "Psychologische Tricks in der Preisgestaltung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Kauft keine NFTs - das ist dumm. Seid selbst der Superstar",
+      "context": "Warnung vor virtuellen Assets und Brainwashing",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Materialismus ist nicht relevant - mir geht es besser, wenn ich wenig habe",
+      "context": "Überraschende Umorientierung trotz extremen Reichtums",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_fU_Q_fhLhbo",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_fU_Q_fhLhbo",
+  "date": null,
+  "country": "DE",
+  "word_count": 8096
+}

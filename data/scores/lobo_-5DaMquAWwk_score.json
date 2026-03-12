@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 32 column 19 (char 989)",
+  "raw_response": "{\n  \"economic_score\": -1.4,\n  \"social_score\": -6.2,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.85,\n  \"coded_statements\": [\n    {\n      \"text\": \"Steven Miller träumt von einem weißen autoritären Amerika\",\n      \"speaker\": \"guest\",\n      \"economic\": null,\n      \"social\": -9,\n      \"reasoning\": \"Explizit autoritäre Vision, weiße Dominanz, Abschottung\"\n    },\n    {\n      \"text\": \"Der Präsident soll maximale Macht haben in seinem Amerika\",\n      \"speaker\": \"guest\",\n      \"econom",
+  "episode_id": "lobo_-5DaMquAWwk",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_-5DaMquAWwk",
+  "date": null,
+  "country": "DE",
+  "word_count": 3076
+}

@@ -1,0 +1,63 @@
+{
+  "economic_score": -2.0,
+  "social_score": 4.6,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Mercedes/VW weigern sich, Batteriedaten auszulesen - man muss auf Open Source Hardware zurückgreifen",
+      "speaker": "host",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Kritik an Herstellerkontrolle; Open Source als Gegenmodell zu proprietärem Gatekeeping"
+    },
+    {
+      "text": "Diese Batteriedaten sollten von Haus aus im Auto verfügbar sein - als Menüpunkt",
+      "speaker": "host",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Fordert Datentransparenz & Konsumentenschutz gegen Herstellermonopol"
+    },
+    {
+      "text": "Community hat zusammen diese Software für Arduino gebaut - man kann Werte selbst auslesen",
+      "speaker": "host",
+      "economic": -4,
+      "social": 7,
+      "reasoning": "Würdigung von Commons/Kollaborativem Modell vs. Kommerzialisierung"
+    },
+    {
+      "text": "EV Klinik tauscht einzelne Batteriezelle für 900€ oder baut neues Pack für 3-5000€",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Faktendarstellung von Reparaturoptionen, keine Wertung"
+    },
+    {
+      "text": "Bei Gebrauchtkauf gibt's Batteriezertifikate von Händlern für 'relativ stolzen Preis'",
+      "speaker": "host",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Kritik an Kommerzialisierung von Transparenzinfos; würdigt aber Zertifizierungstrend"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die Community hat diese Software zusammengebaut - man muss auf diese Lösungen zurückgreifen weil die Hersteller nicht mitziehen",
+      "context": "Lob von Open Source als Gegenbewegung zu proprietärem Herstellerkontrolle",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das sollte ein Menüpunkt sein, wo das Ding dir eine E-Mail schickt, aber ist natürlich nicht so",
+      "context": "Kritik an fehlender Transparenz bei Batteriedaten durch Hersteller",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_3cJcmIFixkM",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_3cJcmIFixkM",
+  "date": null,
+  "country": "DE",
+  "word_count": 1465
+}

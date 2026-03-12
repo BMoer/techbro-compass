@@ -1,0 +1,63 @@
+{
+  "economic_score": 1.4,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Swift nimmt 20€/Monat - das ist albern viel dafür, dass es ein Videogame ist",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an hohen Preismodellen, Skepsis gegenüber Profitmaximierung"
+    },
+    {
+      "text": "Training Peaks Virtual kostet 3€/Jahr mit Coupon - das ist ein okayer Preis",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Befürwortung kostengünstiger, marktkonkurrierender Preismodelle"
+    },
+    {
+      "text": "Indie-Entwickler hat alles gebaut, weil ihm das fehlte und nichts Gutes gab",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Wertschätzung von Unternehmertum und privater Innovation ohne Regulation"
+    },
+    {
+      "text": "Der Entwickler ist responsive, ich kann Discord schreiben und kriege Antwort - schnelle Feature-Umsetzung",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Bevorzugung direkter Kundenbeziehung und agiler Marktmechanismen"
+    },
+    {
+      "text": "Training Peaks Virtual streut Bots rein, damit du dich nicht allein fühlst - du weißt nicht, ob echte Person",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kritik an Manipulation und fehlender Transparenz über automatisierte Inhalte"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Swift sind der Platzhirsch und nehmen am allermeisten - googeln = Swiften",
+      "context": "Diskussion über Marktdominanz und Preissetzungsmacht von Monopolanbietern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Companion App ist von vorne bis hinten eine komplette Frechheit - würde KI besser bauen",
+      "context": "Kritik an Software-Qualität und schlechter Produktentwicklung trotz technischer Machbarkeit",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_AP7pbheAKCE",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_AP7pbheAKCE",
+  "date": null,
+  "country": "DE",
+  "word_count": 1868
+}

@@ -1,0 +1,75 @@
+{
+  "economic_score": 0.0,
+  "social_score": 2.5,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Der technische Fortschritt bei Großrechnern ist enorm, aber nicht schnell genug für komplexe Probleme wie Klimasimulationen",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Sachliche Problemdarstellung, keine normative Aussage"
+    },
+    {
+      "text": "Analogrechner könnten komplexe Ingenieurprobleme besser lösen, ohne ein ganzes Atomkraftwerk anzuhängen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Effizienzüberlegung, technologischer Fortschritt ohne ideolog. Position"
+    },
+    {
+      "text": "Chatbots und KI-Agenten lassen sich erschreckend einfach austrixen und manipulieren - das ist ein enormes Sicherheitsrisiko für Unternehmen",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Befürwortung von Sicherheitsmaßnahmen, Datenschutz als Priorität"
+    },
+    {
+      "text": "Bevor ich einen KI-Agenten integriere, würde ich es lieber ganz lassen, als unsicher zu agieren",
+      "speaker": "host",
+      "economic": 0,
+      "social": 5,
+      "reasoning": "Vorsichtige Haltung zu Datensicherheit und Risikominderung"
+    },
+    {
+      "text": "Die Gandalf KI schafft Problembewusstsein für Sicherheitslücken in Sprachmodellen - das ist wichtig",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Befürwortung von Aufklärung und Transparenz über technische Risiken"
+    },
+    {
+      "text": "Wir brauchen neue Technologien wie Analog- oder Quantencomputer, weil der Energiehunger digitaler Rechner immer größer wird",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Ressourceneffizienzüberlegung, technologisch neutral"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Bevor ich einen KI-Agenten integriere, würde ich es lieber ganz lassen, als jetzt diese Firma zu kontaktieren",
+      "context": "Host zweifelt nach Gandalf-Spielerlebnis an praktischer Sicherheitseffizienz von KI-Agenten.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es ist erschreckend einfach, sich wie ein Enkeltrickbetrüger zu fühlen - so naiv lassen sich Sprachmodelle auf Rollenspiele ein",
+      "context": "Host reflektiert über Manipulierbarkeit von LLMs bei psychologischen Tricks.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Aufwand wird immer größer, vor allem der Energiehunger wird immer größer - ohne Atomkraftwerk geht's nicht mehr",
+      "context": "Guest beschreibt Skalierungsproblem von Digitalrechnern als Motivation für alternative Architekturen.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_sGg1E56mVCE",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_sGg1E56mVCE",
+  "date": null,
+  "country": "DE",
+  "word_count": 4226
+}

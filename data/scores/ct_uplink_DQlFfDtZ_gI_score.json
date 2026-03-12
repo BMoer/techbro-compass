@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 40 column 17 (char 1458)",
+  "raw_response": "{\n  \"economic_score\": 0.6,\n  \"social_score\": 0.4,\n  \"n_coded\": 8,\n  \"insufficient_data\": false,\n  \"confidence\": 0.65,\n  \"coded_statements\": [\n    {\n      \"text\": \"Der Gesetzgeber hat vor etlichen Jahren entschieden, die Verbreitung des Kabelnetzes in Deutschland zu fördern\",\n      \"speaker\": \"guest\",\n      \"economic\": -3,\n      \"social\": null,\n      \"reasoning\": \"Staatliche Förderung von Infrastruktur, aber nicht radikal regulativ\"\n    },\n    {\n      \"text\": \"Das Nebenkostenprivileg war ein Mono",
+  "episode_id": "ct_uplink_DQlFfDtZ_gI",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_DQlFfDtZ_gI",
+  "date": null,
+  "country": "DE",
+  "word_count": 12168
+}

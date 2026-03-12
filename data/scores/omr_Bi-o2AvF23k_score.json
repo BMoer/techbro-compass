@@ -1,0 +1,122 @@
+{
+  "economic_score": 4.2,
+  "social_score": 1.0,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.82,
+  "coded_statements": [
+    {
+      "text": "Warum können wir kein 500 Milliarden Unternehmen aus Deutschland mal wiederbauen?",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Ambition für großes Unternehmertum, kapitalistisches Denken"
+    },
+    {
+      "text": "Wenn anderen nicht sagen, dass die Ambitionen völlig crazy klingen, dann denkt ihr wahrscheinlich nicht groß genug",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Prä-Kapitalismus, aggressive Wachstumsambitionen"
+    },
+    {
+      "text": "Ich habe lieber 5% an 500 Milliarden Unternehmen als 50% an nem 100 Millionen Unternehmen",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Klare pro-Kapitalismus Haltung, Wachstum über Kontrolle"
+    },
+    {
+      "text": "Wachstum ist ganz klar erste Priorität vor Effizienz... es gibt Situationen, wo Wachstum die erste Priorität ist",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Blitzskalierung, freier Markt Ansatz, Effizienz sekundär"
+    },
+    {
+      "text": "Wir arbeiten viel mit BPOs... Callcenter Firmen. Einige transformieren sich zu AI Unternehmen, einige nicht. Für die wird schwierig in 5 Jahren",
+      "speaker": "guest",
+      "economic": 5,
+      "social": -2,
+      "reasoning": "Marktprozess, zerstörerischer Kapitalismus, technologische Verdrängung"
+    },
+    {
+      "text": "Level 1, Level 2 Kundenservice Mitarbeiter... nicht mehr so benötigt. Dafür andere Rollen relevant",
+      "speaker": "guest",
+      "economic": 6,
+      "social": -3,
+      "reasoning": "Arbeitsplätze werden eliminiert, neoliberale Arbeitsmarktlogik"
+    },
+    {
+      "text": "Wir müssen der Realität ins Auge blicken, dass es anders aussehen wird... Arbeitswelt wird sich verändern",
+      "speaker": "guest",
+      "economic": 5,
+      "social": -2,
+      "reasoning": "Anerkennung von Disruption, aber pragmatisch-kapitalistische Sicht"
+    },
+    {
+      "text": "Das Modell sind nur 5 oder 10% der Wertschöpfung... 90% ist das, was wir um dieses Modell herumbauen",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Value-Capture-Logik, proprietäres System-Denken"
+    },
+    {
+      "text": "In USA haben wir sehr viel Talent aus erfolgreichen Software Firmen. In Deutschland weniger erfolgreich Software Firmen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kapitalismus-Ökosystem, Netzwerkeffekte fördern Konzentration"
+    },
+    {
+      "text": "Die Entscheidungsgeschwindigkeit in USA ist deutlich schneller... das ist Unterschied in der Kultur",
+      "speaker": "guest",
+      "economic": 5,
+      "social": 2,
+      "reasoning": "Pro-deregulation, schnelle Entscheidungen als positiv, etwas libertär"
+    },
+    {
+      "text": "Du brauchst die Ambition, ein Team das super hart arbeitet, schnell in USA gehen",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Unternehmertum, harte Arbeit, freier Markt Ideologie"
+    },
+    {
+      "text": "Wir könnten das Ganze auch profitabel machen. Sollten wir raisen, wenn wir Market Leader werden möchten, dann ja",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Wachstum über Profitabilität, typisch VC-dominiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn anderen nicht sagen, dass die Ambitionen völlig crazy klingen, dann denkt ihr wahrscheinlich nicht groß genug",
+      "context": "Gründungs-Philosophie und Unternehmenskultur bei Palora",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich habe lieber 5% an 500 Milliarden Unternehmen als 50% an nem 100 Millionen Unternehmen",
+      "context": "Begründung für massive Verwässerung des Gründer-Anteils",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir müssen der Realität ins Auge blicken, dass Arbeitswelt sich verändern wird... Level 1 und 2 Kundenservice Mitarbeiter nicht mehr benötigt",
+      "context": "Ehrliche Einschätzung zu AI-bedingtem Jobabbau",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Modell sind nur 5 oder 10% der Wertschöpfung",
+      "context": "Verteidigung gegen Kritik, nur ein 'Wrapper' über OpenAI zu sein",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_Bi-o2AvF23k",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_Bi-o2AvF23k",
+  "date": null,
+  "country": "DE",
+  "word_count": 11006
+}

@@ -1,0 +1,108 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Obsidian ist kostenlos, kostenpflichtig sind nur Zusatzfunktionen die man nicht muss",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Freimium-Modell, Selbstbestimmung über Zusatzleistungen"
+    },
+    {
+      "text": "Alle Daten nicht in Datenbanken, sondern als offene Textdateien",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 5,
+      "reasoning": "Transparenz, Datenhoheit, Anti-Vendor-Lock-in, Nutzerfreiheit"
+    },
+    {
+      "text": "Man kann jeden beliebigen Cloud Service nehmen, nicht den Hersteller eigenen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 6,
+      "reasoning": "Wahlfreiheit, Dezentralisierung, Unabhängigkeit von Unternehmensservices"
+    },
+    {
+      "text": "Syncthing für Peer-to-Peer Sync, um Cloudspeicher komplett zu umgehen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 7,
+      "reasoning": "Dezentralisierung, Datenschutz, Bypass kommerzieller Infrastruktur"
+    },
+    {
+      "text": "Gratis Programme für Literaturverwaltung haben am besten abgeschnitten",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kostenlose Alternativen sind qualitativ gleichwertig, kritisch gegenüber Zahlmodellen"
+    },
+    {
+      "text": "Zotero, Mendeley, Citavi kostenlos - nur Endnote und Citavi kosten",
+      "speaker": "guest",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Emphasizes free options, skeptical of paid software"
+    },
+    {
+      "text": "KI-Zusammenfassung von Papern: Aber wie sinnvoll, wenn man selbst nicht liest?",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Kritische Haltung zu Automatisierung, Betonung eigenständigen Lernens"
+    },
+    {
+      "text": "KI-generierte Mindmaps: Hausaufgaben-Lösung, läuft der Grundidee entgegen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 1,
+      "reasoning": "Skeptisch gegenüber KI-Shortcuts bei Lernprozessen"
+    },
+    {
+      "text": "Markmap: Aus Markdown schöne HTML-Mindmaps exportieren",
+      "speaker": "host",
+      "economic": 2,
+      "social": 4,
+      "reasoning": "Open-Format-Betonung, Transparenz und Flexibilität"
+    },
+    {
+      "text": "OneNote ist wie eine digitale Schmierkarte gedacht, Basic-Tool zum Kritzeln",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Tool-Bewertung, Simplizität als Feature"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Alle Daten nicht in Datenbanken, sondern Textdateien - transparente Kontrolle",
+      "context": "Stefan erklärt das offene Dateiformat von Obsidian als Kernvorteil",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Gratis-Programme haben am besten abgeschnitten - Bezahl-Software nicht nötig",
+      "context": "Sabrina fasst ihre Literaturverwaltungs-Tests zusammen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "KI-Mindmaps: Ich habe das Gedicht nicht verstanden, aber I try to do that",
+      "context": "Humor über KI-Selbstbewusstsein bei KI-generierten Mindmaps",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Syncthing für Peer-to-Peer um Cloudspeicher komplett zu umgehen",
+      "context": "Dezentralisierungsalternative zu kommerziellen Cloud-Services",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink__Q_VCgLEEuQ",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink__Q_VCgLEEuQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 5503
+}

@@ -1,0 +1,89 @@
+{
+  "economic_score": 0.8,
+  "social_score": 1.4,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Die Patente auf FDM-Technik sind ausgelaufen, dann konnte jeder die Technik nutzen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Positive Bewertung von Patentverlauf ermöglicht Zugang für alle, leicht pro-regulierung"
+    },
+    {
+      "text": "3D Druck ermöglicht individuelle Designs ohne teure Formen wie beim Spritzguss",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Markteffizienzbewertung: Kostenersparnisse durch flexible Fertigungstechnik"
+    },
+    {
+      "text": "Man kann Ersatzteile selbst herstellen statt zu kaufen - das spart Kosten",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Betonung von Kosteneinsparung und Selbstversorgung durch Technologie"
+    },
+    {
+      "text": "Dienstleister bieten 3D-Druck an - man kann sich Zeit und Expertise sparen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Arbeitsteilung, Outsourcing-Lösung"
+    },
+    {
+      "text": "Man muss viel über die Technik wissen und Zeit investieren um sie erfolgreich zu nutzen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Betonung von Lernen und Kompetenz statt externem Zwang - libertäre Eigenverantwortung"
+    },
+    {
+      "text": "Jeder kann das Lernen - man muss kein Maschinenbediener sein wie bei CNC-Fräsen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Demokratisierung der Technik, Befähigung des Einzelnen, anti-elitär"
+    },
+    {
+      "text": "Maker Spaces und Bibliotheken haben 3D Drucker - probiert es dort aus",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Gemeinschaftliche Ressourcennutzung, public commons, Zugang für alle"
+    },
+    {
+      "text": "Große Firmen nutzen 3D-Druck in Produktion um spezielle Werkzeuge herzustellen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Effizienzsteigerung in Industrie durch Technologieeinsatz"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Patente liefen aus - da konnte jeder die FDM-Technik nutzen",
+      "context": "Diskussion über Demokratisierung von 3D-Drucktechnik nach Patentexpiration",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Dienstleister stellen dir das her - du lädst nur die Datei hoch",
+      "context": "Erklärung wie man 3D-Druck nutzen kann ohne eigenen Drucker zu haben",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Man muss ein bisschen Zeit investieren - das sollte man wissen bevor man loslegt",
+      "context": "Warnung vor unterschätztem Lernaufwand bei 3D-Drucker-Anschaffung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_VK8fyu9jA_I",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_VK8fyu9jA_I",
+  "date": null,
+  "country": "DE",
+  "word_count": 6257
+}

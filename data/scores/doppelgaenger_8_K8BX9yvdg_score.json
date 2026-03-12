@@ -1,0 +1,89 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.25,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Man sollte seine Gewinner-Aktien laufen lassen, nicht rebalancieren",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-Markt-Ansatz: Freier Markt, kein aktives Umverteilen"
+    },
+    {
+      "text": "Coinbase investiert 500M in Crypto, um Nachfrageflywheel zu schaffen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Unternehmertum, Kapitalallokation, aber etwas spekulativ/shady"
+    },
+    {
+      "text": "Ein Lockdown ist unwahrscheinlich wegen mangelnder Bereitschaft der Bevölkerung",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Gesellschaftliche Freiheit über staatliche Restriktionen"
+    },
+    {
+      "text": "Steuererstattungen bei Dividenden-Cum/Ex-Geschäften sind staatlicher Missbrauch",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Steuergestaltung, implizit pro-Regulierung"
+    },
+    {
+      "text": "Lang und Schwarz sollte Rückstellung bilden - Vertrauen in Management beschädigt",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Regulatorische Überprüfung begrüßt, aber Unternehmenskritik"
+    },
+    {
+      "text": "Kibongeld in 70% ETF, 30% Einzelaktien anlegen - breit diversifiziert",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatischer Mix aus Markt und aktivem Picking"
+    },
+    {
+      "text": "Cloud und Tech-ETFs sind bessere Langzeit-Wetten als einzelne Titel",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Marktbasierter Ansatz, aber indexbasiert statt individualistisch"
+    },
+    {
+      "text": "Apple TV braucht einen Blockbuster wie Game of Thrones zum Durchbruch",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktwettbewerb, großes Kapital schlägt kleine nicht automatisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Alles was ich verkauft habe war fast immer ein Fehler",
+      "context": "Argumentation gegen regelmäßiges Rebalancing von Gewinner-Positionen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Coinbase schafft sich so ein bisschen selbst die Blase, die ihr Geschäft am Leben hält",
+      "context": "Kritik am Investitionsmodell von Krypto-Börsen als Ponzi-ähnlich",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich glaube nicht dass es noch mal einen Lockdown gibt - die Bereitschaft ist weg",
+      "context": "Aussage zur zukünftigen Corona-Politik basierend auf gesellschaftlicher Akzeptanz",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_8_K8BX9yvdg",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_8_K8BX9yvdg",
+  "date": null,
+  "country": "DE",
+  "word_count": 9193
+}

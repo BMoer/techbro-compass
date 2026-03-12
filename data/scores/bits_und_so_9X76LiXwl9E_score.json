@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 33 column 17 (char 1198)",
+  "raw_response": "{\n  \"economic_score\": -1.4,\n  \"social_score\": 1.8,\n  \"n_coded\": 9,\n  \"insufficient_data\": false,\n  \"confidence\": 0.72,\n  \"coded_statements\": [\n    {\n      \"text\": \"Apple könnte relaxed sein, die sind reich, sie könnten sich die Füße hochlegen\",\n      \"speaker\": \"host\",\n      \"economic\": null,\n      \"social\": null,\n      \"reasoning\": \"Aussage über Wohlstand, keine Wertung der Wirtschaftsordnung\"\n    },\n    {\n      \"text\": \"Apple hat den notarisierungsprozess zu einem Editorial Prozess gemacht und",
+  "episode_id": "bits_und_so_9X76LiXwl9E",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_9X76LiXwl9E",
+  "date": null,
+  "country": "DE",
+  "word_count": 4940
+}

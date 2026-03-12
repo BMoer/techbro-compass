@@ -1,0 +1,51 @@
+{
+  "economic_score": 0,
+  "social_score": 1.25,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.6,
+  "coded_statements": [
+    {
+      "text": "Wenn man eine weibliche Rolle vergibt, werden die Ergebnisse länger und genauer beschrieben",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an KI-Bias, plädiert für Gleichberechtigung durch bewusste Rollenvergabe"
+    },
+    {
+      "text": "Es gibt immer die Bias Diskussion und genau sowas bestätigt das dann auch",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Kritik an algorithmischen Vorurteilen, implizite Forderung nach fairerer KI"
+    },
+    {
+      "text": "Das funktioniert natürlich nicht nur für Weihnachtsfeiern, es funktioniert auch für andere Sachen",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Aussage über KI-Praktikabilität, pragmatisch-technisch orientiert"
+    },
+    {
+      "text": "Da muss man natürlich noch mal nachprüfen, ist das realistisch oder nicht",
+      "speaker": "host",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Kritisches Hinterfragen von KI-Output, warnt vor unkritischer Übernahme"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn eine Frau was macht, die Sachen werden länger und genauer beschrieben",
+      "context": "Diskussion über KI-Bias bei Rollenvergabe und geschlechtsspezifische Vorurteile",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "t3n_n2mJRplU4Rw",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_n2mJRplU4Rw",
+  "date": null,
+  "country": "DE",
+  "word_count": 3091
+}

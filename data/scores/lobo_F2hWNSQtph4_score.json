@@ -1,0 +1,103 @@
+{
+  "economic_score": -2.0,
+  "social_score": 4.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Trump schickt seine Leute in Städte, die von der anderen Seite regiert werden - für ihn der Feind",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Autoritäre Machtsicherung durch Kontrollapparate in oppositionellen Gebieten"
+    },
+    {
+      "text": "Man kann sagen, Leute müssen abgeschoben werden - das sieht man auch in europäischen Ländern",
+      "speaker": "host",
+      "economic": 2,
+      "social": -3,
+      "reasoning": "Pragmatische Haltung zu Abschiebungen, aber nicht ideologisch zugespitzt"
+    },
+    {
+      "text": "Unter Obama wurden viele Leute abgeschoben, aber viel stiller und nicht so willkürlich",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Kritik an Methoden (Gewalt, Willkür), nicht an Abschiebungspolitik selbst - libertärer Fokus auf Verfahren"
+    },
+    {
+      "text": "Eisbeamte mieten ungekennzeichnete Autos, sind vermummt - alles sehr intransparent",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Kritik an Mangel an Transparenz und rechtsstaatlichen Verfahren"
+    },
+    {
+      "text": "Diese Behörde wird mit 75 Milliarden Dollar ausgestattet - extrem aufgebaut",
+      "speaker": "host",
+      "economic": -5,
+      "social": -2,
+      "reasoning": "Kritik an massiven Ausgaben für repressive Behörde, kombiniert mit autoritären Methoden"
+    },
+    {
+      "text": "Bürger trainieren sich zu Beobachtern - dokumentieren, machen Videos, sind dort präsent",
+      "speaker": "guest",
+      "economic": null,
+      "social": 7,
+      "reasoning": "Starker Fokus auf Bürgerbeteiligung, Transparenz und Dokumentation gegen Staat"
+    },
+    {
+      "text": "Die Eisleute bringen Chaos in die Stadt mit brutalen Methoden - verantwortlich sind die Eisleute",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Kritik an staatlicher Gewalt und Eskalation, Betonung von Verantwortung"
+    },
+    {
+      "text": "Es gibt Schilder 'Eis raus' - wir sind für unsere Nachbarn, schützen unsere Nachbarn",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 6,
+      "reasoning": "Solidarität, Gemeinschaftsschutz vs. Behördenwillkür, Anti-Autoritär"
+    },
+    {
+      "text": "Lokale Politiker verklagen Trumps Bundesregierung, um Eis aus ihrer Stadt zu vertreiben",
+      "speaker": "host",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Dezentraler Widerstand gegen Zentralmacht, rechtsstaatliche Mittel gegen Autorität"
+    },
+    {
+      "text": "Wer ist verantwortlich? Nicht die Bürger mit Trillerpfeife, sondern die Eisleute mit brutalen Methoden",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Klare Positionierung: Staat trägt Verantwortung für Gewalt, nicht Bürger für Widerstand"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "75 Milliarden Dollar für Eis - so viel wie das Sondervermögen der Bundeswehr",
+      "context": "Verdeutlichung der massiven Ressourcenausstattung einer repressiven Behörde",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Eisleute mieten ungekennzeichnete Autos, sind vermummt, fahren zu Schulen und Supermärkte - völlig intransparent",
+      "context": "Beschreibung paramilitärischer Taktiken in US-Städten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Worst Case: Irgendwann stehen sich Trump-Truppen und lokale Sicherheitskräfte feindlich gegenüber",
+      "context": "Warnung vor Bürgerkrieg-Szenario durch Zentralisierung repressiver Gewalt",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_F2hWNSQtph4",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_F2hWNSQtph4",
+  "date": null,
+  "country": "DE",
+  "word_count": 2842
+}

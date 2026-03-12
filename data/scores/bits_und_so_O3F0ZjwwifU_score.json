@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 26 column 17 (char 916)",
+  "raw_response": "{\n  \"economic_score\": -1.4,\n  \"social_score\": 1.6,\n  \"n_coded\": 9,\n  \"insufficient_data\": false,\n  \"confidence\": 0.72,\n  \"coded_statements\": [\n    {\n      \"text\": \"Apple hätte den Ball flacher halten können, hätte nicht mit Dollarzeichen in den Augen nach 30% greifen müssen\",\n      \"speaker\": \"host\",\n      \"economic\": -4,\n      \"social\": null,\n      \"reasoning\": \"Kritik an profitgetriebener Geschäftspraxis und Gier; regulierungsfeindliche Haltung\"\n    },\n    {\n      \"text\": \"Die Rechtsanwälte ge",
+  "episode_id": "bits_und_so_O3F0ZjwwifU",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_O3F0ZjwwifU",
+  "date": null,
+  "country": "DE",
+  "word_count": 4887
+}

@@ -1,0 +1,70 @@
+{
+  "economic_score": -1.67,
+  "social_score": 1.67,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Google soll sagen hier im Store dürfen nur noch Apps rein die dieses Protokoll unterstützen",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Regulierungsintention für App-Store, moderate Regulierung von Marktakteuren"
+    },
+    {
+      "text": "Die Aufpreise für Speicherausstattung sind unverschämt teuer",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Preisgestaltung und Gewinnmaximierung durch künstliche Knappheit"
+    },
+    {
+      "text": "Android Fragmentierung wird Google seit Jahren vorgeworfen, es wird ein Problem",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Soft-Kritik an Marktstruktur, eher pragmatische Beobachtung als Forderung"
+    },
+    {
+      "text": "7 Jahre Update-Garantie ist ein besserer Deal als andere Hersteller mit 4-5 Jahren",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Gegenüberstellung von Service-Garantien, keine wertende Aussage"
+    },
+    {
+      "text": "Mit iFixit Kooperation bekommst du original Google Ersatzteile inklusive Werkzeug und Anleitung",
+      "speaker": "host",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Positive Bewertung von Reparierbarkeit/Recht-auf-Reparatur und Transparenz in der Lieferkette"
+    },
+    {
+      "text": "Datenschutz durch lokale Speicherung biometrischer Daten ohne Betriebssystem-Zugriff",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Betonung von Datenschutz und Nutzerkontrolle über sensible biometrische Informationen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Google soll hier im Store nur noch Apps reinlassen, die dieses Protokoll unterstützen",
+      "context": "Diskussion über fehlende Backup-Standardisierung im Android-Ökosystem",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Aufpreise für nächst höhere Speicherausstattung sind unverschämt teuer",
+      "context": "Kritik an der Preisgestaltung beim Pixel 8 Pro für verschiedene Speichervarianten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_HC_szih8w74",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_HC_szih8w74",
+  "date": null,
+  "country": "DE",
+  "word_count": 9833
+}

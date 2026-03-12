@@ -1,0 +1,89 @@
+{
+  "economic_score": -1.5,
+  "social_score": 2.0,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Apple verkauft lieber zwei Geräte als ein Gerät, sie wollen den Umsatz nicht aufgeben",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an profitorientiertem Geschäftsmodell, aber nicht radikal"
+    },
+    {
+      "text": "Das iPad braucht ein offeneres Softwaremodell, Apple muss seinen Klammergriff loslassen",
+      "speaker": "host",
+      "economic": -6,
+      "social": 5,
+      "reasoning": "Fordert weniger Kontrolle/Regulierung durch Apple; Pro-Offenheit und gegen Zensur"
+    },
+    {
+      "text": "Mumble-Entwickler zahlen nicht mal 100€ für Notarisierung, weil sie Apples Kontrolle ablehnen",
+      "speaker": "host",
+      "economic": -5,
+      "social": 6,
+      "reasoning": "Würdigt Anti-Establishment-Haltung; kritisiert Apples Notarisierungszwang"
+    },
+    {
+      "text": "Apple nutzt Notarisierung als Vorwand für Kontrolle und manipuliert damit auch bei EU-Marktplätzen",
+      "speaker": "host",
+      "economic": -4,
+      "social": -3,
+      "reasoning": "Kritisiert Apples Machtmissbrauch unter Sicherheitspretext; anti-autoritär gemeint"
+    },
+    {
+      "text": "Diese Warndialoge rennen aus dem Ruder und machen Sicherheitsfunktionen überflüssig",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritisiert übermäßige Kontrolle/Überwachung durch Pop-up-Dialoge"
+    },
+    {
+      "text": "MacOS hat jahrelang Kernel Extensions rausgeworfen - das ist ein jahrelanger Kontrollprozess",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritisiert Apples restriktive Sicherheitspolitik als Kontrollmechanismus"
+    },
+    {
+      "text": "Beide Betriebssysteme können parallel nebeneinander existieren und entwickelt werden",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Position: Vielfalt statt Monopolisierung akzeptabel"
+    },
+    {
+      "text": "Files App sollte schon im zweiten/dritten Jahr da sein, nicht erst mit M1 - das war ein riesen Fehler",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritisiert künstliche Funktionsbeschränkung zur Hardwareverkaufsförderung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Apple muss seinen Klammergriff loslassen, aber das machen sie nicht und deswegen haben wir den Salat",
+      "context": "Kritik an Apples restriktivem App-Store-Modell blockiert Open-Source-Software",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Diese Warndialoge machen das System zum Witz wie früher Windows",
+      "context": "Kritik an übermäßigen Sicherheitspop-ups reduziert Glaubwürdigkeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Dateien zu verleugnen war von Anfang an ein riesen Fehler - warum hat sich keiner 26 Versionen lang beschwert?",
+      "context": "Frustrierte Frage über künstliche iPad-Limitierungen als Verkaufsstrategie",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_VKcV6Bk76hE",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_VKcV6Bk76hE",
+  "date": null,
+  "country": "DE",
+  "word_count": 6374
+}

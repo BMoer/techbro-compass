@@ -1,0 +1,127 @@
+{
+  "economic_score": 2.3,
+  "social_score": 1.6,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Big Tech muss zerschlagen werden / Regulierung gegen Tech-Monopole",
+      "speaker": "host",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Kritik an Marktkonzentration, fordert Regulierung, nicht radikal anti-kapitalistisch"
+    },
+    {
+      "text": "Space X ist profitabel und macht Cash-Flow, XAI nicht fundable",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Bewertung freier Märkte: erfolgreiche vs. scheiternde Geschäftsmodelle"
+    },
+    {
+      "text": "GIO/Generative AI Optimization ist overhyped, echte ROI minimal",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Markteffizienzkritik: Ressourcenallokation folgt nicht rationaler Logik"
+    },
+    {
+      "text": "Anthropic sagt: Werbung in Chatbots widerspricht unserer Constitution",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Wertgeführte KI-Ausrichtung, explizite Ablehnung kommerzieller Manipulation"
+    },
+    {
+      "text": "OpenAI will Werbung, das führt langfristig zu mehr Werbeverquickung",
+      "speaker": "host",
+      "economic": 2,
+      "social": -3,
+      "reasoning": "Vertrauen in Marktdynamiken/Anreize, aber Skepsis bei Interessenskonflikten"
+    },
+    {
+      "text": "Elon Musk war sich bewusst: Grok-Sexualisierung ist Engagement-Hack",
+      "speaker": "host",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Kritik an bewusstem Einsatz manipulativer Inhalte für Metrics"
+    },
+    {
+      "text": "TikTok Design ist absichtlich suchtführend, muss reguliert werden",
+      "speaker": "host",
+      "economic": -3,
+      "social": -4,
+      "reasoning": "Regulierungsbefürwortung gegen exploitative Geschäftsmodelle"
+    },
+    {
+      "text": "Steve Bannon fordert ICE-Patrouillen an Wahllokalen - Einschüchterung",
+      "speaker": "host",
+      "economic": null,
+      "social": -8,
+      "reasoning": "Starke Kritik autoritärer Unterdrückung von Bürgerrechten"
+    },
+    {
+      "text": "Jeff Bezos spart beim Wapo-Journalismus, gibt aber 100M für Hochzeit aus",
+      "speaker": "host",
+      "economic": -4,
+      "social": -5,
+      "reasoning": "Kritik an Prioritäten des Kapitals, Medienvielfalt vs. Privateigentum"
+    },
+    {
+      "text": "Starlink wurde von Russland 3 Jahre lang für Drohnenangriffe missbraucht",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik: mangelnde Kontrolle/Governance bei kritischer Infrastruktur"
+    },
+    {
+      "text": "Neura Robotics: Bauchgefühl schlecht, wahrscheinlich China-Repackaging",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Skepsis gegenüber Hype-Bewertungen ohne echte Marktvalidierung"
+    },
+    {
+      "text": "Rentahuman.ai: KI mietet Menschen, um physische Aufgaben zu tun",
+      "speaker": "host",
+      "economic": 4,
+      "social": -6,
+      "reasoning": "Beispiel neuer Arbeitsmarktausbeutung durch algorithmische Koordination"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ads are coming to AI, aber nicht mit Claude - Claude wird werbefrei bleiben",
+      "context": "Anthropic vs. OpenAI Wettbewerb um Vertrauenswürdigkeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die größte Lachnummer war das Statement von Bill Gates: nur ein Draft, E-Mail Draft",
+      "context": "Appstein-Files Debatte um Gates' Verstrickung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "KI braucht keine Roboter bauen - sie können Menschen erpressen, täuschen, bestechen",
+      "context": "Diskussion über echte AGI-Gefahren jenseits von Dystopie-Tropen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn du dir einen schwarzen Rollkragen anziehst, sagst du einfach: Ich bin Elizabeth Holmes",
+      "context": "Kritik an Gründer-Ästhetik und mangelnder echter Innovation bei Neura Robotics",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Machen wir eine strategische Krypto-Reserve? Nein! Hättte 45% verloren",
+      "context": "Kritik an Lindners Krypto-Vorschlag und politischen Fehlentscheidungen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_62NmYbb_4K8",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_62NmYbb_4K8",
+  "date": null,
+  "country": "DE",
+  "word_count": 17923
+}

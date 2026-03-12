@@ -1,0 +1,63 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.6,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.62,
+  "coded_statements": [
+    {
+      "text": "Pixel 9a bietet für sehr viel weniger Geld alles, was man haben will",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Leichte Wertschätzung für günstige Preise/gutes Preis-Leistungs-Verhältnis"
+    },
+    {
+      "text": "Apple wird immer dünner und dünner statt mehr Akku reinzuklemmen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an Marketingprioritäten statt Funktionalität/Verbrauchernutzen"
+    },
+    {
+      "text": "Call Screening ist eine Killerfunktion, dreimal die Woche benutzt",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Befürwortung von Datenschutz/Kontrolle über unerwünschte Kontakte"
+    },
+    {
+      "text": "Bei Screenshot-Analyse fragwürdig, wer wo was von deinen Daten analysiert",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Skeptizismus gegenüber Datenübertragung an Server, Kontrollverlust über lokale Daten"
+    },
+    {
+      "text": "EU-Bestrebung zur Interoperabilität ist echt ernsthaft hilfreich für Datentransfer",
+      "speaker": "host",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Befürwortung von Regulierung für Nutzerrechte und digitale Datenmobilität"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Call Screening ist einfach eine völlige Killerfunktion für Menschen die Telefonanrufe bekommen",
+      "context": "Host lobt Google-Feature gegen Spam und unerwünschte Anrufe",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Da braucht man sich glaube ich auch keine Illusion zu machen dass die Fotomediathek sowieso schon durchanalysiert wird",
+      "context": "Host thematisiert alltägliche KI-Analyse von Nutzerdaten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_GYTTQIXVSuI",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_GYTTQIXVSuI",
+  "date": null,
+  "country": "DE",
+  "word_count": 2265
+}

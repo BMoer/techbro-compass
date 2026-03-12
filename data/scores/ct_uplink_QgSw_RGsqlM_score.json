@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 33 column 17 (char 1169)",
+  "raw_response": "{\n  \"economic_score\": -1.4,\n  \"social_score\": 2.0,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.72,\n  \"coded_statements\": [\n    {\n      \"text\": \"Plugin-Hybride sind regulatorisch eine Lücke: Hersteller rechnen CO2 künstlich runter\",\n      \"speaker\": \"guest\",\n      \"economic\": -4,\n      \"social\": null,\n      \"reasoning\": \"Kritik an Marktmanipulation durch Regulierungslücken, keine Frage von Links-Rechts\"\n    },\n    {\n      \"text\": \"E-Autos sind langfristig günstiger als Verbre",
+  "episode_id": "ct_uplink_QgSw_RGsqlM",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_QgSw_RGsqlM",
+  "date": null,
+  "country": "DE",
+  "word_count": 11609
+}

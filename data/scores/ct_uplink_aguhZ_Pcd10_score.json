@@ -1,0 +1,103 @@
+{
+  "economic_score": -1.4,
+  "social_score": 2.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Apple zweigt sich eine ganze Menge von der Interchange ab, Banken sagen das ist zu teuer",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Tech-Monopol-Gebührenmodell, regulatorische Bedenken"
+    },
+    {
+      "text": "Händler haben das Recht zu sagen wir nehmen nur Karte, nicht Bargeld",
+      "speaker": "guest",
+      "economic": 4,
+      "social": -4,
+      "reasoning": "Marktwirtschaft ja, aber soziale Exklusion von Bankenlosen"
+    },
+    {
+      "text": "Europäische Banken verlieren Marktanteile an Apple, Google, PayPal und wollen vom Kuchen was abhaben",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Wettbewerb um Marktanteile, kommerzielle Interessen"
+    },
+    {
+      "text": "Ich persönlich finde das nicht schön weil das genau diese Menschen ausschließt",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Soziale Inklusion für Bankenlose, Bürgerrechtsbedenken"
+    },
+    {
+      "text": "Google Pay ist beim Datenschutz auffällig, das ist Googles Geschäftsmodell - targeted advertising",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an Datenausnutzung für Profit, Datenschutzbewusstsein"
+    },
+    {
+      "text": "PayPal ermöglicht dass Daten auf Servern landen die außerhalb der EU stehen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Bedenken bezüglich Datenschutz und extraterritorialer Kontrolle"
+    },
+    {
+      "text": "Apple stellt nur die technische Infrastruktur bereit und wertet überhaupt keine Nutzerdaten aus",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Positive Bewertung von Datenschutz-Minimierungsstrategie"
+    },
+    {
+      "text": "Samsung pay via Solaris schaut auf Konto und Einkommen um Bonität zu prüfen und setzt Limits",
+      "speaker": "guest",
+      "economic": 0,
+      "social": -2,
+      "reasoning": "Finanzielle Überwachung begründet mit Risikomanagement"
+    },
+    {
+      "text": "Blue Code und Pay with Charlie nutzen die Daten nicht für targeted advertising sondern nur Zahlungsabwicklung",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Datenschutz-freundliche alternative Zahlungsanbieter"
+    },
+    {
+      "text": "Vero nutzt echtzeitüberweisung von Girokonto zu Girokonto, nicht über Zwischenkonto wie PayPal",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 1,
+      "reasoning": "Bank-genossenschaftliche Lösung gegen Tech-Plattformen, aber kommerzielle Eigeninteressen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Händler haben das Recht zu sagen wir nehmen nur Karte, das schließt über 100.000 Erwachsene aus",
+      "context": "Diskussion über Bargeldlosigkeit und finanzielle Exklusion in Deutschland",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Google Pay: Gucken wo kaufe ich, Betrag, Uhrzeit - daraus lässt sich relativ viel schließen",
+      "context": "Analyse von Datensammlungspraktiken im Zahlungsverkehr",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Apple wertet überhaupt keine Nutzerdaten aus, das passt in Apples Gesamtstrategie Daten zu minimieren",
+      "context": "Unterscheidung zwischen Tech-Plattformen beim Datenschutz",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_aguhZ_Pcd10",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_aguhZ_Pcd10",
+  "date": null,
+  "country": "DE",
+  "word_count": 6139
+}

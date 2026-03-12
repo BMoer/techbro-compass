@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 26 column 17 (char 930)",
+  "raw_response": "{\n  \"economic_score\": -1.4,\n  \"social_score\": 3.6,\n  \"n_coded\": 5,\n  \"insufficient_data\": false,\n  \"confidence\": 0.65,\n  \"coded_statements\": [\n    {\n      \"text\": \"WOP hat Daten in die USA übertragen, ChatGPT noch nicht in EU – das muss man akzeptieren\",\n      \"speaker\": \"host\",\n      \"economic\": null,\n      \"social\": -4,\n      \"reasoning\": \"Akzeptanz von Datentransfer prioritäert über Datenschutz; pragmatische Haltung zu Überwachung\"\n    },\n    {\n      \"text\": \"Apple braucht focused Teams wie W",
+  "episode_id": "bits_und_so_mMBPWC_4i4w",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_mMBPWC_4i4w",
+  "date": null,
+  "country": "DE",
+  "word_count": 4139
+}

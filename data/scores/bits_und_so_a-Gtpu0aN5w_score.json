@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.4,
+  "social_score": 1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Du musst halt auch wissen, dass du mit sowas nicht ähm sowas kannst du nicht die die Bildgenerierung z.B. die taugt nichts, um Schaltpläne zu generieren.",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Pragmatische Bewertung von Technologie-Grenzen, leicht libertär in Betonung von Eigenverantwortung/Verstand"
+    },
+    {
+      "text": "Aber es gibt sehr gute Anwendungsfälle, wo sich auch voll lohnt und wo du dir halt sehr viel Zeit sparen kannst",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pro-Innovation, Effizienz-orientiert, leicht marktwirtschaftlich aber nicht radikal"
+    },
+    {
+      "text": "das frustriert mich so ein bisschen zu sehen, dass Leute einfach so aus Prinzip jetzt so schreien so: 'Nee, das ist alles scheiße.'",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritik an ideologischer Ablehnung von Technologie, implizit pro-Innovation und pragmatisch"
+    },
+    {
+      "text": "man muss da selber mit etwas Verstand hingehen und sehen, okay, strukturierte Daten erfassen kann das LM sehr gut",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Betonung von Eigenverantwortung und kritischem Denken statt paternalistischer Bevormundung"
+    },
+    {
+      "text": "Alle Wochen Abo für 27 €. Man kann sich mal... Aber wer sich dafür interessiert, man kann mal auf Open Router... Das ist nicht gut und so keine Empfehlung, aber es ist sehr interessant, was beim App Review so durchrutscht.",
+      "speaker": "host",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Kritik an Geschäftsmodellen (Abos), aber auch Betonung freier Informationsbeschaffung und Transparenz über Plattformen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Du musst nur richtig fragen und du musst nur das richtige Modell benutzen und du musst die $ GPT gezahlt haben",
+      "context": "Diskussion über richtige Verwendung von Language Models",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Nee, das ist alles scheiße... Und ja, da ist sehr viel Scheiße. Und ja, das ist eine riesen Bubble",
+      "context": "Kritik an unkritischem AI-Hype trotz legitimer Anwendungsfälle",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_a-Gtpu0aN5w",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_a-Gtpu0aN5w",
+  "date": null,
+  "country": "DE",
+  "word_count": 1389
+}

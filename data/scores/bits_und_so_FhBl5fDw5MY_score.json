@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Ich bin da relativ schmerzbefreit, weil das ist das Interface mit meinem Rechner und da möchte ich was nach Möglichkeit das Beste haben",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Befürwortung von Premium-Produkten, Verbraucherentscheidung basierend auf Qualität/Markt statt Preis"
+    },
+    {
+      "text": "Das ist irgendwie geil. Das ist irgendwie komplett bescheuert und nutzlos, wenn man ernsthaft drüber nachdenkt.",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Sarkastische Kritik an unnötiger Produktfeature (Solar-Tastatur), implizite Konsumkritik"
+    },
+    {
+      "text": "Die MX Master 4 ist mit Sicherheit die beste, die sie jemals gebaut haben. Die Oberfläche ist wirklich sehr, sehr gut.",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Produktbewertung ohne politische/ideologische Dimension, reine Qualitätsaussage"
+    },
+    {
+      "text": "Der neue USB-C Bolt Adapter ist winzig und das ist sehr schön, dass sie das endlich gemacht haben",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Lob für marktgerechte Produktverbesserung durch Hersteller, implizit: Markt funktioniert"
+    },
+    {
+      "text": "Das Haptic Feedback Konzept ist lässig, aber ich sehe das nicht, dass das sich groß durchsetzen wird",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Skeptis gegenüber neuer Technologie ohne Nutzen, Marktpragmatismus"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das ist irgendwie geil. Das ist irgendwie komplett bescheuert und nutzlos, wenn man ernsthaft drüber nachdenkt.",
+      "context": "Host kritisiert sarkastisch die Solar-Tastatur als unnötige Feature",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt drei Apps und das ist Photoshop, Lightroom und Zoom. Zoom. Beste Zusammenstellung an Apps.",
+      "context": "Host kommentiert ironisch die magere App-Unterstützung für Haptic Feedback",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_FhBl5fDw5MY",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_FhBl5fDw5MY",
+  "date": null,
+  "country": "DE",
+  "word_count": 2583
+}

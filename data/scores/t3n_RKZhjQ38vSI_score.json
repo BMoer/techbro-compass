@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.0,
+  "social_score": 1.5,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Jeffrey Hinton verlässt Google, warnt vor KI-Gefahren, bedauert sein Lebenswerk teilweise",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an Technologiefolgen, libertäre Sorge um unkontrollierte Entwicklung"
+    },
+    {
+      "text": "Hinton besonders besorgt über Verwendung von KI für militärische Zwecke",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Anti-autoritäre Haltung gegen Überwachungs- und Militärtechnologie"
+    },
+    {
+      "text": "MTA verzichtet auf Twitter wegen Unzuverlässigkeit und hohem API-Preis von 50.000$/Monat",
+      "speaker": "host",
+      "economic": 1,
+      "social": 1,
+      "reasoning": "Kritik an monopolistischer Preisgestaltung, aber pragmatische Geschäftsentscheidung"
+    },
+    {
+      "text": "USA droht Zahlungsausfall - könnte Weltwirtschaft in Krise stürzen",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Implizite Kritik an Haushaltskrise, neutrale Berichterstattung"
+    },
+    {
+      "text": "Musks Anwälte behaupten kontroverse Aussagen könnten Deep Fakes sein",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Autoritärer Versuch, Aussagen zu unterdrücken; Richterin lehnt ab"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Hinton bedauert sein Lebenswerk teilweise - KI-Pionier verlässt Google aus ethischen Gründen",
+      "context": "Führender Deep-Learning-Forscher warnt öffentlich vor eigenen Schöpfungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Twitter verlangt 50.000 Dollar pro Monat für API - MTA kündigt Service",
+      "context": "Beispiel für Musks aggressive Monetarisierungsstrategie nach Übernahme",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_RKZhjQ38vSI",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_RKZhjQ38vSI",
+  "date": null,
+  "country": "DE",
+  "word_count": 647
+}

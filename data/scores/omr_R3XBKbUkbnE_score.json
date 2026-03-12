@@ -1,0 +1,94 @@
+{
+  "economic_score": 2.125,
+  "social_score": 3.875,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Ich wollte das Produkt haben, ohne Zucker, keine Farbstoffe, kein künstliches irgendwas",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Verbraucherschutz, Qualitätsstandards, Anti-Künstlichkeit"
+    },
+    {
+      "text": "Es ist eine eigenständige Marke, bewusst nicht mein Name drauf, weil die Marke sich selbst aufbauen soll",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Unternehmertum, Markenaufbau, unabhängiges Business"
+    },
+    {
+      "text": "Ich nehme Pläne nicht so gerne an, lieber reinspringen, unwissend, aber mit meinem Netzwerk",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 3,
+      "reasoning": "Entrepreneurship, Risk-Taking, aber auch Vertrauen in Netzwerk statt Hierarchie"
+    },
+    {
+      "text": "Nach der Karriere hast du sehr viel Geld gemacht, kannst dich ausruhen, aber Schwierigkeiten schiebe ich gerne weg",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritische Reflexion über materiellen Wohlstand und dessen Falle"
+    },
+    {
+      "text": "Wir bootstrappen das, haben Puffer, aber schauen eventuell später eine Angel-Runde",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Moderate Kapitalstrategie, kontrolliertes Wachstum, Unabhängigkeit bewahren"
+    },
+    {
+      "text": "Die Dose kostet 1,89€, bewusst gewählt um kompetitiv zu sein gegen Red Bull",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktbewusstsein, Preispositionierung, Wettbewerbsstrategie"
+    },
+    {
+      "text": "Ich will ein Produkt machen, das ich jeden Tag trinke, und das hilft vielen anderen auch",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 4,
+      "reasoning": "Authentizität über Profit, Gemeinwohldenken mit Unternehmertum verbunden"
+    },
+    {
+      "text": "Investoren hätten Druck gebracht, schnell in Retail zu gehen, aber wir wollen bewusst langsam wachsen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Kritik an VC-Druck, Kontrolle über Wachstumstempo, Unabhängigkeitsschutz"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Diese Entscheidung zu treffen mit keinem anderen, auch keinen Rat einholen von irgendjemand, sondern einfach nur mit mir",
+      "context": "Schürrle über seinen Karriereausstieg als bewusste Eigenmächtigkeitsentscheidung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Mein Ego hat mir immer gesagt, kannst noch 5 Millionen pro Jahr verdienen, aber mein Gefühl sagte was anderes",
+      "context": "Konflikt zwischen finanziellem Gewinn und innerem Wohlbefinden als zentrales Thema",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es war dieser Moment, wo du entweder in die Hütte gehst oder über deine Grenzen drüber und das hat mein Leben verändert",
+      "context": "Die Backyard-Ultra-Experience als Metapher für persönliche Transformation",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich bin derjenige, der im Labor 200 Proben getrunken hat und 8 Liter während eines 100km Ultra in der Schweiz",
+      "context": "Battle-Tested-Ansatz: Produkt muss der Gründer selbst glauben und nutzen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_R3XBKbUkbnE",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_R3XBKbUkbnE",
+  "date": null,
+  "country": "DE",
+  "word_count": 12812
+}

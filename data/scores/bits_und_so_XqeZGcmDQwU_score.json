@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.0,
+  "social_score": 0.4,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "komplexes Tarifsystem ist murksig, einzelne Ticketauswahl mit Zonen ist verwirrend",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an mangelnder Transparenz und Bürgerfeindlichkeit, leicht libertär"
+    },
+    {
+      "text": "swipe-Modell funktioniert gut, berechnet automatisch günstigstes Ticket",
+      "speaker": "host",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Marktkonforme technische Lösung + Nutzerfreundlichkeit statt Behördenregeln"
+    },
+    {
+      "text": "hilfreich für Touristen die sich nicht in Tarifsystem einlesen möchten",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Vereinfachter Zugang ohne Bürokratie, libertär-pragmatische Nutzerorientierung"
+    },
+    {
+      "text": "Location-Tracking funktioniert nicht in U-Bahn, keine technische Infrastruktur",
+      "speaker": "host",
+      "economic": -1,
+      "social": -2,
+      "reasoning": "Kritik an unzureichender Infrastruktur; tracking-Probleme leicht autoritär relevant"
+    },
+    {
+      "text": "das ist doch mal ein Schritt nach vorne, müsste eigentlich funktionieren",
+      "speaker": "host",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Befürwortung technischer Innovation und Vereinfachung statt Bürokratie"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "ich bin jetzt 5 Jahre glaube ich hier und hab es bis heute nicht verstanden",
+      "context": "Host kritisiert das Unverständlichkeit des Münchner ÖPNV-Tarifsystems",
+      "quiz_suitable": true
+    },
+    {
+      "text": "das ist doch alles ein bisschen murksig",
+      "context": "Zusammenfassung der Kritik am komplexen Zonensystem",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "bits_und_so_XqeZGcmDQwU",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_XqeZGcmDQwU",
+  "date": null,
+  "country": "DE",
+  "word_count": 1235
+}

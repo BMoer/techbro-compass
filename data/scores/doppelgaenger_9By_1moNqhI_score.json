@@ -1,0 +1,141 @@
+{
+  "economic_score": 2.1,
+  "social_score": 1.4,
+  "n_coded": 14,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Solarinvestments sind langfristig rentabel, man kauft sich schrittweise ein",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Investitionslogik, weder links noch rechts"
+    },
+    {
+      "text": "Branchen mit hohem regulatorischem Risiko sind problematisch",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Skeptisch gegenüber staatlichen Eingriffen in Märkte"
+    },
+    {
+      "text": "Cum-Ex ist Staatraub, Steuergelder gehen an Anleger statt Schulen",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik an Finanzmarktmissbräuchen, Umverteilungsbefürwortung"
+    },
+    {
+      "text": "Gamestop ist ein totes Business, aber Retail-Trader können Preise manipulieren",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung von Marktmacht unabhängig von Fundamentals"
+    },
+    {
+      "text": "Short Squeezes sind ethisch problematisch, Markt wird ad absurdum getrieben",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Kritik an Manipulationstaktiken, sorgt um Fairness"
+    },
+    {
+      "text": "WhatsApp-Datenteilung war strategisch dumm, zerstört Vertrauen",
+      "speaker": "host",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Kritik an Datensammlung, Privacy-Befürwortung"
+    },
+    {
+      "text": "Facebook ist günstig bewertet wegen hoher Risiken für das Geschäftsmodell",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Fundamentalanalyse, Unsicherheit über langfristiges Modell"
+    },
+    {
+      "text": "Ich würde Facebook nicht kaufen, egal bei welchem Kurs",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Moralisches Investment-Veto, ablehnd gegenüber Geschäftspraktiken"
+    },
+    {
+      "text": "Clubhaus Moderation über Invite-Struktur schafft Compliance durch Anreize",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Anerkennung von positivem Anreizsystem, leicht paternalistisch"
+    },
+    {
+      "text": "Man muss aber aufpassen, nicht alle unangenehmen Meinungen abzumelden",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Sorge um Meinungsfreiheit, Ablehnung von Overmoderation"
+    },
+    {
+      "text": "Rechtsradikale Äußerungen gehören nicht in mein Netzwerk, ich melde sie",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Aktives Curating von Netzwerk, Intoleranz-Schwelle gesetzt"
+    },
+    {
+      "text": "Ich anworte extremen Positionen nicht, weil ich damit Reichweite förderere",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Bewusster Verzicht auf Amplification, strategische Mässigung"
+    },
+    {
+      "text": "Netflix hätte mit guten Subscriber-Zahlen enttäuschen können",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Spekulation über Märkte, keine ideologische Position"
+    },
+    {
+      "text": "Clubhaus-Content verschwindet, das ermöglicht offenere Gespräche",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Befürwortung von Privacy und Freiraum in Kommunikation"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Cum-Ex ist Staatraub, anders kann man das nicht sagen",
+      "context": "Diskussion über legalisierte Finanzbetrugsmaschen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Börse ist verrückt... Gamestop blutet 100 Millionen pro Jahr",
+      "context": "Analyse der irrational hochgetriebenen Gamestop-Aktie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Netzwerkeffekte funktionieren auch andersrum wenn das einmal bricht",
+      "context": "Argument für Whatsapp-Exodus durch Datenschutz-Skandal",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich würde Facebook nicht kaufen, egal ich will es einfach nicht besitzen",
+      "context": "Moralische Investitionshaltung vs. finanzielle Bewertung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Clubhaus ist keine Audiosendung sondern Teilnahme am öffentlichen Diskurs",
+      "context": "Debatte über Vertragsklauseln für Podcast-Exklusivität",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_9By_1moNqhI",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_9By_1moNqhI",
+  "date": null,
+  "country": "DE",
+  "word_count": 22257
+}

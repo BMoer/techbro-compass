@@ -1,0 +1,63 @@
+{
+  "economic_score": 1.0,
+  "social_score": 1.25,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Chat GPT lieferte erfundene Präzedenzfälle - KI-Halluzinationen müssen sorgfältig geprüft werden",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Warnung vor blindem Vertrauen in automatisierte Systeme, plädiert für Verantwortung und Kontrolle"
+    },
+    {
+      "text": "Konrad gelang es, vom B2C-Verkauf auf B2B-Modell umzusteigen und gegen Amazon-Konkurrenz zu bestehen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Positive Darstellung von Geschäftsmodellanpassung und Marktanpassung, leicht marktwirtschaftlich"
+    },
+    {
+      "text": "Nintendo erwirkte Unterlassungsanspruch gegen Dolphin-Emulatoren mit Berufung auf DMCA",
+      "speaker": "host",
+      "economic": -2,
+      "social": -1,
+      "reasoning": "Starke IP-Durchsetzung beschränkt technische Freiheit und Verbraucheroptionen, leicht restrictions-orientiert"
+    },
+    {
+      "text": "Betrüger nutzen täuschend echte Websites mit Zinssätzen von 4,25% - Verbraucher sollten bei BaFin recherchieren",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Empowerment von Verbrauchern durch Informationen und Eigenverantwortung statt staatliche Paternalismus"
+    },
+    {
+      "text": "Video-Sprechstunden ermöglichen stressfreie Arztbesuche ohne Wartezeit, Fahrt und Parkplatzsuche",
+      "speaker": "host",
+      "economic": 3,
+      "social": 4,
+      "reasoning": "Digitale Effizienz und Convenience, mehr Patientenautonomie, reduzierte Reibungsverluste im System"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Chat GPT erfand Präzedenzfälle bis ins kleinste Detail - Anwalt musste das einräumen",
+      "context": "Warnung vor KI-Halluzinationen und mangelnder Verifizierung in kritischen Bereichen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Nintendo erwirkte Unterlassungsanspruch gegen Emulatoren - könnte weitreichende Konsequenzen für die ganze Emulatorenszene haben",
+      "context": "IP-Durchsetzung mit potenziell restriktiven Auswirkungen auf Technik-Ökosystem",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_-4tTKPQ52nI",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_-4tTKPQ52nI",
+  "date": null,
+  "country": "DE",
+  "word_count": 656
+}

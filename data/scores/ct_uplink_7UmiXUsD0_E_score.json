@@ -1,0 +1,65 @@
+{
+  "economic_score": 0.4,
+  "social_score": 0.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "SSDs sind jetzt billig genug geworden, ein Terabyte kostet 50-60 Euro",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Marktbeobachtung, keine Position zu Regulierung/Markt"
+    },
+    {
+      "text": "Für private Rechner würde ich keine Festplatte mehr drin haben wollen, nur SSDs",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Leichte Markteffizienz-Präferenz, technologische Optimierung über Kostenersparnis"
+    },
+    {
+      "text": "WD hat Eigenentwicklung der Controller, andere kaufen billig Komponenten zusammen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Implizite Kritik an billiger Fertigung, Vorteile von Qualitätsintegration"
+    },
+    {
+      "text": "Generell spricht nichts gegen SSDs, die sind zuverlässiger als alte Festplatten",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Rein technologische Bewertung, keine politische/ökonomische Position"
+    },
+    {
+      "text": "Im Rahmen der Nachhaltigkeit kann man versuchen, alte Rechner mit SSDs zu retten",
+      "speaker": "guest",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Nachhaltigkeitsargument über reines Gewinndenken, leicht links-orientiert"
+    },
+    {
+      "text": "Billigste therapeutische SSD kostete 43 Euro, funktioniert aber langsamer",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Marktbeobachtung ohne klare Position, Preis-Leistungs-Vergleich"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "WD hat Eigenentwicklung, während andere einfach Komponenten kaufen und zusammenstückeln",
+      "context": "Diskussion über Qualitätsunterschiede bei SSD-Herstellern",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "ct_uplink_7UmiXUsD0_E",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_7UmiXUsD0_E",
+  "date": null,
+  "country": "DE",
+  "word_count": 4773
+}

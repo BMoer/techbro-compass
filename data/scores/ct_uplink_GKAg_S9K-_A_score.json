@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.0,
+  "social_score": 0.25,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.6,
+  "coded_statements": [
+    {
+      "text": "man muss noch unterscheiden ob Router integriertes Modem hat, dann hast du riesige Bandbreite an Optionen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Analyse von Marktoptionen, keine ideologische Position"
+    },
+    {
+      "text": "wenn man Micro-Routern sich ansieht kriegt man Respekt für Funktionsumfang, aber Bedienung ist schwierig ohne Dokumentation",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Kritik an Nutzerfreundlichkeit/Zugänglichkeit von komplexer Technik"
+    },
+    {
+      "text": "AVM bietet überdurchschnittlich lange Updates, andere Hersteller meist nur im Unternehmensbereich",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Anerkennung von Nachhaltigkeitsverantwortung durch lange Gerätesupport"
+    },
+    {
+      "text": "man sollte Webinterface der FRITZ!Box nicht ins Internet stellen, sondern VPN einrichten",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Befürwortung von Datenschutz und Sicherheits-Best-Practices"
+    },
+    {
+      "text": "ich wünsche mir dass Fritz!Boxen wie Linux-Router mit Paketen erweiterbar werden - das ist wie Fertigbackmischung vs. selbst experimentieren",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Forderung nach Nutzerautonomie, Customizierbarkeit und weniger Kontrolle durch Hersteller"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Sicherheit steht immer davor bei AVM - ich verstehe das, aber man könnte ja auch Sachen weglassen, Smart Home zum Beispiel",
+      "context": "Diskussion über Wunsch nach erweiterbarer Firmware für FRITZ!Box-Nutzer",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Laborversion - die Finger davon lassen wenn man keine Testumgebung hat. Plötzlich gingen Thermostaten nachts auf Komforttemperatur",
+      "context": "Warnung vor Risiken bei Beta-Firmware-Installation für Privatnutzer",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_GKAg_S9K-_A",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_GKAg_S9K-_A",
+  "date": null,
+  "country": "DE",
+  "word_count": 8715
+}

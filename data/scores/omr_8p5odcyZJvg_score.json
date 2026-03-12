@@ -1,0 +1,63 @@
+{
+  "economic_score": 4.6,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Das ist ja alles komplett finanziert und so, das ist einfach nur Planung",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unternehmerischer Ansatz: Eigenfinanzierung, Planung statt Schulden"
+    },
+    {
+      "text": "Ich könnte auch dritter, fünfter, zehnter kaufen - ich kann das ja, ich mache das schmackhaft",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Marktorientiert: Eigenverantwortung, Vertrauen in Marktmechanismen und Skill"
+    },
+    {
+      "text": "Ich habe mir ausgesucht, wo die ihr Zeug bestellen - hab mich selber als Hospitality und Retailer listen lassen",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Stark unternehmertisch: Direkter Marktzugang, Disintermediation, Wertschöpfungskontrolle"
+    },
+    {
+      "text": "Ich habe keinen Bock, irgendwie mit Idioten was zu machen - ich möchte es lieber mit meiner kleinen Familie selber machen",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Unternehmertisch-pragmatisch: Vertrauen in kleinen Netzwerken, Effizienz über formale Strukturen"
+    },
+    {
+      "text": "Es gibt einen Handwerksbetrieb mit fünf Leuten - Handwerker Avengers, die Freunde sind, Kumpels",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatisch-kooperativ: Klein-Team-Modell, aber erwerbswirtschaftlich orientiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ich rufe alle an und sage: Ich habe aus Versehen gestern Nacht so einen Quatsch gekauft",
+      "context": "Impulsive, massive Immobilienkäufe basierend auf Gefühl und Netzwerk",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das sind keine Ahnung, da sind irgendwie 300 Mäuse ins Dachgeschoss eingezogen während der Übergabe",
+      "context": "Unvorhergesehene Probleme bei Due Diligence zeigen fehlendes klassisches Management",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_8p5odcyZJvg",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_8p5odcyZJvg",
+  "date": null,
+  "country": "DE",
+  "word_count": 2593
+}

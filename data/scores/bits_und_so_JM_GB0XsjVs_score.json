@@ -1,0 +1,82 @@
+{
+  "economic_score": 1.4,
+  "social_score": 4.2,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Gmail ist kostenlos, weil Google deine Daten mit Werbung monetarisiert",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Kritik an Datenmonopolisierung, aber pragmatische Akzeptanz"
+    },
+    {
+      "text": "Selbstgehostete E-Mail ist anstrengend, teuer (34€/Monat) und für normale Nutzer nicht praktikabel",
+      "speaker": "host",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Kritik an Praktikabilität dezentraler Lösungen; Anerkennung von Kosten"
+    },
+    {
+      "text": "Outlook trackt Links durch outlook.com - das ist ein Vendor-Lock-in-Problem",
+      "speaker": "host",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Kritik an Überwachung und Abhängigkeit von Tech-Giganten"
+    },
+    {
+      "text": "Gmail-Spam-Filter funktioniert besser als selbstgehostete Lösungen - das ist die wirtschaftliche Realität",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung von Markteffizienzen großer Plattformen"
+    },
+    {
+      "text": "Deutsche E-Mail-Provider wie GMX/Web.de sind nicht ideal, könnten aber von US-Firmen übernommen werden",
+      "speaker": "host",
+      "economic": -1,
+      "social": 4,
+      "reasoning": "Sorge um Datensouveränität und Abhängigkeit von US-Tech"
+    },
+    {
+      "text": "Open-Source-Alternativen (Morena, Mailbox.org) sind Augenhöhe mit Google/Microsoft-Produkten? Nein, einfach nicht",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatische Anerkennung von Marktführerschaft kommerzieller Lösungen"
+    },
+    {
+      "text": "Wir müssen Menschen schulen, dezentrales Web zu verstehen - das wird 'ekelhaft'",
+      "speaker": "host",
+      "economic": -1,
+      "social": 6,
+      "reasoning": "Plädoyer für Dezentralisierung + Datenschutz, aber ironischer Ton zu Praktikabilität"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Entweder bezahlst du es oder du bezahlst mit deinen Daten",
+      "context": "Zentrale These zum Geschäftsmodell von Tech-Plattformen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Gmail dieser mafiöse Blase, die ihren eigenen Spam durchleitet, als Scheiße von außen reinzulassen",
+      "context": "Kritik an Marktmacht und Diskriminierung von Konkurrenten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die US Experience war immer die beste bei den großen",
+      "context": "Anerkennung von Tech-Überlegenheit trotz Datenschutzbedenken",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_JM_GB0XsjVs",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_JM_GB0XsjVs",
+  "date": null,
+  "country": "DE",
+  "word_count": 2482
+}

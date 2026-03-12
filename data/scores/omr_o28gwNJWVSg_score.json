@@ -1,0 +1,87 @@
+{
+  "economic_score": 2.14,
+  "social_score": 4.29,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wir reinvestieren alles in die Firma, sind komplett profitabel aus eigenem Cashflow, kein VC Geld",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatisches Wachstum ohne externe Abhängigkeit, weder Links noch Rechts"
+    },
+    {
+      "text": "Es gibt eine große Data Gap bei Health Data Männer vs Frauen, noch größer bei Pleasure/Sexuality",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Fokus auf Datentransparenz, Frauenrechte, gegen Geschlechter-Informationsasymmetrie"
+    },
+    {
+      "text": "Unser Produkt braucht Echtheit und Menschlichkeit, AI funktioniert noch nicht weil Intimität verloren geht",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Skepsis vs Automation; Betonung von human touch über Effizienzgewinn; libertär: gegen Technologie-Totalitarismus"
+    },
+    {
+      "text": "Wir haben eine Radical Candor Kultur - kritisches Feedback und Ownership basiert",
+      "speaker": "guest",
+      "economic": null,
+      "social": 7,
+      "reasoning": "Stark libertär: Anti-autoritäre Unternehmenskultur, Transparenz, individuelle Autonomie"
+    },
+    {
+      "text": "Wir fokussieren auf Female Pleasure, liberating pleasure für die Frau - das ist unser Purpose",
+      "speaker": "guest",
+      "economic": null,
+      "social": 8,
+      "reasoning": "Stark libertär: Sexuelle Selbstbestimmung, Anti-Patriarchat, Körperautonomie, gegen Tabuisierung"
+    },
+    {
+      "text": "Influencer Marketing ist unser zweitgrößter Kanal - wir bauen Vertrauen über bekannte Personen auf",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktwirtschaftlicher Ansatz, organische Netzwerkeffekte, kein direkter staatlicher Eingriff"
+    },
+    {
+      "text": "Unser Unit Economics sind so gut, theoretisch könnten wir 99€ für Akquisition ausgeben und noch profitabel sein",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Marktwirtschaftliches Denken, Effizienzorientierung, aber bewusst konservativ (nicht radikal freier Markt)"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Frauen wünschen sich eine andere Art von Adult Content - wir waren weltweit die ersten in diesem Space",
+      "context": "Gründerin erklärt die Marktlücke, die sie identifiziert und mit Audio Erotica gefüllt hat",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich habe mit 4 Jahren Steine gesammelt, angemalt und verkauft - Selbstbestimmung war immer mein großes Thema",
+      "context": "Persönliche Motivation der Gründerin für ihre unternehmerische Laufbahn seit Kindheit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Unser Produkt ist eines der wenigen, wo du einen Sinn weniger ansprichst - nur Audio statt auch visuell",
+      "context": "Produktdifferenzierung: Audio-Fokus für weibliche Vorstellungskraft statt visuelle Stimulation",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Gesellschaftlicher Rückenwind: Frauen werden in wenigen Jahren die gleiche Quantität und Qualität an erotischem Content fordern wie für Bücher und Musik",
+      "context": "Gründerin analysiert gesellschaftliche Entstigmatisierung von Frauensexualität",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_o28gwNJWVSg",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_o28gwNJWVSg",
+  "date": null,
+  "country": "DE",
+  "word_count": 10840
+}

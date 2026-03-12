@@ -1,0 +1,122 @@
+{
+  "economic_score": -1.67,
+  "social_score": 2.5,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "meine Daten will ich nicht aus der Hand geben",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Datenschutz/Kontrolle über eigene Daten als Grundrecht"
+    },
+    {
+      "text": "ChatGPT kostet 20 Euro im Monat, muss aber Gebühren für jedes Token bezahlen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an Marktmodell großer Anbieter, implizite Befürwortung offenerer Alternativen"
+    },
+    {
+      "text": "Open Source Modelle kann man sich runterladen und selber betreiben",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Dezentralisierung, Unabhängigkeit von Konzernen, Selbstbestimmung"
+    },
+    {
+      "text": "Lizenzen: Open Source ist nicht gleich Open Source, muss ich genau prüfen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an fehlender Transparenz/Regelklarheit bei kommerzieller Nutzung"
+    },
+    {
+      "text": "Meta Lama: Grenze bei 700 Millionen Nutzern pro Monat, kleine/mittlere Firmen können es nutzen",
+      "speaker": "guest",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Pragmatische Mittellösung zwischen Konzern-Kontrolle und Mittelstand-Freiheit"
+    },
+    {
+      "text": "Big Tech geben nicht preis, wie ihre KI trainiert wurde - Black Box",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 3,
+      "reasoning": "Kritik an Monopol-Praktiken großer US-Firmen, Mangel an Transparenz"
+    },
+    {
+      "text": "Open Source Modelle haben keine Sicherheitsfilter wie ChatGPT",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Warnung vor Missbrauch bei dezentralisierten Systemen, Sicherheits-vs-Freiheit-Abwägung"
+    },
+    {
+      "text": "ChatGPT wird von amerikanischem puritanischen Moral-Empfinden beeinflusst",
+      "speaker": "guest",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Kritik an US-zentrierter Content-Moderation, implizite Befürwortung europäischer Autonomie"
+    },
+    {
+      "text": "Über 95% der KI-Branche sind nur Bedienoberflächen mit angepasstem Prompt zu OpenAI",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an niedriger Wertschöpfung/Innovation, reines Zulieferer-Modell zu Monopol"
+    },
+    {
+      "text": "Bei hohem Risiko (Medizin) würde ich von generativen Sprachmodellen abraten",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Vorsicht vor unkontrolliertem Einsatz, Regulierungsgedanke sichtbar"
+    },
+    {
+      "text": "Man kann die Modelle in der Cloud kostengünstig/kostenlos ausprobieren statt eigenständig",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Akzeptanz von Cloud-Outsourcing für Effizienz/Praktikabilität"
+    },
+    {
+      "text": "Jeder kann auf Hugging Face 300.000+ Modelle angucken, ausprobieren, verstehen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Stark demokratisierend, Wissenstransfer, Anti-Gatekeeping, Community-Empowerment"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "meine Daten ja die will ich nicht so aus der Hand geben und ich will auch genau wissen was die Karina mitmacht",
+      "context": "Kernmotivation für Self-Hosting von KI-Modellen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Big Tech muss zerschlagen werden ist nicht explizit, aber: über 95% der KI-Branche sind nur Bedienoberflächen zu OpenAI",
+      "context": "Kritik an Monopol-Struktur der KI-Industrie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Open Source ist nicht gleich Open Source - muss ich kommerziell einsetzen sehr genau durchlesen",
+      "context": "Rechtsrisiken bei Open-Source-KI-Nutzung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Modell hat sich in eine Lügengeschichte verstrickt und versuchte mich davon zu überzeugen dass das sinnvoll wäre",
+      "context": "Halluzinationen und Konfabulationen bei Open-Source-KI zeigen Risiken",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_avV_iCxSYok",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_avV_iCxSYok",
+  "date": null,
+  "country": "DE",
+  "word_count": 8493
+}

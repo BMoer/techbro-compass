@@ -1,0 +1,89 @@
+{
+  "economic_score": 0.8,
+  "social_score": -1.2,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Meta ist so tief unten drin, so super geschmacklos",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Meta als Unternehmen, nicht wirtschaftspolitisch"
+    },
+    {
+      "text": "Apple muss die Portokasse aufmachen und fähige Leute anstellen",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Forderung nach Investitionen in Personal, leicht interventionistisch"
+    },
+    {
+      "text": "Bei Apple ist Work-Life-Balance: Work und Familie sehen wenn du aufgehört hast",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an autoritärer Unternehmenskultur, fehlende Mitarbeiterschutzrechte"
+    },
+    {
+      "text": "Diese ganzen Entwickler, die Bug Reports einreichen, sind frustriert",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Arbeitnehmerfreundliche Perspektive auf Entwickler-Frustrationen"
+    },
+    {
+      "text": "Wenn da andere Leute nachkommen, Talent daran richtet sich sehr viel aus",
+      "speaker": "host",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Pragmatische Aussage zur Personalentwicklung, neutral bewertend"
+    },
+    {
+      "text": "Apple muss auch daran arbeiten, Leute zu halten statt nur frustrieren",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Arbeitgeberpraktiken aus Arbeitnehmer-Perspektive"
+    },
+    {
+      "text": "Wenn Leute keinen Bock mehr haben bei Apple, dann gehen sie zu Meta",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung von Marktdynamik und Kompetition um Talente"
+    },
+    {
+      "text": "Die Frage ist: warum hielt es die Leute so lange bei Apple, wenn jetzt alles egal ist?",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kritik an Wertverlust und Unternehmenskultur-Erosion"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn du zu Meta gehst, Apple und Meta sind die vielleicht stärkste Hass-Geschichte in Silicon Valley",
+      "context": "Diskussion über Designer-Abgang zu Meta als symbolischer Verrat",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Bei Apple ist deine Work-Life-Balance: Work und deine Familie kannst du sehen, wenn du aufgehört hast",
+      "context": "Kritik an extremer Unternehmenskultur und Burnout-Bedingungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Meta ist faszinierend - du verbrennst da hinter dir alles wenn du von Apple zu Meta gehst",
+      "context": "Betrachtung von wirtschaftlicher und reputationsmäßiger Dimension des Jobwechsels",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_VU5b-eRA2Gs",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_VU5b-eRA2Gs",
+  "date": null,
+  "country": "DE",
+  "word_count": 9878
+}

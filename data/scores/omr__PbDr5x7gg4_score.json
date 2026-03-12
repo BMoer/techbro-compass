@@ -1,0 +1,127 @@
+{
+  "economic_score": 1.1,
+  "social_score": 0.6,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "die meisten der Menschen da drauf sind eher wohlhabender als es dann irgendwie jetzt so steht",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Deskriptive Aussage über Vermögensschätzung, keine Wertung"
+    },
+    {
+      "text": "wir bleiben da absolut bei dem Motto nur nicht überbieten",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Methodisches Principle, keine politische Aussage"
+    },
+    {
+      "text": "der diversifiziert der hat 600 Millionen ausgegeben allein für Cyber XM aus Israel",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unternehmerische Initiative, Tech-Investitionen, positive Würdigung"
+    },
+    {
+      "text": "die Größe des Marktes...in USA kommen ja die Tech Milliardäre aus allen Ecken",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Würdigung von Marktdynamik und unternehmerischer Freiheit"
+    },
+    {
+      "text": "wenn man sich anguckt dass jetzt hier in hanoverener Arbeitsplätze schafft ist ja irgendwie zweifellos wahr",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Positive Würdigung von Wohlstandsgenerierung durch Unternehmertum"
+    },
+    {
+      "text": "Marlene Engelhorn würde nicht mal das sagen dass man nur ein paar Hunderttausend Euro braucht",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Implizite Kritik an Überreichtum, Umverteilungsgedanke"
+    },
+    {
+      "text": "diese Rückverteilung...wo geht das Geld hin",
+      "speaker": "guest",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Explizites Thematisieren von Vermögensumverteilung und Gerechtigkeit"
+    },
+    {
+      "text": "eine höhere Vermögenssteuer",
+      "speaker": "guest",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Befürwortung von progressiver Besteuerung und Umverteilung"
+    },
+    {
+      "text": "Unternehmer...zu wenig wertschätzt...das Standing ist zu negativ",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an Anti-Unternehmertum, Plädoyer für wirtschaftliche Wertschätzung"
+    },
+    {
+      "text": "da bleiben wir unserer klassischen vielleicht auch sehr deutschen Manier treu dass wir da sehr zurückhalten schätzen",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Methodische Aussage, keine politische Position"
+    },
+    {
+      "text": "wo ist da die Macht konzentriert...gerade wichtig dass wir wissen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Transparenzforderung, informationelle Freiheit und demokratische Kontrolle"
+    },
+    {
+      "text": "in einer Demokratie...finden wir die [Unternehmensfreiheit]",
+      "speaker": "host",
+      "economic": 4,
+      "social": 5,
+      "reasoning": "Verbindung von wirtschaftlicher Freiheit mit demokratischen Grundlagen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wenn Dieter Schwarz anrufen würde...da würde ich sofort rangehen herzlich gerne",
+      "context": "Journalistin über unerreichbarkeit des reichsten Deutschen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Tellerwäscher zum Millionär...die gibt es in Deutschland nicht allzu oft",
+      "context": "Kritik an fehlender Aufstiegsmobilität und dynastischen Strukturen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "16 deutsche Tech-Millionäre...ich nehme an 16 amerikanische Menschen ein die alle deutlich hinaus sind",
+      "context": "Vergleich der Tech-Dynamik zwischen USA und Deutschland",
+      "quiz_suitable": true
+    },
+    {
+      "text": "die Reichen werden immer reicher...und wir haben neue Rekorde gesehen",
+      "context": "Beobachtung von Vermögenskonzentration trotz negativer Gesamtstimmung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "ich ich versuch so ein bisschen diese Liste einfach auch positiv zu framen",
+      "context": "Selbstreflektion über narrative Deutung von Wohlstandskonzentration",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr__PbDr5x7gg4",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr__PbDr5x7gg4",
+  "date": null,
+  "country": "DE",
+  "word_count": 10303
+}

@@ -1,0 +1,32 @@
+{
+  "economic_score": 0,
+  "social_score": 2.5,
+  "n_coded": 2,
+  "insufficient_data": true,
+  "confidence": 0.35,
+  "coded_statements": [
+    {
+      "text": "Man braucht ein gewisses Level von Vertrauen, dass diese App mit Browser Cookies nichts anstellt",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Datenschutzbedenken, aber pragmatisch; Open Source als Vertrauensmechanismus"
+    },
+    {
+      "text": "Man muss auch ein bisschen Vertrauen entgegenbringen bei selbstgekreuteltem Kram",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Abwägung zwischen Sicherheit/Datenschutz und praktischer Nutzbarkeit"
+    }
+  ],
+  "notable_quotes": [],
+  "analysis_note": "Transkript ist primär technische Produktbeschreibung (Codexbar-Tool). Nur zwei schwache meinungstragende Passagen zur Vertrauensfrage bei Open-Source-Software codierbar. Keine starken politischen Positionen erkennbar.",
+  "episode_id": "bits_und_so_Bee0YiyqCjQ",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_Bee0YiyqCjQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 362
+}

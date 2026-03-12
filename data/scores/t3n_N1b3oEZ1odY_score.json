@@ -1,0 +1,96 @@
+{
+  "economic_score": 0.8,
+  "social_score": 2.0,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Deutsche Bahn spart Kosten durch Verzicht auf Plastikkarten (30 Tonnen/Jahr)",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kostenoptimierung durch Deregulierung analoger Prozesse"
+    },
+    {
+      "text": "Ohne App/Konto keine Bahncard-Vorteile nutzbar - digitale Ausgrenzung",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an digitaler Barriere für Randgruppen, Bürgerrechtsthema"
+    },
+    {
+      "text": "Verbraucherzentrale fordert Ausdrucke an Reisezentren - Inklusion statt Digitalisierungszwang",
+      "speaker": "host",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Plädoyer für Wahlfreiheit und Schutz von Nicht-Digitalen"
+    },
+    {
+      "text": "Cannabis-Legalisierung soll Schwarzmarkt austrocknen und 1,3 Mrd. Euro Steuern generieren",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Fiskalisierung illegaler Märkte, neoliberale Logik"
+    },
+    {
+      "text": "Legales Cannabis schützt vor verunreinigten Substanzen - Gesundheit vor Moral",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Harm-Reduction-Ansatz, Konsumentenschutz statt Prohibition"
+    },
+    {
+      "text": "Lauterbach: Legale sichere Abgabe besser als unkontrollierter Schwarzmarkt",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Pragmatische Gesundheitspolitik, Abkehr von ideologischer Drogenbekämpfung"
+    },
+    {
+      "text": "Kretschmer will Gesetz im Vermittlungsausschuss zu Tode bringen",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Obstruktionstaktik gegen demokratisch beschlossenes Gesetz"
+    },
+    {
+      "text": "Cannabis als Lifestyle-Droge ist fragwürdig - persönliche Wahrnehmung",
+      "speaker": "host",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Kulturkritik an Kommerzialisierung, aber zurückhaltend gewertet"
+    },
+    {
+      "text": "Organspenderegister digital zugänglich - Digitalisierung im Gesundheitswesen vorantreiben",
+      "speaker": "host",
+      "economic": 2,
+      "social": 5,
+      "reasoning": "Progressive Digitalisierung mit Autonomie-Gewinn für Bürger"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Entziehen wir dem Dealer an der Straßenecke die Geschäftsgrundlage",
+      "context": "Bundeslandwirtschaftsminister Özdemir zur Cannabis-Legalisierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Gesetz könnte im Vermittlungsausschuss sterben - Zitat Lauterbach",
+      "context": "Warnung vor politischer Obstruktion des bereits beschlossenen Gesetzes",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Keine App, keine Möglichkeit die Bahncard zu nutzen",
+      "context": "Kritik an digitaler Ausgrenzung älterer Menschen bei Bahn-Digitalisierung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_N1b3oEZ1odY",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_N1b3oEZ1odY",
+  "date": null,
+  "country": "DE",
+  "word_count": 6141
+}

@@ -1,0 +1,108 @@
+{
+  "economic_score": -1.4,
+  "social_score": 3.4,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "KI in Schulen verbieten ist keine Option, man kann es nicht kontrollieren",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Pragmatische Ablehnung von Restriktionen, praktische Freiheit"
+    },
+    {
+      "text": "Schüler müssen KI-Systeme nutzen lernen, weil es zur Zukunft gehört",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Befürwortung von Technologiekompetenz ohne Bevormundung"
+    },
+    {
+      "text": "Datenschutz ist ein großes Problem bei amerikanischen KI-Diensten",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Kritik an Big Tech, Datenschutz als Grundrecht, aber praktische Perspektive"
+    },
+    {
+      "text": "Schulen mit fehlender Digitalisierung verstärken Bildungsungerechtigkeit",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an ungleicher Ressourcenverteilung, sozialstaatliche Perspektive"
+    },
+    {
+      "text": "Leistungsstarke Schüler nutzen KI sinnvoll, schwache nutzen sie als Ausweg",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Beobachtung, dass KI Ungleichheiten verfestigen kann ohne Steuerung"
+    },
+    {
+      "text": "Lehrende sollten KI-Nutzung dokumentieren und benoten statt zu verbieten",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Pragmatisch-libertäre Haltung: Transparenz statt Restriktionen"
+    },
+    {
+      "text": "50% Bewertung für Arbeit, 50% für den KI-Nutzungsprozess und Dokumentation",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Ausgewogener Ansatz, kompetente Techniknutzung belohnen"
+    },
+    {
+      "text": "Schulen müssen WLAN, Hardware und Lehrerfortbildung bereitstellen",
+      "speaker": "guest",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Fordert öffentliche Investition in Infrastruktur und Bildung"
+    },
+    {
+      "text": "KI könnte ältere Lehrer motivieren, sich mit Technologie zu befassen",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Optimistische Sicht auf Inklusivität durch benutzerfreundliche Interfaces"
+    },
+    {
+      "text": "Experten raten: Einfach ausprobieren, experimentieren und Spaß dabei haben",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Ermutigung zu kritischem Spielen statt Angst oder Verbot"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Verbieten ist einfach gar keine Option zum einen kann man es ja gar nicht kontrollieren",
+      "context": "Argument gegen KI-Verbot in Schulen basierend auf Praktikabilität",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Sorge besteht schon das ist vielleicht die Bildungsschwere noch weiter aufklappen lässt",
+      "context": "Warnung vor Verstärkung von Ungleichheit durch KI ohne geeignete Steuerung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Künftig bewertet wird wie setze ich nicht oh mein Gott Technik ein sondern wie schlau",
+      "context": "Wendung von Technikskeptizismus zu Kompetenzfokus in der Bewertung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Schulen Hochschulen sollen ja vorbereiten auf das richtige Leben und KI ist Teil davon",
+      "context": "Kernargument für Integration von KI in Lehrauftrag statt Ablehnung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_H0G_hbBjvNY",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_H0G_hbBjvNY",
+  "date": null,
+  "country": "DE",
+  "word_count": 2539
+}

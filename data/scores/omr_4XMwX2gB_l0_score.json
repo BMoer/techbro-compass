@@ -1,0 +1,101 @@
+{
+  "economic_score": 2.5,
+  "social_score": 1.0,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.82,
+  "coded_statements": [
+    {
+      "text": "Wir müssen ultra schnell sein, wir müssen mega lokal sein und nehmen diese Ineffizienzen in Kauf",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Growth-orientiert, flexible Effizienzkosten für Marktdominanz akzeptierend"
+    },
+    {
+      "text": "In Deutschland die Regulierung extrem kompliziert ist, aber auch kein Mut besteht, Neues zu machen",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, Plea für Deregulierung und Innovation"
+    },
+    {
+      "text": "Pooling müsste erlaubt sein - Win-Win-Situation für Nachhaltigkeit und Nutzer",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 2,
+      "reasoning": "Marktliberalisierung und ökologische Effizienz kombiniert"
+    },
+    {
+      "text": "Wir denken viel auf Außenumsatz - 160 Milliarden letzte Jahr, 20% Wachstum",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unternehmertum, Wachstum und Kapitalismuskritik-fern"
+    },
+    {
+      "text": "Fahrer sind bei Fahrunternehmen angestellt, nicht selbstständig wie in USA",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -1,
+      "reasoning": "Arbeitnehmerrechte bewahrt, aber eher pragmatisch als ideologisch"
+    },
+    {
+      "text": "Taxi in Deutschland ist der teuerste Taximarkt weltweit - regulatorisches Versäumnis",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an staatlicher Preisregulierung, Plea für Wettbewerb"
+    },
+    {
+      "text": "Autonome Autos - in USA schon kommerziell live, Deutschland deutlich langsamer",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Technologieskeptizismus vs. Innovation, Regulatorische Kritik"
+    },
+    {
+      "text": "Wir geben global etwa 10% vom Umsatz in Marketing aus - 4 Milliarden",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Reine Geschäftszahl, keine Wertaussage"
+    },
+    {
+      "text": "Jeder Mitarbeiter erhält Aktienpaket - erzeugt mehr Identifikation mit Unternehmenswert",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 1,
+      "reasoning": "Kapitalistische Anreizstruktur mit teilweise pro-sozialer Wirkung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ich glaub, dass Taxilobby eine Rolle spielt oder andere Lobbys - aber es wird zu kompliziert gedacht",
+      "context": "Kritik an überregulierter deutscher Pooling-Gesetzgebung ohne praktische Umsetzung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Autonome Autos - wir haben hunderte in Betrieb, Deutschland diskutiert noch über Showcase-Projekte",
+      "context": "Vergleich USA-Realität vs. deutsche Zögerlichkeit bei disruptiven Technologien",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn Werbung neu eingeführt wird, sind Menschen viel wacher und aufmerksamer als wenn sie sie kennen",
+      "context": "Werbestrategie auf Uber-Plattform: First-Mover-Vorteil in neuem Kanal",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Diese 10 Jahre fühlen sich an wie drei andere Firmen - vom 5-Personen-Apartment zum globalen Player",
+      "context": "Persönliche Reflexion über exponentielles Wachstum und Skalierung bei Uber",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_4XMwX2gB_l0",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_4XMwX2gB_l0",
+  "date": null,
+  "country": "DE",
+  "word_count": 14597
+}
