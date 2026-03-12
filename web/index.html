@@ -3,754 +3,592 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Tech Bro oder Faschist?</title>
+<title>Podcast Political Compass — DACH</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
 <style>
   :root {
-    --black: #0a0a0a;
-    --white: #f5f0eb;
     --red: #c23616;
-    --red-dim: #8b2010;
-    --blue: #2d5aa0;
-    --green: #1e7a3f;
-    --yellow: #d4a017;
     --grid: rgba(0,0,0,0.08);
-    --text: #1a1a1a;
-    --text-dim: #666;
+    --dim: #aaa;
     --paper: #f5f0eb;
     --ink: #1a1a1a;
   }
-
   * { margin: 0; padding: 0; box-sizing: border-box; }
-
+  html, body { height: 100%; overflow: hidden; }
   body {
     font-family: 'DM Mono', monospace;
     background: var(--paper);
     color: var(--ink);
-    font-size: 14px;
-    line-height: 1.6;
-    overflow-x: hidden;
-  }
-
-  /* ── HEADER ── */
-  header {
-    padding: 3rem 2rem 2rem;
-    border-bottom: 3px solid var(--ink);
-    position: relative;
-  }
-
-  header::after {
-    content: '';
-    position: absolute;
-    bottom: -6px;
-    left: 0;
-    right: 0;
-    border-bottom: 1px solid var(--ink);
-  }
-
-  .masthead {
-    max-width: 1100px;
-    margin: 0 auto;
-  }
-
-  .masthead h1 {
-    font-family: 'Instrument Serif', serif;
-    font-size: clamp(3rem, 8vw, 6rem);
-    line-height: 0.95;
-    letter-spacing: -0.03em;
-    margin-bottom: 0.5rem;
-  }
-
-  .masthead h1 .red { color: var(--red); }
-
-  .masthead .subtitle {
-    font-size: 0.85rem;
-    text-transform: uppercase;
-    letter-spacing: 0.15em;
-    color: var(--text-dim);
-    margin-top: 0.5rem;
-  }
-
-  .masthead .kicker {
-    font-family: 'Instrument Serif', serif;
-    font-style: italic;
-    font-size: 1.3rem;
-    margin-top: 1rem;
-    max-width: 600px;
-  }
-
-  /* ── SECTIONS ── */
-  section {
-    max-width: 1100px;
-    margin: 0 auto;
-    padding: 3rem 2rem;
-  }
-
-  .section-label {
-    font-size: 0.7rem;
-    text-transform: uppercase;
-    letter-spacing: 0.2em;
-    color: var(--red);
-    border-bottom: 1px solid var(--red);
-    display: inline-block;
-    padding-bottom: 2px;
-    margin-bottom: 1.5rem;
-  }
-
-  /* ── COMPASS CHART ── */
-  #compass-section {
-    border-bottom: 1px solid var(--grid);
-  }
-
-  .compass-wrapper {
+    font-size: 13px;
     display: flex;
-    gap: 3rem;
-    align-items: flex-start;
-    flex-wrap: wrap;
   }
 
-  .compass-container {
-    flex: 0 0 500px;
-    max-width: 100%;
-  }
-
-  .compass-svg {
-    width: 100%;
-    height: auto;
-  }
-
-  .compass-legend {
+  /* ── 3-column layout ── */
+  .panel-left, .panel-right {
     flex: 1;
-    min-width: 280px;
-  }
-
-  .legend-item {
-    display: flex;
-    align-items: center;
-    gap: 0.75rem;
-    padding: 0.5rem 0;
-    border-bottom: 1px dotted var(--grid);
-    cursor: pointer;
-    transition: opacity 0.2s;
-  }
-
-  .legend-item:hover { opacity: 0.7; }
-
-  .legend-dot {
-    width: 12px;
-    height: 12px;
-    border-radius: 50%;
-    flex-shrink: 0;
-  }
-
-  .legend-name {
-    font-weight: 500;
-    font-size: 0.85rem;
-  }
-
-  .legend-country {
-    font-size: 0.7rem;
-    color: var(--text-dim);
-    margin-left: auto;
-  }
-
-  .legend-score {
-    font-size: 0.75rem;
-    color: var(--text-dim);
-    font-variant-numeric: tabular-nums;
-  }
-
-  /* ── QUIZ ── */
-  #quiz-section {
-    background: var(--ink);
-    color: var(--paper);
-    max-width: none;
-    padding: 4rem 2rem;
-  }
-
-  #quiz-section .section-label {
-    color: var(--red);
-    border-color: var(--red);
-  }
-
-  .quiz-inner {
-    max-width: 700px;
-    margin: 0 auto;
-  }
-
-  .quiz-title {
-    font-family: 'Instrument Serif', serif;
-    font-size: clamp(2rem, 5vw, 3.5rem);
-    line-height: 1.05;
-    margin-bottom: 0.5rem;
-  }
-
-  .quiz-subtitle {
-    color: rgba(245,240,235,0.5);
-    margin-bottom: 3rem;
-    font-size: 0.85rem;
-  }
-
-  .quiz-card {
-    background: rgba(245,240,235,0.05);
-    border: 1px solid rgba(245,240,235,0.15);
-    padding: 2.5rem;
-    margin-bottom: 1.5rem;
-    position: relative;
-    min-height: 180px;
     display: flex;
     flex-direction: column;
     justify-content: center;
-  }
-
-  .quiz-quote {
-    font-family: 'Instrument Serif', serif;
-    font-size: 1.5rem;
-    line-height: 1.35;
-    font-style: italic;
-  }
-
-  .quiz-quote::before { content: '»'; color: var(--red); }
-  .quiz-quote::after { content: '«'; color: var(--red); }
-
-  .quiz-buttons {
-    display: flex;
-    gap: 1rem;
-    margin-top: 2rem;
-  }
-
-  .quiz-btn {
-    flex: 1;
-    padding: 1rem;
-    font-family: 'DM Mono', monospace;
-    font-size: 0.85rem;
-    font-weight: 500;
-    text-transform: uppercase;
-    letter-spacing: 0.1em;
-    border: 2px solid rgba(245,240,235,0.3);
-    background: transparent;
-    color: var(--paper);
-    cursor: pointer;
-    transition: all 0.2s;
-  }
-
-  .quiz-btn:hover {
-    border-color: var(--red);
-    color: var(--red);
-  }
-
-  .quiz-btn.selected {
-    background: var(--red);
-    border-color: var(--red);
-    color: var(--paper);
-  }
-
-  .quiz-result {
     padding: 1.5rem;
-    border: 1px solid rgba(245,240,235,0.15);
-    margin-top: 1rem;
-    display: none;
+    min-width: 180px;
+    max-width: 280px;
+    overflow-y: auto;
   }
 
-  .quiz-result.visible { display: block; }
-
-  .quiz-result .source {
-    font-size: 0.8rem;
-    color: rgba(245,240,235,0.5);
-    margin-top: 0.75rem;
-  }
-
-  .quiz-score-bar {
+  .compass-center {
+    flex: 0 0 auto;
     display: flex;
-    justify-content: space-between;
-    margin-top: 2rem;
-    padding-top: 1.5rem;
-    border-top: 1px solid rgba(245,240,235,0.15);
+    align-items: center;
+    justify-content: center;
+    padding: 0.8rem 0;
+  }
+  .compass-svg {
+    height: calc(100vh - 1.6rem);
+    aspect-ratio: 1;
+    cursor: crosshair;
   }
 
-  .quiz-score-item {
-    text-align: center;
-  }
-
-  .quiz-score-number {
+  /* ── Left panel ── */
+  .site-title {
     font-family: 'Instrument Serif', serif;
-    font-size: 2.5rem;
+    font-size: 1.3rem;
+    font-weight: 400;
+    line-height: 1.2;
+    color: var(--dim);
+    margin-bottom: 0.3rem;
+  }
+  .site-title em { color: var(--ink); font-style: italic; }
+  .site-sub {
+    font-size: 0.55rem;
+    color: var(--dim);
+    line-height: 1.5;
+    margin-bottom: 1.5rem;
+  }
+  .site-links {
+    font-size: 0.6rem;
+    color: var(--dim);
+    line-height: 2;
+    margin-top: auto;
+    padding-top: 1rem;
+    border-top: 1px solid var(--grid);
+  }
+  .site-links a { color: var(--dim); text-decoration: none; }
+  .site-links a:hover { color: var(--red); }
+
+  /* ── Right panel: legend + time slider ── */
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    padding: 0.3rem 0.35rem;
+    cursor: pointer;
+    border-radius: 2px;
+    transition: background 0.1s;
+  }
+  .legend-item:hover { background: rgba(0,0,0,0.04); }
+  .legend-item.active { background: rgba(0,0,0,0.07); }
+  .legend-dot {
+    width: 7px; height: 7px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .legend-name { font-size: 0.6rem; flex: 1; }
+  .legend-count { font-size: 0.55rem; color: var(--dim); }
+  .legend-reset {
+    font-size: 0.55rem;
     color: var(--red);
+    cursor: pointer;
+    padding: 0.2rem 0.35rem;
   }
+  .legend-reset:hover { text-decoration: underline; }
 
-  .quiz-score-label {
-    font-size: 0.7rem;
-    text-transform: uppercase;
-    letter-spacing: 0.15em;
-    color: rgba(245,240,235,0.5);
-  }
-
-  .quiz-next {
-    display: inline-block;
+  /* ── Time range slider ── */
+  .time-control {
     margin-top: 1.5rem;
-    padding: 0.75rem 2rem;
-    border: 1px solid rgba(245,240,235,0.3);
-    background: transparent;
-    color: var(--paper);
-    font-family: 'DM Mono', monospace;
-    font-size: 0.8rem;
-    cursor: pointer;
+    padding-top: 0.8rem;
+    border-top: 1px solid var(--grid);
+  }
+  .time-label {
+    font-size: 0.55rem;
+    color: var(--dim);
     text-transform: uppercase;
     letter-spacing: 0.1em;
-    transition: all 0.2s;
+    margin-bottom: 0.5rem;
+  }
+  .time-range-wrap {
+    position: relative;
+    height: 24px;
+    margin: 0.3rem 0;
+  }
+  .time-range-wrap input[type=range] {
+    position: absolute;
+    top: 0; left: 0;
+    width: 100%;
+    height: 24px;
+    -webkit-appearance: none;
+    appearance: none;
+    background: transparent;
+    pointer-events: none;
+    margin: 0;
+  }
+  .time-range-wrap input[type=range]::-webkit-slider-runnable-track {
+    height: 3px;
+    background: transparent;
+  }
+  .time-range-wrap input[type=range]::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    width: 14px; height: 14px;
+    border-radius: 50%;
+    background: var(--ink);
+    border: 2px solid var(--paper);
+    cursor: pointer;
+    pointer-events: all;
+    margin-top: -6px;
+  }
+  .time-range-wrap input[type=range]::-moz-range-thumb {
+    width: 14px; height: 14px;
+    border-radius: 50%;
+    background: var(--ink);
+    border: 2px solid var(--paper);
+    cursor: pointer;
+    pointer-events: all;
+  }
+  .time-range-track {
+    position: absolute;
+    top: 10px; left: 0; right: 0;
+    height: 3px;
+    background: #ddd;
+    border-radius: 2px;
+    pointer-events: none;
+  }
+  .time-range-fill {
+    position: absolute;
+    top: 10px;
+    height: 3px;
+    background: var(--ink);
+    border-radius: 2px;
+    pointer-events: none;
+  }
+  .time-display {
+    font-size: 0.65rem;
+    color: var(--ink);
+    text-align: center;
+    margin-top: 0.2rem;
+    font-weight: 500;
   }
 
-  .quiz-next:hover {
-    border-color: var(--paper);
-  }
-
-  /* ── METHODIK ── */
-  .methodik-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-    gap: 2rem;
-  }
-
-  .methodik-card {
-    padding: 1.5rem;
-    border: 1px solid var(--grid);
-    border-top: 3px solid var(--ink);
-  }
-
-  .methodik-card h3 {
-    font-family: 'Instrument Serif', serif;
-    font-size: 1.2rem;
-    margin-bottom: 0.75rem;
-  }
-
-  .methodik-card p {
-    font-size: 0.8rem;
-    color: var(--text-dim);
+  .panel-meta {
+    font-size: 0.55rem;
+    color: var(--dim);
+    margin-top: 1rem;
+    padding-top: 0.5rem;
+    border-top: 1px solid var(--grid);
     line-height: 1.7;
   }
+  .panel-meta a { color: var(--dim); text-decoration: none; }
+  .panel-meta a:hover { color: var(--red); }
 
-  .methodik-card .cite {
-    font-size: 0.7rem;
-    color: var(--red-dim);
-    margin-top: 0.5rem;
+  /* ── Tooltip ── */
+  .tooltip {
+    position: fixed;
+    background: var(--ink);
+    color: var(--paper);
+    padding: 0.45rem 0.6rem;
+    font-size: 0.6rem;
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity 0.1s;
+    z-index: 100;
+    max-width: 300px;
+    line-height: 1.4;
+    border-radius: 3px;
   }
+  .tooltip.visible { opacity: 1; }
+  .tooltip .tp { font-weight: 500; margin-bottom: 1px; }
+  .tooltip .tt { color: #aaa; font-size: 0.55rem; }
+  .tooltip .tq { font-style: italic; margin-top: 3px; color: #ddd; font-size: 0.55rem; border-left: 2px solid var(--red); padding-left: 4px; }
+  .tooltip .ts { color: #888; font-size: 0.5rem; margin-top: 1px; }
+  .tooltip .tv { color: #999; font-size: 0.5rem; margin-top: 2px; }
 
-  /* ── FOOTER ── */
-  footer {
-    border-top: 3px solid var(--ink);
-    padding: 2rem;
-    text-align: center;
-    font-size: 0.75rem;
-    color: var(--text-dim);
-  }
-
-  footer a { color: var(--red); }
-
-  /* ── LOADING ── */
-  .loading {
-    text-align: center;
-    padding: 4rem;
-    color: var(--text-dim);
-  }
-
-  .loading::after {
-    content: '...';
-    animation: dots 1.5s infinite;
-  }
-
-  @keyframes dots {
-    0%, 20% { content: '.'; }
-    40% { content: '..'; }
-    60%, 100% { content: '...'; }
-  }
-
-  /* ── RESPONSIVE ── */
-  @media (max-width: 768px) {
-    .compass-container { flex: 0 0 100%; }
-    .compass-wrapper { flex-direction: column; }
-    .quiz-buttons { flex-direction: column; }
+  @media (max-width: 900px) {
+    body { flex-direction: column; overflow-y: auto; }
+    .panel-left, .panel-right { max-width: 100%; flex-direction: row; flex-wrap: wrap; gap: 0.5rem; padding: 0.8rem; }
+    .compass-center { width: 100%; }
+    .compass-svg { height: auto; width: 100%; max-height: 80vh; }
+    .time-control { margin-top: 0; border: none; padding: 0; }
   }
 </style>
 </head>
 <body>
 
-<header>
-  <div class="masthead">
-    <h1>Tech Bro<br>oder <span class="red">Faschist</span>?</h1>
-    <p class="subtitle">Political Compass der DACH Tech-Podcast-Szene</p>
-    <p class="kicker">Wohin driftet die deutschsprachige Tech-Bubble? Eine datengetriebene Analyse von 10 Podcasts auf dem Political Compass.</p>
+<div class="panel-left" id="panel-left">
+  <div class="site-title"><em>Political Compass</em><br>DACH Tech-Podcasts</div>
+  <div class="site-sub">Politische Verortung deutschsprachiger Tech-Podcasts via LLM-Codierung</div>
+  <div class="site-links">
+    <a href="methodik.html">Methodik</a><br>
+    <a href="https://github.com/benjaminm/techbro-oder-faschist">GitHub</a><br>
+    <a href="https://moerzinger.eu">Atelier M&ouml;rzinger</a>
   </div>
-</header>
+</div>
 
-<!-- ═══ COMPASS ═══ -->
-<section id="compass-section">
-  <span class="section-label">Der Compass</span>
-  <div class="compass-wrapper">
-    <div class="compass-container">
-      <svg class="compass-svg" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
-        <!-- Grid -->
-        <rect x="50" y="50" width="400" height="400" fill="none" stroke="#ddd" stroke-width="1"/>
-        <!-- Quadrant fills -->
-        <rect x="50" y="50" width="200" height="200" fill="rgba(45,90,160,0.04)"/>
-        <rect x="250" y="50" width="200" height="200" fill="rgba(30,122,63,0.04)"/>
-        <rect x="50" y="250" width="200" height="200" fill="rgba(194,54,22,0.04)"/>
-        <rect x="250" y="250" width="200" height="200" fill="rgba(212,160,23,0.04)"/>
-        <!-- Grid lines -->
-        <line x1="50" y1="250" x2="450" y2="250" stroke="#bbb" stroke-width="1.5"/>
-        <line x1="250" y1="50" x2="250" y2="450" stroke="#bbb" stroke-width="1.5"/>
-        <!-- Sub-grid -->
-        <line x1="150" y1="50" x2="150" y2="450" stroke="#eee" stroke-width="0.5"/>
-        <line x1="350" y1="50" x2="350" y2="450" stroke="#eee" stroke-width="0.5"/>
-        <line x1="50" y1="150" x2="450" y2="150" stroke="#eee" stroke-width="0.5"/>
-        <line x1="50" y1="350" x2="450" y2="350" stroke="#eee" stroke-width="0.5"/>
-        <!-- Axis labels -->
-        <text x="250" y="40" text-anchor="middle" font-family="DM Mono" font-size="9" fill="#666" text-transform="uppercase" letter-spacing="2">LIBERTÄR</text>
-        <text x="250" y="475" text-anchor="middle" font-family="DM Mono" font-size="9" fill="#666">AUTORITÄR</text>
-        <text x="35" y="254" text-anchor="middle" font-family="DM Mono" font-size="9" fill="#666" transform="rotate(-90,35,250)">LINKS</text>
-        <text x="465" y="254" text-anchor="middle" font-family="DM Mono" font-size="9" fill="#666" transform="rotate(90,465,250)">RECHTS</text>
-        <!-- Quadrant labels -->
-        <text x="150" y="145" text-anchor="middle" font-family="Instrument Serif" font-size="11" fill="rgba(45,90,160,0.4)" font-style="italic">Linke Libertäre</text>
-        <text x="350" y="145" text-anchor="middle" font-family="Instrument Serif" font-size="11" fill="rgba(30,122,63,0.4)" font-style="italic">Rechte Libertäre</text>
-        <text x="150" y="365" text-anchor="middle" font-family="Instrument Serif" font-size="11" fill="rgba(194,54,22,0.4)" font-style="italic">Linke Autoritäre</text>
-        <text x="350" y="365" text-anchor="middle" font-family="Instrument Serif" font-size="11" fill="rgba(212,160,23,0.4)" font-style="italic">Rechte Autoritäre</text>
-        <!-- Data points will be injected here -->
-        <g id="compass-points"></g>
-      </svg>
+<div class="compass-center">
+  <svg class="compass-svg" id="compass-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet"></svg>
+</div>
+
+<div class="panel-right" id="panel-right">
+  <div id="legend"></div>
+  <div class="time-control" id="time-control">
+    <div class="time-label">Zeitraum</div>
+    <div class="time-range-wrap">
+      <div class="time-range-track"></div>
+      <div class="time-range-fill" id="range-fill"></div>
+      <input type="range" id="range-min" min="0" max="100" value="0">
+      <input type="range" id="range-max" min="0" max="100" value="100">
     </div>
-    <div class="compass-legend" id="compass-legend">
-      <p class="loading">Daten werden geladen</p>
-    </div>
+    <div class="time-display" id="time-display"></div>
   </div>
-</section>
+  <div class="panel-meta" id="panel-meta"></div>
+</div>
 
-<!-- ═══ QUIZ ═══ -->
-<section id="quiz-section">
-  <div class="quiz-inner">
-    <span class="section-label">Das Quiz</span>
-    <h2 class="quiz-title">Tech Bro oder Faschist?</h2>
-    <p class="quiz-subtitle">Reale Zitate aus DACH Tech-Podcasts. Kannst du unterscheiden?</p>
-
-    <div class="quiz-card" id="quiz-card">
-      <p class="quiz-quote" id="quiz-quote">Laden...</p>
-    </div>
-
-    <div class="quiz-buttons" id="quiz-buttons">
-      <button class="quiz-btn" data-answer="techbro" onclick="quizAnswer('techbro')">Tech Bro</button>
-      <button class="quiz-btn" data-answer="faschist" onclick="quizAnswer('faschist')">Faschist</button>
-    </div>
-
-    <div class="quiz-result" id="quiz-result">
-      <p id="quiz-answer-text"></p>
-      <p class="source" id="quiz-source"></p>
-      <button class="quiz-next" onclick="nextQuote()">Nächstes Zitat →</button>
-    </div>
-
-    <div class="quiz-score-bar">
-      <div class="quiz-score-item">
-        <div class="quiz-score-number" id="score-correct">0</div>
-        <div class="quiz-score-label">Richtig</div>
-      </div>
-      <div class="quiz-score-item">
-        <div class="quiz-score-number" id="score-total">0</div>
-        <div class="quiz-score-label">Gesamt</div>
-      </div>
-      <div class="quiz-score-item">
-        <div class="quiz-score-number" id="score-pct">—</div>
-        <div class="quiz-score-label">Trefferquote</div>
-      </div>
-    </div>
-  </div>
-</section>
-
-<!-- ═══ METHODIK ═══ -->
-<section id="methodik-section">
-  <span class="section-label">Methodik</span>
-  <div class="methodik-grid">
-    <div class="methodik-card">
-      <h3>Zwei-Achsen-Modell</h3>
-      <p>Politische Positionen auf zwei unabhängigen Achsen: Ökonomisch (Links–Rechts) und Gesellschaftlich (Autoritär–Libertär). Basierend auf dem Zwei-Dimensionen-Modell, das Hans Eysenck 1954 erstmals mit statistischer Evidenz belegt hat.</p>
-      <p class="cite">Eysenck (1954); Nolan (1971)</p>
-    </div>
-    <div class="methodik-card">
-      <h3>LLM-basierte Codierung</h3>
-      <p>Jede Podcast-Episode wird automatisch auf meinungstragende Aussagen analysiert und auf beiden Achsen verortet. Die Methode erreicht Korrelationen von r&nbsp;>&nbsp;0,90 mit menschlichen Experten-Codierungen.</p>
-      <p class="cite">Le Mens et al. (2025); Heseltine & Clemm von Hohenberg (2024)</p>
-    </div>
-    <div class="methodik-card">
-      <h3>Codebook-Ansatz</h3>
-      <p>Statt einfacher Zero-Shot-Klassifikation verwenden wir ein operationalisiertes Coding Scheme mit Ankerbeispielen — essentiell für valide Messung komplexer politischer Konstrukte.</p>
-      <p class="cite">Ornstein et al. (2025); Farjam et al. (2025)</p>
-    </div>
-  </div>
-</section>
-
-<footer>
-  <p>Ein Hobbyprojekt von <a href="https://moerzinger.eu">Atelier Mörzinger</a>. Kein Anspruch auf wissenschaftliche Vollständigkeit.</p>
-  <p style="margin-top:0.5rem">Transkripte via YouTube Auto-Captions. Analyse via Claude (Anthropic). Code auf <a href="https://github.com">GitHub</a>.</p>
-</footer>
+<div class="tooltip" id="tooltip"></div>
 
 <script>
-// ═══════════════════════════════════════
-// DATA — Replace with actual results from pipeline
-// ═══════════════════════════════════════
-
-// Demo data — will be replaced by master_results.json
-const PODCAST_COLORS = {
+const COLORS = {
   'Future Weekly': '#c23616',
-  'Doppelgänger Tech Talk': '#2d5aa0',
+  'Doppelg\u00E4nger Tech Talk': '#2d5aa0',
   'OMR Podcast': '#1e7a3f',
-  'Lobo – Der Debatten-Podcast': '#8e44ad',
+  'Lobo \u2013 Der Debatten-Podcast': '#8e44ad',
   't3n Podcast': '#d35400',
   'Bits und so': '#16a085',
   'Tech Briefing': '#7f8c8d',
-  'c\'t uplink': '#2c3e50',
+  "c't uplink": '#2c3e50',
   'Tech, KI & Schmetterlinge': '#e74c3c',
   'Digitec Tech-Telmechtel': '#f39c12',
 };
 
-// Demo episodes — will be loaded from JSON
-let episodes = [
-  { podcast: 'Doppelgänger Tech Talk', economic_score: 2.8, social_score: 2.1, title: 'Anthropic vs. Pentagon', country: 'DE' },
-  { podcast: 'Doppelgänger Tech Talk', economic_score: 3.5, social_score: 1.5, title: 'Sloppy Sam', country: 'DE' },
-  { podcast: 'Doppelgänger Tech Talk', economic_score: 2.2, social_score: 3.2, title: 'Meta übernimmt Moltbook', country: 'DE' },
-  { podcast: 'Future Weekly', economic_score: 3.8, social_score: 1.8, title: '#495 Anthropic vs Trump', country: 'AT' },
-  { podcast: 'Future Weekly', economic_score: 4.2, social_score: 0.5, title: '#496 Founder Traps', country: 'AT' },
-  { podcast: 'OMR Podcast', economic_score: 4.5, social_score: -0.5, title: 'Jan Beckers 1000% Rendite', country: 'DE' },
-  { podcast: 'OMR Podcast', economic_score: 1.2, social_score: 0.8, title: 'Eon-Chef Energiewende', country: 'DE' },
-  { podcast: 'c\'t uplink', economic_score: -1.5, social_score: 4.2, title: 'KI-Müll flutet das Internet', country: 'DE' },
-  { podcast: 'c\'t uplink', economic_score: -0.5, social_score: 2.8, title: 'Windows 11 Umstieg', country: 'DE' },
-  { podcast: 'Bits und so', economic_score: 1.8, social_score: 1.2, title: 'MacBook Neo', country: 'DE' },
-];
+let allEpisodes = [];
+let episodes = [];  // filtered by time
+let selectedPodcast = null;
+let dataMinDate, dataMaxDate;
+const tooltip = document.getElementById('tooltip');
 
-// Demo quiz quotes
-let quizQuotes = [
-  {
-    text: "KI macht Immigration überflüssig",
-    source: "Palantir-CEO Alexander Karp, zitiert im Doppelgänger Tech Talk",
-    answer: "techbro",
-    explanation: "Tech Bro. Karp verknüpft hier technologischen Solutionismus mit Migrationspolitik."
-  },
-  {
-    text: "Wer nichts zu verbergen hat, hat nichts zu befürchten",
-    source: "Klassisches Überwachungs-Argument",
-    answer: "faschist",
-    explanation: "Faschist. Das Standardargument zur Legitimierung von Massenüberwachung."
-  },
-  {
-    text: "Europa reguliert sich zu Tode. Die besten Gründer gehen alle in die USA.",
-    source: "Startup-Podcast, typische VC-Perspektive",
-    answer: "techbro",
-    explanation: "Tech Bro. Deregulierungs-Narrativ der Startup-Szene."
-  },
-  {
-    text: "Sozialleistungen machen Menschen abhängig und faul. Ohne Druck keine Leistung.",
-    source: "Tech-Podcast-Kontext",
-    answer: "faschist",
-    explanation: "Faschist. Sozialdarwinistisches Argument gegen den Sozialstaat."
-  },
-  {
-    text: "Die Zukunft gehört denen, die schneller skalieren. Alles andere ist Lifestyle-Business.",
-    source: "VC/Startup-Podcast",
-    answer: "techbro",
-    explanation: "Tech Bro. Growth-Ideologie als einzig gültige Unternehmensform."
-  },
-  {
-    text: "Starke Führer braucht das Land. Demokratie ist zu langsam für die Geschwindigkeit der Technologie.",
-    source: "Synthetisches Beispiel",
-    answer: "faschist",
-    explanation: "Faschist. Explizit anti-demokratisch, technokratisch-autoritär."
-  },
-  {
-    text: "Move fast and break things. Auch Regeln.",
-    source: "Startup-Mantra",
-    answer: "techbro",
-    explanation: "Tech Bro. Die Bereitschaft, Regeln zu ignorieren, ist Teil der Gründer-Mythologie."
-  },
-  {
-    text: "Menschen wollen nicht arbeiten. Deshalb brauchen wir KI — nicht um ihnen zu helfen, sondern um sie zu ersetzen.",
-    source: "Tech-Podcast",
-    answer: "faschist",
-    explanation: "Faschist. Menschenverachtende Haltung, die Arbeitnehmer als Problem statt Ressource sieht."
-  },
-];
+// ── Tooltip ──
 
-let currentQuoteIndex = 0;
-let quizCorrect = 0;
-let quizTotal = 0;
+function showTip(evt, html) {
+  tooltip.innerHTML = html;
+  tooltip.classList.add('visible');
+  const r = tooltip.getBoundingClientRect();
+  let x = evt.clientX + 12, y = evt.clientY - 10;
+  if (x + r.width > window.innerWidth - 8) x = evt.clientX - r.width - 8;
+  if (y + r.height > window.innerHeight - 8) y = evt.clientY - r.height - 8;
+  if (y < 4) y = 4;
+  tooltip.style.left = x + 'px';
+  tooltip.style.top = y + 'px';
+}
 
-// ═══════════════════════════════════════
-// COMPASS RENDERING
-// ═══════════════════════════════════════
+function epTip(ep, extra) {
+  const sp = ep.sample_speaker === 'guest' ? 'Gast' : 'Host';
+  let h = '<div class="tp">' + ep.podcast + '</div>';
+  h += '<div class="tt">' + (ep.title || '').substring(0, 55) + (ep.date ? ' \u00B7 ' + ep.date : '') + '</div>';
+  if (ep.sample_statement) {
+    h += '<div class="tq">\u201E' + ep.sample_statement.substring(0, 95) + (ep.sample_statement.length > 95 ? '\u2026' : '') + '\u201C</div>';
+    h += '<div class="ts">\u2014 ' + sp + '</div>';
+  }
+  if (extra) h += '<div class="tv">' + extra + '</div>';
+  return h;
+}
 
-function scaleToSVG(value, min = -10, max = 10) {
-  // Map -10..+10 to 50..450 (SVG coordinates)
-  return 50 + ((value - min) / (max - min)) * 400;
+function hideTip() { tooltip.classList.remove('visible'); }
+
+// ── Time filter ──
+
+function initTimeSlider() {
+  const dates = allEpisodes.filter(e => e.date && e.date.length === 10).map(e => new Date(e.date).getTime());
+  if (dates.length === 0) return;
+  dataMinDate = Math.min(...dates);
+  dataMaxDate = Math.max(...dates);
+
+  const minY = new Date(dataMinDate).getFullYear();
+  const maxY = new Date(dataMaxDate).getFullYear();
+
+  const rMin = document.getElementById('range-min');
+  const rMax = document.getElementById('range-max');
+  // Use quarters for finer control
+  const totalQ = (maxY - minY + 1) * 4;
+  rMin.min = 0; rMin.max = totalQ; rMin.value = 0;
+  rMax.min = 0; rMax.max = totalQ; rMax.value = totalQ;
+
+  function qToDate(q) {
+    const yr = minY + Math.floor(q / 4);
+    const mo = (q % 4) * 3;
+    return new Date(yr, mo, 1);
+  }
+
+  function formatQ(q) {
+    const d = qToDate(q);
+    const qn = Math.floor(d.getMonth() / 3) + 1;
+    return 'Q' + qn + ' ' + d.getFullYear();
+  }
+
+  function update() {
+    let lo = parseInt(rMin.value);
+    let hi = parseInt(rMax.value);
+    if (lo > hi - 1) { lo = hi - 1; rMin.value = lo; }
+    if (hi < lo + 1) { hi = lo + 1; rMax.value = hi; }
+
+    const loDate = qToDate(lo);
+    const hiDate = qToDate(hi);
+
+    // Update fill bar
+    const pct1 = (lo / totalQ) * 100;
+    const pct2 = (hi / totalQ) * 100;
+    document.getElementById('range-fill').style.left = pct1 + '%';
+    document.getElementById('range-fill').style.width = (pct2 - pct1) + '%';
+
+    document.getElementById('time-display').textContent = formatQ(lo) + ' \u2013 ' + formatQ(hi);
+
+    // Filter episodes
+    episodes = allEpisodes.filter(ep => {
+      if (!ep.date || ep.date.length < 10) return true;
+      const d = new Date(ep.date);
+      return d >= loDate && d <= hiDate;
+    });
+
+    renderCompass();
+  }
+
+  rMin.addEventListener('input', update);
+  rMax.addEventListener('input', update);
+  update();
+}
+
+// ── Compass ──
+
+function selectPodcast(pod) {
+  selectedPodcast = selectedPodcast === pod ? null : pod;
+  renderCompass();
 }
 
 function renderCompass() {
-  const g = document.getElementById('compass-points');
-  const legend = document.getElementById('compass-legend');
-  g.innerHTML = '';
+  const svg = document.getElementById('compass-svg');
+  svg.innerHTML = '';
+
+  const byPod = {};
+  episodes.forEach(ep => {
+    if (!byPod[ep.podcast]) byPod[ep.podcast] = { eps: [], country: ep.country || '?' };
+    byPod[ep.podcast].eps.push(ep);
+  });
+
+  const zoomed = selectedPodcast && byPod[selectedPodcast];
+
+  // Data range
+  let dxMin, dxMax, dyMin, dyMax;
+  if (zoomed) {
+    const pts = zoomed.eps;
+    const exs = pts.map(e => e.economic_score);
+    const eys = pts.map(e => e.social_score);
+    const pad = 1.5;
+    dxMin = Math.min(...exs) - pad; dxMax = Math.max(...exs) + pad;
+    dyMin = Math.min(...eys) - pad; dyMax = Math.max(...eys) + pad;
+    if (dxMax - dxMin < 4) { const m = (dxMin + dxMax) / 2; dxMin = m - 2; dxMax = m + 2; }
+    if (dyMax - dyMin < 4) { const m = (dyMin + dyMax) / 2; dyMin = m - 2; dyMax = m + 2; }
+  } else {
+    dxMin = -10; dxMax = 10; dyMin = -10; dyMax = 10;
+  }
+
+  const W = 600, H = 600;
+  const P = { t: 32, r: 32, b: 32, l: 32 };
+  const cw = W - P.l - P.r, ch = H - P.t - P.b;
+  svg.setAttribute('viewBox', '0 0 ' + W + ' ' + H);
+
+  function sx(v) { return P.l + ((v - dxMin) / (dxMax - dxMin)) * cw; }
+  function sy(v) { return P.t + ((dyMax - v) / (dyMax - dyMin)) * ch; }
+
+  const NS = 'http://www.w3.org/2000/svg';
+  function el(tag, attrs) {
+    const e = document.createElementNS(NS, tag);
+    for (const [k, v] of Object.entries(attrs)) e.setAttribute(k, '' + v);
+    return e;
+  }
+
+  // Clip
+  const clip = el('clipPath', { id: 'ca' });
+  clip.appendChild(el('rect', { x: P.l, y: P.t, width: cw, height: ch }));
+  svg.appendChild(clip);
+
+  // Quadrant fills
+  const zx = Math.max(P.l, Math.min(W - P.r, sx(0)));
+  const zy = Math.max(P.t, Math.min(H - P.b, sy(0)));
+  const qg = el('g', { 'clip-path': 'url(#ca)' });
+  qg.appendChild(el('rect', { x: P.l, y: P.t, width: zx - P.l, height: zy - P.t, fill: 'rgba(194,54,22,0.03)' }));
+  qg.appendChild(el('rect', { x: zx, y: P.t, width: W - P.r - zx, height: zy - P.t, fill: 'rgba(30,122,63,0.03)' }));
+  qg.appendChild(el('rect', { x: P.l, y: zy, width: zx - P.l, height: H - P.b - zy, fill: 'rgba(45,90,160,0.03)' }));
+  qg.appendChild(el('rect', { x: zx, y: zy, width: W - P.r - zx, height: H - P.b - zy, fill: 'rgba(212,160,23,0.03)' }));
+  svg.appendChild(qg);
+
+  // Border
+  svg.appendChild(el('rect', { x: P.l, y: P.t, width: cw, height: ch, fill: 'none', stroke: '#e0e0e0', 'stroke-width': '0.8' }));
+
+  // Grid
+  function step(range) { return range <= 5 ? 1 : range <= 12 ? 2 : 5; }
+  const xs = step(dxMax - dxMin), ys = step(dyMax - dyMin);
+
+  for (let v = Math.ceil(dxMin / xs) * xs; v <= dxMax; v += xs) {
+    const x = sx(v);
+    if (x <= P.l + 1 || x >= W - P.r - 1) continue;
+    const z = Math.abs(v) < 0.01;
+    svg.appendChild(el('line', { x1: x, y1: P.t, x2: x, y2: H - P.b, stroke: z ? '#bbb' : '#eee', 'stroke-width': z ? '1' : '0.5', 'stroke-dasharray': z ? '4,3' : 'none' }));
+    const lb = el('text', { x: x, y: H - P.b + 13, 'text-anchor': 'middle', 'font-family': 'DM Mono,monospace', 'font-size': '7', fill: z ? '#999' : '#ccc' });
+    lb.textContent = (v > 0 ? '+' : '') + v;
+    svg.appendChild(lb);
+  }
+  for (let v = Math.ceil(dyMin / ys) * ys; v <= dyMax; v += ys) {
+    const y = sy(v);
+    if (y <= P.t + 1 || y >= H - P.b - 1) continue;
+    const z = Math.abs(v) < 0.01;
+    svg.appendChild(el('line', { x1: P.l, y1: y, x2: W - P.r, y2: y, stroke: z ? '#bbb' : '#eee', 'stroke-width': z ? '1' : '0.5', 'stroke-dasharray': z ? '4,3' : 'none' }));
+    const lb = el('text', { x: P.l - 5, y: y + 3, 'text-anchor': 'end', 'font-family': 'DM Mono,monospace', 'font-size': '7', fill: z ? '#999' : '#ccc' });
+    lb.textContent = (v > 0 ? '+' : '') + v;
+    svg.appendChild(lb);
+  }
+
+  // Axis labels
+  const af = { 'font-family': 'DM Mono,monospace', 'font-size': '6.5', fill: '#c0c0c0', 'letter-spacing': '1.5' };
+  const mkLabel = (x, y, txt, rot) => {
+    const t = el('text', { x, y, 'text-anchor': 'middle', ...af, ...(rot ? { transform: 'rotate(' + rot + ',' + x + ',' + y + ')' } : {}) });
+    t.textContent = txt;
+    svg.appendChild(t);
+  };
+  mkLabel(W / 2, P.t - 8, 'LIBERT\u00C4R');
+  mkLabel(W / 2, H - P.b + 25, 'AUTORIT\u00C4R');
+  mkLabel(P.l - 16, H / 2, 'LINKS', '-90');
+  mkLabel(W - P.r + 16, H / 2, 'RECHTS', '90');
+
+  // Data group
+  const dg = el('g', { 'clip-path': 'url(#ca)' });
+  svg.appendChild(dg);
+
+  // Episode dots
+  const dr = zoomed ? 4.5 : 3;
+  episodes.forEach(ep => {
+    const mine = !selectedPodcast || ep.podcast === selectedPodcast;
+    const c = el('circle', {
+      cx: sx(ep.economic_score), cy: sy(ep.social_score), r: dr,
+      fill: COLORS[ep.podcast] || '#999',
+      opacity: mine ? (zoomed ? '0.8' : '0.28') : '0.04',
+      class: 'ep-dot', 'data-podcast': ep.podcast,
+    });
+    if (mine) {
+      c.style.cursor = 'pointer';
+      c.addEventListener('mouseenter', e => showTip(e, epTip(ep, 'Econ ' + ep.economic_score.toFixed(1) + ' | Soc ' + ep.social_score.toFixed(1))));
+      c.addEventListener('mousemove', e => { tooltip.style.left = (e.clientX + 12) + 'px'; tooltip.style.top = (e.clientY - 10) + 'px'; });
+      c.addEventListener('mouseleave', hideTip);
+    }
+    dg.appendChild(c);
+  });
+
+  // Average dots (overview only)
+  if (!zoomed) {
+    Object.entries(byPod).forEach(([pod, data]) => {
+      const ae = data.eps.reduce((a, e) => a + e.economic_score, 0) / data.eps.length;
+      const as_ = data.eps.reduce((a, e) => a + e.social_score, 0) / data.eps.length;
+      const color = COLORS[pod] || '#999';
+      const c = el('circle', {
+        cx: sx(ae), cy: sy(as_), r: '7', fill: color,
+        stroke: 'white', 'stroke-width': '1.8',
+        class: 'avg-dot', 'data-podcast': pod,
+      });
+      c.style.cursor = 'pointer';
+      c.addEventListener('mouseenter', e => showTip(e,
+        '<div class="tp">' + pod + '</div><div class="tv">\u00D8 ' + data.eps.length + ' Ep. \u00B7 Econ ' + ae.toFixed(1) + ' | Soc ' + as_.toFixed(1) + '</div>'));
+      c.addEventListener('mouseleave', hideTip);
+      c.addEventListener('click', () => selectPodcast(pod));
+      dg.appendChild(c);
+
+      const t = el('text', {
+        x: sx(ae) + 11, y: sy(as_) + 3,
+        'font-family': 'DM Mono,monospace', 'font-size': '7.5',
+        fill: color, 'font-weight': '500', 'pointer-events': 'none',
+      });
+      t.textContent = pod.length > 18 ? pod.substring(0, 16) + '\u2026' : pod;
+      dg.appendChild(t);
+    });
+  }
+
+  renderLegend(byPod);
+}
+
+function renderLegend(byPod) {
+  const legend = document.getElementById('legend');
   legend.innerHTML = '';
 
-  // Aggregate by podcast
-  const podcastAverages = {};
-  episodes.forEach(ep => {
-    if (!podcastAverages[ep.podcast]) {
-      podcastAverages[ep.podcast] = { econ: [], soc: [], country: ep.country };
-    }
-    podcastAverages[ep.podcast].econ.push(ep.economic_score);
-    podcastAverages[ep.podcast].soc.push(ep.social_score);
+  // Use allEpisodes for stable legend (show all podcasts even when filtered)
+  const allPods = {};
+  allEpisodes.forEach(ep => {
+    if (!allPods[ep.podcast]) allPods[ep.podcast] = 0;
+    allPods[ep.podcast]++;
   });
 
-  // Draw individual episode dots (small, dim)
-  episodes.forEach(ep => {
-    const cx = scaleToSVG(ep.economic_score);
-    const cy = scaleToSVG(-ep.social_score); // Invert: libertarian is UP
-    const color = PODCAST_COLORS[ep.podcast] || '#999';
+  Object.keys(allPods).forEach(pod => {
+    const color = COLORS[pod] || '#999';
+    const current = byPod[pod];
+    const n = current ? current.eps.length : 0;
 
-    const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-    circle.setAttribute('cx', cx);
-    circle.setAttribute('cy', cy);
-    circle.setAttribute('r', '4');
-    circle.setAttribute('fill', color);
-    circle.setAttribute('opacity', '0.3');
-
-    const title = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-    title.textContent = `${ep.podcast}: ${ep.title}\nEcon: ${ep.economic_score.toFixed(1)} | Soc: ${ep.social_score.toFixed(1)}`;
-    circle.appendChild(title);
-    g.appendChild(circle);
-  });
-
-  // Draw podcast averages (large, bold)
-  Object.entries(podcastAverages).forEach(([podcast, data]) => {
-    const avgEcon = data.econ.reduce((a, b) => a + b, 0) / data.econ.length;
-    const avgSoc = data.soc.reduce((a, b) => a + b, 0) / data.soc.length;
-    const cx = scaleToSVG(avgEcon);
-    const cy = scaleToSVG(-avgSoc);
-    const color = PODCAST_COLORS[podcast] || '#999';
-
-    // Larger circle for average
-    const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
-    circle.setAttribute('cx', cx);
-    circle.setAttribute('cy', cy);
-    circle.setAttribute('r', '8');
-    circle.setAttribute('fill', color);
-    circle.setAttribute('stroke', 'white');
-    circle.setAttribute('stroke-width', '2');
-
-    const title = document.createElementNS('http://www.w3.org/2000/svg', 'title');
-    title.textContent = `${podcast} (Ø)\nEcon: ${avgEcon.toFixed(1)} | Soc: ${avgSoc.toFixed(1)}`;
-    circle.appendChild(title);
-    g.appendChild(circle);
-
-    // Legend
     const item = document.createElement('div');
-    item.className = 'legend-item';
-    item.innerHTML = `
-      <span class="legend-dot" style="background:${color}"></span>
-      <span class="legend-name">${podcast}</span>
-      <span class="legend-country">${data.country}</span>
-      <span class="legend-score">E${avgEcon >= 0 ? '+' : ''}${avgEcon.toFixed(1)} S${avgSoc >= 0 ? '+' : ''}${avgSoc.toFixed(1)}</span>
-    `;
+    item.className = 'legend-item' + (selectedPodcast === pod ? ' active' : '');
+    item.style.opacity = n === 0 && !selectedPodcast ? '0.35' : '1';
+    item.innerHTML =
+      '<span class="legend-dot" style="background:' + color + '"></span>' +
+      '<span class="legend-name">' + pod + '</span>' +
+      '<span class="legend-count">' + n + '</span>';
+
+    item.addEventListener('click', () => selectPodcast(pod));
+
+    item.addEventListener('mouseenter', () => {
+      if (selectedPodcast) return;
+      document.querySelectorAll('.ep-dot').forEach(d =>
+        d.setAttribute('opacity', d.getAttribute('data-podcast') === pod ? '0.65' : '0.04'));
+      document.querySelectorAll('.avg-dot').forEach(d =>
+        d.setAttribute('opacity', d.getAttribute('data-podcast') === pod ? '1' : '0.1'));
+    });
+    item.addEventListener('mouseleave', () => {
+      if (selectedPodcast) return;
+      document.querySelectorAll('.ep-dot').forEach(d => d.setAttribute('opacity', '0.28'));
+      document.querySelectorAll('.avg-dot').forEach(d => d.setAttribute('opacity', '1'));
+    });
     legend.appendChild(item);
   });
-}
 
-// ═══════════════════════════════════════
-// QUIZ
-// ═══════════════════════════════════════
-
-function shuffleArray(arr) {
-  for (let i = arr.length - 1; i > 0; i--) {
-    const j = Math.floor(Math.random() * (i + 1));
-    [arr[i], arr[j]] = [arr[j], arr[i]];
-  }
-  return arr;
-}
-
-function loadQuote() {
-  if (currentQuoteIndex >= quizQuotes.length) {
-    shuffleArray(quizQuotes);
-    currentQuoteIndex = 0;
+  if (selectedPodcast) {
+    const r = document.createElement('div');
+    r.className = 'legend-reset';
+    r.textContent = '\u2190 Alle';
+    r.addEventListener('click', () => { selectedPodcast = null; renderCompass(); });
+    legend.appendChild(r);
   }
 
-  const q = quizQuotes[currentQuoteIndex];
-  document.getElementById('quiz-quote').textContent = q.text;
-  document.getElementById('quiz-result').classList.remove('visible');
-  document.querySelectorAll('.quiz-btn').forEach(b => {
-    b.classList.remove('selected');
-    b.disabled = false;
-  });
+  document.getElementById('panel-meta').innerHTML =
+    episodes.length + '/' + allEpisodes.length + ' Episoden<br>Claude Haiku 4.5 \u00B7 <a href="methodik.html">Methodik \u2192</a>';
 }
 
-function quizAnswer(answer) {
-  const q = quizQuotes[currentQuoteIndex];
-  const correct = answer === q.answer;
-
-  quizTotal++;
-  if (correct) quizCorrect++;
-
-  document.querySelectorAll('.quiz-btn').forEach(b => {
-    b.disabled = true;
-    if (b.dataset.answer === answer) b.classList.add('selected');
-  });
-
-  const resultDiv = document.getElementById('quiz-result');
-  document.getElementById('quiz-answer-text').textContent =
-    (correct ? '✓ Richtig! ' : '✗ Falsch! ') + q.explanation;
-  document.getElementById('quiz-source').textContent = q.source;
-  resultDiv.classList.add('visible');
-
-  document.getElementById('score-correct').textContent = quizCorrect;
-  document.getElementById('score-total').textContent = quizTotal;
-  document.getElementById('score-pct').textContent =
-    quizTotal > 0 ? Math.round((quizCorrect / quizTotal) * 100) + '%' : '—';
-}
-
-function nextQuote() {
-  currentQuoteIndex++;
-  loadQuote();
-}
-
-// ═══════════════════════════════════════
-// LOAD DATA
-// ═══════════════════════════════════════
+// ── Load ──
 
 async function loadData() {
   try {
-    const resp = await fetch('data/scores/master_results.json');
-    if (resp.ok) {
-      const data = await resp.json();
-      if (data.episodes && data.episodes.length > 0) {
-        episodes = data.episodes.filter(e => e.economic_score != null);
-      }
+    const r = await fetch('data.json');
+    if (r.ok) {
+      const d = await r.json();
+      if (d.episodes) allEpisodes = d.episodes.filter(e => e.economic_score != null);
     }
-  } catch (e) {
-    console.log('Using demo data (master_results.json not found)');
-  }
+  } catch (e) { console.log('data.json not found'); }
 
-  try {
-    const resp = await fetch('data/scores/quiz_quotes.json');
-    if (resp.ok) {
-      const data = await resp.json();
-      if (data.length > 0) {
-        quizQuotes = data;
-      }
-    }
-  } catch (e) {
-    console.log('Using demo quiz quotes');
+  if (allEpisodes.length > 0) {
+    episodes = [...allEpisodes];
+    initTimeSlider();
   }
-
-  renderCompass();
-  shuffleArray(quizQuotes);
-  loadQuote();
 }
-
-// ═══════════════════════════════════════
-// INIT
-// ═══════════════════════════════════════
 
 document.addEventListener('DOMContentLoaded', loadData);
 </script>

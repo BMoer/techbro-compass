@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Methodik — Podcast Political Compass</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --red: #c23616;
+    --red-dim: #8b2010;
+    --grid: rgba(0,0,0,0.08);
+    --text: #1a1a1a;
+    --text-dim: #666;
+    --paper: #f5f0eb;
+    --ink: #1a1a1a;
+  }
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+  body {
+    font-family: 'DM Mono', monospace;
+    background: var(--paper);
+    color: var(--ink);
+    font-size: 14px;
+    line-height: 1.6;
+    max-width: 720px;
+    margin: 0 auto;
+    padding: 2rem;
+  }
+  a { color: var(--red); }
+  .back { font-size: 0.75rem; color: var(--text-dim); margin-bottom: 2rem; display: block; }
+  h1 {
+    font-family: 'Instrument Serif', serif;
+    font-size: 1.6rem;
+    font-weight: 400;
+    margin-bottom: 2rem;
+    padding-bottom: 1rem;
+    border-bottom: 2px solid var(--ink);
+  }
+  h2 {
+    font-family: 'Instrument Serif', serif;
+    font-size: 1.2rem;
+    font-weight: 400;
+    margin: 2rem 0 0.75rem;
+  }
+  p, li {
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    line-height: 1.8;
+    margin-bottom: 0.5rem;
+  }
+  ul { padding-left: 1.2rem; }
+  .cite { font-size: 0.7rem; color: var(--red-dim); }
+  footer {
+    margin-top: 3rem;
+    padding-top: 1rem;
+    border-top: 1px solid var(--grid);
+    font-size: 0.7rem;
+    color: var(--text-dim);
+  }
+</style>
+</head>
+<body>
+
+<a href="index.html" class="back">&larr; Zum Compass</a>
+
+<h1>Methodik</h1>
+
+<h2>Zwei-Achsen-Modell</h2>
+<p>Politische Positionen werden auf zwei unabhängigen Achsen verortet:</p>
+<ul>
+  <li><strong>Ökonomisch</strong> (Links &minus;10 bis Rechts +10): Umverteilung, Regulierung, Marktfreiheit</li>
+  <li><strong>Gesellschaftlich</strong> (Autoritär &minus;10 bis Libertär +10): Überwachung, Bürgerrechte, staatliche Kontrolle</li>
+</ul>
+<p class="cite">Eysenck (1954); Nolan (1971)</p>
+
+<h2>LLM-Codierung</h2>
+<p>Meinungstragende Aussagen aus Podcast-Transkripten werden automatisiert durch ein Large Language Model (Claude Haiku 4.5) auf beiden Achsen verortet. Pro Episode werden mindestens 5 Aussagen codiert. Der Episoden-Score ist der Durchschnitt aller codierten Aussagen.</p>
+<p>Dieses Verfahren folgt der "Ask and Average"-Methode, die eine Korrelation von r > 0.90 mit menschlichen Experten-Codierern erreicht.</p>
+<p class="cite">Le Mens et al. (2025) "Ask and Average"; Heseltine &amp; Clemm von Hohenberg (2024)</p>
+
+<h2>Codebook</h2>
+<p>Das Coding Scheme ist operationalisiert mit Ankerbeispielen für verschiedene Positionen auf beiden Achsen. Besondere Aufmerksamkeit gilt der Ironie-Erkennung, da Tech-Podcasts häufig ironisch kommunizieren. Statements werden nur codiert wenn sie eine klare Meinung transportieren — reine Nachrichtenwiedergabe wird ignoriert.</p>
+<p class="cite">Ornstein et al. (2025) Few-Shot-Prompting; Farjam et al. (2025) Codebook-LLM</p>
+
+<h2>Modellvalidierung</h2>
+<p>Ein kontrollierter Vergleich zwischen Claude Sonnet 4.6 und Claude Haiku 4.5 auf identischen Aussagen aus 3 Episoden zeigt:</p>
+<ul>
+  <li>Beide Modelle stimmen in der <strong>Richtung</strong> überein (gleiche Vorzeichen)</li>
+  <li>Haiku codiert systematisch <strong>extremer</strong> (höhere Absolutwerte)</li>
+  <li>Haiku liefert zuverlässigeres JSON-Output und codiert mehr Statements pro Episode</li>
+  <li>Der Extremitäts-Bias ist konsistent und verschiebt nur Absolutwerte, nicht relative Positionen</li>
+</ul>
+<p class="cite">Eigener Modellvergleich, dokumentiert in docs/model_comparison.md</p>
+
+<h2>Datenquelle</h2>
+<p>Transkripte werden aus YouTube Auto-Captions via yt-dlp extrahiert (deutsch, ~90-95% Genauigkeit). Jede 20. Episode pro Podcast wird analysiert, um eine longitudinale Stichprobe über mehrere Jahre zu erhalten. Podcasts ohne YouTube-Kanal werden via Apple Podcasts oder Whisper transkribiert.</p>
+
+<h2>Einschränkungen</h2>
+<ul>
+  <li>Auto-Captions enthalten Transkriptionsfehler (~5-10%)</li>
+  <li>LLM-Codierung ist nicht deterministisch — leichte Varianz bei wiederholter Codierung</li>
+  <li>Der Extremitäts-Bias von Haiku 4.5 übertreibt Absolutwerte um ca. 20-30%</li>
+  <li>Relative Positionen zwischen Podcasts sind aussagekräftiger als absolute Scores</li>
+  <li>Stichprobe: jede 20. Episode, nicht vollständig</li>
+</ul>
+
+<footer>
+  <p><a href="https://moerzinger.eu">Atelier Mörzinger</a> &middot; Kein Anspruch auf wissenschaftliche Vollständigkeit &middot; <a href="https://github.com/benjaminm/techbro-oder-faschist">GitHub</a></p>
+</footer>
+
+</body>
+</html>
