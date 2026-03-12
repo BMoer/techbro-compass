@@ -1,0 +1,759 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Tech Bro oder Faschist?</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&family=DM+Mono:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --black: #0a0a0a;
+    --white: #f5f0eb;
+    --red: #c23616;
+    --red-dim: #8b2010;
+    --blue: #2d5aa0;
+    --green: #1e7a3f;
+    --yellow: #d4a017;
+    --grid: rgba(0,0,0,0.08);
+    --text: #1a1a1a;
+    --text-dim: #666;
+    --paper: #f5f0eb;
+    --ink: #1a1a1a;
+  }
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    font-family: 'DM Mono', monospace;
+    background: var(--paper);
+    color: var(--ink);
+    font-size: 14px;
+    line-height: 1.6;
+    overflow-x: hidden;
+  }
+
+  /* ── HEADER ── */
+  header {
+    padding: 3rem 2rem 2rem;
+    border-bottom: 3px solid var(--ink);
+    position: relative;
+  }
+
+  header::after {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 0;
+    right: 0;
+    border-bottom: 1px solid var(--ink);
+  }
+
+  .masthead {
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+
+  .masthead h1 {
+    font-family: 'Instrument Serif', serif;
+    font-size: clamp(3rem, 8vw, 6rem);
+    line-height: 0.95;
+    letter-spacing: -0.03em;
+    margin-bottom: 0.5rem;
+  }
+
+  .masthead h1 .red { color: var(--red); }
+
+  .masthead .subtitle {
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: var(--text-dim);
+    margin-top: 0.5rem;
+  }
+
+  .masthead .kicker {
+    font-family: 'Instrument Serif', serif;
+    font-style: italic;
+    font-size: 1.3rem;
+    margin-top: 1rem;
+    max-width: 600px;
+  }
+
+  /* ── SECTIONS ── */
+  section {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 3rem 2rem;
+  }
+
+  .section-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.2em;
+    color: var(--red);
+    border-bottom: 1px solid var(--red);
+    display: inline-block;
+    padding-bottom: 2px;
+    margin-bottom: 1.5rem;
+  }
+
+  /* ── COMPASS CHART ── */
+  #compass-section {
+    border-bottom: 1px solid var(--grid);
+  }
+
+  .compass-wrapper {
+    display: flex;
+    gap: 3rem;
+    align-items: flex-start;
+    flex-wrap: wrap;
+  }
+
+  .compass-container {
+    flex: 0 0 500px;
+    max-width: 100%;
+  }
+
+  .compass-svg {
+    width: 100%;
+    height: auto;
+  }
+
+  .compass-legend {
+    flex: 1;
+    min-width: 280px;
+  }
+
+  .legend-item {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    padding: 0.5rem 0;
+    border-bottom: 1px dotted var(--grid);
+    cursor: pointer;
+    transition: opacity 0.2s;
+  }
+
+  .legend-item:hover { opacity: 0.7; }
+
+  .legend-dot {
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+
+  .legend-name {
+    font-weight: 500;
+    font-size: 0.85rem;
+  }
+
+  .legend-country {
+    font-size: 0.7rem;
+    color: var(--text-dim);
+    margin-left: auto;
+  }
+
+  .legend-score {
+    font-size: 0.75rem;
+    color: var(--text-dim);
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* ── QUIZ ── */
+  #quiz-section {
+    background: var(--ink);
+    color: var(--paper);
+    max-width: none;
+    padding: 4rem 2rem;
+  }
+
+  #quiz-section .section-label {
+    color: var(--red);
+    border-color: var(--red);
+  }
+
+  .quiz-inner {
+    max-width: 700px;
+    margin: 0 auto;
+  }
+
+  .quiz-title {
+    font-family: 'Instrument Serif', serif;
+    font-size: clamp(2rem, 5vw, 3.5rem);
+    line-height: 1.05;
+    margin-bottom: 0.5rem;
+  }
+
+  .quiz-subtitle {
+    color: rgba(245,240,235,0.5);
+    margin-bottom: 3rem;
+    font-size: 0.85rem;
+  }
+
+  .quiz-card {
+    background: rgba(245,240,235,0.05);
+    border: 1px solid rgba(245,240,235,0.15);
+    padding: 2.5rem;
+    margin-bottom: 1.5rem;
+    position: relative;
+    min-height: 180px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .quiz-quote {
+    font-family: 'Instrument Serif', serif;
+    font-size: 1.5rem;
+    line-height: 1.35;
+    font-style: italic;
+  }
+
+  .quiz-quote::before { content: '»'; color: var(--red); }
+  .quiz-quote::after { content: '«'; color: var(--red); }
+
+  .quiz-buttons {
+    display: flex;
+    gap: 1rem;
+    margin-top: 2rem;
+  }
+
+  .quiz-btn {
+    flex: 1;
+    padding: 1rem;
+    font-family: 'DM Mono', monospace;
+    font-size: 0.85rem;
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    border: 2px solid rgba(245,240,235,0.3);
+    background: transparent;
+    color: var(--paper);
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .quiz-btn:hover {
+    border-color: var(--red);
+    color: var(--red);
+  }
+
+  .quiz-btn.selected {
+    background: var(--red);
+    border-color: var(--red);
+    color: var(--paper);
+  }
+
+  .quiz-result {
+    padding: 1.5rem;
+    border: 1px solid rgba(245,240,235,0.15);
+    margin-top: 1rem;
+    display: none;
+  }
+
+  .quiz-result.visible { display: block; }
+
+  .quiz-result .source {
+    font-size: 0.8rem;
+    color: rgba(245,240,235,0.5);
+    margin-top: 0.75rem;
+  }
+
+  .quiz-score-bar {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+    padding-top: 1.5rem;
+    border-top: 1px solid rgba(245,240,235,0.15);
+  }
+
+  .quiz-score-item {
+    text-align: center;
+  }
+
+  .quiz-score-number {
+    font-family: 'Instrument Serif', serif;
+    font-size: 2.5rem;
+    color: var(--red);
+  }
+
+  .quiz-score-label {
+    font-size: 0.7rem;
+    text-transform: uppercase;
+    letter-spacing: 0.15em;
+    color: rgba(245,240,235,0.5);
+  }
+
+  .quiz-next {
+    display: inline-block;
+    margin-top: 1.5rem;
+    padding: 0.75rem 2rem;
+    border: 1px solid rgba(245,240,235,0.3);
+    background: transparent;
+    color: var(--paper);
+    font-family: 'DM Mono', monospace;
+    font-size: 0.8rem;
+    cursor: pointer;
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    transition: all 0.2s;
+  }
+
+  .quiz-next:hover {
+    border-color: var(--paper);
+  }
+
+  /* ── METHODIK ── */
+  .methodik-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+    gap: 2rem;
+  }
+
+  .methodik-card {
+    padding: 1.5rem;
+    border: 1px solid var(--grid);
+    border-top: 3px solid var(--ink);
+  }
+
+  .methodik-card h3 {
+    font-family: 'Instrument Serif', serif;
+    font-size: 1.2rem;
+    margin-bottom: 0.75rem;
+  }
+
+  .methodik-card p {
+    font-size: 0.8rem;
+    color: var(--text-dim);
+    line-height: 1.7;
+  }
+
+  .methodik-card .cite {
+    font-size: 0.7rem;
+    color: var(--red-dim);
+    margin-top: 0.5rem;
+  }
+
+  /* ── FOOTER ── */
+  footer {
+    border-top: 3px solid var(--ink);
+    padding: 2rem;
+    text-align: center;
+    font-size: 0.75rem;
+    color: var(--text-dim);
+  }
+
+  footer a { color: var(--red); }
+
+  /* ── LOADING ── */
+  .loading {
+    text-align: center;
+    padding: 4rem;
+    color: var(--text-dim);
+  }
+
+  .loading::after {
+    content: '...';
+    animation: dots 1.5s infinite;
+  }
+
+  @keyframes dots {
+    0%, 20% { content: '.'; }
+    40% { content: '..'; }
+    60%, 100% { content: '...'; }
+  }
+
+  /* ── RESPONSIVE ── */
+  @media (max-width: 768px) {
+    .compass-container { flex: 0 0 100%; }
+    .compass-wrapper { flex-direction: column; }
+    .quiz-buttons { flex-direction: column; }
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <div class="masthead">
+    <h1>Tech Bro<br>oder <span class="red">Faschist</span>?</h1>
+    <p class="subtitle">Political Compass der DACH Tech-Podcast-Szene</p>
+    <p class="kicker">Wohin driftet die deutschsprachige Tech-Bubble? Eine datengetriebene Analyse von 10 Podcasts auf dem Political Compass.</p>
+  </div>
+</header>
+
+<!-- ═══ COMPASS ═══ -->
+<section id="compass-section">
+  <span class="section-label">Der Compass</span>
+  <div class="compass-wrapper">
+    <div class="compass-container">
+      <svg class="compass-svg" viewBox="0 0 500 500" xmlns="http://www.w3.org/2000/svg">
+        <!-- Grid -->
+        <rect x="50" y="50" width="400" height="400" fill="none" stroke="#ddd" stroke-width="1"/>
+        <!-- Quadrant fills -->
+        <rect x="50" y="50" width="200" height="200" fill="rgba(45,90,160,0.04)"/>
+        <rect x="250" y="50" width="200" height="200" fill="rgba(30,122,63,0.04)"/>
+        <rect x="50" y="250" width="200" height="200" fill="rgba(194,54,22,0.04)"/>
+        <rect x="250" y="250" width="200" height="200" fill="rgba(212,160,23,0.04)"/>
+        <!-- Grid lines -->
+        <line x1="50" y1="250" x2="450" y2="250" stroke="#bbb" stroke-width="1.5"/>
+        <line x1="250" y1="50" x2="250" y2="450" stroke="#bbb" stroke-width="1.5"/>
+        <!-- Sub-grid -->
+        <line x1="150" y1="50" x2="150" y2="450" stroke="#eee" stroke-width="0.5"/>
+        <line x1="350" y1="50" x2="350" y2="450" stroke="#eee" stroke-width="0.5"/>
+        <line x1="50" y1="150" x2="450" y2="150" stroke="#eee" stroke-width="0.5"/>
+        <line x1="50" y1="350" x2="450" y2="350" stroke="#eee" stroke-width="0.5"/>
+        <!-- Axis labels -->
+        <text x="250" y="40" text-anchor="middle" font-family="DM Mono" font-size="9" fill="#666" text-transform="uppercase" letter-spacing="2">LIBERTÄR</text>
+        <text x="250" y="475" text-anchor="middle" font-family="DM Mono" font-size="9" fill="#666">AUTORITÄR</text>
+        <text x="35" y="254" text-anchor="middle" font-family="DM Mono" font-size="9" fill="#666" transform="rotate(-90,35,250)">LINKS</text>
+        <text x="465" y="254" text-anchor="middle" font-family="DM Mono" font-size="9" fill="#666" transform="rotate(90,465,250)">RECHTS</text>
+        <!-- Quadrant labels -->
+        <text x="150" y="145" text-anchor="middle" font-family="Instrument Serif" font-size="11" fill="rgba(45,90,160,0.4)" font-style="italic">Linke Libertäre</text>
+        <text x="350" y="145" text-anchor="middle" font-family="Instrument Serif" font-size="11" fill="rgba(30,122,63,0.4)" font-style="italic">Rechte Libertäre</text>
+        <text x="150" y="365" text-anchor="middle" font-family="Instrument Serif" font-size="11" fill="rgba(194,54,22,0.4)" font-style="italic">Linke Autoritäre</text>
+        <text x="350" y="365" text-anchor="middle" font-family="Instrument Serif" font-size="11" fill="rgba(212,160,23,0.4)" font-style="italic">Rechte Autoritäre</text>
+        <!-- Data points will be injected here -->
+        <g id="compass-points"></g>
+      </svg>
+    </div>
+    <div class="compass-legend" id="compass-legend">
+      <p class="loading">Daten werden geladen</p>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ QUIZ ═══ -->
+<section id="quiz-section">
+  <div class="quiz-inner">
+    <span class="section-label">Das Quiz</span>
+    <h2 class="quiz-title">Tech Bro oder Faschist?</h2>
+    <p class="quiz-subtitle">Reale Zitate aus DACH Tech-Podcasts. Kannst du unterscheiden?</p>
+
+    <div class="quiz-card" id="quiz-card">
+      <p class="quiz-quote" id="quiz-quote">Laden...</p>
+    </div>
+
+    <div class="quiz-buttons" id="quiz-buttons">
+      <button class="quiz-btn" data-answer="techbro" onclick="quizAnswer('techbro')">Tech Bro</button>
+      <button class="quiz-btn" data-answer="faschist" onclick="quizAnswer('faschist')">Faschist</button>
+    </div>
+
+    <div class="quiz-result" id="quiz-result">
+      <p id="quiz-answer-text"></p>
+      <p class="source" id="quiz-source"></p>
+      <button class="quiz-next" onclick="nextQuote()">Nächstes Zitat →</button>
+    </div>
+
+    <div class="quiz-score-bar">
+      <div class="quiz-score-item">
+        <div class="quiz-score-number" id="score-correct">0</div>
+        <div class="quiz-score-label">Richtig</div>
+      </div>
+      <div class="quiz-score-item">
+        <div class="quiz-score-number" id="score-total">0</div>
+        <div class="quiz-score-label">Gesamt</div>
+      </div>
+      <div class="quiz-score-item">
+        <div class="quiz-score-number" id="score-pct">—</div>
+        <div class="quiz-score-label">Trefferquote</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ═══ METHODIK ═══ -->
+<section id="methodik-section">
+  <span class="section-label">Methodik</span>
+  <div class="methodik-grid">
+    <div class="methodik-card">
+      <h3>Zwei-Achsen-Modell</h3>
+      <p>Politische Positionen auf zwei unabhängigen Achsen: Ökonomisch (Links–Rechts) und Gesellschaftlich (Autoritär–Libertär). Basierend auf dem Zwei-Dimensionen-Modell, das Hans Eysenck 1954 erstmals mit statistischer Evidenz belegt hat.</p>
+      <p class="cite">Eysenck (1954); Nolan (1971)</p>
+    </div>
+    <div class="methodik-card">
+      <h3>LLM-basierte Codierung</h3>
+      <p>Jede Podcast-Episode wird automatisch auf meinungstragende Aussagen analysiert und auf beiden Achsen verortet. Die Methode erreicht Korrelationen von r&nbsp;>&nbsp;0,90 mit menschlichen Experten-Codierungen.</p>
+      <p class="cite">Le Mens et al. (2025); Heseltine & Clemm von Hohenberg (2024)</p>
+    </div>
+    <div class="methodik-card">
+      <h3>Codebook-Ansatz</h3>
+      <p>Statt einfacher Zero-Shot-Klassifikation verwenden wir ein operationalisiertes Coding Scheme mit Ankerbeispielen — essentiell für valide Messung komplexer politischer Konstrukte.</p>
+      <p class="cite">Ornstein et al. (2025); Farjam et al. (2025)</p>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <p>Ein Hobbyprojekt von <a href="https://moerzinger.eu">Atelier Mörzinger</a>. Kein Anspruch auf wissenschaftliche Vollständigkeit.</p>
+  <p style="margin-top:0.5rem">Transkripte via YouTube Auto-Captions. Analyse via Claude (Anthropic). Code auf <a href="https://github.com">GitHub</a>.</p>
+</footer>
+
+<script>
+// ═══════════════════════════════════════
+// DATA — Replace with actual results from pipeline
+// ═══════════════════════════════════════
+
+// Demo data — will be replaced by master_results.json
+const PODCAST_COLORS = {
+  'Future Weekly': '#c23616',
+  'Doppelgänger Tech Talk': '#2d5aa0',
+  'OMR Podcast': '#1e7a3f',
+  'Lobo – Der Debatten-Podcast': '#8e44ad',
+  't3n Podcast': '#d35400',
+  'Bits und so': '#16a085',
+  'Tech Briefing': '#7f8c8d',
+  'c\'t uplink': '#2c3e50',
+  'Tech, KI & Schmetterlinge': '#e74c3c',
+  'Digitec Tech-Telmechtel': '#f39c12',
+};
+
+// Demo episodes — will be loaded from JSON
+let episodes = [
+  { podcast: 'Doppelgänger Tech Talk', economic_score: 2.8, social_score: 2.1, title: 'Anthropic vs. Pentagon', country: 'DE' },
+  { podcast: 'Doppelgänger Tech Talk', economic_score: 3.5, social_score: 1.5, title: 'Sloppy Sam', country: 'DE' },
+  { podcast: 'Doppelgänger Tech Talk', economic_score: 2.2, social_score: 3.2, title: 'Meta übernimmt Moltbook', country: 'DE' },
+  { podcast: 'Future Weekly', economic_score: 3.8, social_score: 1.8, title: '#495 Anthropic vs Trump', country: 'AT' },
+  { podcast: 'Future Weekly', economic_score: 4.2, social_score: 0.5, title: '#496 Founder Traps', country: 'AT' },
+  { podcast: 'OMR Podcast', economic_score: 4.5, social_score: -0.5, title: 'Jan Beckers 1000% Rendite', country: 'DE' },
+  { podcast: 'OMR Podcast', economic_score: 1.2, social_score: 0.8, title: 'Eon-Chef Energiewende', country: 'DE' },
+  { podcast: 'c\'t uplink', economic_score: -1.5, social_score: 4.2, title: 'KI-Müll flutet das Internet', country: 'DE' },
+  { podcast: 'c\'t uplink', economic_score: -0.5, social_score: 2.8, title: 'Windows 11 Umstieg', country: 'DE' },
+  { podcast: 'Bits und so', economic_score: 1.8, social_score: 1.2, title: 'MacBook Neo', country: 'DE' },
+];
+
+// Demo quiz quotes
+let quizQuotes = [
+  {
+    text: "KI macht Immigration überflüssig",
+    source: "Palantir-CEO Alexander Karp, zitiert im Doppelgänger Tech Talk",
+    answer: "techbro",
+    explanation: "Tech Bro. Karp verknüpft hier technologischen Solutionismus mit Migrationspolitik."
+  },
+  {
+    text: "Wer nichts zu verbergen hat, hat nichts zu befürchten",
+    source: "Klassisches Überwachungs-Argument",
+    answer: "faschist",
+    explanation: "Faschist. Das Standardargument zur Legitimierung von Massenüberwachung."
+  },
+  {
+    text: "Europa reguliert sich zu Tode. Die besten Gründer gehen alle in die USA.",
+    source: "Startup-Podcast, typische VC-Perspektive",
+    answer: "techbro",
+    explanation: "Tech Bro. Deregulierungs-Narrativ der Startup-Szene."
+  },
+  {
+    text: "Sozialleistungen machen Menschen abhängig und faul. Ohne Druck keine Leistung.",
+    source: "Tech-Podcast-Kontext",
+    answer: "faschist",
+    explanation: "Faschist. Sozialdarwinistisches Argument gegen den Sozialstaat."
+  },
+  {
+    text: "Die Zukunft gehört denen, die schneller skalieren. Alles andere ist Lifestyle-Business.",
+    source: "VC/Startup-Podcast",
+    answer: "techbro",
+    explanation: "Tech Bro. Growth-Ideologie als einzig gültige Unternehmensform."
+  },
+  {
+    text: "Starke Führer braucht das Land. Demokratie ist zu langsam für die Geschwindigkeit der Technologie.",
+    source: "Synthetisches Beispiel",
+    answer: "faschist",
+    explanation: "Faschist. Explizit anti-demokratisch, technokratisch-autoritär."
+  },
+  {
+    text: "Move fast and break things. Auch Regeln.",
+    source: "Startup-Mantra",
+    answer: "techbro",
+    explanation: "Tech Bro. Die Bereitschaft, Regeln zu ignorieren, ist Teil der Gründer-Mythologie."
+  },
+  {
+    text: "Menschen wollen nicht arbeiten. Deshalb brauchen wir KI — nicht um ihnen zu helfen, sondern um sie zu ersetzen.",
+    source: "Tech-Podcast",
+    answer: "faschist",
+    explanation: "Faschist. Menschenverachtende Haltung, die Arbeitnehmer als Problem statt Ressource sieht."
+  },
+];
+
+let currentQuoteIndex = 0;
+let quizCorrect = 0;
+let quizTotal = 0;
+
+// ═══════════════════════════════════════
+// COMPASS RENDERING
+// ═══════════════════════════════════════
+
+function scaleToSVG(value, min = -10, max = 10) {
+  // Map -10..+10 to 50..450 (SVG coordinates)
+  return 50 + ((value - min) / (max - min)) * 400;
+}
+
+function renderCompass() {
+  const g = document.getElementById('compass-points');
+  const legend = document.getElementById('compass-legend');
+  g.innerHTML = '';
+  legend.innerHTML = '';
+
+  // Aggregate by podcast
+  const podcastAverages = {};
+  episodes.forEach(ep => {
+    if (!podcastAverages[ep.podcast]) {
+      podcastAverages[ep.podcast] = { econ: [], soc: [], country: ep.country };
+    }
+    podcastAverages[ep.podcast].econ.push(ep.economic_score);
+    podcastAverages[ep.podcast].soc.push(ep.social_score);
+  });
+
+  // Draw individual episode dots (small, dim)
+  episodes.forEach(ep => {
+    const cx = scaleToSVG(ep.economic_score);
+    const cy = scaleToSVG(-ep.social_score); // Invert: libertarian is UP
+    const color = PODCAST_COLORS[ep.podcast] || '#999';
+
+    const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+    circle.setAttribute('cx', cx);
+    circle.setAttribute('cy', cy);
+    circle.setAttribute('r', '4');
+    circle.setAttribute('fill', color);
+    circle.setAttribute('opacity', '0.3');
+
+    const title = document.createElementNS('http://www.w3.org/2000/svg', 'title');
+    title.textContent = `${ep.podcast}: ${ep.title}\nEcon: ${ep.economic_score.toFixed(1)} | Soc: ${ep.social_score.toFixed(1)}`;
+    circle.appendChild(title);
+    g.appendChild(circle);
+  });
+
+  // Draw podcast averages (large, bold)
+  Object.entries(podcastAverages).forEach(([podcast, data]) => {
+    const avgEcon = data.econ.reduce((a, b) => a + b, 0) / data.econ.length;
+    const avgSoc = data.soc.reduce((a, b) => a + b, 0) / data.soc.length;
+    const cx = scaleToSVG(avgEcon);
+    const cy = scaleToSVG(-avgSoc);
+    const color = PODCAST_COLORS[podcast] || '#999';
+
+    // Larger circle for average
+    const circle = document.createElementNS('http://www.w3.org/2000/svg', 'circle');
+    circle.setAttribute('cx', cx);
+    circle.setAttribute('cy', cy);
+    circle.setAttribute('r', '8');
+    circle.setAttribute('fill', color);
+    circle.setAttribute('stroke', 'white');
+    circle.setAttribute('stroke-width', '2');
+
+    const title = document.createElementNS('http://www.w3.org/2000/svg', 'title');
+    title.textContent = `${podcast} (Ø)\nEcon: ${avgEcon.toFixed(1)} | Soc: ${avgSoc.toFixed(1)}`;
+    circle.appendChild(title);
+    g.appendChild(circle);
+
+    // Legend
+    const item = document.createElement('div');
+    item.className = 'legend-item';
+    item.innerHTML = `
+      <span class="legend-dot" style="background:${color}"></span>
+      <span class="legend-name">${podcast}</span>
+      <span class="legend-country">${data.country}</span>
+      <span class="legend-score">E${avgEcon >= 0 ? '+' : ''}${avgEcon.toFixed(1)} S${avgSoc >= 0 ? '+' : ''}${avgSoc.toFixed(1)}</span>
+    `;
+    legend.appendChild(item);
+  });
+}
+
+// ═══════════════════════════════════════
+// QUIZ
+// ═══════════════════════════════════════
+
+function shuffleArray(arr) {
+  for (let i = arr.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [arr[i], arr[j]] = [arr[j], arr[i]];
+  }
+  return arr;
+}
+
+function loadQuote() {
+  if (currentQuoteIndex >= quizQuotes.length) {
+    shuffleArray(quizQuotes);
+    currentQuoteIndex = 0;
+  }
+
+  const q = quizQuotes[currentQuoteIndex];
+  document.getElementById('quiz-quote').textContent = q.text;
+  document.getElementById('quiz-result').classList.remove('visible');
+  document.querySelectorAll('.quiz-btn').forEach(b => {
+    b.classList.remove('selected');
+    b.disabled = false;
+  });
+}
+
+function quizAnswer(answer) {
+  const q = quizQuotes[currentQuoteIndex];
+  const correct = answer === q.answer;
+
+  quizTotal++;
+  if (correct) quizCorrect++;
+
+  document.querySelectorAll('.quiz-btn').forEach(b => {
+    b.disabled = true;
+    if (b.dataset.answer === answer) b.classList.add('selected');
+  });
+
+  const resultDiv = document.getElementById('quiz-result');
+  document.getElementById('quiz-answer-text').textContent =
+    (correct ? '✓ Richtig! ' : '✗ Falsch! ') + q.explanation;
+  document.getElementById('quiz-source').textContent = q.source;
+  resultDiv.classList.add('visible');
+
+  document.getElementById('score-correct').textContent = quizCorrect;
+  document.getElementById('score-total').textContent = quizTotal;
+  document.getElementById('score-pct').textContent =
+    quizTotal > 0 ? Math.round((quizCorrect / quizTotal) * 100) + '%' : '—';
+}
+
+function nextQuote() {
+  currentQuoteIndex++;
+  loadQuote();
+}
+
+// ═══════════════════════════════════════
+// LOAD DATA
+// ═══════════════════════════════════════
+
+async function loadData() {
+  try {
+    const resp = await fetch('data/scores/master_results.json');
+    if (resp.ok) {
+      const data = await resp.json();
+      if (data.episodes && data.episodes.length > 0) {
+        episodes = data.episodes.filter(e => e.economic_score != null);
+      }
+    }
+  } catch (e) {
+    console.log('Using demo data (master_results.json not found)');
+  }
+
+  try {
+    const resp = await fetch('data/scores/quiz_quotes.json');
+    if (resp.ok) {
+      const data = await resp.json();
+      if (data.length > 0) {
+        quizQuotes = data;
+      }
+    }
+  } catch (e) {
+    console.log('Using demo quiz quotes');
+  }
+
+  renderCompass();
+  shuffleArray(quizQuotes);
+  loadQuote();
+}
+
+// ═══════════════════════════════════════
+// INIT
+// ═══════════════════════════════════════
+
+document.addEventListener('DOMContentLoaded', loadData);
+</script>
+
+</body>
+</html>

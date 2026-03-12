@@ -1,0 +1,25 @@
+# Transcripts (too large for git)
+data/transcripts/
+*.srt
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Environment
+.env
+.env.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Node (falls wir doch npm brauchen)
+node_modules/
