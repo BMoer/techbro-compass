@@ -212,12 +212,63 @@
   .tooltip .ts { color: #888; font-size: 0.5rem; margin-top: 1px; }
   .tooltip .tv { color: #999; font-size: 0.5rem; margin-top: 2px; }
 
+  /* ── Mobile: vertical stack ── */
   @media (max-width: 900px) {
-    body { flex-direction: column; overflow-y: auto; }
-    .panel-left, .panel-right { max-width: 100%; flex-direction: row; flex-wrap: wrap; gap: 0.5rem; padding: 0.8rem; }
-    .compass-center { width: 100%; }
-    .compass-svg { height: auto; width: 100%; max-height: 80vh; }
-    .time-control { margin-top: 0; border: none; padding: 0; }
+    html, body { height: auto; overflow-y: auto; overflow-x: hidden; }
+    body { flex-direction: column; }
+    .panel-left {
+      max-width: 100%;
+      flex-direction: row;
+      flex-wrap: wrap;
+      align-items: baseline;
+      gap: 0 1.2rem;
+      padding: 0.8rem 1rem 0.4rem;
+      min-width: 0;
+    }
+    .site-title { font-size: 1.1rem; margin-bottom: 0; }
+    .site-title br { display: none; }
+    .site-sub { display: none; }
+    .site-links {
+      margin-top: 0;
+      padding-top: 0;
+      border: none;
+      display: flex;
+      gap: 0.8rem;
+      line-height: 1;
+    }
+    .site-links br { display: none; }
+    .compass-center {
+      width: 100%;
+      padding: 0.2rem;
+    }
+    .compass-svg {
+      height: auto;
+      width: 100%;
+      aspect-ratio: 1;
+      max-height: 75vh;
+    }
+    .panel-right {
+      max-width: 100%;
+      padding: 0.6rem 1rem 1.2rem;
+      min-width: 0;
+    }
+    #legend {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 0 0.3rem;
+    }
+    .legend-item { padding: 0.2rem 0.3rem; }
+    .legend-name { font-size: 0.55rem; }
+    .time-control { margin-top: 0.8rem; padding-top: 0.6rem; }
+    .panel-meta { margin-top: 0.6rem; }
+  }
+
+  /* ── Small phones ── */
+  @media (max-width: 480px) {
+    body { font-size: 12px; }
+    .site-title { font-size: 0.95rem; }
+    .legend-name { font-size: 0.5rem; }
+    .legend-count { font-size: 0.5rem; }
   }
 </style>
 </head>
@@ -482,9 +533,15 @@ function renderCompass() {
     });
     if (mine) {
       c.style.cursor = 'pointer';
-      c.addEventListener('mouseenter', e => showTip(e, epTip(ep, 'Econ ' + ep.economic_score.toFixed(1) + ' | Soc ' + ep.social_score.toFixed(1))));
+      const tipHtml = epTip(ep, 'Econ ' + ep.economic_score.toFixed(1) + ' | Soc ' + ep.social_score.toFixed(1));
+      c.addEventListener('mouseenter', e => showTip(e, tipHtml));
       c.addEventListener('mousemove', e => { tooltip.style.left = (e.clientX + 12) + 'px'; tooltip.style.top = (e.clientY - 10) + 'px'; });
       c.addEventListener('mouseleave', hideTip);
+      c.addEventListener('touchstart', e => {
+        e.preventDefault();
+        const t = e.touches[0];
+        showTip({ clientX: t.clientX, clientY: t.clientY }, tipHtml);
+      }, { passive: false });
     }
     dg.appendChild(c);
   });
@@ -591,6 +648,9 @@ async function loadData() {
 }
 
 document.addEventListener('DOMContentLoaded', loadData);
+document.addEventListener('touchstart', e => {
+  if (!e.target.closest('.ep-dot, .avg-dot')) hideTip();
+});
 </script>
 
 </body>
