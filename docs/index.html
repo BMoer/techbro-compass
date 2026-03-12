@@ -134,6 +134,16 @@
     white-space: nowrap;
   }
   .compass-back:hover { opacity: 1; }
+  @media (max-width: 900px) {
+    .compass-back {
+      top: auto;
+      bottom: 0.4rem;
+      font-size: 0.7rem;
+      padding: 0.5rem 1.2rem;
+      opacity: 1;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+  }
 
   /* ── Time range slider ── */
   .time-control {
@@ -538,6 +548,7 @@ function renderCompass() {
   if (zoomed) {
     bgRect.style.cursor = 'pointer';
     bgRect.addEventListener('click', resetZoom);
+    bgRect.addEventListener('touchend', e => { e.preventDefault(); resetZoom(); }, { passive: false });
   }
   svg.appendChild(bgRect);
 
@@ -581,7 +592,8 @@ function renderCompass() {
   svg.appendChild(dg);
 
   // Episode dots
-  const dr = zoomed ? 4.5 : 3;
+  const isMobile = window.innerWidth <= 900;
+  const dr = zoomed ? (isMobile ? 6 : 4.5) : (isMobile ? 4 : 3);
   episodes.forEach(ep => {
     const mine = !selectedPodcast || ep.podcast === selectedPodcast;
     const c = el('circle', {
@@ -611,8 +623,9 @@ function renderCompass() {
       const ae = data.eps.reduce((a, e) => a + e.economic_score, 0) / data.eps.length;
       const as_ = data.eps.reduce((a, e) => a + e.social_score, 0) / data.eps.length;
       const color = COLORS[pod] || '#999';
+      const avgR = isMobile ? 11 : 7;
       const c = el('circle', {
-        cx: sx(ae), cy: sy(as_), r: '7', fill: color,
+        cx: sx(ae), cy: sy(as_), r: avgR, fill: color,
         stroke: 'white', 'stroke-width': '1.8',
         class: 'avg-dot', 'data-podcast': pod,
       });
@@ -621,11 +634,13 @@ function renderCompass() {
         '<div class="tp">' + pod + '</div><div class="tv">\u00D8 ' + data.eps.length + ' Ep. \u00B7 Econ ' + ae.toFixed(1) + ' | Soc ' + as_.toFixed(1) + '</div>'));
       c.addEventListener('mouseleave', hideTip);
       c.addEventListener('click', () => selectPodcast(pod));
+      c.addEventListener('touchend', e => { e.preventDefault(); selectPodcast(pod); }, { passive: false });
       dg.appendChild(c);
 
+      const labelOffset = isMobile ? avgR + 5 : 11;
       const t = el('text', {
-        x: sx(ae) + 11, y: sy(as_) + 3,
-        'font-family': 'DM Mono,monospace', 'font-size': '7.5',
+        x: sx(ae) + labelOffset, y: sy(as_) + 3,
+        'font-family': 'DM Mono,monospace', 'font-size': isMobile ? '9' : '7.5',
         fill: color, 'font-weight': '500', 'pointer-events': 'none',
       });
       t.textContent = pod.length > 18 ? pod.substring(0, 16) + '\u2026' : pod;
