@@ -53,6 +53,7 @@
     align-items: center;
     justify-content: center;
     padding: 0.8rem 0;
+    position: relative;
   }
   .compass-svg {
     height: calc(100vh - 1.6rem);
@@ -113,6 +114,26 @@
     padding: 0.2rem 0.35rem;
   }
   .legend-reset:hover { text-decoration: underline; }
+
+  /* ── Back overlay when zoomed ── */
+  .compass-back {
+    position: absolute;
+    top: 0.5rem;
+    left: 50%;
+    transform: translateX(-50%);
+    background: var(--ink);
+    color: var(--paper);
+    font-family: 'DM Mono', monospace;
+    font-size: 0.6rem;
+    padding: 0.3rem 0.8rem;
+    border-radius: 3px;
+    cursor: pointer;
+    z-index: 10;
+    opacity: 0.85;
+    transition: opacity 0.15s;
+    white-space: nowrap;
+  }
+  .compass-back:hover { opacity: 1; }
 
   /* ── Time range slider ── */
   .time-control {
@@ -296,6 +317,7 @@
 </div>
 
 <div class="compass-center">
+  <div class="compass-back" id="compass-back" style="display:none"></div>
   <svg class="compass-svg" id="compass-svg" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid meet"></svg>
 </div>
 
@@ -428,10 +450,22 @@ function initTimeSlider() {
 
 // ── Compass ──
 
+function resetZoom() {
+  if (!selectedPodcast) return;
+  selectedPodcast = null;
+  renderCompass();
+}
+
 function selectPodcast(pod) {
   selectedPodcast = selectedPodcast === pod ? null : pod;
   renderCompass();
 }
+
+// ESC to go back
+document.addEventListener('keydown', e => { if (e.key === 'Escape') resetZoom(); });
+
+// Back button
+document.getElementById('compass-back').addEventListener('click', resetZoom);
 
 function renderCompass() {
   const svg = document.getElementById('compass-svg');
@@ -444,6 +478,15 @@ function renderCompass() {
   });
 
   const zoomed = selectedPodcast && byPod[selectedPodcast];
+
+  // Show/hide back button
+  const backBtn = document.getElementById('compass-back');
+  if (zoomed) {
+    backBtn.textContent = '\u2190 ' + selectedPodcast + ' \u2014 Alle anzeigen';
+    backBtn.style.display = '';
+  } else {
+    backBtn.style.display = 'none';
+  }
 
   // Data range
   let dxMin, dxMax, dyMin, dyMax;
@@ -490,8 +533,13 @@ function renderCompass() {
   qg.appendChild(el('rect', { x: zx, y: zy, width: W - P.r - zx, height: H - P.b - zy, fill: 'rgba(212,160,23,0.03)' }));
   svg.appendChild(qg);
 
-  // Border
-  svg.appendChild(el('rect', { x: P.l, y: P.t, width: cw, height: ch, fill: 'none', stroke: '#e0e0e0', 'stroke-width': '0.8' }));
+  // Border + clickable background to reset zoom
+  const bgRect = el('rect', { x: P.l, y: P.t, width: cw, height: ch, fill: 'transparent', stroke: '#e0e0e0', 'stroke-width': '0.8' });
+  if (zoomed) {
+    bgRect.style.cursor = 'pointer';
+    bgRect.addEventListener('click', resetZoom);
+  }
+  svg.appendChild(bgRect);
 
   // Grid
   function step(range) { return range <= 5 ? 1 : range <= 12 ? 2 : 5; }
