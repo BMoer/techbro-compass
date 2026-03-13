@@ -1,0 +1,63 @@
+{
+  "economic_score": 1.6,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.45,
+  "coded_statements": [
+    {
+      "text": "DJI macht echt interessant viel richtig mit dem Produkt-Launch, clevere Inszenierung",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Lob für effiziente kapitalistische Marketingstrategie und Produktdesign"
+    },
+    {
+      "text": "YouTube ist der Werbeträger, YouTube Partner bekommen vorab Material - geschickt inszeniert",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritisches Bewusstsein für Influencer-Marketing-Abhängigkeit, aber akzeptierend"
+    },
+    {
+      "text": "Preis von 750 Euro ist eine Ansage, macht es attraktiv für den Massenmarkt",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Bewertung von Preisgestaltung, wertneutral-ökonomisch"
+    },
+    {
+      "text": "Das Design ist wirklich clever, ich überlege was ich verkaufen könnte dafür",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Konsumentenbegeisterung für Produktinnovation und Design-Effizienz"
+    },
+    {
+      "text": "WiFi-Übertragung ist limitiert, Verbindungsabbrüche sind ein echtes Problem",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Technische Kritik an Produktlimitation, keine ideologische Dimension"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ich würde mein Android-Telefon verkaufen um mir diese Drohne zu leisten",
+      "context": "Host äußert extreme Begeisterung für DJI Magic-Drohne gegenüber Konkurrenzprodukten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "DJI hat am Vorstellungstag alle YouTube-Partner an Bord - extrem clever inszeniert",
+      "context": "Analyse der Influencer-Marketing-Strategie und deren Effektivität",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_TQ9rb5G2tBw",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_TQ9rb5G2tBw",
+  "date": null,
+  "country": "DE",
+  "word_count": 3313
+}

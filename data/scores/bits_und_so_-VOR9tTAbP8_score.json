@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "YouTube fördert Clickbait durch Anreize für Creator - die sind schuld dass Videos so sind",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Plattform-Geschäftsmodell und Anreizstrukturen, mäßig regulierungsorientiert"
+    },
+    {
+      "text": "Mit AI-Zusammenfassungen kann man viel Zeit bei YouTube sparen",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Befürwortung von Tech-Effizienzlösung, marktliberal orientiert"
+    },
+    {
+      "text": "App nimmt normalerweise sehr hohen Preis, aber kostenloses Lifetime-Angebot verfügbar",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Akzeptanz von Preismodellen und Marktmechanismen, freie Marktlogik"
+    },
+    {
+      "text": "Man könnte sich selbst mit Automator etwas zusammenbauen statt Geld auszugeben",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "DIY-Ansatz, Unabhängigkeit von proprietären Lösungen, gewisse anti-zentralistische Tendenz"
+    },
+    {
+      "text": "Clickbait wird durch Zusammenfassungen aufgelöst, Videos versprechen etwas anderes",
+      "speaker": "host",
+      "economic": -2,
+      "social": 1,
+      "reasoning": "Implizite Kritik an manipulativen Praktiken, Transparenzforderung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "YouTube ist durch ihre Anreize für Creator schuld dass Videos so sind wie sie sind",
+      "context": "Kritik am Plattform-Geschäftsmodell das zu Clickbait und langen Videos führt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Mit AI kann man enorm viel Zeit bei YouTube sparen wenn man die Zusammenfassung liest",
+      "context": "Bewertung von KI-Effizienzgewinnen bei Content-Konsumption",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_-VOR9tTAbP8",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_-VOR9tTAbP8",
+  "date": null,
+  "country": "DE",
+  "word_count": 1175
+}

@@ -1,0 +1,146 @@
+{
+  "economic_score": 2.1,
+  "social_score": 3.4,
+  "n_coded": 14,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Das beste Modell für Journalismus ist Paywall-Finanzierung wie NYT",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Marktwirtschaft, aber nicht radikal pro-Markt"
+    },
+    {
+      "text": "Bannerwerbung ist kein Geschäft für Medien mehr, nur für Datenfirmen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik am Datenkapitalismus, moderate Regulierungssicht"
+    },
+    {
+      "text": "Würde Startup-Förderungen streichen, dafür Lohnnebenkosten senken",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Marktmechanismen > staatliche Lenkung, aber nicht extrem"
+    },
+    {
+      "text": "Facebook muss reguliert werden wie Ölkonzerne die Umwelt schädigen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Regulierung von Marktversagen, Schutz von Bürgerrechten"
+    },
+    {
+      "text": "Algorithmen die zu Fake News führen müssen durch Gesetze reguliert werden",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Regulierung zur Schutzbedürftigkeit, Daten-/Informationsschutz"
+    },
+    {
+      "text": "Bitcoin ist cool aber kann nicht Weltwährung werden, Staaten lassen das nicht zu",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Realistische Marktsicht, keine Crypto-Euphorie"
+    },
+    {
+      "text": "Ich bin großer EU-Fan, einheitlicher Wirtschaftsraum macht vieles einfacher",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 2,
+      "reasoning": "Pro-Integration, aber pragmatisch, nicht ideologisch"
+    },
+    {
+      "text": "Perfektionismus ist das Gegenteil von gut im Unternehmertum",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Effizienz über Idealismus"
+    },
+    {
+      "text": "Wir verdienen mit Abos, nicht mit Clickbait - bessere Anreize für Qualität",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Marktlogik für Qualitätsjournalismus, Verbraucher-Zentrismus"
+    },
+    {
+      "text": "Morddrohungen sind Ausdruck von Hilflosigkeit, keine echte Gefahr",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Rational-libertäre Einschätzung von Bedrohungen, kritisch gegenüber Opfer-Narrativen"
+    },
+    {
+      "text": "Satire sollte konkrete Botschaft haben, nicht nur Provokation um der Provokation willen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Verantwortungsethik statt radikale Libertinität"
+    },
+    {
+      "text": "Politik sollte sich von wahrheitsgetreuen Darstellungen nicht abwenden, auch wenn komplex",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Informationspflicht, Bildungsideal statt Populismus"
+    },
+    {
+      "text": "Das Konstrukt des Nationalstaats wird zu Recht hinterfragt, Europa wächst zusammen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 4,
+      "reasoning": "Pro-Grenzenlosigkeit, kosmopolitisch-libertär"
+    },
+    {
+      "text": "Rassismus gegen Deutsche ist weniger akzeptabel als gegen andere weil Machtgefälle",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an Diskriminierungsblindheit, aber nicht radikal positiv"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die Tagespresse war eine Klage gegen Andreas Hagn und eine Fake-Kampagne von Frank Stronach - das können auch Witze sein",
+      "context": "Fritz beschreibt Satire als Medium jenseits von Artikeln, auch als Aktionen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich denke mir dass das Internet die entry barrier auf quasi null reduziert hat für neue Medien",
+      "context": "Erklärung des viralen Erfolgs von Tagespresse in 24h",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Jemand der mir wirklich umbringen will, würde mir das vorher nicht ankündigen - das ist Ausdruck von Hilflosigkeit",
+      "context": "Umgang mit Morddrohungen nach Impfstoff-Satire",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn du für Johnson stimmst wirst du in drei Jahren kein Benzin haben - warum müssen wir das erst erfahren?",
+      "context": "Kritik dass Wähler politische Konsequenzen erst im Nachhinein verstehen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir konkurrieren mit user generated content aus Twitter und Reddit - aber wir haben Marke und Vertrauen",
+      "context": "Wettbewerb mit dezentraler Comedy in Social Media",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich bin mehr Unternehmer der zufällig Satiriker geworden als umgekehrt",
+      "context": "Fritz reflektiert über seine Identität und Motivation",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_ayroZy3lJbI",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_ayroZy3lJbI",
+  "date": null,
+  "country": "AT",
+  "word_count": 14106
+}

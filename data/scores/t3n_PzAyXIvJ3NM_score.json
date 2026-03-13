@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.8,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Windows 8 für 30€ - günstiger als Mac OS X Update, unverbindlich anzuschauen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Betonung niedriger Preise fördert Marktzugang, leicht pro-Konsument"
+    },
+    {
+      "text": "Windows XP auf eBay kaufen + Win8 Update = 40€ für vollständiges System",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Nutzt Sekundärmarkt, pragmatische Kostenoptimierung, neutral-marktwirtschaftlich"
+    },
+    {
+      "text": "Entwickler müssen auf den Zug aufspringen - Erfolg hängt ab ob Devs für x86 und RT entwickeln",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Betont Marktdynamik und freiwillige Beteiligung, weder pro noch contra Regulation"
+    },
+    {
+      "text": "Surface Tablet für 479€ in Deutschland - knackiger Preispunkt",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Preisbeobachtung, keine ökonomische Position erkennbar"
+    },
+    {
+      "text": "Microsoft drängt Nutzer zur Modern UI, entfernt Start-Menü aus Desktop - forciiert Annahme",
+      "speaker": "host",
+      "economic": -2,
+      "social": -1,
+      "reasoning": "Kritisiert Zwang durch Redesign; leicht anti-libertär (weniger Nutzer-Wahlfreiheit)"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Windows 8 wird eine App - Microsoft behandelt Desktop wie App in Modern UI",
+      "context": "Diskussion über radikale Paradigmenwechsel in der Betriebssystem-Architektur",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ob das viele kaufen kann das richtig durchstarten, aber wenn Skepsis zu groß ist kann das total floppen",
+      "context": "Unsicherheit über Marktakzeptanz radikaler UI-Änderungen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_PzAyXIvJ3NM",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_PzAyXIvJ3NM",
+  "date": null,
+  "country": "DE",
+  "word_count": 2235
+}

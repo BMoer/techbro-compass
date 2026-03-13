@@ -1,0 +1,94 @@
+{
+  "economic_score": -2.0,
+  "social_score": -3.5,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Die Kirche wurde in den 90ern zum Handel mit Tabak, Zigaretten und Öl genutzt - Geschäftsmöglichkeiten statt Bargeld",
+      "speaker": "guest",
+      "economic": -3,
+      "social": -4,
+      "reasoning": "Kritik an korrumpiertem Kapitalismus; staatliche Kontrolle über wirtschaftliche Aktivitäten"
+    },
+    {
+      "text": "Kirill trägt 30.000-Dollar-Uhren, während Bauern auf dem Land verarmen - besonders obszön für eine Kirche",
+      "speaker": "guest",
+      "economic": -4,
+      "social": -5,
+      "reasoning": "Kritik an Wohlstandsdemonstration und Umverteilungsungleichheit; elitäre Überwachungskultur"
+    },
+    {
+      "text": "Die Kirche muss endlich offen über Putins Krieg sprechen statt den religiösen Fundamentalismus zu rechtfertigen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Forderung nach Redlichkeit, Meinungsfreiheit, gegen autoritäre Propaganda und religiöse Zensur"
+    },
+    {
+      "text": "Wir lehnen alle Regierungsformen ab, die den Staat vergöttern und die Kirche ihrer Freiheit berauben",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Klare libertäre Position gegen Autoritarismus und Fusion von Kirche und Staat"
+    },
+    {
+      "text": "Putins Politik ist stringent und rational - eine Fortsetzung jahrhundertelanger russischer Größenwahn-Ideologie",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -5,
+      "reasoning": "Analyse autoritärer Staatskontinuität; keine Kritik, sondern Erklärung des Systems"
+    },
+    {
+      "text": "Patriarch Kirill gehört auf die Sanktionsliste - wegen seiner zentralen Rolle im Propagandasystem Putins",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Fordert staatliche Bestrafung von Propagandisten; eher authorär motivierte Maßnahme"
+    },
+    {
+      "text": "Die russische Kirche und Führung geben ihren Anhängern das Bewusstsein einer fragenlosen Überlegenheit vor anderen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Kritik an autoritärer Ideologie, Propaganda, nationalistischer Indoktrinierung"
+    },
+    {
+      "text": "Kirill und Putin nutzen die Kirche zur Beeinflussung der Volksstimmung - wie in Sowjetzeiten",
+      "speaker": "guest",
+      "economic": -1,
+      "social": -6,
+      "reasoning": "Kritik an staatlicher Kontrolle über Institution; Überwachungs- und Propagandamechanismen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Patriarch Kirill segnet Putins Raketen und spricht von 'Verteidigung christlicher Werte' beim Vernichtungskrieg",
+      "context": "Kritik an der unheiligen Allianz zwischen Kirche und Kriegsführung in der Ukraine",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Kirche ist praktisch eins zu eins mit dem Staat verschmolzen - Kirill ist Teil der kleptokratischen Klicke Putins",
+      "context": "Analyse der Korruptionsstrukturen zwischen Orthodoxie und Regime",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Putins Größenwahn ist nicht irrational - es ist eine stringente Fortsetzung jahrhundertelanger russischer Ideologie",
+      "context": "Differenzierte Analyse: Größenwahn UND systemische Logik gleichzeitig",
+      "quiz_suitable": true
+    },
+    {
+      "text": "1500 orthodoxe Theologen bezeichnen Kirills religiösen Fundamentalismus als Irrlehre und lehnen alle Staaten ab, die die Kirche ihrer Freiheit berauben",
+      "context": "Aufkommender internationaler kirchlicher Widerstand gegen das Moskauer Patriarchat",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_jK5VT_84twI",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_jK5VT_84twI",
+  "date": null,
+  "country": "DE",
+  "word_count": 4032
+}

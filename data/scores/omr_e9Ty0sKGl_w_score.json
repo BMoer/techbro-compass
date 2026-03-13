@@ -1,0 +1,127 @@
+{
+  "economic_score": 2.5,
+  "social_score": 1.0,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Wir wollen in den nächsten Jahrzehnten diesen Planeten erneuerbar machen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Klimavision + Gemeinwohlorientierung, aber pragmatische Marktlogik"
+    },
+    {
+      "text": "Wir bauen alles selber, außer die Produktion selbst, arbeiten aber eng mit Herstellern zusammen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Vertikale Integration, Fokus auf Wertschöpfung und Effizienz"
+    },
+    {
+      "text": "Familie Schmidt zahlte 120€ für Strom und bei uns nur noch 100€ - das ist ein No-Brainer Leasinggeschäft",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Anreizlogik, klassisches Effizienz-Geschäftsmodell"
+    },
+    {
+      "text": "Wir haben eine eigene Akademie gegründet, weil es Fachkräftemangel in Deutschland gibt",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Pragmatische Lösung des Marktversagens, quasi-öffentliche Berufsausbildung"
+    },
+    {
+      "text": "Wir haben unsere Finanzierungslösung an die Börse gebracht - das ist eine Bank für Solaranlagen",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kapitalmarktorientierung, Finanzialisierung der Energiewirtschaft"
+    },
+    {
+      "text": "Ich finde Profitabilität geil - ich habe eine mittelständische Seele",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Explizite Profitabilität-Präferenz, klassisch-konservative ökonomische Grundhaltung"
+    },
+    {
+      "text": "Wir schauen immer: Sollen wir das selbst bauen oder hinzukaufen? Meist bauen wir selbst",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Unternehmertum und Innovation vor Finanzoptimierung, pragmatisch gemischt"
+    },
+    {
+      "text": "Mit unserem Virtual Power Plant verdienen Kunden bis 800€ pro Jahr - das ist eine Gelddruckmaschine",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Monetarisierung von Energiespeicherung, Marktmechanismus-Denken"
+    },
+    {
+      "text": "Regulierungen sind manchmal historisch gewachsen - wir müssen mit Politik reden, damit sie das versteht",
+      "speaker": "guest",
+      "economic": 1,
+      "social": -2,
+      "reasoning": "Kritik an Bürokratie, aber kooperativ-pragmatisch, nicht libertär"
+    },
+    {
+      "text": "Größte Wettbewerber sind der Stromgastarif und die Tankstelle - nicht andere Startups",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Fokus auf Substituierung von Fossilen, marktwirtschaftliches Denken"
+    },
+    {
+      "text": "Wenn du Marktanteile in einem schrumpfenden Markt gewinnst, ist das mehr wert als Wachstum in gleichen",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Marktteilungslogik, klassisch-ökonomische Bewertungsmetrik"
+    },
+    {
+      "text": "Wirtschaft ist vier Dinge: Rohstoffe, Wissen, Maschinen, Energie - wir machen Energie",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Materialistische Ökonomie-Sicht, Fokus auf Produktionsfaktoren statt Umverteilung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ich habe gesagt: Je größer wir werden, desto dynamischer und schneller werden wir",
+      "context": "Rede über Skalierungsparadoxie und Unternehmensstruktur",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt noch kein Amazon, Facebook oder Google im Energiebereich - das ist was mich total fasziniert",
+      "context": "Vision eines globalen Energiemonopolisten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Familien geben 7800€ im Monat für Strom, Gas und Benzin aus - meist unbewusst",
+      "context": "Argument für Kundenakquise durch Kostenersparnis",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Manche der erfolgreichsten Ideen bei uns habe ich persönlich abgelehnt",
+      "context": "Dezentralisierung von Innovationsentscheidungen im Unternehmen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir haben 80.000 Kunden bei 16-17 Millionen Einfamilienhäusern - wir stehen noch ganz am Anfang",
+      "context": "Perspektive auf riesiges Marktpotential (0,5% Durchdringung)",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_e9Ty0sKGl_w",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_e9Ty0sKGl_w",
+  "date": null,
+  "country": "DE",
+  "word_count": 12143
+}

@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.4,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.6,
+  "coded_statements": [
+    {
+      "text": "Der Verbrenner wird sich nicht durchsetzen, der Elektroantrieb ist die effizientere Alternative",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Technologische Effizienzargumente, keine politische Positionierung"
+    },
+    {
+      "text": "Das Verbrennerverbot 2035 ist ohnehin überflüssig, der Markt regelt sich selbst",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Marktkräfte statt Regulierung, aber gemäßigt, nicht libertär"
+    },
+    {
+      "text": "Arbeitgeber müssen Arbeitszeiten komplett erfassen - neue gesetzliche Regelung",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Staatliche Regulierung der Arbeitgeberpraxen, Arbeitnehmerrechte"
+    },
+    {
+      "text": "PlayStation VR2 kostet 600€, mehr als die PS5 selbst - Kostenfaktor",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Sachliche Preis-Information, keine Meinungsäußerung"
+    },
+    {
+      "text": "Quantencomputer-Durchbruch durch britische Forschung, Mikrochips miteinander verbunden",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Technologischer Fortschritt, leicht pro-Innovation/Unternehmertum"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Der Verbrenner wird ebenso wie die Pferdekutsche das Zeitliche segnen",
+      "context": "Kommentar zur Verbrennerdebatte und Technologiewandel",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Historisch hat sich immer die effizienteste und einfach beste Alternative durchgesetzt",
+      "context": "Argument für natürliche Marktdynamiken statt Regulierung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_TcimPhW2nPE",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_TcimPhW2nPE",
+  "date": null,
+  "country": "DE",
+  "word_count": 668
+}

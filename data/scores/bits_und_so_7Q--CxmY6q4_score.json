@@ -1,0 +1,51 @@
+{
+  "economic_score": 2.5,
+  "social_score": 4.0,
+  "n_coded": 4,
+  "insufficient_data": true,
+  "confidence": 0.35,
+  "coded_statements": [
+    {
+      "text": "ihr seid nicht eingesperrt über facebook wenn die domain gehört euch",
+      "speaker": "host",
+      "economic": 5,
+      "social": 5,
+      "reasoning": "Dezentralisierung, Unabhängigkeit von Plattformen, Eigentumsrechte"
+    },
+    {
+      "text": "die domain gehört euch die könnte ihr auch woanders hinziehen",
+      "speaker": "host",
+      "economic": 4,
+      "social": 5,
+      "reasoning": "Portabilität, Eigentum, Marktfreiheit, gegen Vendor Lock-in"
+    },
+    {
+      "text": "wegen datenschutz quatsch meine presse am ende habe alles gepasst",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Datenschutz-Compliance betont, Sorgfalt bei Regulierung"
+    },
+    {
+      "text": "jimdo hat eine gewisse begrenzung ihr könnt dann auf anderer domain was anderes installieren",
+      "speaker": "host",
+      "economic": 4,
+      "social": 4,
+      "reasoning": "Kritik an Plattformbeschränkungen, Befähigung zu Alternativen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "ihr seid nicht eingesperrt über facebook wenn die domain gehört euch",
+      "context": "Plädoyer für Unabhängigkeit von großen Plattformen durch Eigentumsrechte",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_7Q--CxmY6q4",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_7Q--CxmY6q4",
+  "date": null,
+  "country": "DE",
+  "word_count": 485
+}

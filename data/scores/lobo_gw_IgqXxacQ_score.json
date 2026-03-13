@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 39 column 19 (char 1350)",
+  "raw_response": "{\n  \"economic_score\": -4.6,\n  \"social_score\": 1.0,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.82,\n  \"coded_statements\": [\n    {\n      \"text\": \"Das reichste Land der Welt hat ein bescheuertes Krankenversicherungssystem, Millionen sind unversichert\",\n      \"speaker\": \"guest\",\n      \"economic\": -6,\n      \"social\": null,\n      \"reasoning\": \"Kritik am kapitalistischen Gesundheitssystem, Regulierungsbedarf\"\n    },\n    {\n      \"text\": \"Das Problem ist: Alles ist ein Geschäft. Nur ",
+  "episode_id": "lobo_gw_IgqXxacQ",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_gw_IgqXxacQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 4247
+}

@@ -1,0 +1,51 @@
+{
+  "economic_score": 0.0,
+  "social_score": 2.5,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "Clip Sharing macht Podcasts zitierfähig und löst ein Problem bei der Auffindbarkeit von Audio-Stellen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Befürwortung von neuer Funktionalität, die Zugang/Teilhabe verbessert"
+    },
+    {
+      "text": "Audio-Clips auf Social Media teilen könnte urheberrechtliche Probleme in Deutschland darstellen",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Vorsicht vor regulatorischen Einschränkungen, Sicherheit > Freizügigkeit"
+    },
+    {
+      "text": "Man könnte stattdessen einfach Timestamp-Links wie bei YouTube nutzen - das wäre rechtlich unproblematisch",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Befürwortung einer datenschutz-/rechtssichereren Lösung"
+    },
+    {
+      "text": "Ich bin kein Anwalt und werde tendenziell vorsichtig bei Quellen, die sich das nicht gefallen lassen",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Konservative Haltung gegenüber potentiellen Rechtsverletzungen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn man einen Song drin ist und die GEMA will 20 Euro von dir",
+      "context": "Warnung vor urheberrechtlichen Konsequenzen bei Clip-Sharing",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_aCDbYuBDfKU",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_aCDbYuBDfKU",
+  "date": null,
+  "country": "DE",
+  "word_count": 1174
+}

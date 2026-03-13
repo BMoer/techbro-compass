@@ -1,0 +1,63 @@
+{
+  "economic_score": 1.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Tesla will 10 Billionen Dollar in erneuerbare Energien und Infrastruktur investieren",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Massive Investition in grüne Technologie, pragmatisch-zentral"
+    },
+    {
+      "text": "Massiver Ausbau von Solarmodul-Fabriken und Metallraffinerien erforderlich",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Staatlich-koordinierte Infrastruktur, leicht Links aber pragmatisch"
+    },
+    {
+      "text": "Amazon hat Recht bekommen bei Entlassung des Betriebsratsvorsitzenden",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Unternehmensrechte gestärkt, arbeitgeberfreundlich, leicht Rechts"
+    },
+    {
+      "text": "Media Markt und Saturn wollen Partner von Automobilherstellern werden",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Marktexpansion, privatwirtschaftlich aber kooperativ, zentral"
+    },
+    {
+      "text": "Sony entwickelt neue portable Spielekonsole mit Cloud-Gaming-Fokus",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Innovativ-kapitalistische Produktentwicklung, leicht marktorientiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Elon Musk will Weltwirtschaft mit kohlenstofffreier Energie versorgen",
+      "context": "Tesla-Masterplan mit 10 Billionen Dollar Investition für Energiewende",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Arbeitsgericht bestätigt Entlassung wegen schwerwiegender Pflichtverletzung",
+      "context": "Betriebsratsvorsitzender wird trotz Kündigungsschutz entlassen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_4fgX-_lMZLs",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_4fgX-_lMZLs",
+  "date": null,
+  "country": "DE",
+  "word_count": 675
+}

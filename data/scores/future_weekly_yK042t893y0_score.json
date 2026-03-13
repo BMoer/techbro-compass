@@ -1,0 +1,108 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, Deregulierungs-Sentiment"
+    },
+    {
+      "text": "Big Tech hat Monopol-Charakter, Google dominiert völlig",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik an Marktkonzentration, implizite Regulierungsforderung"
+    },
+    {
+      "text": "Elon ist wie Trump - unreflektiert, bewegt Märkte ohne Verantwortung",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an fehlender Verantwortungsübernahme, autoritär-besorgt"
+    },
+    {
+      "text": "Meinungsfreiheit auf Twitter ist wichtig, zu wenig reguliert",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Pro-Meinungsfreiheit, Anti-Zensur Position"
+    },
+    {
+      "text": "Über braucht massive Regulierung, Nahrungsmittelknappheit ist real",
+      "speaker": "host",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Fordert staatliche Intervention bei Krise, kritisch zu Marktlösungen"
+    },
+    {
+      "text": "Wir brauchen Innovation durch Druck - wie bei Impfungen",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Position: Krise als Innovationstreiber nutzen"
+    },
+    {
+      "text": "Digitaler Produktpass braucht schlanke, nicht bürokratische Lösung",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Pro-Transparenz und Anti-Bürokratie, Konsumentenschutz"
+    },
+    {
+      "text": "Fast Fashion ist problematisch, aber Transparenz schafft bessere Entscheidungen",
+      "speaker": "host",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Kritik an destruktivem Geschäftsmodell, befürwortet Regulierung+Aufklärung"
+    },
+    {
+      "text": "Leistungsdruck bei Startups braucht gute Unternehmenskultur",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Arbeitnehmerrechte/Wohlbefinden vs. Profitdruck-Balance"
+    },
+    {
+      "text": "Frauen in Startups brauchen Sichtbarkeit und Vorbilder",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Pro-Gleichberechtigung, gegen Diskriminierung, Empowerment"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Elon ist eigentlich nicht besser als Donald Trump bei Social Media",
+      "context": "Diskussion über Elon Musk's Einfluss auf Twitter und Märkte",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ukraine und Russland machen 30% des globalen Weizens - ganze Regionen sind 100% abhängig",
+      "context": "Analyse von Nahrungsmittelknappheit und globalen Supply Chains",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Dieser Kartenhaus-Effekt von fetten VC-Jahren bricht jetzt zusammen",
+      "context": "Kritik an überbewerteten Startups und unrealistischen Finanzierungsrunden",
+      "quiz_suitable": true
+    },
+    {
+      "text": "100 Milliarden Bewertung ist so viel wie H&M und Zara zusammen - krass abstrakt",
+      "context": "Skepsis gegenüber extremen Startup-Bewertungen von Fashion-Tech",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_yK042t893y0",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_yK042t893y0",
+  "date": null,
+  "country": "AT",
+  "word_count": 11271
+}

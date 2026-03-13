@@ -1,0 +1,103 @@
+{
+  "economic_score": -1.6,
+  "social_score": 3.2,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Die EU sollte selbstbewusst vorgehen und sagen: wer sich nicht an Regeln hält, fliegt raus",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Plattformregulierung durch staatliche Intervention, aber pragmatisch nicht extrem"
+    },
+    {
+      "text": "Das Problem ist der Algorithmus, der auf maximale Aufmerksamkeit ausgelegt ist, nicht Content-Filterung",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Kritik an Marktmechanismen, Befürwortung von Regulierung für Bürgerrechte"
+    },
+    {
+      "text": "Digitalisierung darf nicht sein, dass dauerhaft digitale Wege mehr Bürokratie verursachen als analoge",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 5,
+      "reasoning": "Effizienzerwartung an Staat, aber mit Fokus auf Bürgerfreundlichkeit und Vereinfachung"
+    },
+    {
+      "text": "Wir brauchen zentrale digitale Services wie Wohngeld, KFZ-Zulassung, nicht jede Kommune einzeln",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Verstaatlichung/Zentralisierung von IT-Services statt privatem Markt, Kosteneffizienz"
+    },
+    {
+      "text": "Open Source und digitale Souveränität sind für staatliches Handeln essentiell",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Anti-Microsoft/proprietäre Software, Unabhängigkeit von US-Konzernen, Datenschutz"
+    },
+    {
+      "text": "Datenschutzbeauftragte sind damit beschäftigt, ob der Gärtner seine Kamera falsch ausrichtet, nicht große Firmen zu kontrollieren",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kritik an zu strenger Datenschutz-Bürokratie, aber keine ökonomische Position"
+    },
+    {
+      "text": "Vorratsdatenspeicherung kombiniert mit KI ermöglicht Kontrolle von Gegnern und Oppositionellen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Warnung vor autoritärer Überwachung, Anti-Überwachungsstaat Position"
+    },
+    {
+      "text": "Die relevanten KI-Systeme für innere Sicherheit und Militär werden im AI Act gar nicht reguliert",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an unzureichender Regulierung sicherheitskritischer Systeme"
+    },
+    {
+      "text": "Wenn wir uns überwacht fühlen, verhalten wir uns konformer - eine Überwachungsgesamtrechnung ist nötig",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Bürgerrechte-Position: Schutz vor Überwachungsgesamteffekt, libertäre Perspektive"
+    },
+    {
+      "text": "Man kann jeden Euro nur einmal ausgeben - Digitalisierung wurde für Rüstung und Bundeswehr geopfert",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Prioritätensetzung, implizite Bevorzugung von Digitalisierungsausgaben"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn das System dann gut funktioniert, braucht man kein Gesetz, das sagt ihr müsst das nutzen",
+      "context": "Diskussion über e-Rezept und digitale Adoption ohne Zwang",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Digitalisierung kann den Personalmangel auch verschärfen - elektronische Signaturen dauern länger als krakeln auf Papier",
+      "context": "Kritik an unreflektierter Digitalisierung ohne Prozessoptimierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die CDU prescht mit law-and-order Forderungen nach Vorratsdatenspeicherung vor - kombiniert mit KI kann man damit Gegner kontrollieren",
+      "context": "Warnung vor Überwachung unter CDU-Regierung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_-4qnQpVEeHg",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_-4qnQpVEeHg",
+  "date": null,
+  "country": "DE",
+  "word_count": 7798
+}

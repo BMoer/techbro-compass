@@ -1,0 +1,82 @@
+{
+  "economic_score": -1.4,
+  "social_score": 1.6,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Die USA brauchen Migranten als Arbeitskräfte in Landwirtschaft, Bau und Service - sie sind für die Wirtschaft unabdingbar",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Betonung von Arbeitsmarktbedarf; kritisch gegenüber Abschiebungen aus ökonomischer Sicht"
+    },
+    {
+      "text": "Trump ist viel brutaler und rassistisch, reißt Familien auseinander - das ist der große Unterschied zu Biden",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an autoritären Maßnahmen, Betonung von Menschenrechten und Familienzusammenführung"
+    },
+    {
+      "text": "Mexiko nimmt alle Abgeschobenen auf und schafft 35.000 Arbeitsplätze für Migranten - das ist eine progressive Lösung",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 3,
+      "reasoning": "Befürwortung von Integrationspolitik und Arbeitsmarktöffnung für Migranten; soziallibertär"
+    },
+    {
+      "text": "Die Schleuser und Kartelle profitieren von Trumps harter Politik - die Tarife sind bereits gestiegen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kritik an Effektivität von Repression; zeigt unbeabsichtigte Folgen autoritärer Maßnahmen"
+    },
+    {
+      "text": "Migration ist ein uraltes Problem - die wird nicht einfach stoppen, nur weil Trump einen brutalen Kurs fährt",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Pragmatische, realistische Einschätzung; implizite Kritik an Illusion von Migrationskontrolle durch Gewalt"
+    },
+    {
+      "text": "650.000 Migranten ohne legalen Status werden in den USA gesucht - darunter aber viele Verkehrsvergehen, nicht nur Schwerkriminalität",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Differenzierung und Entlarvung von Übertreibungen; Skepsis gegenüber Sicherheits-Narrativ"
+    },
+    {
+      "text": "Trump hat Abschiebungen erleichtert - Sheriffs können Menschen von der Straße holen, wenn sie keinen legalen Status nachweisen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Beschreibung von autoritären Maßnahmen ohne Fälligkeitsprüfung; Kritik am Wegfall von Rechtsschutz"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Trump ist halt viel brutaler und auch rassistisch und hat auch Familien auseinandergerissen",
+      "context": "Vergleich von Migrationspolitik zwischen Trump und Biden",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Migration ist Jahrzehnte alt - die wird nicht nur weil Trump einen brutalen Kurs fährt einfach stoppen",
+      "context": "Abschlussevaluation zur Aussicht auf Erfolg von Massenabschiebungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Schleuser werden unter Trump davon profitieren - die Tarife sind gestiegen und werden weiter steigen",
+      "context": "Unbeabsichtigte Konsequenzen repressiver Migrationspolitik",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_9idZkzLO2Jg",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_9idZkzLO2Jg",
+  "date": null,
+  "country": "DE",
+  "word_count": 3255
+}

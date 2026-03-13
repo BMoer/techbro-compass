@@ -1,0 +1,108 @@
+{
+  "economic_score": 2.6,
+  "social_score": -1.4,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Open Source Modell ist stärker als beste kommerzielle Modelle, warum dafür bezahlen?",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Marktdruck, Wettbewerb, Markteffizienz durch OSS"
+    },
+    {
+      "text": "Für kommerzielle KI-Modelle als VC investieren macht keinen Sinn ohne Milliarden",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Skeptik gegenüber Rentabilität, Marktkonzentration"
+    },
+    {
+      "text": "Spotify entlässt jeden vierten Mitarbeiter, wird dadurch profitabel",
+      "speaker": "host",
+      "economic": 6,
+      "social": -4,
+      "reasoning": "Kostenreduktion, Effizienz positiv; Massenentlassungen negativ für Arbeitnehmer"
+    },
+    {
+      "text": "SAP investiert 3 Milliarden in Restrukturierung/Entlassungen",
+      "speaker": "host",
+      "economic": 5,
+      "social": -5,
+      "reasoning": "Kapitalistische Effizienz; massive Jobverluste, aber von Börse geliebt"
+    },
+    {
+      "text": "Warer-Batterien: Deutsche Fahne auf Batterien macht wenig Unterschied, würde in Niedriglohnländern produziert",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an Nationalismus, Produktionsverlagerung, Marktlogik"
+    },
+    {
+      "text": "Google investiert 50 Milliarden pro Jahr in Datacentern für KI",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Reine Faktenmitteilung, keine Meinungsäußerung"
+    },
+    {
+      "text": "Elon Musk kündigt an, beste KI der Welt bis Dezember zu bauen - weltfremd",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Kritik an unrealistischen Versprechen, aber Akzeptanz von Unternehmertum"
+    },
+    {
+      "text": "KI-Modelle sind jetzt schnell depreciating assets durch Innovationszyklen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktkritik, Kapitalvernichtung durch Disruption"
+    },
+    {
+      "text": "Warum kriegen Christen eine Kirchenglocken-App nicht, statt alle 18h Lärm?",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Digitalisierungskritik, Individual-Wahlfreiheit vs. kollektive Lärmbelastung"
+    },
+    {
+      "text": "Elon Musk feiert Video wo Biden zusammengeschlagen wird, regt sich über Satire auf",
+      "speaker": "host",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Kritik an Doppelmoral bei Gewaltinhalten, selektive Empörung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das schnellste depreciating asset gerade sind diese Modelle",
+      "context": "Diskussion über KI-Modelle und Innovationszyklen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Spotify entlässt jeden vierten Mitarbeiter und wird dadurch attraktiv und profitabel",
+      "context": "Analyse von Spotify-Earnings und Kostenstrategien",
+      "quiz_suitable": true
+    },
+    {
+      "text": "3 Milliarden für 10.000 Leute = 300.000 Abfindung pro Person",
+      "context": "SAP Restrukturierungskosten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Elon kündigt beste KI aller Zeiten bis Dezember an - weltfremd",
+      "context": "Kritik an unrealistischen xAI-Versprechungen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_j8VR-EPNyWs",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_j8VR-EPNyWs",
+  "date": null,
+  "country": "DE",
+  "word_count": 9706
+}

@@ -1,0 +1,75 @@
+{
+  "economic_score": 0.6,
+  "social_score": 0.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Apple könnte das gleiche Spiel wie Intel spielen und alte Modelle länger verkaufen statt schnell neue rauszubringen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritik an Verzögerungsstrategie, aber pragmatisch-marktorientiert, nicht ideologisch"
+    },
+    {
+      "text": "Prozessoren werden zum reinen Marketing-Namen, Features wandern zwischen Generationen",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Skeptik gegenüber künstlicher Produktdifferenzierung durch Nomenklatur"
+    },
+    {
+      "text": "Apple muss sich neu ausrichten und Alleinstellungsmerkmale schaffen, sonst ist die Daseinsberechtigung unklar",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Marktlogik ohne ideologische Positionierung"
+    },
+    {
+      "text": "TSMC könnte günstiger 5nm-Chips spucken raus, deshalb streckt Apple vielleicht den M2 länger",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kostenbewusstsein und Marginalienoptimierung, aber kooperativ-kapitalistisch"
+    },
+    {
+      "text": "Apple hat kein optimales Zeug für KI/LLMs außerhalb ihres eigenen Baukasten-Ökosystems",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritik an proprietären Walled Gardens, leichte regulatorische Skeptik"
+    },
+    {
+      "text": "Das iPhone ist das dominierende Gerät im Universum, alles andere sind Satellitengeräte",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Anerkennung von Marktmacht und Netzwerkeffekten, aber deskriptiv statt normativ"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Apple kann natürlich da machen was sie wollen, die Namen sind völlig wurscht",
+      "context": "Host kritisiert Marketing-Namen für Chips als bedeutungslos",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Prozessor wird kein Verkaufsargument mehr sein, wenn M1 noch in zwei Jahren gut genug ist",
+      "context": "Host prognostiziert Ende der Chip-getriebenen Upgrade-Zyklen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Sobald wir aus Apples Baukasten heraustreten gibt's keine Antwort im Moment",
+      "context": "Host kritisiert Apples Schwäche bei offenen AI/LLM-Standards",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_DiUmKiWCzLM",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_DiUmKiWCzLM",
+  "date": null,
+  "country": "DE",
+  "word_count": 4880
+}

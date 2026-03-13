@@ -94,7 +94,12 @@
 <p class="cite">Eigener Modellvergleich, dokumentiert in docs/model_comparison.md</p>
 
 <h2>Datenquelle</h2>
-<p>Transkripte werden aus YouTube Auto-Captions via yt-dlp extrahiert (deutsch, ~90-95% Genauigkeit). Jede 20. Episode pro Podcast wird analysiert, um eine longitudinale Stichprobe über mehrere Jahre zu erhalten. Podcasts ohne YouTube-Kanal werden via Apple Podcasts oder Whisper transkribiert.</p>
+<p>Transkripte werden aus YouTube Auto-Captions via yt-dlp extrahiert (deutsch, ~90-95% Genauigkeit). Podcasts ohne YouTube-Kanal werden via Apple Podcasts oder Whisper transkribiert.</p>
+
+<h2>Stichproben-Design</h2>
+<p>Episoden werden mit einem <strong>Primzahl-Stride</strong> gesampelt: Innerhalb jedes Podcasts wird jede <em>p</em>-te Episode chronologisch ausgewählt (aktuell: <em>p</em> = 29). Ein reguläres Intervall (z.B. jede 20. Episode) synchronisiert sich mit wöchentlichen/monatlichen Upload-Rhythmen und erzeugt systematischen Bias — dieselben Nachrichtenzyklen, dieselben Weltereignisse. Ein Primzahl-Stride ist zu allen gängigen Periodizitäten (7 Tage, 4 Wochen, 12 Monate) teilerfremd und vermeidet diese temporale Autokorrelation.</p>
+<p>Ergebnis: eine größere, zeitlich besser gestreute Stichprobe mit mehr Varianz zwischen den Podcasts.</p>
+<p class="cite">Sampling-Design nach Feedback von <a href="https://www.linkedin.com/in/manuelgahn/">Manuel Gahn</a></p>
 
 <h2>Einschränkungen</h2>
 <ul>
@@ -102,7 +107,8 @@
   <li>LLM-Codierung ist nicht deterministisch — leichte Varianz bei wiederholter Codierung</li>
   <li>Der Extremitäts-Bias von Haiku 4.5 übertreibt Absolutwerte um ca. 20-30%</li>
   <li>Relative Positionen zwischen Podcasts sind aussagekräftiger als absolute Scores</li>
-  <li>Stichprobe: jede 20. Episode, nicht vollständig</li>
+  <li>Podcasts mit häufigen Gästen (z.B. Future Weekly) messen teils die Positionen der Gäste, nicht nur der Hosts</li>
+  <li>Stichprobe: jede 29. Episode (Primzahl-Stride), nicht vollständig</li>
 </ul>
 
 <footer>

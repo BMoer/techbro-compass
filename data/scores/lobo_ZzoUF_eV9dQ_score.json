@@ -1,0 +1,115 @@
+{
+  "economic_score": -1.2,
+  "social_score": 4.6,
+  "n_coded": 11,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Taylor Swift kämpft gegen patriarchale Strukturen im Musikgeschäft, reklamiert ihre Werke zurück",
+      "speaker": "host",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Kritik an Ausbeutung durch Musikindustrie + Emanzipation von Frauen"
+    },
+    {
+      "text": "Die Swifties-Community ist ein Safespace mit progressiven Werten, inklusiv und solidarisch",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 7,
+      "reasoning": "Betonung von Inklusion, Pluralismus, gegen Spaltung – stark libertär-progressiv"
+    },
+    {
+      "text": "Taylor Swift sollte sich gegen Trump positionieren, weil sie die Macht und Verpflichtung dazu hat",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Forderung nach Einsatz gegen Autoritarismus und Faschismus"
+    },
+    {
+      "text": "Künstler haben Verantwortung, sich gegen Extremismus und die AFD zu positionieren",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Kritik an rechtsextremen Bewegungen, Verteidigung von Demokratie"
+    },
+    {
+      "text": "Der politische Diskurs in den USA ist ruiniert, dass wir auf einen Popstar hoffen müssen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an Polarisierung und Machtkonzentration außerhalb demokratischer Institutionen"
+    },
+    {
+      "text": "In Deutschland haben wir Gott sei Dank einen besseren politischen Diskurs als die USA",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Vertrauen in deutsche Demokratische Institutionen, weniger Abhängigkeit von Stars"
+    },
+    {
+      "text": "Mark Forst: Ich weiß nicht, ob es hilft, wenn ich über die AFD ein Lied schreibe",
+      "speaker": "guest",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Skepsis gegenüber Kunstalaktivismus, Zurückhaltung bei politischen Statements"
+    },
+    {
+      "text": "Herbert Grönemeyer: Wir tragen Verantwortung, dass kein faschistisches Gedankengut sich ausbreitet",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Starke Ablehnung von Autoritarismus, Aufruf zur aktiven Gegenwehr"
+    },
+    {
+      "text": "Taylor Swift's Timing bei politischen Statements ist strategisch, sie denkt wie ein politischer Stratege",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung von kalkülierter Machtausübung, leicht marktstrategisch"
+    },
+    {
+      "text": "Taylor Swift generiert Stimmen für progressive Kandidaten durch ihre bloße Existenz und Statements",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Würdigung ihrer Fähigkeit, für progressive/libertäre Werte zu mobilisieren"
+    },
+    {
+      "text": "Ich würde mir von Taylor Swift nicht sagen lassen, wen ich wählen soll, aber inspirieren lassen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Betonung von individueller Autonomie trotz Bewunderung für ihre Werte"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Es ist ein Armutszeugnis für den politischen Diskurs, dass wir so sehr auf Taylor Swift hoffen müssen, dass sie sich gegen Trump ausspricht",
+      "context": "Kritik an Ruiniertheit des US-Politikbetriebs, der Popstars politische Superkräfte verleiht",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Taylor Swift denkt wie ein Politstratege in Washington – das Timing ist wichtig",
+      "context": "Analyse ihrer strategischen Vorgehensweise bei politischen Stellungnahmen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn ich ein großes Mikrofon habe und faschistisches Gedankengut breitet sich aus, muss ich mich positionieren",
+      "context": "Herbert Grönemeyer über die Verantwortung von Stars mit großem Einfluss",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Taylor Swift ist wahrscheinlich eine der mächtigsten Personen der Welt aktuell von ihrem Einfluss her",
+      "context": "Vergleich ihrer politischen Macht mit anderen Prominenten in Deutschland",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_ZzoUF_eV9dQ",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_ZzoUF_eV9dQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 4461
+}

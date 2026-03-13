@@ -1,0 +1,141 @@
+{
+  "economic_score": 2.14,
+  "social_score": 1.43,
+  "n_coded": 14,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Ich habe mir meine erste Eigentumswohnung 2014 von der Musik gekauft",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unternehmertum, Kapitalakkumulation, freier Markt"
+    },
+    {
+      "text": "Ich bin tatsächlich der meist gestreamte deutsche Künstler ever, das macht riesen Geld",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kapitalismus, Marktdominanz, kommerzieller Erfolg"
+    },
+    {
+      "text": "Big Tech Plattformen wie Spotify bestimmen jetzt die Musiklogik komplett",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Monopolisierung, Plattformabhängigkeit"
+    },
+    {
+      "text": "Ich habe Immobilien gekauft, ein Mietshaus mit 25-30 Wohnungen, das ist logisches Investment",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Kapitalanlage, Vermögensaufbau, Privateigentum"
+    },
+    {
+      "text": "Ich bin kein Influencer und mache Social Media nur minimal bewusst",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Ablehnung von Überwachung/Kontrolle durch Algorithmen"
+    },
+    {
+      "text": "Mit TikTok werde ich nicht anfangen, Elevator-Boy-mäßig, das ist mir zu peinlich",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Widerstand gegen erzwungene Authentizität auf Plattformen"
+    },
+    {
+      "text": "Ich habe mit Tabak- und Vape-Business viel Geld gemacht, mehr als mit Musik-Merchandise",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Diversifikation, Profitmaximierung, kapitalistische Unternehmungen"
+    },
+    {
+      "text": "Die Musik muss gut sein, aber ohne gutes Image und 360°-Management läuft nichts mehr",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Betont Notwendigkeit von Marktlogik neben künstlerischer Qualität"
+    },
+    {
+      "text": "Ich verkaufe bald Anteile meiner Songrechte für zweistellige Millionen an Investoren",
+      "speaker": "guest",
+      "economic": 8,
+      "social": null,
+      "reasoning": "Finanzisierung von Kreativwerk, Kapitalverkauf, Investor-Logik"
+    },
+    {
+      "text": "Politik und Religion thematisiere ich nicht öffentlich, das ist private Entscheidung jedes Menschen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Neutralität, respektiert Pluralismus, depolitisiert"
+    },
+    {
+      "text": "Ich bin froh, dass ich keine Familie habe, weil meine Kunst alles aufsaugt",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Individualistisches Selbstverwirklichungsideal, anti-autoritär"
+    },
+    {
+      "text": "Früher beim Stickern-Marketing habe ich alles selbst gemacht, war super billig und funktioniert",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Grassroots-Unternehmertum, Do-it-yourself-Kapitalismus"
+    },
+    {
+      "text": "Mein Ansatz ist: Finde raus was dich erfüllt, nicht was andere erwarten - das schließt Verantwortung aus",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Libertäre Selbstverwirklichung, Ablehnung externer moralischer Ansprüche"
+    },
+    {
+      "text": "Adidas, Nike, Puma - alle sind gut, mir geht's darum wer der beste Partner ist",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pragmatisches Marktdenken, Kapitalisten-Partnerships"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Nur wenn ein Mann erblindet heißt das nicht dass er nie was gesehen hat",
+      "context": "Rechtfertigung, warum er über Street-Leben rappt obwohl er es nicht mehr lebt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich würde auf gar keinen Fall TikTok Elevator-Boy-mäßig anfangen, das ist mir zu peinlich",
+      "context": "Ablehnung von erzwungener Plattform-Anpassung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich bin froh dass ich bis jetzt keine Familie hab, weil mir das Freiraum für Selbstverwirklichung gelassen hat",
+      "context": "Künstlerische Prioritäten über persönliche Beziehungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Hits waren damals schon Hits, auch wenn du in den 80ern drückst - das hat sich gar nicht geändert",
+      "context": "Behauptung der zeitlosen Logik von Hit-Struktur trotz Plattformwandel",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Musik ist Actionfilm wie Rambo - wir reden über Party, Sex, Schießen - das ist unsere Art von Kino",
+      "context": "Verteidigung gegen Verantwortungsvorwürfe",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_qyWynH5CT00",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_qyWynH5CT00",
+  "date": null,
+  "country": "DE",
+  "word_count": 18918
+}

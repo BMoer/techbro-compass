@@ -1,0 +1,108 @@
+{
+  "economic_score": -1.4,
+  "social_score": 1.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Twitter hat sich zu einem rechten Medium entwickelt, konservativ, wirtschaftsliberal, teilweise rechtsextrem",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Rechtsliberalismus/Marktorientierung auf Plattform"
+    },
+    {
+      "text": "Blue Sky positioniert sich gegen X/Twitter mit strengerer Content-Moderation und Schutz von Nutzern",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Befürwortung von Regulierung und Nutzerschutz statt Anarchie"
+    },
+    {
+      "text": "Nonprofits haben Schwierigkeit, Top-Talent zu halten ohne hohe Gehälter, brauchen finanzielle Anreize",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktkräfte und Wettbewerb um Talente rechtfertigen höhere Gehälter"
+    },
+    {
+      "text": "Es ist schade, dass OpenAI nonprofit-Gedanke aufgegeben hat, wäre wünschenswert gewesen",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Präferenz für gemeinnützige Strukturen statt Profitorientierung"
+    },
+    {
+      "text": "Google allein hätte OpenAI-Durchbrüche nicht erzielt, die Macht-Konzentration wäre gefährlich",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Monopolisierung, befürwortet Verteilung der Macht"
+    },
+    {
+      "text": "Ständiges Blutzucker-Tracking kann zu Essstörungen und Überbeschäftigung mit Optimierung führen",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Warnung vor Kontrollzwang, Befürwortung von persönlicher Freiheit"
+    },
+    {
+      "text": "Langzeit-Datentracking für gesundheitliche Entscheidungen ist sinnvoll, nicht täglich obsessives Tracking",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Differenzierte Perspektive auf Datenschutz und Privatsphäre"
+    },
+    {
+      "text": "Venture Cake Pool-Ansatz entkräftet zu stark die persönliche Identifikation mit eigenem Startup",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an extremer Leistungsideologie durch Risikostreuung"
+    },
+    {
+      "text": "China investiert massiv in militärische Robotik, westliche Hemisphäre muss aufholen",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Sicherheitsbedenken, autoritäre Anwendungsfelder von Technologie"
+    },
+    {
+      "text": "Social Media braucht Orte echter Diskussion, nicht nur Konsum von polarisierendem Content",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Befürwortung von offener Kommunikation und Dialog statt Zensur"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Elon Musk sieht, dass niemand KI verhindern kann, nur wer es macht sollte nicht Google sein",
+      "context": "OpenAI-Gründungsgeschichte und Musk's ursprüngliche Mission",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Je höher die Executives, desto weniger formell die E-Mail Konversationen zwischen ihnen",
+      "context": "Analyse der OpenAI-Gründer-Emails bezüglich Stil und Formalität",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn dein Startup untergeht, fühlst du, deine komplette Identität und Existenz ist zu Ende",
+      "context": "Kritik an zu starker Identifikation mit Startup-Erfolg",
+      "quiz_suitable": true
+    },
+    {
+      "text": "China zeigt Roboter durch Wald jagend, Tesla zeigt Optimus mit Kim Kardashian Instagram Stories",
+      "context": "Unterschiedliche technologische und Marketing-Strategien Ost vs. West",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_MWniJLruvuQ",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_MWniJLruvuQ",
+  "date": null,
+  "country": "AT",
+  "word_count": 5694
+}

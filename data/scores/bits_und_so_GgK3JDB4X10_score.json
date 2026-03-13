@@ -1,0 +1,32 @@
+{
+  "economic_score": null,
+  "social_score": 2.5,
+  "n_coded": 2,
+  "insufficient_data": true,
+  "confidence": 0.3,
+  "coded_statements": [
+    {
+      "text": "iPhone sagt einem nicht was wieso er unzufrieden ist",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an mangelnder Transparenz von Apple-Geräten, Datenschutz/Nutzerkontrolle"
+    },
+    {
+      "text": "Home Assistant darf Location Access alle 5 Sekunden abfragen",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Bedenken über Datenabfrage und Überwachungsaspekte durch Apps"
+    }
+  ],
+  "notable_quotes": [],
+  "analysis_note": "Transkript behandelt überwiegend technische iPhone-Tipps und App-Debugging. Keine ökonomischen Positionen vorhanden. Nur 2 schwache gesellschaftliche Aussagen zu Datenschutz/App-Transparenz codierbar. Unter Mindestanforderung von 5 Aussagen.",
+  "episode_id": "bits_und_so_GgK3JDB4X10",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_GgK3JDB4X10",
+  "date": null,
+  "country": "DE",
+  "word_count": 670
+}

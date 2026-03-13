@@ -1,0 +1,75 @@
+{
+  "economic_score": 0.25,
+  "social_score": 0.75,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Apple baut gute Hardware, aber nicht wie früher - einfach kompromisslos gut",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an Designkompromissen, nostalgische Qualitätsorientierung, keine ökonomische Position"
+    },
+    {
+      "text": "Diese Tastatur ist Scheisse - das hätte man vorher testen können",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Produktdesign und Qualitätskontrolle, schwache marktkritische Komponente"
+    },
+    {
+      "text": "Der normale Benutzer rennt wegen jedem Problem in den Apple Store",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Beobachtung über Konsumentenverhalten, schwach libertäre Implikation (Nutzer-Autonomie)"
+    },
+    {
+      "text": "Apple hat vier-Jahres-Zyklus - man muss das Ding einfach mehr rumreissen",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an zu rigiden Wirtschaftszyklen, impliziert für responsivere Marktanpassung"
+    },
+    {
+      "text": "Die User bei uns haben keine Admin-Rechte - das ist wahrscheinlich ein Problem",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Akzeptanz von Kontrolle/Restriktionen für Ordnung, leicht autoritär"
+    },
+    {
+      "text": "Windows nervt - ständig Popups, die ich nicht öffnen will",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an Kontrollverlust und unerwünschter Intrusivität, libertäre Anti-Nötigung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das sind so Kompromisse, da fällt man aus einer Zielgruppe raus",
+      "context": "Zur Dünnheit des MacBooks auf Kosten von Funktionalität und Haltbarkeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn ein bisschen schwerer zugeht ist es völlig okay - das ist wurscht",
+      "context": "Zur Frage, ob dickere Hardware besser wäre als Design-Dünnheit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Problem ist nicht mehr beschränkt auf einzelne Geräte - es hat sich im ganzen Körper verteilt",
+      "context": "Zur Reputation-Schädigung durch die Tastatur-Probleme bei MacBooks",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_5B31_ajcjpk",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_5B31_ajcjpk",
+  "date": null,
+  "country": "DE",
+  "word_count": 5568
+}

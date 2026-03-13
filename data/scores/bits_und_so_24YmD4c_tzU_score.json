@@ -1,0 +1,103 @@
+{
+  "economic_score": 2.6,
+  "social_score": 1.2,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Tesla kann sehr effizient bauen, Verbrauch über Model X aber nicht viel höher",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Lob für Unternehmenseffizienz und Marktfähigkeit"
+    },
+    {
+      "text": "Model 3 wird künftig deutlich günstiger, traditionelle Hersteller unterboten",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Freier Markt, Wettbewerb, Preiszerfall durch Innovation"
+    },
+    {
+      "text": "Cybertruck ist nicht lackiert = keine Kratzer, praktisch für Baustellen",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pragmatische Markteffizienz, Unternehmertum"
+    },
+    {
+      "text": "Tesla ist Underdog, macht innovative Sachen, andere große Hersteller sind gefangen",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Markt, kritisch gegenüber etablierter Industrie"
+    },
+    {
+      "text": "Autos insgesamt sind in der Innenstadt nichts zu suchen, besonders diese Viecher",
+      "speaker": "host",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Leichte Kritik an Auto-Kultur, aber schwach ausgeprägt"
+    },
+    {
+      "text": "Cybertruck braucht riesige Flächen, Menschen würden sich unwohl fühlen",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an Fahrzeugaggression, Bürgerrechte/Sicherheit"
+    },
+    {
+      "text": "Dodge Ram fühlt sich beim Vorbeifahren wie Zerfetzung an, unangenehm",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an Verkehrssicherheit, Bürgerschutz"
+    },
+    {
+      "text": "Die Vorbestellung kostet nur 100 Dollar statt 1000 wie beim Model 3",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Neutral-pragmatische Geschäftsstrategie"
+    },
+    {
+      "text": "Batterie-Technologie wird günstiger, Tesla kontrolliert diese Stellschraube selbst",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unternehmertum, Vertikal-Integration, Marktmacht"
+    },
+    {
+      "text": "BMW sagt wir brauchen Autos die Nieren mit Rädern sind, alle sagen scheußlich",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Leichte Kritik an Konformität und schlechtem Design"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das sieht aus wie eine Zukunft in der ich nicht leben möchte",
+      "context": "Kritik an Cybertruck-Brutalität und Aggression",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Tesla ist Underdog, die anderen sind gefangen und können sich coole Sachen leisten",
+      "context": "Marktstruktur und Innovationsfähigkeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn du einen Delorean-Pickup gehabt hättest, wäre er schön geworden",
+      "context": "Design-Analyse des Cybertruck, nostalgische Kritik",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "bits_und_so_24YmD4c_tzU",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_24YmD4c_tzU",
+  "date": null,
+  "country": "DE",
+  "word_count": 5431
+}

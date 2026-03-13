@@ -1,0 +1,127 @@
+{
+  "economic_score": -1.0,
+  "social_score": 3.5,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Diese Bewegung wächst und Gedeih, diesen Menschen eine Bühne zu bieten indem man viel über sie berichtet überhöht diese wirren",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Medienberichterstattung, aber ambivalent zur Zensur"
+    },
+    {
+      "text": "auch wenn deine Meinung erstunken und erlogen ist darfst du sie äußern und dafür gehen wir auch auf die Straße",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Starkes Bekenntnis zu Meinungsfreiheit und Demonstrationsrecht"
+    },
+    {
+      "text": "Jeffrey Epstein hat sich offenbar umgebracht in seiner Zelle... es gibt mehrere Fotos wo Prince Andrew mit wirklich sehr sehr jungen Mädchen zu sehen ist",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritische Haltung gegenüber Elitenkriminalität, Verurteilung von Machtmissbrauch"
+    },
+    {
+      "text": "wenn jemand in hannau loszieht der eine kananon Verschwörungstheorie verinnerlicht hat und Menschen ermordet ist es für mich keine Alternative mehr das aus der Berichterstattung rauszulassen",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Sicherheit über absolute Redefreiheit, aber begrenzt autoritär"
+    },
+    {
+      "text": "man kann versuchen Leute aufzuklären und zwar bevor sie gefährdet sind hineinzufallen... dadurch dass man bestimmte Mechanismen offenbart",
+      "speaker": "host",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Vertrauen in Aufklärung und rational-liberales Projekt, Partizipation"
+    },
+    {
+      "text": "Verschwörungstheorie besonders häufig dann in die Köpfe und Herzen der Menschen eindringt wenn sie einsam sind wenn sie auf Sinnsuche sind",
+      "speaker": "host",
+      "economic": -1,
+      "social": 4,
+      "reasoning": "Empathische Analyse sozialer Ursachen, psychosoziale Perspektive"
+    },
+    {
+      "text": "Donald Trump der einzige Kämpfer unsere Hoffnung für das Licht der Erweckung ist... das ist eine Verblendung",
+      "speaker": "host",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Kritik an rechtsautoritärer Personalisierung, Elitenkritik aber ambivalent"
+    },
+    {
+      "text": "diese bigoterie Maßstäbe völlig unterschiedlich anzulegen je nachdem wie es ein den Kram passt das ist eine Form von Verblendung die ich für gefährlich halte",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an logischen Widersprüchen in autoritärer Rhetorik"
+    },
+    {
+      "text": "wir müssen so dringend wie möglich gesellschaftlich erarbeiten wie man dagegen vorgehen kann",
+      "speaker": "host",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Appell für kollektive demokratische Problemlösung, partizipativ"
+    },
+    {
+      "text": "könnte man überlegen ob es hier auch so Verschwörungstheorie beauftragte gibt die Rezepte erarbeiten wie man reduzieren kann",
+      "speaker": "host",
+      "economic": -1,
+      "social": -1,
+      "reasoning": "Befürwortung von Staatlichen Strukturen zur Prävention, leicht autoritär"
+    },
+    {
+      "text": "es ist nämlich in der Tat so dass diese neue Form von verschwörungstheoretischenem Baukastensystem und ikeaprzip im Internet eine neue Dynamik bekommt",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an Designmechanismen sozialer Medien, implizite Regulierungsforderung"
+    },
+    {
+      "text": "du hast hier eine Argumentation die nicht ganz wahr ist du musst dich damit nicht identifizieren",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Appell zu rationaler Distanz, Kritik an Identitätsraub durch Ideologie"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "du wirst deine gerechte Strafe bekommen wir vergessen nicht... auch wenn deine Meinung erstunken und erlogen ist darfst du sie äußern",
+      "context": "Analyse eines Qanon-Kommentars mit widersprüchlicher Rhetorik",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Jeffrey Epstein hat sich offenbar umgebracht in seiner Zelle... aber Donald Trump z.B mit Jeffrey Stein gibt's dutzende Fotos und der wird überhaupt nicht belangt",
+      "context": "Kritik an Doppelmoral bei Elitenkritik in Verschwörungstheorien",
+      "quiz_suitable": true
+    },
+    {
+      "text": "diese elitenfeindlichkeit die bei qanon auch Teil des Programms ist diese elitenfeindlichkeit die ist ohnehin deswegen so schwierig weil sie so inkonsistent ist",
+      "context": "Analyse der logischen Widersprüche in Verschwörungstheoretischer Elitenkritik",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Verschwörungstheorie ist tatsächlich eine Art Droge die komplett vergiften kann... wir haben überragend viele so generalrezepte dagegen",
+      "context": "Lobo beschreibt psychologische Suchtdynamik von Verschwörungsdenken",
+      "quiz_suitable": true
+    },
+    {
+      "text": "was kann man tun diese Bewegung wächst und Gedeih... ich glaube es gibt eine Zeitphase gibt wo Leute schon gefährdet sind wo wenn man sie erreicht man tatsächlich etwas bewirken kann",
+      "context": "Hoffnung auf Radikalisierungsprävention in kritischem Fenster",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_pylH6jqsmAQ",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_pylH6jqsmAQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 8971
+}

@@ -1,0 +1,58 @@
+{
+  "economic_score": 0.0,
+  "social_score": 2.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Safari ist deutlich weniger hungrig als Chrome und Firefox bei Prozessorauslastung",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Technische Produktbewertung, keine politische Meinung"
+    },
+    {
+      "text": "auf iOS ist Safari nicht zu ersetzen, deswegen nutze ich auch auf Desktop Safari",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Präferenz für ökosystem-Geschlossenheit/Integration, leicht libertär-kritisch gegenüber Alternativen"
+    },
+    {
+      "text": "ich bin völlig iCloud ausgeliefert dass sich da serverseitig gemerkt wird",
+      "speaker": "host",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Abhängigkeit von proprietärem Cloud-Ökosystem, implizit leicht kritisch zu Datenschutz"
+    },
+    {
+      "text": "wenn du keine Flash installiert hast und eine Seite nicht mitspielt, geh einfach zu einer anderen Seite",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Befürwortung von Benutzerfreiheit und Wahlmöglichkeit statt Erzwingung von Technologien"
+    },
+    {
+      "text": "es gibt keinen Grund mehr Flash nachzuinstallieren auf einem Mac",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Befürwortung von technologischer Offenheit und Abkehr von veralteten Sicherheitsrisiken"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wenn du eine Seite findest die nicht mitspielt dann geh einfach zu einer anderen Seite",
+      "context": "Diskussion über Flash-Abhängigkeiten und Nutzerfreiheit im Web",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_Q2Ez5-PYQE8",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_Q2Ez5-PYQE8",
+  "date": null,
+  "country": "DE",
+  "word_count": 1088
+}

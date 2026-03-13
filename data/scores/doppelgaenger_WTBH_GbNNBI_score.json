@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 54 column 17 (char 2085)",
+  "raw_response": "{\n  \"economic_score\": 1.29,\n  \"social_score\": 1.43,\n  \"n_coded\": 21,\n  \"insufficient_data\": false,\n  \"confidence\": 0.78,\n  \"coded_statements\": [\n    {\n      \"text\": \"Apple bevorzugt bei Podcast-Features bezahlte Inhalte - das ist wie Ladenhüter oben im Shop platzieren\",\n      \"speaker\": \"host\",\n      \"economic\": -3,\n      \"social\": null,\n      \"reasoning\": \"Kritik an monopolistischer Plattformkontrolle und Bevorzugung zahlungspflichtiger Inhalte\"\n    },\n    {\n      \"text\": \"Newsletter-Promotion ",
+  "episode_id": "doppelgaenger_WTBH_GbNNBI",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_WTBH_GbNNBI",
+  "date": null,
+  "country": "DE",
+  "word_count": 14491
+}

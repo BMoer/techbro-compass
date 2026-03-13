@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.62,
+  "coded_statements": [
+    {
+      "text": "Apple sollte Third-Party-Stift-Tasten systemweit unterstützen, nicht nur einzelne Apps",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Fordert Offenheit und Interoperabilität; gegen Apples proprietäre Kontrolle"
+    },
+    {
+      "text": "80€ für einen Stift ist gerechtfertigt, wenn man viel schreibt und er gut verarbeitet ist",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktpreise akzeptierend, Qualität vor Preis, eher pro-Markt orientiert"
+    },
+    {
+      "text": "Dass Apple Drittstift-Funktionen nicht unterstützt, ist eine Frechheit und Prioritätsproblem",
+      "speaker": "host",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Kritisiert Monopolverhalten; fordert Offenheit und Consumer Choice"
+    },
+    {
+      "text": "PaperLike-Folie + Drittstift wird zur First-Choice, weil Apple-Lösungen zu teuer/rigid sind",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Lobt alternatives Ökosystem; leichte Pro-Markt-Libertäre Neigung gegen Herstellerkontrolle"
+    },
+    {
+      "text": "Schulen kaufen Lami-Stifte statt Apple Pencils wegen praktischer Kappenlösung für Schüler",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Marktanpassung; Kostenfaktor, aber nicht ideologisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das heute nicht geht, ist immer noch nicht geht – das ist eigentlich echt eine Frechheit",
+      "context": "Kritik an Apples fehlender Third-Party-Stift-Unterstützung nach Jahren",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Pencil ist nicht richtig viel billiger – von daher ist 80€ für Lami gerechtfertigt",
+      "context": "Preisvergleich zwischen Apple Pencil und Lami Safari Note Plus",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_M48OUF90GOk",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_M48OUF90GOk",
+  "date": null,
+  "country": "DE",
+  "word_count": 2050
+}

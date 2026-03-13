@@ -1,0 +1,70 @@
+{
+  "economic_score": -1.0,
+  "social_score": 1.67,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Wer nicht arbeitet, soll nicht essen / Sozialleistungen machen abhängig",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Keine relevanten politischen Aussagen zu Wirtschaft/Gesellschaft im Transkript"
+    },
+    {
+      "text": "Es ist selbstverständlich, dass Putzen nicht Frauenaufgabe ist, sollte zwischen Geschlechtern gleich verteilt sein",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Kritik an tradierten Rollenverteilungen, Forderung nach Gleichstellung (libertär), schwache ökonomische Kritik an unbezahlter Hausarbeit"
+    },
+    {
+      "text": "Frauen übernehmen mehr Hausarbeit, auch wenn sie mehr verdienen – das ist ein tradiertes Rollenmuster",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Kritik an unbezahlter Hausarbeit und geschlechtsspezifischer Ungleichheit; libertäre Perspektive auf Emanzipation"
+    },
+    {
+      "text": "In meiner Familie, in meinen WGs und Beziehungen gab es immer keinen Unterschied zwischen Geschlechtern beim Putzen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Persönliche Bestätigung von Geschlechterparität; leicht libertäre Haltung aber eher autobiografisch"
+    },
+    {
+      "text": "Du hilfst nicht mit in deiner eigenen Wohnung, sondern übernimmst deinen Anteil der Arbeit",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Kritik an Sprachgebrauch der Unterordnung; egalitäre Perspektive auf Haushaltsarbeit"
+    },
+    {
+      "text": "Man braucht nicht viele Putzmittel – Wasser, Essig, Seife reichen aus; keine teuren Spezialprodukte nötig",
+      "speaker": "guest",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Sanfte Kritik an Konsumismus/Überkonsum; praktische, weniger-ist-mehr-Philosophie"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Der Lieblinghasssatz ist 'Schatz, wie kann ich dir heute im Haushalt helfen' – das impliziert, es ist die Aufgabe der Frau",
+      "context": "Kritik an geschlechtsspezifischer Arbeitsteilung und subtiler Unterordnung im Haushalt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Eine Studie zeigte: Eine saubere Wohnung ist bei Frauen Standard, bei Männern positive Überraschung",
+      "context": "Diskussion über geschlechtsspezifische Erwartungen an Sauberkeit",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_gNMBP8kk-p0",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_gNMBP8kk-p0",
+  "date": null,
+  "country": "DE",
+  "word_count": 5470
+}

@@ -1,0 +1,96 @@
+{
+  "economic_score": -1.4,
+  "social_score": -0.4,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Polen hat 20 Jahre Wirtschaftswachstum hinter sich, ist in vielerlei Hinsicht moderner als Deutschland",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Factual-Aussage über Wirtschaftsentwicklung, keine normative Bewertung"
+    },
+    {
+      "text": "Die EU wird von Polen B nicht als Völkerverständigung verstanden, sondern als Einschränkung ihrer Werte",
+      "speaker": "guest",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Kritik an EU-Regulierung (Umwelt, LGBTQ); autoritäre Furcht vor Wertverlust"
+    },
+    {
+      "text": "Navrotzki punktet dadurch, dass der Green Deal der EU weg muss - echte Klientelpolitik",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Befürwortung von Deregulierung (Umweltauflagen), kritisiert als Klientelpolitik"
+    },
+    {
+      "text": "Polen will gegenüber Deutschland Eigenständigkeit beweisen, nicht auf partnerschaftlicher Ebene kooperieren",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Anti-autoritäre Ablehnung von Abhängigkeit; aber auch souveränitäts-protektionistisch"
+    },
+    {
+      "text": "Deutschland wird von Nationalkonservativen nicht als Partner gesehen, sondern als hegemoniales Instrument",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Misstrauen gegen deutsche Wirtschaftshegemonie in EU; protektionistische Grundhaltung"
+    },
+    {
+      "text": "Eine Kooperation mit Deutschland, Frankreich im Weimarer Dreieck pragmatisch möglich und nötig",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Pragmatischer, integrativer Befund - zentristisch abwägend"
+    },
+    {
+      "text": "Russland gehört zur ideologischen DNA der polnischen Rechten als zu kritisieren - historisch begründet",
+      "speaker": "guest",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Anti-russische Haltung hat autoritäre Gründe (Fremdhherrschaft, Verbrechen), aber kein radikales Misstrauen Westen gegenüber"
+    },
+    {
+      "text": "Trump ist zu unzuverlässig - Europa in NATO muss mit sich selbst rechnen, nicht mit USA",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 1,
+      "reasoning": "Kritik an US-Deregulierung/Populismus; europäische Eigenständigkeit als Wert, aber nicht libertär"
+    },
+    {
+      "text": "Bei der Wahl geht es nicht um Programmatik, sondern um Lebensgefühl und Identität",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Meta-Aussage über Wahlmotivation - nicht normativ positioniert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Polen ist zu groß, um kleines Land zu sein und zu klein, um großes Land zu sein",
+      "context": "Beschreibung Polens geopolitischer Dilemmas zwischen Eigenständigkeit und Notwendigkeit europäischer Kooperation",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Deutschen wissen, dass der Holocaust in Polen ins Werk gesetzt wurde, aber nicht, dass sie einen Volkstumskrieg gegen polnische Eliten führten",
+      "context": "Erklärung für polnisches Misstrauen gegenüber Deutschland trotz EU-Integration",
+      "quiz_suitable": true
+    },
+    {
+      "text": "In Polen gibt es ein viel stärkeres Bewusstsein über die russische Bedrohung als hier in Deutschland",
+      "context": "Grund für Polens konstante NATO-Orientierung und Sicherheitsdenken",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_Z2P1x6Fr7P4",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_Z2P1x6Fr7P4",
+  "date": null,
+  "country": "DE",
+  "word_count": 4355
+}

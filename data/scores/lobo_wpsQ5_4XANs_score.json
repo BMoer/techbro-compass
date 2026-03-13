@@ -1,0 +1,82 @@
+{
+  "economic_score": -1.4,
+  "social_score": -2.0,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Wir sind nicht wie die Altparteien, wir sind nicht korrupt und verfilzt",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Aussage über Parteiimage, nicht wertendes Policy-Statement"
+    },
+    {
+      "text": "Politische Gefälligkeiten auf Steuerkosten ausgetauscht werden und systematisch stattfindet",
+      "speaker": "guest",
+      "economic": -4,
+      "social": -3,
+      "reasoning": "Kritik an Verschwendung öffentlicher Mittel + Vorwurf von Nepotismus/Bestechung"
+    },
+    {
+      "text": "Der Grad der Verfilzung ist wirklich enorm und das macht die Basis wütend",
+      "speaker": "guest",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Kritik an Korruption und mangelnder Transparenz in Personalentscheidungen"
+    },
+    {
+      "text": "Bundestagsabgeordneter sagt: Im übrigen bin ich nicht in die AfD eingetreten, um skrupellosen Altparteienpolitikern durch genauso skrupellose Altparteienpolitiker zu ersetzen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Korruption/Nepotismus, aber eher moralisch als wirtschaftspolitisch"
+    },
+    {
+      "text": "Man käme um eine entsprechende Rechtsgrundlage nicht drum herum, um aus der tief verankten Filz- und Vetternwirtschaft Konsequenzen zu ziehen",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Forderung nach stärkerer Regulierung zur Bekämpfung von Korruption"
+    },
+    {
+      "text": "Die Regelungen sind schärfer als beispielsweise im Bundestag, da inzwischen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Befürwortung von schärferen gesetzlichen Regelungen gegen Nepotismus"
+    },
+    {
+      "text": "Die AfD hat eine sehr loyale Anhängerschaft, die bereit ist, der Partei einiges zu verzeihen, weil sie sehr hungrig ist auf einen Politikwechsel",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Analytische Aussage über Wählerpräferenzen, keine normative Position"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Im übrigen bin ich nicht in die AfD eingetreten, um skrupellosen Altparteienpolitikern durch genauso skrupellose Altparteienpolitiker zu ersetzen",
+      "context": "Bundestagsabgeordneter kritisiert intern Nepotismus innerhalb der eigenen Partei",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir können nur an uns selbst scheitern",
+      "context": "Basis-Antrag in Sachsen-Anhalt warnt vor Glaubwürdigkeitsverlust durch Postenschieberei",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Grad der Verfilzung ist wirklich enorm und das macht die Basis wütend",
+      "context": "Journalist beschreibt Ausmaß von Nepotismus-Skandalen bei der AfD",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_wpsQ5_4XANs",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_wpsQ5_4XANs",
+  "date": null,
+  "country": "DE",
+  "word_count": 2151
+}

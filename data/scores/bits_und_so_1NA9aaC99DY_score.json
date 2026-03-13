@@ -1,0 +1,70 @@
+{
+  "economic_score": 2.0,
+  "social_score": 3.5,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "70-80€ Normalpreis, 45€ mit Rabatt für Premium-Statistiken",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Konsumentische Perspektive auf SaaS-Preisgestaltung, pragmatisch"
+    },
+    {
+      "text": "Die Statistiken waren der einzige Grund die App zu bezahlen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritik an Geschäftsmodell: Premium-Features als Lock-in"
+    },
+    {
+      "text": "Sie schmeißen die Statistiken raus - nur 4€ Rückerstattung",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Kritik an Unternehmensverhalten: Kundenunfreundlich, mangelhaftes Entgegenkommen"
+    },
+    {
+      "text": "Das Problem mit Nerds: zu viele Zonen verwirren die meisten Nutzer",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Business-Decision: Simplification für Massenmarkt statt Nische"
+    },
+    {
+      "text": "Zero ändert Datenformat von CSV zu JSON - Datenportabilität weg",
+      "speaker": "host",
+      "economic": 4,
+      "social": 5,
+      "reasoning": "Kritik an proprietären Systemen, Vendor Lock-in, Datenkontrolle"
+    },
+    {
+      "text": "Die Statistiken waren oft falsch - Probleme mit Monatsaufzählung",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an schlechter Produktqualität/Sorgfalt"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "das Problem mit Nerds ist aber auch dass sie sehr wenige sind",
+      "context": "Begründung warum Entwickler komplexe Features zugunsten Massenmarkt entfernen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Zero hat seinen datenexportformat verändert von CSV zu JSON",
+      "context": "Beispiel für Vendor Lock-in und eingeschränkte Datenportabilität",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_1NA9aaC99DY",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_1NA9aaC99DY",
+  "date": null,
+  "country": "DE",
+  "word_count": 1066
+}

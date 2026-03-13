@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "Cloud Functions mit großzügigem gratis Level, zahlt man nach Millisekunden",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Befürwortung von Pay-as-you-go Modell, Marktmechanismus statt Flatrate"
+    },
+    {
+      "text": "Slack als Kommandozeile ist viel netter als eigene App anfassen",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Werkzeugwahl, keine ideologische Position"
+    },
+    {
+      "text": "Diese Offenheit ist ein Erfolgsting von Slack, woanders schwer zu finden",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Lob für offene Plattform mit API-Zugang, dezentrale Integration statt Walled Garden"
+    },
+    {
+      "text": "Matrix ist heißer Scheiß aber man muss selber mehr Arbeit reinstecken",
+      "speaker": "host",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Open-Source bevorzugt aber aufwändiger; implizit: Dezentralisierung vs. Komfort"
+    },
+    {
+      "text": "Wir können viel pushen bevor wir zahlen müssen, Challenge accept",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Freude über kostenloses Tier, typisch Tech-Startup Mentalität, Skalierungsoptimismus"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "du kannst 100.000 User drauf schmeißen und das wird dann auch 100.000 Mal ausgeführt ohne dass du dich drum kümmern musst - nur die enorme Rechnung bezahlen",
+      "context": "Sarkasmus auf Serverless-Skalierung und versteckte Kosten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wenn du dich das traust natürlich traust du dich das weil was soll denn schon schief gehen weil Wolke",
+      "context": "Ironische Kritik an Cloud-Abhängigkeit und Nachlässigkeit bei Produktions-Deployments",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_571pJB4d46I",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_571pJB4d46I",
+  "date": null,
+  "country": "DE",
+  "word_count": 1759
+}

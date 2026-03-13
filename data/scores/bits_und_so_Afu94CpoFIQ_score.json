@@ -1,0 +1,32 @@
+{
+  "economic_score": 0.0,
+  "social_score": 0.0,
+  "n_coded": 2,
+  "insufficient_data": true,
+  "confidence": 0.3,
+  "coded_statements": [
+    {
+      "text": "Ich benutze klassisches Gmail 90er Jahre Interface weil das einfach sehr nett ist",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Persönliche Nutzungspräferenz, keine Meinungsaussage zu politischen Themen"
+    },
+    {
+      "text": "Ich verstehe nicht, dass Google seinen eigenen Algorithmen nicht genug traut das zu automatisieren",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Kritik an Unternehmensdesign-Entscheidungen, keine klare ideologische Position erkennbar"
+    }
+  ],
+  "notable_quotes": [],
+  "analysis_notes": "Das Transkript behandelt ausschließlich technische Aspekte von E-Mail-Clients (Gmail, Inbox). Es enthält keine meinungstragenden Aussagen zu ökonomischen Systemen, Regulierung, Marktfreiheit, Datenschutz, Überwachung oder gesellschaftlichen Fragen. Der Sprecher äußert sich nur zu persönlichen Produktpräferenzen und technischen Funktionen. Keine ausreichende Datenbasis für aussagekräftige politikwissenschaftliche Codierung.",
+  "episode_id": "bits_und_so_Afu94CpoFIQ",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_Afu94CpoFIQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 1620
+}

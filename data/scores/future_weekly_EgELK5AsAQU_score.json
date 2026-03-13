@@ -1,0 +1,122 @@
+{
+  "economic_score": 0.4,
+  "social_score": 0.6,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Entrepreneurship ist ein State of Mind von Menschen, die die Zukunft gestalten wollen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 3,
+      "reasoning": "Positive Einstellung zu Unternehmertum, leicht marktorientiert, aber auch gesellschaftlich offen"
+    },
+    {
+      "text": "Das Problem ist nicht fehlende Forschung, sondern fehlende Gründungsaktivitäten",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Diagnose des Marktsystems, nicht ideologisch gefärbt"
+    },
+    {
+      "text": "Wir müssen Entrepreneurship an die Universitäten bringen, nicht nur als Fachbereich",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 4,
+      "reasoning": "Förderung von Bildung und gesellschaftlicher Teilhabe, bottom-up Ansatz"
+    },
+    {
+      "text": "Spin-offs und Gründungen sind strategische Erfolgsfaktoren für die Gesellschaft",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Marktorientiert, aber gesamtgesellschaftlich begründet"
+    },
+    {
+      "text": "Mit kleinen Beträgen (5.000-10.000 Euro) können Gründer in kritischen Phasen unterstützt werden",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 3,
+      "reasoning": "Staatliche/gemeinschaftliche Unterstützung von unten, nicht marktwirtschaftlich"
+    },
+    {
+      "text": "Das größte Learing ist: Man muss rausgehen und Überzeugungsarbeit leisten",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Pragmatisch, gesellschaftlich orientiert, keine klare ökonomische Position"
+    },
+    {
+      "text": "Entrepreneurship sollte Pflichtbestandteil am Studienbeginn sein",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 3,
+      "reasoning": "Bildungsförderung, gesellschaftlich inklusiv, nicht radikal"
+    },
+    {
+      "text": "Frühe Exposition gegenüber Entrepreneurship führt zu proaktiveren Bürgern",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 4,
+      "reasoning": "Fokus auf Emanzipation und Selbstwirksamkeit, libertär geprägt"
+    },
+    {
+      "text": "Der rechtliche Rahmen in Österreich ist ein Hemmschuh für innovative Gründungen",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an Regulierung, fordert deregulatorische Reformen"
+    },
+    {
+      "text": "Wir sind top-ten bei Publikationen und Patenten, aber lost in translation bei Gründungen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Problem-Erkenntnis ohne klare ideologische Färbung, pragmatisch"
+    },
+    {
+      "text": "Start-ups sind nicht dafür da, dass einige unfassbar reich werden, sondern um den Mittelstand zu stärken",
+      "speaker": "host",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Kritik an Vermögenskonzentration, pro-Mittelstand, sozialdemokratisch geprägt"
+    },
+    {
+      "text": "Die universitären Silos müssen aufgebrochen werden, aber spezifisches Know-how muss erhalten bleiben",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Abwägende Position zu Struktur vs. Öffnung, gesellschaftlich progressiv"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Man wird vom Passagier zum Piloten",
+      "context": "Markus beschreibt die transformative Wirkung von Gründungserfahrungen auf die Persönlichkeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Glashaus ist nur 50 cm hoch und wir wundern uns, warum die Sonnenblume nicht wächst",
+      "context": "Metapher für regulatorische Hemmschuhe bei innovativen Gründungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Österreich ist top-ten in wissenschaftlichen Publikationen, aber lost in translation bei Gründungen",
+      "context": "Rudolf beschreibt das zentrale Problem des Innovations-Transfers",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Start-ups sollen nicht dafür da sein, dass einige unfassbar reich werden",
+      "context": "Daniel kritisiert das falschen Narrativ über Start-ups in der Gesellschaft",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_EgELK5AsAQU",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_EgELK5AsAQU",
+  "date": null,
+  "country": "AT",
+  "word_count": 8744
+}

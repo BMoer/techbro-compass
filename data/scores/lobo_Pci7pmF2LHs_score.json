@@ -1,0 +1,127 @@
+{
+  "economic_score": -1.5,
+  "social_score": -3.0,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Der Staat hat sich aus unserem Leben rauszuhalten, neoliberale Vorstellung, Abwehr von Eingriffen",
+      "speaker": "guest",
+      "economic": 6,
+      "social": 4,
+      "reasoning": "Libertäre Wirtschaftsposition, Staatsminimierung"
+    },
+    {
+      "text": "Es gibt sowas wie Gesellschaft gar nicht, es gibt nur uns Individuen - sehr gefährliches Denken",
+      "speaker": "guest",
+      "economic": 7,
+      "social": 8,
+      "reasoning": "Radikaler Individualismus, Anti-Kollektivismus, anarchistische Tendenzen"
+    },
+    {
+      "text": "Querdenken als Bewegung ist rechtsextrem, nicht jeder einzelne aber die Bewegung ist es",
+      "speaker": "guest",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Warnung vor autoritärer/extremistischer Bewegung"
+    },
+    {
+      "text": "Widerstandsnarrativ: Wir müssen handeln, notfalls mit Gewalt um uns zu schützen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -8,
+      "reasoning": "Gewaltlegitimation, autoritäre Notwehr-Rhetorik"
+    },
+    {
+      "text": "Michael Ballweg ist Unternehmer der eine Marktlücke erkannt und genutzt hat - es geht um Profit",
+      "speaker": "host",
+      "economic": 8,
+      "social": null,
+      "reasoning": "Kapitalistisches Profitmotiv, kommerzielle Ausbeutung"
+    },
+    {
+      "text": "Reichsbürger-Ideologie ist von Grund auf antidemokratisch, autoritäre Herrschaftssysteme",
+      "speaker": "guest",
+      "economic": null,
+      "social": -9,
+      "reasoning": "Stark autoritär, gegen Demokratie, Monarchie/Kaiserreich-Bezüge"
+    },
+    {
+      "text": "Demonstrations-Maßnahmen kritisieren ist nachvollziehbar, Menschen haben Angst und Existenzsorgen",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Soziale Kritik am System, Verständnis für materielle Ängste"
+    },
+    {
+      "text": "Radikale Egoismus dieser Bewegung, nicht solidarisch für konstruktive Umverteilung",
+      "speaker": "guest",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik am Mangel sozialer Solidarität, Kapitalismuskritik"
+    },
+    {
+      "text": "Verfassungsfeindliche und antidemokratische Stoßrichtung trotz kommerzieller Interessen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -8,
+      "reasoning": "Verfassungsfeindlich, antidemokratisch, autoritär"
+    },
+    {
+      "text": "Journalisten-Kritik: Politiker haben sich an Masken bereichert, Staat ist nicht immer der Gute",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Anti-Establishment, Korruptionskritik, aber ohne konstruktiven Gegenentwurf"
+    },
+    {
+      "text": "Menschen in Schocksituationen reagieren fast kindlich einfach: Feind identifizieren, Angst channeln",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Analyse autoritärer Psychodynamik, Angst-Manipulation"
+    },
+    {
+      "text": "Beobachtung allein kann Radikalisierung nicht lösen - gesellschaftliche Aufgabe mit Aufklärung nötig",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Pragmatisch-libertär, gegen reinen Sicherheitsstaat, für Aufklärung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wir sind alle Menschen - dieser Gedanke wir alle gegen einen Feind egal wer damit läuft",
+      "context": "Analyse wie unterschiedliche Gruppen über gemeinsamen Feindbild zusammengeführt werden",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es entsteht aus Individualismus, völkischem Denken, libertären Vorstellungen zusammenfassende Demokratiefeindlichkeit",
+      "context": "Erklärung des ideologischen Gefüges der Querdenken-Bewegung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Pandemie ist für Ballweg nur Auslöser - es geht um das System seit 2001 zu stürzen",
+      "context": "Corona ist Mittel, nicht Zweck bei den wahren Motiven der Anführer",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Radikalisierungs-Potenzial: Kleine Markierungen mit Judensternen bis zu tödlichen Verschwörungserzählungen",
+      "context": "Warnung vor Eskalationsdynamik von Symbolik zu konkreter Gewalt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Verfassungsschutz sagt mir ich bin böse weil ich mit meinem Ministerpräsident reden will",
+      "context": "Normalbürger-Perspektive: Institutionen-Vertrauen komplett aufgeweicht",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_Pci7pmF2LHs",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_Pci7pmF2LHs",
+  "date": null,
+  "country": "DE",
+  "word_count": 9928
+}

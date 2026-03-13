@@ -1,0 +1,94 @@
+{
+  "economic_score": -1.4,
+  "social_score": -0.6,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Keine Quereinsteiger ohne grundständiges Referendariat, weniger Stunden zum Ausbilden, nicht gleich unausgebildet auf Schüler loslassen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 0,
+      "reasoning": "Fordert mehr Regulation & Struktur im Einsteigerprozess, gegen Deregulierung"
+    },
+    {
+      "text": "Quereinsteiger unterschätzen Arbeitsbelastung, wie unfassbar anstrengend ein Unterrichtstag ist, wenig Unterstützung für Lehrer",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 0,
+      "reasoning": "Kritik an mangelnder Infrastruktur & Unterstützung, implizite Forderung nach besseren Bedingungen"
+    },
+    {
+      "text": "Es muss mehr Reduzierungsstunden geben, Arbeitsaufwand am Anfang zu hoch, Gefahr der Überlastung",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 0,
+      "reasoning": "Fordert Reduktion der Arbeitsbelastung, bessere Ressourcenverteilung für Arbeitnehmer"
+    },
+    {
+      "text": "Die Masse und Menge der Quereinsteiger ist das Problem, man darf die nicht verheizt werden",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 0,
+      "reasoning": "Arbeitnehmerrechte-Perspektive, Kritik an Ausbeutung durch hohe Workload"
+    },
+    {
+      "text": "Mehr Studienplätze schaffen, man kann mit Abischnitt 1,8 nicht mal Grundschullehrerin werden",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 0,
+      "reasoning": "Fordert staatliche Investition in Bildungsinfrastruktur & Chancengleichheit"
+    },
+    {
+      "text": "Lehrer sollten von unterrichtsfremden Tätigkeiten entlastet werden, dann würden mehr Teilzeit-Kräfte ihre Stunden erhöhen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 0,
+      "reasoning": "Arbeitnehmerorientiert: bessere Bedingungen würden Produktivität erhöhen"
+    },
+    {
+      "text": "Quereinsteiger bringen andere Lebenserfahrungen mit, aber das Problem ist die Masse und Menge",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Abwägend, wertend, aber keine klare ökonomische oder gesellschaftliche Position"
+    },
+    {
+      "text": "Union und SPD müssen schnell sorgen, dass mehr Lehrer ausgebildet werden - Bildung ist Schlüsselthema",
+      "speaker": "host",
+      "economic": -2,
+      "social": 0,
+      "reasoning": "Fordert staatliches Engagement & Investition in öffentliche Bildung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Manchmal ist es wirklich besser nicht zu unterrichten als falsch zu unterrichten",
+      "context": "Schulleiterin kritisiert überforderte Quereinsteiger ohne ausreichende Ausbildung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich würde keine Quereinsteiger ohne grundständiges Referendariat mir nehmen",
+      "context": "Schulleiterin fordert regulatorisches Mindeststandard gegen schnelle Notlösungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das funktioniert nur bis zu einem gewissen Grade - dann muss ich Eltern sagen, der lernt noch",
+      "context": "Schulleiterin beschreibt Limits der Toleranz für unausgebildete Lehrkräfte",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Über 80% für aufhören, 20% für weitermachen",
+      "context": "Simon beziffert seine Wahrscheinlichkeit zum Abbrechen - drastische Überfordertheit",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_FvxSb4hlmWo",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_FvxSb4hlmWo",
+  "date": null,
+  "country": "DE",
+  "word_count": 3574
+}

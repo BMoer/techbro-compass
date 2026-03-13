@@ -1,0 +1,70 @@
+{
+  "economic_score": 1.0,
+  "social_score": 3.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.6,
+  "coded_statements": [
+    {
+      "text": "Crashplan ist ein fantastischer Dienst, den ich sehr lange nutze und viel Geld dafür ausgebe",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Befürwortung von privatem kommerziellem Service über öffentliche Alternativen"
+    },
+    {
+      "text": "Dropbox-Daten nicht doppelt in die Cloud schieben, um Effizienz zu maximieren",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Optimierung von Ressourcenallokation, pragmatischer Marktgebrauch"
+    },
+    {
+      "text": "Crashplan-Geschäftsmodell unklar, Nutzer können endlos Daten reinschieben",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an unklarer Preisstruktur und potenzieller Ausbeutung durch Datenmenge"
+    },
+    {
+      "text": "Open Source SSH Tunnel Manager verwenden statt proprietäre Lösungen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Bevorzugung von Open Source und technischer Transparenz/Kontrolle"
+    },
+    {
+      "text": "Nutzer können Backups in bestimmten WLANs deaktivieren - maximale Nutzerkontrolle",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Betonung von Benutzerautonomie und Privatsphärenoptionen"
+    },
+    {
+      "text": "Crashplan funktioniert auf allen Plattformen mit Java - pragmatischer Ansatz",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Akzeptanz von technischen Kompromissen für maximale Plattformkompatibilität"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "crashplan sollten uns bezahlen verdammte Kacke das läuft nämlich auf sowas wie auf einem Synology",
+      "context": "Ironische Übertreibung der Leistungsfähigkeit von Crashplan auf NAS-Systemen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "die Software ist so ein bisschen fremd aber wenn die Daten wieder zurückkommen ist das ja alles quasi egal",
+      "context": "Pragmatische Bewertung: Benutzerfreundlichkeit sekundär gegenüber Funktionalität",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_kcyJVspOq8o",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_kcyJVspOq8o",
+  "date": null,
+  "country": "DE",
+  "word_count": 2543
+}

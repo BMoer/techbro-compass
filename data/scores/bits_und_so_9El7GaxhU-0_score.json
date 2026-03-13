@@ -1,0 +1,96 @@
+{
+  "economic_score": -1.4,
+  "social_score": 1.6,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Diese Mehrwertsteuerregelung ist zwar ziel der ab auf solche firmen wie apple auf amazon [...] die von luxemburg geflüchtet haben",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Steuervermeidung, fordert implizit Regulierung von Tech-Großkonzernen"
+    },
+    {
+      "text": "Was ich total banane finde ist dass die Neuregelung [...] total wettbewerbsfeindlich [ist]",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an regulatorischer Maßnahme, die den Steuerwettbewerb verhindert. Liberale Perspektive."
+    },
+    {
+      "text": "Wenn man so ein bisschen liberale eingestellt ist [...] dann wird halt einfach dadurch das Steuersystem ausgehebelt",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Wettbewerb, gegen Harmonisierung. Eher marktwirtschaftliche Sicht."
+    },
+    {
+      "text": "Die ganze Nummer diese Umstellung ist ja unfassbar kompliziert [...] du kannst selbst nicht verkaufen",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, die kleine Anbieter benachteiligt. Eher links-regulativ gemeint."
+    },
+    {
+      "text": "Für Selbständige ist das ein Segen dass die Mehrwertsteuer Rechnungen jetzt da sind",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Positive Bewertung von Compliance-Infrastruktur, die Selbständige schützt."
+    },
+    {
+      "text": "Das SS7-Netzwerk ist uralt [...] die Signalisierung ist glaube ich bei ISDN verwendet worden",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an veralteten Sicherheitsstandards, die Überwachung ermöglichen. Sicherheit > Freiheit."
+    },
+    {
+      "text": "Das Szenario wenn du den Rechner einmal nach dem Kauf aus der Hand gegeben hast [...] kann die NSA das installieren",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Kritik an staatlicher/korporativer Überwachung von Hardware. Pro-Datenschutz, anti-autoritär."
+    },
+    {
+      "text": "Diese Futures-Compositing-Software kostet jetzt 0 Dollar statt 25.000",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Positive Bewertung von Preisreduktion/Demokratisierung von Software durch Akquisition."
+    },
+    {
+      "text": "Es gibt jetzt einen automatischen Widerrufsmenüpunkt [...] ohne Angabe von spezifischen Gründen",
+      "speaker": "host",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Positive Bewertung von Verbraucherschutzregeln (EU-Recht), die Consumer-Rechte stärken."
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die ganze Nummer diese Umstellung ist ja unfassbar kompliziert [...] ich habe einfach 100.000 auf die Datei gemacht",
+      "context": "Host beschreibt Konsequenzen der neuen EU-Mehrwertsteuern für kleine Online-Händler",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das SS7-Netzwerk ist uralt [...] und es ist halt furchtbar, dass durch diese Abwärtskompatibilität das auch für die nächsten Jahrzehnte [offen bleibt]",
+      "context": "Kritik an Telekommunikations-Sicherheitsarchitektur, die veraltete Protokolle weiter unterstützt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn du den Rechner einmal nach dem Kauf aus der Hand gegeben hast [...] ist die Maschine sozusagen verloren",
+      "context": "Sicherheitsvulnerabilität in MacBooks: Thunderbolt-Adapter können EFI-ROM flashen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_9El7GaxhU-0",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_9El7GaxhU-0",
+  "date": null,
+  "country": "DE",
+  "word_count": 8248
+}

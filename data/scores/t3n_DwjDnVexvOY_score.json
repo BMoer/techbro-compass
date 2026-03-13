@@ -1,0 +1,103 @@
+{
+  "economic_score": -1.4,
+  "social_score": -2.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "EU-Kommission sollte zentrale Zulassungsstelle für IoT-Geräte einrichten, wie früher bei Radios",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Befürwortung von staatlicher Regulierung und Zulassung statt freier Markt"
+    },
+    {
+      "text": "Geräte mit hartcodierten Passwörtern sind unakzeptabel, rudimentäre Sicherheitsprüfungen sind notwendig",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Forderung nach Regulierung und staatlichen Sicherheitsstandards"
+    },
+    {
+      "text": "Mittelständer können sich gute IT-Security-Experten gar nicht leisten",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Marktversagen, Argument für kollektive/Cloud-Lösungen"
+    },
+    {
+      "text": "Staaten sollten Vereinbarung treffen wie bei Atomwaffen: keine Einsatz von Cyberwaffen gegen kritische Infrastruktur",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Forderung nach staatlicher Kontrolle und Regulierung von Cyberwaffen"
+    },
+    {
+      "text": "Das Internet als globale Infrastruktur muss geschützt werden, nicht fragmentiert werden",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Befürwortung von zentraler Koordination und Kontrolle für Infrastrukturschutz"
+    },
+    {
+      "text": "Ich halte intelligente Lichtschalter und vernetzte Haushaltsgeräte für Quatsch",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Skepsis gegenüber Überwachung durch Heimgeräte, individualistischer Zugang"
+    },
+    {
+      "text": "Hacker-Märkte haben sich professionalisiert wie normale Geschäftsmodelle: Ransom-as-a-Service",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Neutrale Beobachtung von Marktmechanismen im Cybercrime"
+    },
+    {
+      "text": "Bei heißem Cyberkrieg zwischen Großmächten könnte das gesamte Internet kollabieren",
+      "speaker": "host",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Warnung vor staatlichem Missbrauch von Cyberwaffen, Infrastruktur-Bedrohung"
+    },
+    {
+      "text": "Türkei und andere Länder werden sich nicht einigen, Internet-Dienste nicht einfach zu sperren",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Skeptische Einschätzung von autoritärer Zensur durch Staaten"
+    },
+    {
+      "text": "Cyberwaffen die gesamte Infrastruktur gefährden sollten international verboten werden",
+      "speaker": "host",
+      "economic": -1,
+      "social": -4,
+      "reasoning": "Forderung nach internationalem Verbot destruktiver Cyberwaffen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Es ist jetzt Schluss mit dem Spaß, wir müssen das ernst nehmen weil irgendwann werden Menschen sterben",
+      "context": "Warnung von Bruce Schneier auf Telekom-Sicherheitskonferenz vor Cyberattacken",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt Gruppierungen in der Cybercrime-Szene die schon einem Einhorn nahekommen",
+      "context": "Professionalisierung und finanzielle Kraft krimineller Hacker-Netzwerke",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn dieser kalte Cyberkrieg heiß wird, könnte das gesamte Internet fragmentiert und zerstört sein",
+      "context": "Szenario von staatlichem Cyber-Krieg zwischen Großmächten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_DwjDnVexvOY",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_DwjDnVexvOY",
+  "date": null,
+  "country": "DE",
+  "word_count": 4995
+}

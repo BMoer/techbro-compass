@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "mcmini M4 ist zu gut für den Preis, viel billiger und leistungsfähiger als der alte Mac Pro",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung von besserer Effizienz und Preis-Leistung, pro Marktkonkurrenz"
+    },
+    {
+      "text": "Apple hätte beim Mac Pro auf das falsche Pferd gesetzt und Arbeit für die Software vergessen",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an Produktplanung und Marktversagen, pragmatisch-zentristisch"
+    },
+    {
+      "text": "Apple sollte mehr Thunderbolt-Zubehör selbst bauen und mehr Konnektivität anbieten",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Forderung nach besseren Produktstandards, weder links noch rechts positioniert"
+    },
+    {
+      "text": "Der mcmini M4 braucht viel zu wenig Strom - 20 Watt beim Encoding ist lächerlich effizient",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Bewunderung für Effizienz und technische Leistung des Marktes"
+    },
+    {
+      "text": "Das Gerücht zum Extreme-Chip für Mac Pro wird abgesägt, nicht gemacht - wird rausgeschoben",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Neutrale Berichterstattung über Produktentwicklung, keine klare Meinungsposition"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "der ist zu gut ist zu gut für den Preis der ist zu gut und zu schnell für seine kleine Größe",
+      "context": "Host lobt den mcmini M4 als überragende Produktentwicklung bei fairem Preis",
+      "quiz_suitable": true
+    },
+    {
+      "text": "die Zukunft von promax sind winzig kleine aluschächtelchen wo einfach 10.000 Kabel dran stecken",
+      "context": "Humorvolle Charakterisierung der professionellen Mac-Zukunft (ironisch-sarkastisch)",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_mleIOZEYtEU",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_mleIOZEYtEU",
+  "date": null,
+  "country": "DE",
+  "word_count": 1173
+}

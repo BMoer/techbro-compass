@@ -1,0 +1,75 @@
+{
+  "economic_score": -2.0,
+  "social_score": -1.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Man hat mit Steuergeld nicht sauber gearbeitet und das war für mich der Grund, wo wir sagten: wir klären das auf",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Missbrauch öffentlicher Mittel, impliziert Regulierungsbedarf und Kontrolle"
+    },
+    {
+      "text": "Die Staatsanwaltschaft fühlt sich befangen und kann nicht unvoreingenommen ermitteln",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an Justizversagen, Interessenskonflikte untergraben Rechtsstaatlichkeit"
+    },
+    {
+      "text": "Darüber kann man nicht reden, weil sonst fängt drüben auch zu wackeln an",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Anspielung auf Korruptionsnetzwerk zwischen Lokal- und Landesebene, Vertuschung"
+    },
+    {
+      "text": "Der muss unbedingt drinnen bleiben - Intervention des Landesparteichefs gegen Ausschluss",
+      "speaker": "host",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Willkürliche Machtausübung, Schutz von Verdächtigen, Unterminierung von Kontrolle"
+    },
+    {
+      "text": "Der korruptionsfreie Gemeinderatsclub - dass man das im Namen führen muss",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an institutionalisierter Korruption, impliziert Bedarf für stärkere Kontrollmechanismen"
+    },
+    {
+      "text": "1,8 Millionen Euro Fördergeld mutmaßlich veruntreut, Bargeldauszahlungen von 50.000€ ohne Belege",
+      "speaker": "host",
+      "economic": -1,
+      "social": -2,
+      "reasoning": "Finanzielle Malfeasance, schwache Kontrolle öffentlicher Gelder und Transparenzmängel"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wieso wollte Herr Kunasek unbedingt diesen Gemeinderat da drinnen haben, wenn alle anderen den draußen haben wollen?",
+      "context": "Landesparteichef interveniert zugunsten verdächtigen Finanzprüfers",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn du diese Büchse öffnest - diese Büchse der Pandora sollte man besser geschlossen lassen",
+      "context": "Finanzprüfer deutet an, dass Skandal über Graz hinausgeht",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das war ein Streit der ist dann explodiert, indem Kunasek den Pascutini aus der Partei geschossen hat",
+      "context": "Konsequenz für Whistleblower innerhalb der FPÖ",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_0xY9DotxO0c",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_0xY9DotxO0c",
+  "date": null,
+  "country": "DE",
+  "word_count": 3688
+}

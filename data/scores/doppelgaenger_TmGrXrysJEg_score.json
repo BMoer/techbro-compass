@@ -1,0 +1,127 @@
+{
+  "economic_score": 2.1,
+  "social_score": 1.6,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an übermäßiger Regulierung, libertäre Wirtschaftsperspektive"
+    },
+    {
+      "text": "VCs verklagen Startups die betrügen - das ist gerechtfertigt",
+      "speaker": "host",
+      "economic": 0,
+      "social": -2,
+      "reasoning": "Befürwortung von Enforcement, aber pragmatisch-abwägend"
+    },
+    {
+      "text": "Vertrauen ist die Basis für Gründungen, nicht Verträge",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Betonung von persönlicher Integrität statt formaler Kontrolle, libertär"
+    },
+    {
+      "text": "Mit Leuten gründen, denen man blind vertraut",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Anti-Überwachungs-Haltung, hohes Vertrauen in Eigenverantwortung"
+    },
+    {
+      "text": "Twitter bestraft Posts mit Links - schlechter Algorithmus",
+      "speaker": "host",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Kritik an Plattformkontrolle, Plädoyer für offene Informationsfluss"
+    },
+    {
+      "text": "Elon Musk sollte Gerichtskosten für unfair behandelte tragen",
+      "speaker": "host",
+      "economic": -4,
+      "social": 2,
+      "reasoning": "Arbeitnehmerrechte-Fokus, aber schwammige Definition von 'unfair'"
+    },
+    {
+      "text": "Betrug ist Betrug - Bot-Armeen für User-Zahlen sind betrügerisch",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -1,
+      "reasoning": "Marktkritik mit Fokus auf legale Transparenz, nicht ideologisch"
+    },
+    {
+      "text": "VCs müssen mehr Due Diligence machen, nicht weniger",
+      "speaker": "host",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Pragmatische Regulierung des Marktes, neutral"
+    },
+    {
+      "text": "Palantir mit 20x Umsatz brutal überbewertet",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Spekulationsblasen, skeptisch gegenüber Markteffizienz"
+    },
+    {
+      "text": "Firmen sollten Zinseinnahmen ausschütten, nicht als Profit verbuchen",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Finanzinstrumenten-Misuse, Shareholder-fokussiert"
+    },
+    {
+      "text": "PayPal-Stablecoin könnte Intermediäre eliminieren",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Pro-Dezentralisierung, aber pragmatisch - nicht idealistisch"
+    },
+    {
+      "text": "Ideen sind nichts wert, Execution und Team zählen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Libertäre Leistungsethik, Marktkräfte entscheiden"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn das Vertrauen nicht so weit reicht, würde ich mir ein neues Team suchen",
+      "context": "Diskussion über Gründungs-Verträge und Vertrauen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Twitter war fast eine Ansammlung von Links mit Kommentaren - das war der Vorteil",
+      "context": "Kritik an Algorithmen, die Posts mit Links bestrafen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Palantier ist einfach nur viel zu hoch bewertet für 12,7% Wachstum",
+      "context": "Analyse von Bewertungsmultipliern im Tech-Sektor",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Generative AI ist das Bullshit Bingo aller Firmen gerade",
+      "context": "Kritik an Elon Musk / Palantier's AI-Marketing",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn du 83% wächst, warum sollst du nicht 67% mehr für Kundenakquise ausgeben?",
+      "context": "Verteidigung der Hims-Expansionsstrategie trotz niedriger Profitabilität",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_TmGrXrysJEg",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_TmGrXrysJEg",
+  "date": null,
+  "country": "DE",
+  "word_count": 18033
+}

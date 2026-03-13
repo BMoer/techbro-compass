@@ -1,0 +1,110 @@
+{
+  "economic_score": 2.1,
+  "social_score": 1.3,
+  "n_coded": 11,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, pro-Deregulierung"
+    },
+    {
+      "text": "Convertible Loans ermöglichen schnelle Finanzierung ohne formale Bewertung",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatische Sicht auf Startup-Finanzierung, pro-Flexibilität"
+    },
+    {
+      "text": "Apple schmeißt Konkurrenten aus dem Store - fehlender Selbstbewusstsein",
+      "speaker": "host",
+      "economic": -4,
+      "social": -2,
+      "reasoning": "Kritik an Marktmacht-Missbrauch; auch Kontrollaspekt"
+    },
+    {
+      "text": "Sonos kaufen macht für Apple keinen Sinn, 1,2 Mrd Hardware-Umsatz ist unwichtig",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kapitalistische Effizienzlogik, fokussiert auf Service-Revenue"
+    },
+    {
+      "text": "Apple fordert Telegram auf, Channels zu sperren - problematisch für Protestbewegungen",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Zensur und Eingriff in Kommunikationsfreiheit"
+    },
+    {
+      "text": "Telegram in Russland: Nutzer können über Cloud-Services die Zensur umgehen",
+      "speaker": "host",
+      "economic": 2,
+      "social": 6,
+      "reasoning": "Pro-Freiheit, clever Infrastruktur-Einsatz gegen Kontrolle"
+    },
+    {
+      "text": "SPACs wie die von Chamat sind wie Wolf of Wall Street - kompletter Betrug",
+      "speaker": "guest",
+      "economic": -5,
+      "social": -3,
+      "reasoning": "Kritik an Finanzbetrug und Marktmanipulation"
+    },
+    {
+      "text": "Instant Delivery (Gorillas) ist eher ein lokales Business ohne globale Skaleneffekte",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische, dezentralisierte Marktlogik"
+    },
+    {
+      "text": "Twilio kauft Segment - perfekte vertikale Integration für Datenmonopolisierung",
+      "speaker": "host",
+      "economic": 4,
+      "social": -2,
+      "reasoning": "Konzentration von Marktmacht; Datenschutz-Bedenken"
+    },
+    {
+      "text": "Instagram kann keine Nippel zeigen wegen AppStore-Regeln, nicht wegen Facebook-Willen",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an Platform-Zensur durch Tech-Monopole"
+    },
+    {
+      "text": "Für E-Commerce Growth lieber Junior SEA-Manager einstellen statt teure Agentur",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kostenoptimierung, Build-vs-Buy-Mentalität"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "SPACs sind kompletter Betrug, sitzt vor Kamera, sagt 10x, jede Woche neuer IPO",
+      "context": "Kritik an Chamat Palihapitiya's SPAC-Strategie und Marktbetrug",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Apple schmeißt Konkurrenten raus - zeugt nicht von großem Selbstbewusstsein",
+      "context": "Analyse von Apples Retail-Strategie gegen Bose/Sonos/Logitech",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Telegram nutzt AWS/Google Cloud als Proxy gegen Zensur - collateral damage für WhatsApp",
+      "context": "Russlands Versuch, Telegram zu blocken, trifft stattdessen Konkurrenten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_ChYUKLtIazI",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_ChYUKLtIazI",
+  "date": null,
+  "country": "DE",
+  "word_count": 12922
+}

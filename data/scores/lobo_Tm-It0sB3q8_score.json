@@ -1,0 +1,103 @@
+{
+  "economic_score": -2.0,
+  "social_score": 2.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "wir brauchen artgerechte Tierhaltung und mehr ökologische Landwirtschaft",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Regulierung, höhere Standards für Landwirtschaft"
+    },
+    {
+      "text": "wir wollen nicht mehr den Menschen sagen wie Sie zu leben haben, sondern es liegt an uns der Politik das System zu ändern",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 3,
+      "reasoning": "Systemische Änderung statt Bevormundung; pro Bürgerfreiheit, Anti-Paternalismus"
+    },
+    {
+      "text": "wir wünschen uns hier eine CO2 Bepreisung und da wollen wir Hartz IV abwickeln, eine Garantierente und Kindergrundsicherung",
+      "speaker": "guest",
+      "economic": -5,
+      "social": 1,
+      "reasoning": "Umverteilung, Sozialleistungsausbau, Marktmechanismen für Klima"
+    },
+    {
+      "text": "die Grünen haben eine Doppelspitze bei Fraktion und Partei, wir Kreisen nicht um Personen sondern agieren im Team",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Dezentralisierung von Macht, anti-hierarchisch, partizipativ"
+    },
+    {
+      "text": "diese alte Muster dass man stärker ist indem man auf schwächere drauf haut, das ist nicht wo junge Menschen Lust drauf haben",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Kritik von Hierarchien und Machtmissbrauch; pro-emanzipatorisch"
+    },
+    {
+      "text": "wir westdeutschen Grünen haben es den Kollegen aus Ostdeutschland ganz schön schwer gemacht für 30 Jahre",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Selbstkritik zu westlicher Ignoranz; Einsicht für Inklusion"
+    },
+    {
+      "text": "man wird nicht als besserwissende besserverdienende Wessi Partei wahrgenommen sondern als Volkspartei die Interessen aller vertritt",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 1,
+      "reasoning": "Universalismus, Klassenüberwindung; neutrale Rhetorik"
+    },
+    {
+      "text": "diese Partei hat einen Mitmachmodus wo du gebraucht wirst, wenn du dich nicht blöd anstellst kannst du bei dieser Partei was übernehmen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Partizipation, niedrige Eintrittsbarrieren, Empowerment"
+    },
+    {
+      "text": "das kommt zeitgemäßer herkommt, Instagram, tägliche Neumitglieder, die wollen nicht Parteisoldat werden sondern mithelfen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Moderne Partizipation, Anti-Hierarchie, kollaborativ"
+    },
+    {
+      "text": "Massentierhaltung schmeckt mir nicht, wir brauchen mehr ökologische Landwirtschaft statt dem Einzelnen zu sagen keine Fleisch mehr",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Systemische Regulierung statt Bevormundung; gemäßigt links"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wir wollen nicht mehr den Menschen sagen wie Sie zu leben haben, sondern es liegt an uns der Politik das System zu ändern",
+      "context": "Grüne distanzieren sich vom Vorwurf der Bevormundung und Verbotspartei",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Stimmung sind keine Stimmen - morgen kommt es entscheidend darauf an dass ich das was sich an gesellschaftlicher Stimmung aufgebaut hat auch in Stimmen einlöse",
+      "context": "Habbeck warnt vor Überconfidenz in Umfragewerten vor der Europawahl",
+      "quiz_suitable": true
+    },
+    {
+      "text": "rein numerisch heißt das dass alle die bei den Grünen nicht bei drei sagen irgendein Mandat oder Amt übernehmen müssen",
+      "context": "Analyse der Kandidatenknappheit bei Grünen mit höheren Wahlanteilen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_Tm-It0sB3q8",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_Tm-It0sB3q8",
+  "date": null,
+  "country": "DE",
+  "word_count": 4479
+}

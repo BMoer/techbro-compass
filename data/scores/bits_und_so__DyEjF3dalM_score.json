@@ -1,0 +1,63 @@
+{
+  "economic_score": 1.4,
+  "social_score": 3.6,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Developer sollten Apps ohne Jailbreak auf iPhones sideloaden können",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Befürwortung von technischer Freiheit, Anti-Zensur, Bürgerrechte gegen Plattformkontrolle"
+    },
+    {
+      "text": "Apple wird Anwälte schicken gegen alternative App-Stores",
+      "speaker": "host",
+      "economic": -4,
+      "social": -3,
+      "reasoning": "Kritik an Monopolisierung (ökonomisch regulierungsbedürftig) und Unterdrückung von Freiheit durch Enforcement"
+    },
+    {
+      "text": "Apple muss reagieren, kann aber nicht gut darauf reagieren",
+      "speaker": "host",
+      "economic": 0,
+      "social": 5,
+      "reasoning": "Erkenntnis, dass Sideloading-Sperre schwer zu durchsetzen ist ohne massive Freiheitseinschränkung"
+    },
+    {
+      "text": "Die 7-Tage-Signatur-Begrenzung ist nervig und unattraktiv",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Kritik an künstlichen Apple-Restriktionen, befürwortet mehr Nutzerfreiheit und technische Autonomie"
+    },
+    {
+      "text": "Apple muss Anwälte nutzen, um nicht das Recht auf Inaction zu signalisieren",
+      "speaker": "host",
+      "economic": -2,
+      "social": -4,
+      "reasoning": "Kritik am Enforcement-Zwang durch Corporate-Macht; Regulierungskritik gegenüber Big Tech"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ich habe fünf Jahre meines Lebens darauf verschwendet, aber du weißt doch dass sie da die Anwälte schicken",
+      "context": "Developer bricht seitens Apple-Restriktionen und erwartet rechtliche Konsequenzen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Nintendo hat ihm damals auch die Anwälte auf den Hals gehetzt für den GameBoy-Emulator",
+      "context": "Beispiel für Unternehmen, die gegen reverse-engineering vorgehen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so__DyEjF3dalM",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so__DyEjF3dalM",
+  "date": null,
+  "country": "DE",
+  "word_count": 1072
+}

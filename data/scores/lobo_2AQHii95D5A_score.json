@@ -1,0 +1,56 @@
+{
+  "economic_score": 0,
+  "social_score": 2.5,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.6,
+  "coded_statements": [
+    {
+      "text": "Migranten sind in unserer heutigen Zeit besonders gefährdet durch Ausgrenzung und wirtschaftliche Marginalisierung",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an sozialer Ausgrenzung von Minderheiten, libertäre Sorge um vulnerable Gruppen"
+    },
+    {
+      "text": "In England versucht man Migranten rauszuhalten und Arbeitsstellen für die richtigen Länder zu reservieren",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Kritik an protektionistischer Wirtschaftspolitik und nationalitätsbasierter Diskriminierung"
+    },
+    {
+      "text": "Johannes Kepler argumentiert streng rational gegen Hexenvorwürfe und beruft sich auf medizinische Erklärungen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Würdigung wissenschaftlicher Rationalität gegen Aberglauben und willkürliche Autorität"
+    },
+    {
+      "text": "In Zeiten von Unsicherheit und Krisen werden vulnerable Menschen wie alte Frauen oder heute Migranten zu Sündenböcken",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Analyse von Marginalisierungsmechanismen unter sozialen Druck-Bedingungen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn es wirklich so ist, dass der Teufel in dieser Person agiert, dann kann es ja sowieso keine Wahrheit geben",
+      "context": "Erklärung des Teufelsglaubens als Rechtfertigung für Folter in Hexenprozessen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn ich durch Pein gezwungen würde irgendetwas zuzugeben, wäre es nicht die Wahrheit, ich würde über mich selbst lügen müssen",
+      "context": "Katharina Keppler lehnt ab, unter Androhung von Folter ein falsches Geständnis abzulegen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_2AQHii95D5A",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_2AQHii95D5A",
+  "date": null,
+  "country": "DE",
+  "word_count": 5602
+}

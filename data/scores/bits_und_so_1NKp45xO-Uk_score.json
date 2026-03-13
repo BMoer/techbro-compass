@@ -1,0 +1,75 @@
+{
+  "economic_score": 0.4,
+  "social_score": 0.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Pixel 8a ist die bessere Wahl wenn Preisunterschied zu 8 groß ist",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Preis-Leistungs-Empfehlung, keine ideolog. Position"
+    },
+    {
+      "text": "Samsung zahlt wahrscheinlich mehr an Telekoms für bessere Platzierung",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an Marktmechanismen, leicht marktkritisch aber spekul."
+    },
+    {
+      "text": "Telekom hat kein ehrliches Geschäft mit Datenvolumen-Skalierung",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Geschäftspraxis großer Konzerne, regulierungskritisch"
+    },
+    {
+      "text": "Pixel Phones sind sehr solide und sollten mehr verkauft werden",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Produktbewertung ohne ökonomische oder gesellschaftliche Position"
+    },
+    {
+      "text": "Google hat Distributionsprobleme, Phones nicht überall verfügbar",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an Unternehmenseffizienz, leicht pro-Wettbewerb"
+    },
+    {
+      "text": "Alte Pixel Phones bekommen lange Updates, nicht wie Samsung",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Lob für Langzeit-Support, implizite Kritik an Wegwerfkultur"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "ich kapiere nicht warum die Leute nicht nur diese verdammten pixels kaufen",
+      "context": "Host bewundert Pixel-Qualität und kann mangelnde Markenpenetration nicht verstehen.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "das ist halt kein ehrliches Geschäft so insgesamt von Seiten der Mobilfunkbetreiber",
+      "context": "Host kritisiert intransparente Tarifierung von Telekom mit Fußball-Ausnahmen.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Fußball macht Wasser zu Wein, Fußball macht Brot zu Fischen",
+      "context": "Ironische Kritik an Sonderbedingungen für Fußball bei Mobilfunkverträgen.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_1NKp45xO-Uk",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_1NKp45xO-Uk",
+  "date": null,
+  "country": "DE",
+  "word_count": 2336
+}

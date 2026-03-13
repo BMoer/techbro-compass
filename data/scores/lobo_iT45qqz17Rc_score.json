@@ -1,0 +1,101 @@
+{
+  "economic_score": -1.4,
+  "social_score": 1.2,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Merkel hat aus der CDU eine zweite SPD gemacht - großzügige Sozialpolitik, liberale Rechte",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 4,
+      "reasoning": "Sozialstaatliche Ausweitung + liberale Gesellschaftspolitik = links-libertär"
+    },
+    {
+      "text": "Wir schaffen das - Flüchtlingspolitik nicht klassisch konservativ, offene Grenzen",
+      "speaker": "host",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Großzügige Migrationspolitik, liberale Haltung zu Menschenrechten"
+    },
+    {
+      "text": "Merkel war zu pragmatisch, zu feige, zu vorsichtig - hätte mutiger sein können",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Kritik an Führungsstil, nicht ökonomisch/gesellschaftlich positioniert"
+    },
+    {
+      "text": "CDU ist Partei der Mitte mit starker sozialdemokratischer und liberaler Ausrichtung",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Selbstbeschreibung: Mitte mit Sozialpolitik + Liberalismus"
+    },
+    {
+      "text": "SPD betrieb Klientelverrat, Politik für Eliten und Reiche gegen Arme",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an unsozialer Wirtschaftspolitik, implizit pro-Umverteilung"
+    },
+    {
+      "text": "Konservativ sein in Deutschland ist schwierig wegen Nazi-Vergangenheit, rechts gibt es nichts zu bewahren",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Warnung vor konservativer Politik, implizit autoritär-skeptisch"
+    },
+    {
+      "text": "Merkel hat die Debatte erstickt durch Überharmonisierung, neues Biedermeier",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an Unterdrückung von Konflikten/Debatten, für mehr Debattenkultur"
+    },
+    {
+      "text": "Merkel brachte unideologischen, pragmatischen Blick - jüngere sind offener, weniger ideologisch",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 4,
+      "reasoning": "Lob für Pragmatismus statt Ideologie, moderne flexible Haltung"
+    },
+    {
+      "text": "CDU wird in Zukunft grüner, moderner, fortschrittlicher - Frauen in Machtpositionen halten das",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 5,
+      "reasoning": "Prognose: liberaler, progressiver, weniger sozialdemokratisch wirtschaftlich"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "sie hat aus der CDU eine zweite SPD gemacht",
+      "context": "Charakterisierung von Merkels Transformation der CDU zur Mittelpartei",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Merkel war zu feige, zu vorsichtig - sie hat sich nur vorgetastet",
+      "context": "Kritik an Merkels Führungsstil trotz ihrer Macht und Beliebheit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "konservativ sein in Deutschland ist wie in keinem anderen Land schwierig",
+      "context": "Erklärung warum CDU keine echte konservative Partei sein kann",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wir sind Geschöpfe der Merkelzeit - das neue Biedermeyer",
+      "context": "Diagnose der Erschlaffung der Debattenkultur unter Merkel",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_iT45qqz17Rc",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_iT45qqz17Rc",
+  "date": null,
+  "country": "DE",
+  "word_count": 4848
+}

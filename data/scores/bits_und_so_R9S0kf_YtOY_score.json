@@ -1,0 +1,82 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Apple spart Lizenzkosten für Qualcomm, gewinnt damit wirtschaftlich",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Befürwortung von Kostenersparnissen durch Eigenentwicklung, unternehmerischer Gewinn"
+    },
+    {
+      "text": "Mit eigenem Modem kann Apple Akkulaufzeit massiv verbessern",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Effizienzgewinn, bessere Ressourcennutzung, wirtschaftlicher Vorteil"
+    },
+    {
+      "text": "Apple hätte auch gut 10-20 Jahre weiter Qualcomm lizensieren können",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Abwägung zwischen Make-or-Buy, keine ideologische Position"
+    },
+    {
+      "text": "Das Risiko ist hoch, Apple würde es nicht wehtun weiterzulizensieren",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Skepsis gegenüber unternehmerischem Risiko, vorsichtige Haltung zu Eigenentwicklung"
+    },
+    {
+      "text": "Man muss Kerntechnologie im eigenen Haus haben für zukünftige Geräte",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung vertikaler Integration und Kontrolle über Wertschöpfungskette"
+    },
+    {
+      "text": "Breite Testballon-Strategie: SE als Testmarkt für C1 Chip nutzen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Intelligente Marktstrategie, pragmatisches Risikomanagement, wirtschaftlich rational"
+    },
+    {
+      "text": "Handgriff-Antennengates als interne Mahnung für aktuellen Chip-Launch",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Sorge um Reputationsrisiko und öffentliche Wahrnehmung, Sicherheitsbedenken"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Der beste Outcome wäre einfach wenn alles so wie immer ist",
+      "context": "Host verdeutlicht, dass bei Eigenentwicklung von Mobilfunkchips das Scheitern größer wiegt als Innovation",
+      "quiz_suitable": true
+    },
+    {
+      "text": "YouTube Videos schreiben sich selbst wenn plötzlich einer keine Verbindung hat",
+      "context": "Skeptische Sicht auf potentielle negative PR bei Problemen mit eigenem Modem",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das ist eigentlich immer irgendjemand rennt halt immer rein und ist super frustrierend",
+      "context": "Bezug auf chronische Bluetooth/WLAN-Probleme bei Apple, die sich mit eigenem Chip verschärfen könnten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_R9S0kf_YtOY",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_R9S0kf_YtOY",
+  "date": null,
+  "country": "DE",
+  "word_count": 4375
+}

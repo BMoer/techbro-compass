@@ -1,0 +1,108 @@
+{
+  "economic_score": -1.4,
+  "social_score": -2.0,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Jeder ist verpflichtet, seinen Teil zur Gesellschaft beizutragen. Grundfinanzierung ohne Gegenleistung reicht nicht.",
+      "speaker": "guest",
+      "economic": 6,
+      "social": -2,
+      "reasoning": "Fordert Arbeitsleistung, gegen bedingungsloses Grundeinkommen. Leicht autoritär (Verpflichtung)."
+    },
+    {
+      "text": "Wir müssen Schulausbildung und Qualifizierung sicherstellen, damit Menschen ihre Aufgabe leisten können.",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 0,
+      "reasoning": "Sozialstaatliche Investition in Humankapital, pragmatisch-zentrist."
+    },
+    {
+      "text": "Hartz 4 war richtig: Erwerbsfähigen Arbeitslosen eine Chance geben, wieder in den Arbeitsmarkt zu finden.",
+      "speaker": "guest",
+      "economic": 4,
+      "social": -3,
+      "reasoning": "Marktwirtschaftlich orientiert, aber mit sozialer Komponente. Etwas restriktiv (Verpflichtung)."
+    },
+    {
+      "text": "Rente 67 ist richtig. Der Gedanke, mit einem Knopfdruck in Ruhestand zu gehen, ist kulturhistorischer Irrtum.",
+      "speaker": "guest",
+      "economic": 5,
+      "social": -1,
+      "reasoning": "Marktlogik (längere Erwerbstätigkeit), leicht paternalistisch im Ton."
+    },
+    {
+      "text": "Niedriglohnsektor ist nicht negative Folge von Reformpolitik, sondern Resultat mehr Beschäftigung.",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Rechtfertigung von Niedriglöhnen durch Beschätigungseffekte. Marktwirtschaftliche Logik."
+    },
+    {
+      "text": "Faschismus ist kein Spiel. Nazis, Krieg, Tote - das darf sich nicht durchsetzen. Wir sind die Mehrheit.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Anti-totalitär, aber auch: Mehrheitsdemokratie muss durchgreifen. Leicht autoritär im Mittel."
+    },
+    {
+      "text": "Man muss hart durchgreifen gegen Gewalt gegen Politiker. Polizei und Gerichte müssen bestrafen.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Law-and-Order Position. Sicherheit vor Bürgerrechte, aber nicht extrem."
+    },
+    {
+      "text": "Plakate wie 'Krieg oder Frieden - ihr könnt wählen' sind unglaublich. Das ist eine Zumutung.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an Demagogen-Taktik. Moderate demokratische Position."
+    },
+    {
+      "text": "Vertrauen ist das Wichtigste in einer Koalition. Ohne Vertrauen funktioniert das nicht.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Betonung von Institutonalität und Ordnung. Leicht autoritär (Regel-Fokus)."
+    },
+    {
+      "text": "Das Sterben ist Teil des Lebens und kann gelingen. Man braucht Menschen bei sich, Hilfe und Palliativmedizin.",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Libertär: individuelle Autonomie im Sterben, gegen medizinische Bevormundung."
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Faschismus hat damals damit angefangen: Krieg, Tote, Hunger - das ist keine Spielerei, das darf sich nicht durchsetzen.",
+      "context": "Müntefering warnt vor NS-Vergleichen und Verharmlosung von Totalitarismus.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Jeder ist verpflichtet, seinen Teil zur Gesellschaft beizutragen. Grundfinanzierung allein reicht nicht.",
+      "context": "Rechtfertigung der Agenda 2010-Reformen gegen Kritik an Sozialabbau.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Dieses Plakat 'Krieg oder Frieden - ihr könnt wählen' - ich muss fragen, ob die noch alle Tassen im Schrank haben.",
+      "context": "Kritik an Wagenknecht/Lafontaines BSW-Kampagne als undemokratische Demagogie.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Sterben ist ein Teil des Lebens und kann gelingen - das ist das Wichtigste, was ich noch sagen möchte.",
+      "context": "Münteferings Lebensbilanz nach Herzoperation und Reflexion über Sterblichkeit.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_dc-j9Yh3Lxk",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_dc-j9Yh3Lxk",
+  "date": null,
+  "country": "DE",
+  "word_count": 8659
+}

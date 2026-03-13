@@ -1,0 +1,108 @@
+{
+  "economic_score": -1.0,
+  "social_score": 3.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Technologie hilft uns Potenziale zu entfalten, wir brauchen sie",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Pro-Technologie, aber moderat, nicht radikal libertär"
+    },
+    {
+      "text": "Meine Kreativität leidet, wenn ich zu viel Informations-Fastfood konsumiere",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Individuelle Kontrolle über Technologiekonsum, Datenschutz impliziert"
+    },
+    {
+      "text": "KI generierte Inhalte müssen gekennzeichnet sein, Menschen sollen Kontrolle behalten",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Regulierung von Tech-Konzernen, Transparenz & Nutzerrechte"
+    },
+    {
+      "text": "Wir sollten nicht unsere Beziehungen automatisieren durch KI-Systeme",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Stark anti-Automatisierung von menschlichen Beziehungen, Libertär"
+    },
+    {
+      "text": "Algorithmen als Parlamente und Gerichte ersetzen wäre eine Diktatur",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 7,
+      "reasoning": "Kritik totalitärer Automation, Menschlichkeit in Rechtssystem bewahren"
+    },
+    {
+      "text": "Tech-Firmen nutzen Bequemlichkeit als Deckmantel für Meinungsmanipulation",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 6,
+      "reasoning": "Kritik der Werbe-Geschäftsmodelle von Big Tech, Anti-Manipulation"
+    },
+    {
+      "text": "Nutzer müssen KI-Features abschalten können, echtes Ausschalten, nicht fake",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 7,
+      "reasoning": "Nutzer-Autonomie, Datenschutz, Anti-Tracking"
+    },
+    {
+      "text": "KI-Assistenten beim Programmieren sind grandios, verkürzen Entwicklungszyklen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung effizienzsteigernder Technologie in spezifischen Kontexten"
+    },
+    {
+      "text": "Spiele schaffen sichere Räume für Nähe und Beziehungen, wir sollten mehr spielen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Pro-menschliche Interaktion, anti-isolierend, sozial positiv"
+    },
+    {
+      "text": "VR im Seniorenheim und Brettspiele auf Distanz verbinden Menschen wieder",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 6,
+      "reasoning": "Tech als Mittel zur Bekämpfung von Einsamkeit, beziehungszentriert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Geistige Fettleibigkeit wenn wir so weitermachen wie bisher",
+      "context": "Parallele zwischen Ernährungskultur und Informationskonsumkultur",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Auto hat den Menschen einsamer gemacht, obwohl es sie näher zusammenbrachte",
+      "context": "Paradoxe Effekte von Technologie auf Gesellschaft",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die besten Möglichkeiten mit Liebsten zu kommunizieren laufen durch Firmen, deren Produkt unsere Manipulation ist",
+      "context": "Kritik an Werbe-Finanzierung von Social Media Plattformen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Nicht alles was geht, muss man auch machen",
+      "context": "Ethisches Design von smarten Geräten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_sCS3SwQCM74",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_sCS3SwQCM74",
+  "date": null,
+  "country": "DE",
+  "word_count": 7532
+}

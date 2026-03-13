@@ -1,0 +1,113 @@
+{
+  "economic_score": -1.4,
+  "social_score": -3.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Die AfD ist anfällig für Manipulation, eine Schwachstelle in unseren Parlamenten",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an demokratischen Schwachstellen und Sicherheitslücken"
+    },
+    {
+      "text": "Die AfD nutzt kleine Anfragen ständig und das ist auch an sich total okay",
+      "speaker": "guest",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Pragmatische Einschätzung parlamentarischer Instrumente als legitim"
+    },
+    {
+      "text": "China möchte, dass die Demokratie destabilisiert wird",
+      "speaker": "guest",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Kritik an autoritärer Einflussnahme und Untergrabung demokratischer Systeme"
+    },
+    {
+      "text": "Oppositionspolitiker sind total wichtig als Kontrollinstanz der Regierung",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Befürwortung von Checks & Balances, Schutz von Parlamentsrechten"
+    },
+    {
+      "text": "Die AfD hat kein Problem mit autoritären Herrschern. Im Gegenteil.",
+      "speaker": "host",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Kritik an Fehlen von demokratischen Werten und Affinität zu Autokratien"
+    },
+    {
+      "text": "Wenn man sagt Werte sind Menschenrechte und Co, ja, eigentlich was Gutes",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Befürwortung universeller Menschenrechte gegen völkische Umdefinition"
+    },
+    {
+      "text": "Das ist natürlich total im Sinne von der chinesischen Regierung",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Vertrauenszerstörung in staatliche Institutionen durch Propaganda"
+    },
+    {
+      "text": "Spionage zu entdecken ist sehr schwierig, wenn eben die Spione gut sind",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Beschreibung von Sicherheitslücken im Überwachungsapparat"
+    },
+    {
+      "text": "Man hat bestimmte gerade so Spionageabwehr und so abgebaut",
+      "speaker": "guest",
+      "economic": -4,
+      "social": -3,
+      "reasoning": "Kritik an Deregulierung von Sicherheitsstrukturen nach Kaltem Krieg"
+    },
+    {
+      "text": "Es sind Nadelstiche, viele kleine Nadelstiche, viele kleine Angriffe auf unsere Demokratie",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an systematischer Untergrabung demokratischer Institutionen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Warum sollte jemand einen Oppositionspolitiker bestechen? Der hat ja gar keinen Einfluss auf Gesetze",
+      "context": "Stefan Keuter argumentiert gegen Bestechungsvorwürfe und offenbart Unverständnis für Demokratie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn ich mich jetzt für das deutsche Volk entscheiden müsste, zwischen dem Regenbogenimperium und dem traditionellen Osten, ich wählte den Osten",
+      "context": "Björn Höcke positioniert AfD als näher bei Russland als bei liberalem Westen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das heißt, für die es ist natürlich interessant, wenn im offiziellen Plenum Aussagen gemacht würden oder in kleinen Anfragen auf bundestag.de",
+      "context": "Analyse, wie autoritäre Staaten parlamentarische Prozesse zur Propaganda nutzen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Eine Figur, die man kannte. Ist jetzt keine graue Maus",
+      "context": "Beschreibung von Maximilian Kra als öffentlichkeitswirksamer AfD-Politiker",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt immer mehrere Kanäle, auf denen man das spielen kann",
+      "context": "Wie Geheimdienste Erpressung oder Beeinflussung über verschiedene Wege betreiben",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_fOOBP1hu9jY",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_fOOBP1hu9jY",
+  "date": null,
+  "country": "DE",
+  "word_count": 7224
+}

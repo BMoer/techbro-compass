@@ -1,0 +1,169 @@
+{
+  "economic_score": 1.5,
+  "social_score": 1.75,
+  "n_coded": 18,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Trump will mit Zöllen von 25% auf Kanada/Mexiko Druck ausüben",
+      "speaker": "host",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Protektionismus, staatliche Intervention in Märkte"
+    },
+    {
+      "text": "Globaler Handel nützt prinzipiell allen - bewiesene Sache",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Pro-Freihandel, anti-Protektionismus Position"
+    },
+    {
+      "text": "Zölle machen Produkte teurer - Verbraucher zahlen am Ende",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an regressive Wirkung von Zöllen auf Konsumenten"
+    },
+    {
+      "text": "Einkommensteuer senken, dafür Zölle/Saleswertsteuer = Umverteilung nach oben",
+      "speaker": "host",
+      "economic": -7,
+      "social": null,
+      "reasoning": "Kritik an regressive Steuerpolitik, Umverteilung Arm→Reich"
+    },
+    {
+      "text": "Kleine Leute zahlen - wer nicht Millionär ist, ist dumm, Trump zu wählen",
+      "speaker": "host",
+      "economic": -8,
+      "social": null,
+      "reasoning": "Starke Kritik an Wirtschaftspolitik als Ausraubung der Unterschicht"
+    },
+    {
+      "text": "Staatsangestellte werden stigmatisiert als Idioten und Schmarotzer",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an anti-Establishment Rhetorik, fehlender Respekt vor öffentlichem Dienst"
+    },
+    {
+      "text": "Presse wird systematisch diskreditiert, damit Aufräumaktionen unbemerkt laufen",
+      "speaker": "host",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Kritik an Zerstörung der Pressefreiheit als Kontrollmechanismus"
+    },
+    {
+      "text": "Elon Musk hat Zugang zu Treasury-Zahlungsschnittstelle - großes Problem",
+      "speaker": "host",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Kritik an Konzentration ungeprüfter Macht bei einer Privatperson"
+    },
+    {
+      "text": "Default sollte: keine Regulierung, dann überlegen wir was wir regulieren",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Libertäre Deregulierungs-Agenda, minimaler Staat"
+    },
+    {
+      "text": "Move fast and break things funktioniert nicht für Staat mit Millionen Menschen",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an radikale, rücksichtslose Reformmethoden ohne Gesellschaftskonsens"
+    },
+    {
+      "text": "de minimis-Regelung abschaffen schafft riesengroße Bürokratie, kostet mehr",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik an kontraproduktive Zollbürokratie, Ineffizienz der Maßnahme"
+    },
+    {
+      "text": "Salessteuer/Mehrwertsteuer = Umverteilung von unten nach oben",
+      "speaker": "host",
+      "economic": -7,
+      "social": null,
+      "reasoning": "Kritik an regressive indirekte Steuern, Belastung der Ärmeren"
+    },
+    {
+      "text": "Temu/Shein zahlen Zölle + 10% China-Zoll = weniger konkurrenzfähig",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Zölle als Schutzmaßnahme für US-Handel, pro-lokale Wirtschaft"
+    },
+    {
+      "text": "CFPB wird lahm gelegt - Trump baut selbst Shitcoins, perfekt für Kleptocracy",
+      "speaker": "host",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Kritik an Korruption, Interessenskonflikte, Zerstörung von Verbraucherschutz"
+    },
+    {
+      "text": "Die Presse muss noch da sein, sonst passiert alles im Dunkeln",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Verteidigung der Pressefreiheit als Kontrollmechanismus und Bürgerschutz"
+    },
+    {
+      "text": "EU investiert 56 Mio in eigenes KI-Modell - Tropfen auf heißem Stein",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an ineffiziente Staatssubvention, besser europäische Startups direkt fördern"
+    },
+    {
+      "text": "Liberale Progressivität übertrieben, Pendel zu weit geschwungen, Konsens weg",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Ausgewogene Kritik an Überregulierung von DEI, Verlust gesellschaftlicher Mitte"
+    },
+    {
+      "text": "ChatGPT tripled users to 15.5M, subscription revenue explodes - super impressive",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Positive Einschätzung von Marktexpansion und kommerzialisiertem Erfolg"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wer nicht Millionär ist und nicht 200k€ hat, ist einfach fucking dumm Trump zu wählen",
+      "context": "Kritik an Wirtschaftspolitik als Ausraubung der Unterschicht durch Umverteilung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Preise zahlen die Verbraucher und es führt zu Inflation - das erste was Trump macht ist die Inflationsmessung per Dekret ändern",
+      "context": "Sarkastische Vorhersage zur paradoxen Inflationskontrolle Trumps",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es ist vollkommen bewiesene dass globale Handel prinzipiell erstmal allen nützt",
+      "context": "Grundsatzposition zur ökonomischen Logik vs. Trumps Protektionismus",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn du das als Präsident sagen musst dass Elon Musk nicht tun kann was er will - das sagt schon viel",
+      "context": "Kritik an de-facto-Machtkonzentration bei Musk trotz formaler Limits",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Move fast and break things funktioniert nicht für einen Staat mit Millionen Menschen",
+      "context": "Fundamentalkritik an Startup-Mentalität bei Regierungsreformen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_FjJf6T4KFQA",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_FjJf6T4KFQA",
+  "date": null,
+  "country": "DE",
+  "word_count": 11139
+}

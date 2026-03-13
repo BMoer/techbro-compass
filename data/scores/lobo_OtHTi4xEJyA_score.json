@@ -1,0 +1,113 @@
+{
+  "economic_score": -2.0,
+  "social_score": 3.4,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Sozialleistungen als Waffe gegen die schwarze Bevölkerung durch Voter Suppression",
+      "speaker": "host",
+      "economic": -5,
+      "social": -8,
+      "reasoning": "Kritik an strukturellem Ausschluss von Wählern; Kritik an Wahldiskriminierung"
+    },
+    {
+      "text": "Die Britischen sollten dringend das Wahlrecht dramatisch reformieren",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Forderung nach staatlicher Reform des Wahlsystems gegen politische Manipulation"
+    },
+    {
+      "text": "Fox News macht überraschend neutral Berichterstattung, nicht parteiisch für Trump",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Lob für journalistische Unabhängigkeit gegen Manipulation und Meinungsmache"
+    },
+    {
+      "text": "Datenschutz und Faktenchecks durch Twitter-Warnung bei falschen Wahlbehauptungen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Befürwortung von Plattform-Moderierung gegen Desinformation; Bürgerrechtsschutz"
+    },
+    {
+      "text": "Trump nutzt alternative Realität als Herrschaftstechnik zur Loyalitätskontrolle",
+      "speaker": "host",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Kritik an autoritärer Manipulation und Wahrheitsverzerrung; Anti-Demokratie"
+    },
+    {
+      "text": "Steuererleichterungen unter Trump - ein Erfolg für konservative Wähler",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Neoliberale Wirtschaftspolitik; Deregulierung und Steuersenkungen"
+    },
+    {
+      "text": "Supreme Court Richter von Trump gegen Abtreibung - Match im Heaven für Evangelikale",
+      "speaker": "host",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Autorität zur Kontrolle reproduktiver Rechte; gesellschaftliche Bevormundung"
+    },
+    {
+      "text": "Black Lives Matter ist Beweis für kulturelle Stärke der US-Gesellschaft",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Anerkennung von Grassroots-Aktivismus für Bürgerrechte und Gerechtigkeit"
+    },
+    {
+      "text": "USA haben im 20. Jahrhundert trotz Problemen Fortschritt gebracht",
+      "speaker": "host",
+      "economic": 2,
+      "social": 2,
+      "reasoning": "Pragmatische, differenzierte Würdigung des Westens; Anti-Anti-Amerikanismus"
+    },
+    {
+      "text": "Gerrymandering und Voter Suppression sind aggressive Strategien zur Machthaltung",
+      "speaker": "host",
+      "economic": -3,
+      "social": -6,
+      "reasoning": "Kritik an struktureller Manipulation des Wahlsystems gegen benachteiligte Gruppen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Trump könnte gleichzeitig ein Kätzchen erwürgen und sagen wie sehr er Kätzchen liebt",
+      "context": "Beispiel für Trumps Narzissmus und kognitive Dissonanz als autoritäres Herrschaftsinstrument",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Lüge ist eines der wichtigsten Instrumente der Antidemokraten",
+      "context": "Kern-These zur Funktionsweise von Desinformation in Diktaturen und Quasi-Diktaturen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wie kaputt muss diese Gesellschaft sein - nein, das ist Hybris von uns",
+      "context": "Kritik an deutschem Überlegenheitsgefühl gegenüber USA; Anti-Chauvinismus",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Stop the Count - das ist einer der Hebel die einen Staatsstreich ausmachen",
+      "context": "Unterscheidung zwischen normalen Wahlaussagen und authentischen Putschversuchen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Medien-Kritik ist nicht Parteinahme, sondern Pflicht gegenüber der Realität",
+      "context": "Verteidigung gegen Vorwurf der Medien-Bias; Medientheorie-Argument",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_OtHTi4xEJyA",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_OtHTi4xEJyA",
+  "date": null,
+  "country": "DE",
+  "word_count": 8924
+}

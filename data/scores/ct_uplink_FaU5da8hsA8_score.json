@@ -1,0 +1,68 @@
+{
+  "economic_score": 0,
+  "social_score": 2.5,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.6,
+  "coded_statements": [
+    {
+      "text": "Firewall und Virenscanner helfen bedingt, man muss genau wissen, nach was man sucht",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Skeptis gegenüber technischen Sicherheitsmaßnahmen, Kritik an mangelndem Verständnis"
+    },
+    {
+      "text": "USB-Ports sollten mit Schlössern gesichert oder Heißkleber blockiert werden",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Befürwortung von physikalischen Kontrollmaßnahmen, leicht autoritär im Sicherheitsansatz"
+    },
+    {
+      "text": "Zugriff und Zugangsberechtigung: möglichst wenige Leute ins Büro, abgeschlossene Türen",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Restriktive Zugangskontrolle, Sicherheit vor Offenheit, autoritärer Sicherheitsansatz"
+    },
+    {
+      "text": "Das Gerät lässt sich in verschiedene Modi kombinieren ohne Spuren zu hinterlassen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an Überwachungslücken, Hervorhebung von Datenschutzproblemen und Detektionsdefiziten"
+    },
+    {
+      "text": "Aufgeräumter Schreibtisch hilft, verdächtige neue Geräte schneller zu entdecken",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Prävention durch Vigilanz und Transparenz, schwach libertär ausgerichtet"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Der Angreifer ist längst über alle Berge, das Ding lädt dann einfach auf dem Moment wo der Nutzer den Rechner entsperrt",
+      "context": "Demonstration der verzögerten Wirkungsweise von Hardware-basierten Angriffen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Man kann jetzt vom anderen Rechner auf den Bildschirm dieses attackierten PCs zugreifen ohne Passwort",
+      "context": "Erklärung der vollständigen Systemkompromittierung durch das Hacking-Gadget",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn das ein sauberes Kabelmanagement ist, kennen wir uns was angeschlossen wird",
+      "context": "Wichtigkeit von physischem Situationsbewusstsein für Sicherheit",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_FaU5da8hsA8",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_FaU5da8hsA8",
+  "date": null,
+  "country": "DE",
+  "word_count": 2501
+}

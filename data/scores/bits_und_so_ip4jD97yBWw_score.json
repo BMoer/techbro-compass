@@ -1,0 +1,82 @@
+{
+  "economic_score": 0.6,
+  "social_score": 1.2,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Versionsnummern nach Jahren sortieren, wie Microsoft Windows 95/98/2000",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Rein organisatorische Standardisierung, keine politische Position"
+    },
+    {
+      "text": "Feature Drops quarterly decoupled von OS-Releases, wie Google macht",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Effizientere Produktentwicklung, leicht pro-Innovation/moderater Marktfreundlichkeit"
+    },
+    {
+      "text": "Apple soll mit Google kooperieren, nicht alles selbst machen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung von Marktpartnerschaft statt Monopol-Eigenentwicklung"
+    },
+    {
+      "text": "Das Smartphone-Konzept ist fertig, keine echten Innovationen mehr",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Marktanalyse, keine normative wirtschaftspolitische Aussage"
+    },
+    {
+      "text": "Silicon Valley Elite kann es sich leisten, auf Smartphones zu verzichten",
+      "speaker": "host",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Kritik an Luxus-Privilegien der Wohlhabenderen, impliziert sozialen Klassenunterschied"
+    },
+    {
+      "text": "Smartphone lässt sich nicht durch ein neues Device ersetzen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Realistische Markteinschätzung, Skepsis gegenüber Disruptions-Narrative"
+    },
+    {
+      "text": "Sam Oldman sagt, man muss Rechner anschalten um ChatGPT zu nutzen",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Kritik an Unzugänglichkeit/fehlender Nutzerfreundlichkeit, Datenschutz-Implikation"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das Smartphone ist fertig. Du machst halt irgendwie die Kameras anders und größer/kleiner, aber das Konzept war mit dem ersten iPhone erledigt.",
+      "context": "Host kritisiert fehlende Innovations-Substanz in modernen Mobilgeräten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Silicon Valley sitzt da, wo man den Luxus hat zu sagen: Ich will kein Smartphone mehr. Das entspricht nicht der Lebenswelt normaler Menschen.",
+      "context": "Kritik an Eliten-Perspektive von Tech-Führungspersonen auf Nutzerbedarfe",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Sam Oldman: Um mit OpenAI zu reden, muss ich erst einen Rechner anmachen und einen Browser öffnen.",
+      "context": "Beispiel für unrealistische Produktvision gegenüber Nutzerwirklichkeit",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_ip4jD97yBWw",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_ip4jD97yBWw",
+  "date": null,
+  "country": "DE",
+  "word_count": 4197
+}

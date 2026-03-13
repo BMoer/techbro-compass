@@ -1,0 +1,129 @@
+{
+  "economic_score": -2.5,
+  "social_score": 4.3,
+  "n_coded": 13,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Struktureller Rassismus ist definitiv auch in Deutschland ein Problem",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Anerkennung von systemischen Diskriminierungen, Forderung nach gesellschaftlichem Bewusstsein"
+    },
+    {
+      "text": "Wir brauchen antirassismustrainings und Sensibilisierung in Institutionen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Reformforderung für staatliche Institutionen, links-reformativ, gesellschaftliche Sensibilisierung"
+    },
+    {
+      "text": "Ein großer Fehler ist, dass wir zu wenig schwarze Stimmen in Medien und Politik haben",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Forderung nach Repräsentation und Partizipation, Anti-Diskriminierung, Minderheitenschutz"
+    },
+    {
+      "text": "Repräsentation sorgt dafür, dass bei Rassismusthemen weniger Fehler gemacht werden",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 5,
+      "reasoning": "Diversity-Forderung, strukturelles Denken, Minderheitenrechte stärken"
+    },
+    {
+      "text": "Rassismus ist nicht politisch, sondern eine Frage von Grundwerten und Grundrechten",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Universalistische Wertauffassung, Menschenrechts-Fokus, Anti-Autoritarismus"
+    },
+    {
+      "text": "Wir haben strukturelle Rassismen in unserem System, die wir eingestehen müssen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Systemische Kritik, Forderung nach gesellschaftlicher Umgestaltung, libertäre Transparenz"
+    },
+    {
+      "text": "Die Industrie der Club- und Musikszene verdient nur Weiße golden, obwohl Schwarze die Kultur schufen",
+      "speaker": "guest",
+      "economic": -6,
+      "social": 4,
+      "reasoning": "Kritik an kapitalistischer Ausbeutung von schwarzer Kultur, Umverteilungsforderung implizit"
+    },
+    {
+      "text": "Es braucht eine Quote für Richter*innen of Color, um strukturelle Probleme zu beheben",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 4,
+      "reasoning": "Affirmative Action, staatliche Interventionsforderung, Anti-Diskriminierung"
+    },
+    {
+      "text": "Zuhören reicht nicht, um strukturellen Rassismus zu bekämpfen - wir müssen handeln",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Transformative Justice, konkrete Forderung nach Systemveränderung, libertär-transparent"
+    },
+    {
+      "text": "Ich durfte zwei Jahre lang Nachhilfe subventioniert bekommen, ohne es zu wissen - das ist diskriminierend",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Kritik an paternalistischer Hilfe, Würde und Autonomie, subtile Diskriminierung erkannt"
+    },
+    {
+      "text": "Schwarze Schulbücher und Vorbilder müssen mehr im Unterricht besprochen werden",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 4,
+      "reasoning": "Curriculum-Reform, Repräsentation in Bildung, gesellschaftliche Inklusion"
+    },
+    {
+      "text": "Rassismus entsteht durch falsch Gelertes - aber viele wehren sich dagegen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Strukturelles Bewusstsein, Hoffnung auf gesellschaftliche Umgestaltung"
+    },
+    {
+      "text": "Bei Redaktionssitzungen bin ich oft der einzige Schwarze - das ist kein Diversity",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Kritik an unzureichender Repräsentation, Forderung nach strukturellen Änderungen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Man wird in dieses System geboren - das muss man erkennen",
+      "context": "Aminata Touré erklärt, dass Rassismus strukturell ist, nicht individuelle Schuld.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Zuhören reicht nicht - wir müssen handeln",
+      "context": "Tembi Wolf fordert konkrete Maßnahmen gegen strukturellen Rassismus statt Empathie-Theater.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die gesamte Clubkultur verdankt sich schwarzen Fluchträumen - jetzt verdienen nur Weiße daran",
+      "context": "Hubert Sprangler kritisiert wirtschaftliche Ausbeutung schwarzer Kultur.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn man unvorsichtig läuft und jemanden schupst, mag das nicht böse gemeint sein - aber die Person trägt eine Schramme",
+      "context": "Aminata Touré erklärt strukturelle Diskriminierung durch Metapher.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_KqC2r3pcfAc",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_KqC2r3pcfAc",
+  "date": null,
+  "country": "DE",
+  "word_count": 4349
+}

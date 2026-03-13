@@ -1,0 +1,89 @@
+{
+  "economic_score": 1.0,
+  "social_score": 4.5,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Bei den Männern sind auch wöchentlich 60.000 Menschen im Stadion, Wolfsburg hat 2000 Zuschauer - man muss diese Relation sehen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Logik: Gehaltsdifferenzen sind durch Nachfrage/Angebot gerechtfertigt"
+    },
+    {
+      "text": "Es gibt immer noch viele Männervereine die keinen Frauenfußball haben - das ist schwierig",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an ungleicher Investitionsverteilung, implizite Forderung nach mehr Ressourcenallokation für Frauenfußball"
+    },
+    {
+      "text": "Im Frauenfußball wurde von Anfang an offener mit Homosexualität umgegangen als bei den Männern",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Würdigung libertärer Offenheit und Toleranz im Frauenfußball gegenüber Minderheiten"
+    },
+    {
+      "text": "Meine Eltern haben mich und meinen Bruder erzogen, dass es wichtig ist sein eigenes Geld zu verdienen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Betonung von Eigenverantwortung und wirtschaftlicher Unabhängigkeit, konservative Arbeitsethos"
+    },
+    {
+      "text": "Frauenfußball wird teilweise belächelt, aber die Stimmen sind leiser geworden",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Konstatierung von gesellschaftlicher Akzeptanzsteigerung, aber noch bestehender Stigmatisierung"
+    },
+    {
+      "text": "Als Trainerin müsste ich den Kopf hinhalten und noch mehr Druck - das möchte ich nach meiner aktiven Zeit nicht",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Persönliche Lebensprioritäten, nicht ideologisch aufgeladen"
+    },
+    {
+      "text": "Megan Rapinoe erreicht viele Menschen mit ihren politischen Aussagen, aber die Frage ist ob es etwas ändert",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Skepsis gegenüber Wirksamkeit von politischem Aktivismus durch Prominente, pragmatische Haltung"
+    },
+    {
+      "text": "Es wäre cool wenn man mixed Nationalmannschaften spielen würde - das ist ein Statement",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Befürwortung von Geschlechterintegration als Progressive Statement für mehr Inklusion"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Frauenfußball ist nichts - aber das ist auch deren Recht wenn sie der Meinung sind",
+      "context": "Guest verteidigt Akzeptanz verschiedener Meinungen zu Frauenfußball-Legitimität",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Fokus steht auf den Männerfußball - Frauenfußball ist zwischen Turnieren nicht so präsent in den Köpfen",
+      "context": "Guest analysiert strukturelle Medienungleichbehandlung in der Sportberichterstattung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Im Männerfußball müssen Spieler damit rechnen ausgebuht zu werden - im Frauenfußball war das von Anfang an nicht so",
+      "context": "Guest erklärt Unterschiede in gesellschaftlicher Toleranz zwischen Männer- und Frauenfußball",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_yO0yNLpYfhM",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_yO0yNLpYfhM",
+  "date": null,
+  "country": "DE",
+  "word_count": 5758
+}

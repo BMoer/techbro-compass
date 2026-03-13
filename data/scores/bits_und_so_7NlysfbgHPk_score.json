@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Node.js zwingt dich, sämtlichen Quelltext in allen richtigen Versionen mitzuliefern",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an Komplexität/Abhängigkeitsmanagement; bevorzugt effizientere Lösungen"
+    },
+    {
+      "text": "Go baut ein binary, das du einfach auf den Server kopierst und es funktioniert garantiert",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Effizienz-Präferenz, weniger technische Schulden/Overhead"
+    },
+    {
+      "text": "Du kannst relativ gut auch selber Zeug schreiben, es ist modular aufgebaut",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Bevorzugt Eigenständigkeit statt Abhängigkeit von großen Modultree-Ökosystemen"
+    },
+    {
+      "text": "Go ist Open Source, wenn Google Böse wird, kann irgendwer das übernehmen",
+      "speaker": "host",
+      "economic": 4,
+      "social": 2,
+      "reasoning": "Wertschätzung für Open-Source-Resilienz und Kontrollentzug von Großkonzernen"
+    },
+    {
+      "text": "JavaScript war nie dafür gedacht, das war dafür gedacht dass irgendeine Box blinkt",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an Tool-Missbrauch; pragmatischer Ansatz für richtige Tools für Jobs"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das wird sehr schnell sehr groß und dann hast du möglicherweise das gleiche Problem wie mit anderen Sachen auch",
+      "context": "Kritik am npm-Ökosystem und Dependency-Hell in Node.js Projekten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir wollen sowas ähnliches wie C aber ohne den Mist von C",
+      "context": "Googlès Design-Philosophie bei der Go-Sprache",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_7NlysfbgHPk",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_7NlysfbgHPk",
+  "date": null,
+  "country": "DE",
+  "word_count": 1282
+}

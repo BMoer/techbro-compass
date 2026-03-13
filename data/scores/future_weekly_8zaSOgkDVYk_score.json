@@ -1,0 +1,148 @@
+{
+  "economic_score": 1.6,
+  "social_score": 3.4,
+  "n_coded": 15,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Finanziellen Unabhängigkeit erreicht man eigentlich nur durch Unternehmertum",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Pro-Unternehmertum, aber gemäßigt. Betont individuelle Freiheit durch Geschäft."
+    },
+    {
+      "text": "Gründen ist viel Glück, nicht nur Strategie und Skill",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Metareflexion auf Erfolg, keine politische Positionierung."
+    },
+    {
+      "text": "Man muss strategisch und datengetrieben spenden, nicht emotional",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 4,
+      "reasoning": "Rationaler Umgang mit Wohlfahrt, Betonung von Effizienz + Libertär wg. Eigenbestimmung."
+    },
+    {
+      "text": "Klimakrise ist Polykrise und Nährboden für alle anderen Probleme",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Systemische Kritik, aber nicht antikapitalistisch. Eher pragmatisch-regulierend."
+    },
+    {
+      "text": "Ich spende 15% meiner Personio-Gewinne via Founders Pledge",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 4,
+      "reasoning": "Substantielle Umverteilung von Vermögen. Libertär wg. freiwilliger Entscheidung."
+    },
+    {
+      "text": "Neglectedness: Man sollte das tun, was andere noch nicht tun",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 3,
+      "reasoning": "Marktwirtschaftliche Lückenlogik. Gesellschaftlich gemäßigt libertär."
+    },
+    {
+      "text": "Onboarding und Support waren die echten Probleme bei Personio, nicht Verkauf",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Operationale Reflexion, keine politische Aussage."
+    },
+    {
+      "text": "Schnelles Wachstum durch schlechtes Hiring macht großen Schaden",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Management-best-practice, keine ideologische Position."
+    },
+    {
+      "text": "Der CEO muss nach Diskussion das letzte Wort haben, sonst wächst man nicht",
+      "speaker": "guest",
+      "economic": 3,
+      "social": -2,
+      "reasoning": "Pro-hierarchische Entscheidungsfindung für Effizienz. Autoritär wg. CEO-Macht."
+    },
+    {
+      "text": "Perfektionismus ist Gründungsgift - man muss schnell iterieren",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pragmatisch-libertäre Gründungsphilosophie gegen Überregulierung durch Standards."
+    },
+    {
+      "text": "Ich halte meinen Lebensstil bewusst unter meinen Möglichkeiten",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 5,
+      "reasoning": "Restrained consumption wg. Freiheit. Libertär wg. Ablehnung von Zwängen."
+    },
+    {
+      "text": "Mit Motorrad, Trainern und Reisen gebe ich das meiste aus",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Konsum für Lebensqualität, pragmatisch kapitalistisch."
+    },
+    {
+      "text": "Das Großteil der Menschheit sollte an Dingen arbeiten, die sie wollen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 6,
+      "reasoning": "Pro-Autonomie, gegen Erwerbszwang. Stark libertär, etwas links (Umverteilung via Automatisierung)."
+    },
+    {
+      "text": "Nächste Gründung mit kleinem Team, self-funded, kein extremer Wachstumsdruck",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 5,
+      "reasoning": "Anti-VC-Druck, pro-autonome Geschäftsmodelle. Libertär wg. Unabhängigkeit."
+    },
+    {
+      "text": "AI und Weltraum werden nächste Goldgräberstimmung generieren",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Optimismus für Marktexpansion und technologische Lösungen."
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ich habe mich einfach entschieden in einer Gründung alles falsch zu machen was man falsch machen kann",
+      "context": "Pablo Guide Startup scheiterte, aber ermöglichte Frau kennenlernen und später Personio.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es ist furchtbar kurios - wenn der Exit 9 statt 10 Millionen wären, würdest du nie drüber nachdenken",
+      "context": "Erklärt, warum Founders Pledge psychologisch funktioniert: Fiktive Gewinne spenden schmerzt nicht.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn du sozusagen immer nur ganz kleine Schritte machst dann wächst du nicht so schnell",
+      "context": "CEO Hanno vs. Co-founder Ignaz: Tension zwischen Perfektionismus und Skalierungsdynamik.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Gründen ist einfach auch viel Glück - Timing, Team, CDTM, dass ich da reinstolper bin",
+      "context": "Ignat reflektiert self-aware, dass Personio-Erfolg nicht rein durch Skill erklärt ist.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die größte Privilege aus Vermögen ist die Freiheit, nächstes Jahr nicht das machen zu müssen was dieses Jahr",
+      "context": "Philosophie der Freiheit durch Wohlstand, bewusster Verzicht auf Lebensstil-Upgrade.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_8zaSOgkDVYk",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_8zaSOgkDVYk",
+  "date": null,
+  "country": "AT",
+  "word_count": 11431
+}

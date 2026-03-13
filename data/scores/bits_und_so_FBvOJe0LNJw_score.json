@@ -1,0 +1,51 @@
+{
+  "economic_score": 1.0,
+  "social_score": 2.5,
+  "n_coded": 4,
+  "insufficient_data": true,
+  "confidence": 0.35,
+  "coded_statements": [
+    {
+      "text": "proprietäres Peer-to-Peer Netzwerk ist extrem schnell",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Befürwortung proprietärer Technologie über offene Standards"
+    },
+    {
+      "text": "man muss keine Ordner freigeben, einfach ziehen und los",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Wertschätzung für Nutzerfreundlichkeit ohne Intermediäre/Kontrolle"
+    },
+    {
+      "text": "Screenshots in Deutschland: gibt es ein Gesetz dafür - Leistungsschutzrecht",
+      "speaker": "host",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Kritik an restriktiver Regulierung (Leistungsschutzrecht), die Nutzer einschränkt"
+    },
+    {
+      "text": "dafür haben wir halt alle viel zu viele Cloud-Dienste angefangen mit Dropbox",
+      "speaker": "host",
+      "economic": 0,
+      "social": 1,
+      "reasoning": "Skeptis gegenüber Marktkonzentration, bevorzugt dezentrale Alternative"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Vorsicht mit Screenshots - es gibt ein Gesetz dafür",
+      "context": "Host warnt vor deutschen Leistungsschutzrechten bei Screenshot-Nutzung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_FBvOJe0LNJw",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_FBvOJe0LNJw",
+  "date": null,
+  "country": "DE",
+  "word_count": 831
+}

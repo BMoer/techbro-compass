@@ -1,0 +1,68 @@
+{
+  "economic_score": -1.4,
+  "social_score": 1.6,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Nordstream 2 war ein legitimes rein ökonomisches Projekt, Kritik der USA ist unangemessen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Defensio gegen Regulierung/Sanktionen, aber moderat"
+    },
+    {
+      "text": "Putin verfolgt expansive Ziele, der Westen muss sich verteidigen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Sicherheitsorientierung, aber nicht extremer Autoritarismus, eher Abwehr"
+    },
+    {
+      "text": "Ukraine 2008 war nicht reif für NATO-Beitritt, war von Oligarchen geführt",
+      "speaker": "guest",
+      "economic": -4,
+      "social": -2,
+      "reasoning": "Kritik an kapitalistischen Strukturen + paternalistische Sicht auf Souveränität"
+    },
+    {
+      "text": "Ich trage Verantwortung für alles, habe mich nie vor dieser Verantwortung gedrückt",
+      "speaker": "guest",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Zentrale Autorität beansprucht, aber ohne totalitären Anspruch"
+    },
+    {
+      "text": "Diese Freiheit nehme ich mir, lasse mir nicht von Kanzlerschaft den Spaß verderben",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Individualpersonenrechte, Ablehnung von Zwängen durch Status"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Der Zerfall der Sowjetunion war die schlimmste Sache des 20. Jahrhunderts für Putin, für mich der Glücksumstand meines Lebens",
+      "context": "Merkel beschreibt den fundamentalen Wertekonflikt mit Putin seit 2007",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich habe es glücklicherweise ausreichend versucht zu verhindern, was jetzt stattgefunden hat",
+      "context": "Merkel rechtfertigt ihre Russlandpolitik ohne echte Selbstkritik einzugestehen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Diese Freiheit nehme ich mir, ich lasse mir nicht von der Tatsache dass ich mal Bundeskanzlerin war den Spaß verderben",
+      "context": "Merkel erklärt ihre neue Unabhängigkeit und Eigenständigkeit nach 16 Jahren Kanzlerschaft",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_IhcUvG_ccbo",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_IhcUvG_ccbo",
+  "date": null,
+  "country": "DE",
+  "word_count": 3109
+}

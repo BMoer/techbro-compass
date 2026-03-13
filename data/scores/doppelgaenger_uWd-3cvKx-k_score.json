@@ -1,0 +1,143 @@
+{
+  "economic_score": 1.6,
+  "social_score": 2.0,
+  "n_coded": 15,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "EU-Regulierung für USB-C spart Geld und schont Umwelt, wenig Innovation kostet",
+      "speaker": "host",
+      "economic": -3,
+      "social": 0,
+      "reasoning": "Pro-Regulierung für praktische Zwecke, aber nicht ideologisch stark"
+    },
+    {
+      "text": "Europa positioniert sich schlecht für KI-Rennen: teure Energie, keine Chips",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an europäischer Wettbewerbsfähigkeit, pragmatisch"
+    },
+    {
+      "text": "KI wird zur Chance für Europa, man kann alles mit weniger Geld bauen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Optimismus bezüglich Effizienzgewinne durch Technologie"
+    },
+    {
+      "text": "Schuldenbremse aufweichen war richtig, andere Länder wachsen durch Schulden",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Befürwortung von Staat-Investitionen gegen rigide Sparpolitik"
+    },
+    {
+      "text": "Sozialhilfebetrug muss verfolgt werden, aber Generalisierung ist rassistisch",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Anti-Diskriminierung, für Rule of Law, gegen Kollektivschuld"
+    },
+    {
+      "text": "Steuerhinterziehung reiche Menschen (500 Mrd. USA) ist 1000x größer als Small Fraud",
+      "speaker": "host",
+      "economic": -7,
+      "social": 5,
+      "reasoning": "Kritik an Wohlhabenden, Ungleichheit, redistribution-fokussiert"
+    },
+    {
+      "text": "NGOs sind wichtig für Zivilgesellschaft, Hetze dagegen ist gefährlich",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Pro-Bürgerrechte, Anti-Autoritarismus, gegen Diskreditierung"
+    },
+    {
+      "text": "Palanir profitiert von libertärer Administration, bauen mächtige Staatssoftware",
+      "speaker": "host",
+      "economic": 5,
+      "social": -6,
+      "reasoning": "Kritik an Widerspruch zwischen Freiheitsrhetorik und Staatsmacht"
+    },
+    {
+      "text": "Microsoft Cloud Services wachsen 17%, Consumer Cloud 26%, Office-Geschäft robust",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Factual, keine Meinung - nicht codiert"
+    },
+    {
+      "text": "AI-Realität tritt ein: Unternehmen sagen 700 Jobs weg, machen es aber nicht",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Skeptisch gegenüber Hype-Narrative, pragmatisch"
+    },
+    {
+      "text": "Agentic Web ist Headfake, Überinvestments ohne echten Markt dafür",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an irrationalen Tech-Investitionen, pragmatisch"
+    },
+    {
+      "text": "Meta kann Copilot nicht richtig in den Markt bringen, unfokussierte Strategie",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritik an Unternehmensversagen bei Integration"
+    },
+    {
+      "text": "Wenn du mit Edelmetallen anfängst, landest schnell in Prepper/rechter Bubble",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Skepsis gegenüber Verschwörungserzählungen und Extremismus"
+    },
+    {
+      "text": "Elon Musk nennt Somalia-Fraud 1,5 Billionen, Rechnung ist mathematisch unmöglich",
+      "speaker": "host",
+      "economic": null,
+      "social": 7,
+      "reasoning": "Anti-Desinformation, kritisch gegenüber Eliten-Rhetorik"
+    },
+    {
+      "text": "Schwarzarbeit/Steuerhinterziehung in Deutschland ist 100 Mrd., echte Wunde",
+      "speaker": "host",
+      "economic": -6,
+      "social": 4,
+      "reasoning": "Starke Kritik an Steuervermeidung der Wohlhabenden"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Steuerraub hat keine Hautfarbe und wenn dann ist sie weiß",
+      "context": "Vergleich der Größenordnung von Sozialhilfebetrug zu Steuerhinterziehung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Banker erzählt dem weißen Arbeiter: Der Ausländer will dir den Keks klauen, nachdem er ihm 13 von 14 weggenommen hat",
+      "context": "Kritik an Hetze gegen Minderheiten durch Eliten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn du mit Edelmetallen anfängst, bist du sofort in der Prepper- und rechten Blase",
+      "context": "Warnung vor ideologischen Assoziationen von Gold-Investment",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die PayPal Mafia baute mächtigste Software um Staat noch mächtiger zu machen - keinen inhaltlichen Widerspruch",
+      "context": "Kritik an libertären Unternehmern in Trump-Administration",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_uWd-3cvKx-k",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_uWd-3cvKx-k",
+  "date": null,
+  "country": "DE",
+  "word_count": 19585
+}

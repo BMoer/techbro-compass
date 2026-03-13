@@ -1,0 +1,96 @@
+{
+  "economic_score": 2.0,
+  "social_score": 4.6,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Lärmschutzwände sind total schädlich für unser Klima und werden nach 20 Jahren zu Sondermüll",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Marktpraktiken, Umweltschutz über Profitabilität"
+    },
+    {
+      "text": "Ökologische Lärmschutzwände aus natürlichen Materialien wie Schilf und Holz",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 5,
+      "reasoning": "Nachhaltige Innovation, kein explizites Wirtschaftsmodell, libertär durch Natur-Priorität"
+    },
+    {
+      "text": "Man muss der Produktion selbst aufbauen, Produzenten waren zu teuer oder unzuverlässig",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Unternehmertum, Marktlösung durch Eigeninitiative statt Regulation"
+    },
+    {
+      "text": "Es gibt immensen Druck auf Straßenbau, nachhaltig zu agieren und neue Innovationen zu bringen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Regulatorischer Druck als treibende Kraft, nicht freier Markt"
+    },
+    {
+      "text": "Der größte Verlust ist einfach nichts zu machen statt es zu versuchen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Starke libertäre Haltung: Eigenverantwortung, individuelle Initiative vor Passivität"
+    },
+    {
+      "text": "Mein größtes Learning: Man muss seinem Herzen folgen um den Weg zu finden",
+      "speaker": "guest",
+      "economic": null,
+      "social": 7,
+      "reasoning": "Stark libertär: Persönliche Freiheit und innere Überzeugung vor externen Vorgaben"
+    },
+    {
+      "text": "Ich wünsche mir dass weniger Leute nur reden und mehr Leute was machen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Libertäre Kritik an kollektivem Versprechen ohne Handlung, Eigenverantwortung"
+    },
+    {
+      "text": "Lärmschutzbudget in Österreich wird von 45 auf 100 Millionen Euro pro Jahr erhöht",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Staatliche Investitionsoffensive, nicht Marktmechanismus treibt Nachfrage"
+    },
+    {
+      "text": "Regional produzieren mit Schilf vom Neusiedlersee um Transportwege kurz zu halten",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 4,
+      "reasoning": "Nachhaltige Lokalwirtschaft mit Effizienz kombiniert, gemischter Ansatz"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Der größte Verlust und das größte Versagen ist einfach nichts zu machen",
+      "context": "Begründung für Gründung trotz Widerstände und eigener Zweifel",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich wünsche mir dass weniger Leute nur reden und mehr Leute was machen",
+      "context": "Moonshot für die Zukunft: Kritik an Lippenbekenntnissen zum Klimawandel",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Lärmschutzwände sind allesamt total schädlich für unser Klima und am Ende Sondermüll",
+      "context": "Erkenntnisprozess über Marktproblem bei Recherche zu Lärmschutzwänden",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_JbUsqp7FSpo",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_JbUsqp7FSpo",
+  "date": null,
+  "country": "AT",
+  "word_count": 5134
+}

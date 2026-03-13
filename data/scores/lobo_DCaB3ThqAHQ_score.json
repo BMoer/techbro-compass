@@ -1,0 +1,82 @@
+{
+  "economic_score": -1.57,
+  "social_score": 3.43,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Hunderte Kliniken schließen, systemrelevante schlecht bezahlen war nicht hellsichtig",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik an Neoliberalismus, Marktwirtschaftskritik, fordert bessere Bezahlung"
+    },
+    {
+      "text": "Marktwirtschaft ermöglichte Millionen Tests in wenigen Wochen",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Positive Würdigung von Marktmechanismen bei Problemlösung"
+    },
+    {
+      "text": "Fehlerkultur ist notwendig, Experten müssen Irrtümer eingestehen",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Fordert Transparenz, gegen Autoritarismus, für offene Debatte"
+    },
+    {
+      "text": "Menschen müssen Eigenverantwortung tragen, nicht alles dem Staat überlassen",
+      "speaker": "host",
+      "economic": 3,
+      "social": 4,
+      "reasoning": "Befürwortet individuelle Verantwortung, liberale Mündigkeit statt Bevormundung"
+    },
+    {
+      "text": "Leopoldina-Gremium: 24 Männer, 2 Frauen, homogene Elite ohne Fehlerkultur",
+      "speaker": "host",
+      "economic": -4,
+      "social": -3,
+      "reasoning": "Kritik an Elitismus, mangelnder Repräsentation, autoritärer Strukturen"
+    },
+    {
+      "text": "Abwägung von Grundrechten ist Herzstück demokratischer Prozesse",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Pro-liberale Demokratie, gegen radikale Positionen, für Pluralismus"
+    },
+    {
+      "text": "Crypto = echte Freiheit, Systeme komplett abschaffen ist radikale Lösung",
+      "speaker": "guest (Boris)",
+      "economic": -7,
+      "social": 7,
+      "reasoning": "Anti-Kapitalismus, revolutionäre Systemkritik, individuelle Freiheit als Wert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Rechthaberie ist unsere innere Trump-Instanz, die in der Krise manifeste wird",
+      "context": "Lobo analysiert psychosoziale Muster von Experten in der Corona-Krise",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wer nur sagt Virologen sollen reden, schiebt seine Verantwortung ab",
+      "context": "Lobo kritisiert moderne Unmündigkeit durch Expertenverehrung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ausgewogenheitsduselei ist demokratiekritisch und trägt ein Körnchen Autoritarismus",
+      "context": "Lobo antwortet auf Boris' Forderung nach radikalerem Positionsbezug",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_DCaB3ThqAHQ",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_DCaB3ThqAHQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 8327
+}

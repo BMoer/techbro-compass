@@ -1,0 +1,89 @@
+{
+  "economic_score": -1.2,
+  "social_score": 0.4,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Arbeitgeber muss Gesundheitsschutz im Homeoffice wahren, gegebenenfalls Ausstattung bereitstellen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Regulierung von Arbeitgeberpflichten, Arbeitnehmerschutz"
+    },
+    {
+      "text": "Kosten für Büromaterial wie Druckerpapier müssen vom Arbeitgeber erstattet werden, wenn im Betriebsinteresse",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Arbeitnehmerschutz, Kostenerstatten im Betriebsinteresse"
+    },
+    {
+      "text": "Arbeitgeber kann nicht verlangen, dass Mitarbeiter im Homeoffice arbeiten - immer Freiwilligkeit",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Arbeitnehmerrecht, Autonomie über Arbeitsort"
+    },
+    {
+      "text": "Im Homeoffice muss Arbeitszeitgesetz mit Höchstarbeitszeiten und Ruhezeiten eingehalten werden",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Regulierung von Arbeitsschutz, Arbeitszeitsicherung"
+    },
+    {
+      "text": "Arbeitgeber muss billiges Ermessen wahren und Arbeitnehmerinteressen bei Kinderbetreuung berücksichtigen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Sozialstaatliches Prinzip, Schutz familiärer Interessen"
+    },
+    {
+      "text": "Überstunden können angeordnet werden, wenn im Vertrag vorgesehen; Vergütung oder Ausgleich berechtigt",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Vertragsbasiert, pragmatisches Gleichgewicht"
+    },
+    {
+      "text": "Unfallversicherungsschutz im Homeoffice ist knifflig; Gang in die Küche nicht versichert, anders als im Büro",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kritik an asymmetrischer Risikoverteilung zwischen Büro und Homeoffice"
+    },
+    {
+      "text": "Menschen im Homeoffice sollten private Unfallversicherung abschließen; Gesetzesänderungen notwendig",
+      "speaker": "guest",
+      "economic": 2,
+      "social": -1,
+      "reasoning": "Privatisierung von Risiken statt staatlicher Lösung; aber auch Kritik an Regelungslücke"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wenn du über dein PC Kabel fällst ist das versichert, aber in die Küche für Wasser ist privat",
+      "context": "Absurdität der Unfallversicherungsregeln im Homeoffice",
+      "quiz_suitable": true
+    },
+    {
+      "text": "die Situation ist mit unserem arbeitsrechtlichen Modell gut in den Griff zu bekommen",
+      "context": "Optimistische Einschätzung der Regelungskapazität",
+      "quiz_suitable": true
+    },
+    {
+      "text": "nicht jeder sagt was muss ich, darf ich, kann ich, sondern gemeinsam beste Lösungen finden",
+      "context": "Appell für pragmatische Kooperationshaltung statt rechtlicher Zank",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_I4pjS1mPPv0",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_I4pjS1mPPv0",
+  "date": null,
+  "country": "DE",
+  "word_count": 2263
+}

@@ -1,0 +1,75 @@
+{
+  "economic_score": -1.0,
+  "social_score": 2.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Diese Sensoren kosten nur 3-5 Euro, viel günstiger als teure Eve-Sensoren",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Präferenz für kostengünstige Lösungen, pragmatischer Marktvergleich"
+    },
+    {
+      "text": "Geräte die mich aussperren wollen machen mich sofort wahnsinnig - Handwerkermodus blockiert",
+      "speaker": "host",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Kritik an proprietärer Kontrolle und Einschränkung von Nutzerrechten, Freiheitsanspruch"
+    },
+    {
+      "text": "Warum darf ich meinen Estrich nicht selbst trocknen wenn ich das möchte",
+      "speaker": "host",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Anti-Paternalismus, Ablehnung von Herstellerkontrolle über eigene Geräte"
+    },
+    {
+      "text": "Home Assistant funktioniert just works - Software nicht anfassen, einfach einstecken",
+      "speaker": "host",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Lob für offene, funktionierende Lösung ohne Vendor Lock-in"
+    },
+    {
+      "text": "Haustechnik-Firmen machen alles furchtbar - letzte 10 Jahre nichts passiert",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Marktversagen und mangelndem Wettbewerb in der Branche"
+    },
+    {
+      "text": "Ich hätte gerne Internet-Zugang per Telenet zur Fernsteuerung statt dieser grausigen UI",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Wunsch nach technischer Autonomie und Kontrolle über eigene Geräte"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "diese ganzen Firmen die diese Haustechnik Zeug herstellen ist alles furchtbar",
+      "context": "Generelle Frustration über mangelnde Innovation im Smart-Home-Markt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Geräte die mich aussperren wollen das macht mich immer sofort wahnsinnig",
+      "context": "Reaktion auf blockierte Handwerker-Modi bei der Heizung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Smart Home fängt jetzt erst an - die letzten Jahre haben nicht gezählt",
+      "context": "Bewertung der bisherigen Smart-Home-Entwicklung als unzureichend",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_pTsubsDD5ao",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_pTsubsDD5ao",
+  "date": null,
+  "country": "DE",
+  "word_count": 2482
+}

@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 26 column 17 (char 838)",
+  "raw_response": "{\n  \"economic_score\": 0.0,\n  \"social_score\": -2.0,\n  \"n_coded\": 4,\n  \"insufficient_data\": false,\n  \"confidence\": 0.65,\n  \"coded_statements\": [\n    {\n      \"text\": \"Firmen können durch MDM ihre Mitarbeiter-Geräte verwalten und kontrollieren\",\n      \"speaker\": \"host\",\n      \"economic\": null,\n      \"social\": -3,\n      \"reasoning\": \"Technische Kontrolle/Überwachung von Mitarbeitergeräten, sicherheitsorientiert\"\n    },\n    {\n      \"text\": \"Bei Sicherheitsproblemen kann man einfach Apps blocken und an",
+  "episode_id": "bits_und_so_Bc1KzltnzJU",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_Bc1KzltnzJU",
+  "date": null,
+  "country": "DE",
+  "word_count": 494
+}

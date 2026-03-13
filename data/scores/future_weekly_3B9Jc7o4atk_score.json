@@ -1,0 +1,108 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.0,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Universitäten sollten Potenzial aus Forschung in Wertschöpfung umwandeln, die in die Wirtschaft fließt",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Haltung zu Tech-Transfer, weder stark marktwirtschaftlich noch regulativ"
+    },
+    {
+      "text": "Ausgründungen werden durch lange Verhandlungen mit Unis im Keim erstickt, man sollte standardisierte Verträge haben",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an Überregulation, Plädoyer für schnellere Prozesse und Deregulation"
+    },
+    {
+      "text": "Der Staat sollte Spitzenforschung nicht mit Unternehmertum vermischen, sondern beides ermöglichen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Zentrale Positionierung: Weder Verstaatlichung noch radikale Liberalisierung, sondern Ermöglichung beider Wege"
+    },
+    {
+      "text": "Wir generieren IP und bleiben unterm Radar, aber jetzt müssen viele Leute unsere Architektur verwenden",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Betont Open-Platform-Gedanken statt Monopolisierung, moderatmarktwirtschaftlich"
+    },
+    {
+      "text": "Europa muss nicht vollständig unabhängig sein, sondern gegenseitige Abhängigkeit mit anderen schaffen als Hebel",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatischer, interdependenzorientierter Ansatz statt Protektionismus oder totale Liberalisierung"
+    },
+    {
+      "text": "Man muss unabhängig bleiben und nein zu großen Geldverlockungen sagen, um die eigene Vision nicht zu verlieren",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 3,
+      "reasoning": "Betonung von Autonomie und Werten über Kapital; libertäre Komponente (Unabhängigkeit vom Marktdruck)"
+    },
+    {
+      "text": "Ich bin kostenlos in Öster. Gymnasium gegangen, studiert, und sobald ich was zurückgeben kann, bin ich weg - das ist seltsame Logik",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an Brain-Drain, implizite Frage nach sozialer Verpflichtung vs. individuelle Freiheit"
+    },
+    {
+      "text": "Unternehmer werden falsch dargestellt - es ist anstrengender und härter als man sich das vorstellt",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Nüchterne, realistische Sicht auf Unternehmertum ohne ideologische Verklärung"
+    },
+    {
+      "text": "Precision Medicine sollte für jeden ohne Bias zugänglich sein, unabhängig vom Background",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Starke egalitäre Vision, libertäre Komponente (allen Freiheit/Zugang geben), leicht linkslibertär"
+    },
+    {
+      "text": "Quantencomputer sind exponentiell schneller als klassische Computer - komplexe Probleme werden lösbar",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Reine Faktendarstellung, keine Meinung, daher nicht codiert, aber in Transkript vorhanden"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ausgründungen von Forschung sollten Monate, nicht Jahre dauern",
+      "context": "Kritik an österreichischem Universitäts-Ausgründungsprozess als zu langwierig",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Unser Traum ist, dass andere Leute IP mit der Parity-Architektur generieren",
+      "context": "Radikaler Open-Innovation-Ansatz statt IP-Schutz und Monopolisierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Man muss nein zu großen Geldverlockungen sagen, um unabhängig zu bleiben",
+      "context": "Spannungsfeld zwischen finanziellem Erfolg und Autonomie beim Scale-up",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Europa muss nicht unabhängig sein, sondern gegenseitige Abhängigkeit mit anderen schaffen",
+      "context": "Paradigmenwechsel in Tech-Souveränität-Debatte: Interdependenz statt Autarkie",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_3B9Jc7o4atk",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_3B9Jc7o4atk",
+  "date": null,
+  "country": "AT",
+  "word_count": 7235
+}

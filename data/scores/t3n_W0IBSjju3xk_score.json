@@ -1,0 +1,51 @@
+{
+  "economic_score": 0,
+  "social_score": 1.25,
+  "n_coded": 4,
+  "insufficient_data": true,
+  "confidence": 0.35,
+  "coded_statements": [
+    {
+      "text": "wir haben uns auf barrierefreiheit konzentriert aus gesundem menschenverstand",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Fokus auf Accessibility als Grundrecht, libertäre Wertschätzung von Inklusion"
+    },
+    {
+      "text": "es gab im kreis was hat denn das haben wir die oberen chef italien dazu gesagt - nicht offensiv beworben",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritische Distanz zu Top-Down-Marketing, organische Wertevermittlung bevorzugt"
+    },
+    {
+      "text": "wir waren nicht die ersten markt macht man eigentlich selten das irgendwie vor rennen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatisches, nicht ideologisches Verhältnis zu Marktpositionen"
+    },
+    {
+      "text": "für 618 plattform apps zu bauen ist der kostenfaktor - es sei denn frameworks entwickeln",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Technische Effizienzfragen, keine ideologische Position erkennbar"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "barrierefreiheit aus gesundem menschenverstand, nicht als Auftrag",
+      "context": "Zeit Online implementierte Accessibility ohne externe Anforderung",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "t3n_W0IBSjju3xk",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_W0IBSjju3xk",
+  "date": null,
+  "country": "DE",
+  "word_count": 775
+}

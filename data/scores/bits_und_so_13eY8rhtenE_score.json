@@ -1,0 +1,82 @@
+{
+  "economic_score": -1.0,
+  "social_score": 1.4,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Apple gibt Entwicklern nicht die Freiheit, kreativ zu werden - zu viel Kontrolle durch App Review",
+      "speaker": "host",
+      "economic": -3,
+      "social": -4,
+      "reasoning": "Kritik an Marktmacht & Kontrolle; Einschränkung von Freiheitsrechten"
+    },
+    {
+      "text": "Android-Offenheit ist angenehm, aber führt zu unkontrolliertem Chaos und schlechter User Experience",
+      "speaker": "host",
+      "economic": 2,
+      "social": -3,
+      "reasoning": "Pro-Regulierung für Qualität; Sicherheitsbedenken überwiegen Freiheit"
+    },
+    {
+      "text": "Apple muss Plattform offen halten, sonst entstehen innovative Apps gar nicht erst",
+      "speaker": "host",
+      "economic": -4,
+      "social": 4,
+      "reasoning": "Pro-Offenheit für Innovation; Kritik an Gatekeeper-Macht"
+    },
+    {
+      "text": "App Store Review-Prozess ist schwierig, aber notwendig um User vor Malware zu schützen",
+      "speaker": "host",
+      "economic": 0,
+      "social": -2,
+      "reasoning": "Ausgewogene Sicht: Sicherheit rechtfertigt teilweise Kontrolle"
+    },
+    {
+      "text": "VPN-Apps in China rausnehmen ist falsch - Apple kuscht vor Autoritarismus",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Kritik an Zensur & staatlicher Überwachung; pro Bürgerrechte"
+    },
+    {
+      "text": "Einheitliche Design-Guidelines im App Store sind gut - Benutzer verstehen Software besser",
+      "speaker": "host",
+      "economic": 0,
+      "social": -1,
+      "reasoning": "Standardisierung für UX; geringe Kontrolle-Kritik"
+    },
+    {
+      "text": "Beim Notarization neue Gatekeeper: Apple entscheidet willkürlich, was OK ist - zu viel Macht",
+      "speaker": "host",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Kritik an Apple-Monopol & fehlender Transparenz in Approval-Prozess"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Apple gibt Entwicklern nicht die Freiheit, kreativ zu werden",
+      "context": "Host kritisiert App Review Policy als zu restriktiv",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn man weiß, dass die App Review dich blockieren könnte, traust du dich nie, die Idee zu entwickeln",
+      "context": "Risiko für Developer ohne Transparenz in Review-Kriterien",
+      "quiz_suitable": true
+    },
+    {
+      "text": "VPN-Apps rausnehmen weil China das verlangt - das ist kuschen vor dem Staat",
+      "context": "Kritik an Apple-Zensur in autoritären Ländern",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_13eY8rhtenE",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_13eY8rhtenE",
+  "date": null,
+  "country": "DE",
+  "word_count": 5876
+}

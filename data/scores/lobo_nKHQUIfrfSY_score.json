@@ -1,0 +1,103 @@
+{
+  "economic_score": -2.0,
+  "social_score": 4.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Diese Substanzen sind nicht neurotoxisch, zerstören nicht die Leber, lagern sich nicht im Gehirn ab",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Datenschutz/Transparenz über Sicherheit: Betonung von Risikominimierung und Fakten über körperliche Schäden"
+    },
+    {
+      "text": "Psychedelika machen kein Abhängigkeitspotenzial, keine physische Abhängigkeit wie Alkohol oder Kokain",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Libertäre Position: Autonomie und Selbstbestimmung, Faktenbetonung gegen Paternalismus"
+    },
+    {
+      "text": "Was geholfen hat ist diese therapeutische Einbettung - das ist das Wichtige",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 0,
+      "reasoning": "Regulierung und professionelle Kontrolle notwendig, staatliche/medizinische Überwachung befürwortet"
+    },
+    {
+      "text": "Es gibt definitiv Gefahren beim Konsum von Psychedelika wie Psychosen, Angststörungen und HPPD",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Warnung vor Risiken, gewisse Skepsis gegenüber unreguliertem Zugang"
+    },
+    {
+      "text": "30% der therapieresistenten Patienten profitieren - das ist ein ziemlich gutes Zeichen",
+      "speaker": "host",
+      "economic": -1,
+      "social": 0,
+      "reasoning": "Hoffnung auf medizinische Innovation im Gesundheitssystem, pragmatische Bewertung"
+    },
+    {
+      "text": "Klaus hat sich LSD bestellt und ist mit seiner Frau auf eine Hütte gefahren - aber das war nicht so eine gute Idee",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an Selbstmedikation, Betonung dass professionelle Begleitung essentiell ist"
+    },
+    {
+      "text": "Da werden noch Jahre ins Land ziehen bis es flächendeckend in Deutschland zugelassen wird",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -1,
+      "reasoning": "Akzeptanz von langwierigen behördlichen Prozessen und Sicherheitsprüfungen"
+    },
+    {
+      "text": "Ein Drittel profitiert deutlich, ein Drittel sagt es hat nichts gemacht, ein Drittel dazwischen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Sachliche, empirische Bewertung ohne ideologische Position"
+    },
+    {
+      "text": "Jedem damit gut geraten sowas wenn dann in einem therapeutischen professionellen Setting zu machen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -2,
+      "reasoning": "Befürwortung von staatlicher/medizinischer Kontrolle und Regulierung"
+    },
+    {
+      "text": "Diese Psychedelika-Forschung erfährt jetzt eine Renaissance nach den 60er/70ern",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 4,
+      "reasoning": "Pluralismus und wissenschaftliche Offenheit gegenüber alternativen Behandlungsformen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Was geholfen hat ist diese therapeutische Einbettung - das ist das Wichtige",
+      "context": "Klaus musste lernen, dass Psychedelika nur im professionellen Setting helfen, nicht im privaten Konsum",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich bin nicht der fröhliche Mensch wie früher, ich bin ein anderer fröhlicher Mensch",
+      "context": "Klaus' reflektierte Aussage am Ende über seine veränderte Persönlichkeit nach der Therapie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "30% der therapieresistenten Patienten profitieren - das ist ein ziemlich gutes Zeichen",
+      "context": "Bewertung der Studienergebnisse als hoffnungsvoll für vorher ausweglose Patienten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_nKHQUIfrfSY",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_nKHQUIfrfSY",
+  "date": null,
+  "country": "DE",
+  "word_count": 3662
+}

@@ -1,0 +1,51 @@
+{
+  "economic_score": 2.5,
+  "social_score": 5.5,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.6,
+  "coded_statements": [
+    {
+      "text": "VPN-Dienste mit transparenten Preisen, offener API und nutzergesteuerten Konfigurationen",
+      "speaker": "host",
+      "economic": 5,
+      "social": 6,
+      "reasoning": "Befürwortung von freier Wahl, technischer Kontrolle, Dezentralisierung und Transparenz"
+    },
+    {
+      "text": "Open VPN Standard erlaubt Nutzer, ihre eigenen Clients zu wählen oder bereitgestellte zu nutzen",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Betonung von Wahlfreiheit und technischer Autonomie des Nutzers"
+    },
+    {
+      "text": "Port Forwarding und API-Zugang ermöglichen maximale Kontrolle und Konfigurierbarkeit",
+      "speaker": "host",
+      "economic": 0,
+      "social": 7,
+      "reasoning": "Starke Betonung von Nutzerautonomie und Anti-Zentralisierung; technische Freiheit"
+    },
+    {
+      "text": "VPS-Alternative für noch mehr Kontrolle über eigene VPN-Infrastruktur",
+      "speaker": "host",
+      "economic": 0,
+      "social": 8,
+      "reasoning": "Förderung maximaler technischer Unabhängigkeit und Selbstbestimmung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wenn man wirklich jedes Stellschräubchen selbst haben möchte...kann man auch sehr viel konfigurieren",
+      "context": "Host preist maximale Konfigurierbarkeit von VPN-Lösungen zur Wahrung technischer Autonomie",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_StsTJZHfTzU",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_StsTJZHfTzU",
+  "date": null,
+  "country": "DE",
+  "word_count": 682
+}

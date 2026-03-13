@@ -1,0 +1,63 @@
+{
+  "economic_score": 3.2,
+  "social_score": 0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Jimdo prokops normalerweise fünf euro im monat, mit gutschein vier euro",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Befürwortung günstiger, marktgestützter Lösungen statt teurer Lösungen"
+    },
+    {
+      "text": "Webdesigner kümmern sich um komplizierte, individuelle Anforderungen, nicht Standard",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktsegmentierung: spezialisierte Dienste für höherwertige Aufgaben"
+    },
+    {
+      "text": "Man muss selber bauen oder geht zu Jimdo und zahlt etwas mehr für Pro-Version",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatisch-wirtschaftliche Abwägung zwischen Eigenleistung und Service"
+    },
+    {
+      "text": "Jimdo bringt Sicherheit, Updates, Hosting mit - man muss sich nicht selbst kümmern",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Effizienzgewinne und Risikoverlagerung auf spezialisierte Anbieter"
+    },
+    {
+      "text": "Für viele ist das richtige sein, gratis testen, keine Zwänge - schaut euch an",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Freier Marktzugang, Low-Barrier-Einstieg, Kundenautonomie betont"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ich mache seit zwölf Jahren den gleichen Scheiß",
+      "context": "Webdesigner kritisiert monotone Routineaufgaben und bevorzugt spezialisierte Projekte",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt ja keine guten Job Systeme... deswegen muss man selber bauen",
+      "context": "Aussage über fehlende Infrastruktur und Notwendigkeit von Selbstbau",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_1qjo7wEXp2I",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_1qjo7wEXp2I",
+  "date": null,
+  "country": "DE",
+  "word_count": 777
+}

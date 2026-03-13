@@ -1,0 +1,122 @@
+{
+  "economic_score": 2.1,
+  "social_score": 0.4,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Wir haben Ordergebühren von 99 Cent oder Abo-Modell mit 5€/Monat eingeführt - das senkt Barrieren extrem",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Preisregulierung, Marktdemokratisierung, aber nicht anti-kapitalistisch"
+    },
+    {
+      "text": "Der Kapitalmarkt ist die beste Lösung für private Altersvorsorge, nicht Sparbuch",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Pro-Markt, Anti-Regulierung von Kapitalanlagen, Vertrauen in Finanzmarkteffizienz"
+    },
+    {
+      "text": "In Amerika wird innoviert, in Deutschland wird reguliert - das ist das Problem",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Anti-Regulierung, Pro-Deregulierung, Pro-Innovation statt Schutz"
+    },
+    {
+      "text": "Europa hat keine neuen Tech-Unternehmen in der Top Liga - nur alte Konzerne von vor 20 Jahren",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an europäischer Regulatory Starre, implizit für mehr Marktfreiheit"
+    },
+    {
+      "text": "Wir betreiben aktiv Lobbyarbeit für ein Altersvorsorgdepot mit Steuervergünstigungen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatisch, Policy-orientiert, nicht ideologisch - kann beiden zugute kommen"
+    },
+    {
+      "text": "ETFs sind die beste Lösung weil sie automatisch Profi-Tricks abbilden ohne dass Privatanleger das wissen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pro-Markt-Demystifizierung, aber eher technisch-neutral als ideologisch"
+    },
+    {
+      "text": "Die fallenden Arbeitsstunden in Deutschland sind ein Luxus-Symbol, aber mittelfristig problematisch",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Kritik an Work-Life-Balance Trend, eher Pro-Leistung/Wettbewerb positioniert"
+    },
+    {
+      "text": "Vielleicht muss es Europa erst wieder schlechter gehen, um Innovation zu entfachen",
+      "speaker": "guest",
+      "economic": 7,
+      "social": -2,
+      "reasoning": "Quasi-autoritär (Krise als Antrieb), Pro-Marktdruck, darwinistisch gefärbt"
+    },
+    {
+      "text": "Wir wollen den Leuten nur Geldanlage-Produkte anbieten, nicht als Neobank positionieren",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Fokus/Strategie-Aussage, nicht politisch gemeint, pragmatisch"
+    },
+    {
+      "text": "Die Börse ist derzeit ultra-resilient - sogar Kriege, Pandemien, Geopolitik kriegen sie nicht runter",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Enthusiastisch für Kapitalmarkt-Effizienz, implizit pro-System"
+    },
+    {
+      "text": "Mit kleineren Einstiegshürden und ETF-Sparplänen können normale Leute Millionär werden",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 3,
+      "reasoning": "Pro-Demokratisierung von Vermögensaufbau, aber über Markt nicht Umverteilung"
+    },
+    {
+      "text": "Wir haben bewusst über BaFin reguliert, nicht über Zypern - das schafft Trust",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 1,
+      "reasoning": "Pro-Regulierung als Trust-Mechanismus, keine ideologische Position"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "In Amerika wird innoviert, in Deutschland wird reguliert",
+      "context": "Kritik an europäischem Regulierungsumfeld statt Innovation",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Vielleicht muss es uns erst wieder schlechter gehen um das Potenzial rauszukitzeln",
+      "context": "Darwinistische Sicht auf Krise als Innovationstreiber",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Manche Leute geben ihrem Partner nicht mal ihr Geld, jetzt sollen sie einer Startup-Firma vertrauen",
+      "context": "Erklärung der Trust-Herausforderung im Fintech",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Aktienmarkt ist langfristig 8-10% Rendite, das ist deutlich mehr als Sparbuch",
+      "context": "Kernargument für Kapitalmarktorientierung bei Altersvorsorge",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_BRYSk4825G4",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_BRYSk4825G4",
+  "date": null,
+  "country": "DE",
+  "word_count": 14227
+}

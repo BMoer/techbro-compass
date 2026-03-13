@@ -1,0 +1,63 @@
+{
+  "economic_score": 4.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Private Krankenversicherung als Alternative zur gesetzlichen, günstiger für Familien",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Befürwortung privater Marktlösung statt Staatsversicherung, Wettbewerbsvorteil"
+    },
+    {
+      "text": "Digitale Abwicklung ohne Papierkram, schnelle Erstattung (24h)",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Effizienz durch private Digitalisierung, Marktoptimierung"
+    },
+    {
+      "text": "Concierge-Service 24/7 arrangiert Termine und Beratung",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Premium-Kundenservice als Wettbewerbsvorteil privater Versicherer"
+    },
+    {
+      "text": "Stabile Beiträge durch transparente Zinskalkulationen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Kostentransparenz, keine staatliche Umverteilung"
+    },
+    {
+      "text": "Nimmt die Versicherung in die eigene Hand",
+      "speaker": "host",
+      "economic": 5,
+      "social": 1,
+      "reasoning": "Individualistisches Framing: Eigenverantwortung statt Kollektivsystem"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "nimmt die versicherung in die eigene hand",
+      "context": "Schlussmessage zur privaten Krankenversicherung als Eigenverantwortung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "bei gesetzlichen mindestens 850 bei otto nova lässt sich das auf 780 reduzieren",
+      "context": "Kostenvergleich private vs. gesetzliche Krankenversicherung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_4k4HVxPdFGg",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_4k4HVxPdFGg",
+  "date": null,
+  "country": "DE",
+  "word_count": 325
+}

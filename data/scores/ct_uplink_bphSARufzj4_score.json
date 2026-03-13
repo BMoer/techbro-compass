@@ -1,0 +1,70 @@
+{
+  "economic_score": 0.0,
+  "social_score": 1.67,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.45,
+  "coded_statements": [
+    {
+      "text": "Man sollte Verschlüsselung aktiviert lassen, auch wenn Datenverlust möglich ist",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Datenschutz/Bürgerrechte über Komfort"
+    },
+    {
+      "text": "Professionelle Datenretter kosten mehrere hundert bis knapp vierstellige Beträge",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Reine Faktenbeschreibung, keine Meinungsäußerung"
+    },
+    {
+      "text": "Es ist besser zu großen etablierten Datenrettern zu gehen als zu kleinen lokalen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 3,
+      "reasoning": "Vertrauen in Konzerne, auch DSGVO-Bedenken erwähnt"
+    },
+    {
+      "text": "Wenn man keine Backups hat, verdient man kein Mitleid - völlige Eigenverantwortung",
+      "speaker": "both",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Libertäre Eigenverantwortungs-Rhetorik, leicht autoritär"
+    },
+    {
+      "text": "USB-Sticks sind für Gelegenheitsnutzung ausreichend, externe SSDs für Profis nötig",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Reine Technik-Beratung, keine Meinungsaussage"
+    },
+    {
+      "text": "Man braucht keinen Thunderbolt für Hausgebrauch - teuer und unnötig für die meisten",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatische Kritik an Überteuerung, pro-Sparsamkeit"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Kein Backup, kein Mitleid",
+      "context": "Mantra zur persönlichen Datenverantwortung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn die Daten wirklich teuer sind, Finger davenlassen und Profis machen lassen",
+      "context": "Warnung vor DIY-Datenrettung bei wichtigen Daten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_bphSARufzj4",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_bphSARufzj4",
+  "date": null,
+  "country": "DE",
+  "word_count": 9477
+}

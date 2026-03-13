@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "Software-Update senkt PC-Anforderungen, macht VR günstiger zugänglich",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Technische Effizienzgewinne reduzieren Markteintrittsbarrieren, pro-Wettbewerb"
+    },
+    {
+      "text": "Facebook hat Geld und Ressourcen, treibt Oculus-Entwicklung voran",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Affirmation von Kapitalkonzentration bei Big Tech, pragmatisch neutral"
+    },
+    {
+      "text": "PC-Gaming ist sehr kostenintensiv, Einstiegshürde bleibt hoch",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Marktbarrieren durch Kosten, leicht regulatorisch getönt"
+    },
+    {
+      "text": "Playstation 4 günstiger als PC+Brille, bessere Spielebibliothek",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Konsumenten-Kosten-Nutzen-Abwägung, marktwirtschaftliche Perspektive"
+    },
+    {
+      "text": "HTC-Touch-Controller werden von Entwicklern geliebt, viele Steam-Spiele",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktdynamik und Konkurrenzvorteil durch Nutzer-Adoption"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Facebook hat Geld und Ressourcen, da tut sich wirklich einiges",
+      "context": "Vergleich der Entwicklungskraft zwischen VR-Plattformen durch Kapitalrücken",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Playstation Vita kostet 400 Euro, dann 40 Euro für Controller - schnell bei 800",
+      "context": "Analyse der versteckten Kosten beim VR-Gaming-Einstieg",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_Ldv8KNVNBao",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_Ldv8KNVNBao",
+  "date": null,
+  "country": "DE",
+  "word_count": 1666
+}

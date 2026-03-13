@@ -1,0 +1,68 @@
+{
+  "economic_score": 0,
+  "social_score": 0.8,
+  "n_coded": 5,
+  "insufficient_data": true,
+  "confidence": 0.35,
+  "coded_statements": [
+    {
+      "text": "Justiz in USA ist käuflich - wer Geld und gute Anwälte hat, kommt davon",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an ungleicher Rechtsdurchsetzung, Elitenprivileg bei Strafverfolgung"
+    },
+    {
+      "text": "Jeffrey Epstein wurde zu 13 Monaten Bewährung verurteilt - eine lächerliche Strafe",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Ungleichheit vor Gesetz, Privilegierung durch Reichtum und Kontakte"
+    },
+    {
+      "text": "Verschwörungstheorien dass der Prozess von vorne herein getürkt ist",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Berichterstattung über Vertrauenskrise in Justizinstitutionen, nicht Host-Position"
+    },
+    {
+      "text": "Dieser Prozess ist auch Prozess um die Frage: ist Justiz käuflich in USA",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Vertrauensdefizit in Rechtsstaat, Elitenprivileg im Justizsystem"
+    },
+    {
+      "text": "Staatsanwaltschaft muss jeden Strich richtig machen damit Gerechtigkeit funktioniert",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Betonung von Rechtstaatlichkeit und korrektem Verfahren als Vertrauensbasis"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Kein schlimmeres Verbrechen als wenn Erwachsene Kinder missbrauchen",
+      "context": "Moralische Fundamentalposition zu Sexualverbrechen an Minderjährigen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Justiz in USA ist käuflich - mit den besten Anwälten kommt man davon",
+      "context": "Kritik an ungleicher Rechtsdurchsetzung für Wohlhabende",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Empty Chair Situation - Epstein sitzt unsichtbar mit im Raum",
+      "context": "Prozess gegen Maxwell ohne Haupttäter, Problem der Stellvertreterhaftung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_bUfQV7kGAU4",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_bUfQV7kGAU4",
+  "date": null,
+  "country": "DE",
+  "word_count": 4988
+}

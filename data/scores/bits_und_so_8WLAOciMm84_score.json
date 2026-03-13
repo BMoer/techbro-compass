@@ -1,0 +1,58 @@
+{
+  "economic_score": -1.6,
+  "social_score": 0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Krankenkassen erstatten bei Online Gesundheitskursen 100% der Kosten, solange sie unter 100€ liegen",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Befürwortung von Leistungen durch Sozialversicherungssystem, Kostenübernahme für Gesundheit"
+    },
+    {
+      "text": "Diese Form von Zusatzangeboten zu nutzen ist ganz sinnvoll wenn etwas Interessantes dabei ist",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Positive Bewertung von Sozialleistungen und Krankenkassen-Zusatzangeboten"
+    },
+    {
+      "text": "Das ist deutlich besser als komische homöopathische Wunderheilungen nebenbei",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritik an unsinnigen Leistungen, Befürwortung evidenzbasierter Angebote im Sozialversicherungssystem"
+    },
+    {
+      "text": "Bei der App kannst du wenigstens messen ob sie irgendwas tut oder nicht",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische, neutrale Bewertung von Effektivität ohne politische Dimension"
+    },
+    {
+      "text": "Die Krankenkasse guckt auch das Kind, wenn du privat versichert bist kriegst du das nicht ersetzt",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Beobachtung der Unterschiede zwischen gesetzlicher und privater Versicherung, implizit kritisch gegenüber Ungleichbehandlung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Surprise: Aimo kostet 99€ für ein Jahr - wer hätte das gedacht",
+      "context": "Ironie über bewusste Preisgestaltung knapp unter 100€-Erstattungsgrenze",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_8WLAOciMm84",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_8WLAOciMm84",
+  "date": null,
+  "country": "DE",
+  "word_count": 1774
+}

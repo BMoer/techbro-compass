@@ -1,0 +1,103 @@
+{
+  "economic_score": 2.6,
+  "social_score": 0.0,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Cloud ist teuer, wir sparen 7 Millionen über 5 Jahre durch Migration zu eigenen Servern",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Cloud-Kosten, Befürwortung kostengünstiger Eigeninfrastruktur"
+    },
+    {
+      "text": "Die Marge bei Cloud-Anwendungen beträgt 30%, man kann selbst 15-20% günstiger sein",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Präferenz für Kosteneffizienz gegenüber Cloud-Diensten"
+    },
+    {
+      "text": "Spotify hat 1 Milliarde in Podcasts investiert, das war wahrscheinlich eine gute Customer Acquisition Strategie",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische, neutrale Bewertung von Geschäftsstrategie"
+    },
+    {
+      "text": "Bei ZipRecruiter müssen kleinere Unternehmen wegen Rezession sparen und weniger einstellen",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Faktische Marktbeobachtung ohne politische Wertung"
+    },
+    {
+      "text": "ZipRecruiter senkt Marketing um 19%, verliert nur 4% Umsatz aber spart 20% Kosten",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Bewunderung für effiziente Kostenreduktion statt Wachstum"
+    },
+    {
+      "text": "Coinbase Takerate ist von 0,4-0,5% auf 0,22% gesunken wegen Wettbewerbsdruck",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Freier Markt reduziert Gebühren durch Konkurrenz, positiv konnotiert"
+    },
+    {
+      "text": "Bei Coinbase sind 70% des Umsatzes Sharebase Compensation, das ist absurd",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an ineffizienter Kostenstruktur, implizite Regulierungskritik"
+    },
+    {
+      "text": "MercadoLibre wächst mit 41% und macht dabei 10-11% Profit - extrem stark",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale, bewundernde Analyse von Geschäftserfolg"
+    },
+    {
+      "text": "OpenDoor muss Häuser mit Verlust verkaufen, könnte 500 Millionen abschreiben wenn Markt 10% fällt",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Markteffizienz setzt unrentables Geschäftsmodell unter Druck"
+    },
+    {
+      "text": "Share Buybacks sollte man kritisch sehen, besser wäre Dividende als Steuersparmaßnahme",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Finanztechniken zur Steueroptimierung, progressive Perspektive"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die Cloud-Margin ist 30%, man kann sich das 15-20% günstiger selbst bauen",
+      "context": "Diskussion zu 37signals Cloud-Migration und Kosteneffizienz",
+      "quiz_suitable": true
+    },
+    {
+      "text": "70% des Coinbase-Umsatzes gehen allein an Sharebase Compensation raus",
+      "context": "Analyse der katastrophalen Kostenstruktur bei Coinbase",
+      "quiz_suitable": true
+    },
+    {
+      "text": "MercadoLibre wächst 41% und macht dabei 11% operative Marge",
+      "context": "Kontrast zwischen Wachstum und Profitabilität im Südamerika-Markt",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_gYx3MhjTNNs",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_gYx3MhjTNNs",
+  "date": null,
+  "country": "DE",
+  "word_count": 8868
+}

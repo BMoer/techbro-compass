@@ -1,0 +1,68 @@
+{
+  "economic_score": 0.4,
+  "social_score": 4.2,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Die wenigsten Leute kommen in die Tanzschule um wirklich tanzen zu lernen, sondern um Zeit mit Partner zu verbringen, abzuschalten, neue Leute kennenzulernen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Libertäre Sicht: Menschen selbst bestimmen Gründe für Aktivitäten, Fokus auf individuelle Freiheit und Selbstbestimmung"
+    },
+    {
+      "text": "Man braucht ein gutes Körpergefühl und sollte sich wohlfühlen in deinem Körper, du präsentierst dich auf einer Bühne",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Körperliche Autonomie, Selbstakzeptanz und persönliche Authentizität als zentral - libertäre Werte"
+    },
+    {
+      "text": "In der Tanzszene gibt es großen Druck, einem bestimmten Idealtypus zu entsprechen, besonders Scham bei übergewichtigen Menschen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an sozialen Normen und Diskriminierung, Plädoyer für Inklusion und Selbstbestimmung"
+    },
+    {
+      "text": "Es ist schwierig, das richtige Maß an körperlicher Nähe und Distanz zu Schülern zu finden; bei neuen Kursen eher fragen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Betonung von Einwilligung, Grenzrespekt und individueller Autonomie - libertäre Prinzipien"
+    },
+    {
+      "text": "Man kann nicht paarz zu Hause unterrichten; wir stellen online Videos zur Verfügung, nicht als Unterrichtsersatz sondern um in Kontakt zu bleiben",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Pragmatische Anpassung an Beschränkungen; geringe gesellschaftliche Position da akzeptierend, nicht kritisch gegenüber Lockdowns"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ich bin der festen Überzeugung dass die wenigsten Leute in die Tanzschule gehen um wirklich tanzen zu lernen",
+      "context": "Rafael erklärt seine Philosophie als Tanzlehrer, die Entertainment und menschliche Begegnung über technisches Können stellt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Eine schlechte Stunde ist wenn die Leute rausgehen und nicht einmal gelacht haben",
+      "context": "Rafael definiert seinen beruflichen Erfolg primär über emotionales Wohlbefinden statt Leistung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Datenschutz ist ein Grundrecht – Crypto = echte Freiheit",
+      "context": "Hypothetisches Ankerbeispiel: nicht direkt im Transkript, aber Rafaels Haltung zu Autonomie und Selbstbestimmung ähnelt dieser Perspektive",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "lobo_BvL72cy6HiI",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_BvL72cy6HiI",
+  "date": null,
+  "country": "DE",
+  "word_count": 6967
+}

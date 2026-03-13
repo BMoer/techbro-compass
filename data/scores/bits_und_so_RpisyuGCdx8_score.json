@@ -1,0 +1,56 @@
+{
+  "economic_score": 2.5,
+  "social_score": 0,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.6,
+  "coded_statements": [
+    {
+      "text": "Die offizielle Gypsies-App auf iOS ist kompletter Dreck, nicht optimiert, Screenshots falsch",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Kritik an schlechtem Produkt/Unternehmenshandeln, keine klare ökon. Position"
+    },
+    {
+      "text": "Die inoffizielle DIXI-App ist viel besser, funktioniert intuitiv und kostet nichts",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Befürwortung von kostenlosen Alternativen, implizite Kritik an kommerziellem Ansatz"
+    },
+    {
+      "text": "User-generierte GPS-Tracks machen Sinn, da Menschen die Routen selbst gegangen sind",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Befürwortung von Crowd-Sourcing/dezentraler Wertschöpfung, neutral ökonom."
+    },
+    {
+      "text": "Man kann mobile GPS-Tracks jetzt selbst aufzeichnen und lokal speichern",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Lob für Funktionalität, die Nutzerautonomie ermöglicht, leicht libertär"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das ist eigentlich nicht zu benutzende App mit Falke-Werbung beim Start",
+      "context": "Kritik an der offiziellen Gypsies-iOS-App und deren schlechter Qualität",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die inoffizielle App ist genau so wie man sich das vorstellt und kostet nichts",
+      "context": "Vergleich zeigt, dass bessere Lösungen auch kostenlos möglich sind",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_RpisyuGCdx8",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_RpisyuGCdx8",
+  "date": null,
+  "country": "DE",
+  "word_count": 696
+}

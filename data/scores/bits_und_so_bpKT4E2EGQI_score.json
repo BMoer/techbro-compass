@@ -1,0 +1,38 @@
+{
+  "economic_score": null,
+  "social_score": 3.5,
+  "n_coded": 2,
+  "insufficient_data": true,
+  "confidence": 0.25,
+  "coded_statements": [
+    {
+      "text": "VPN-Anbieter mit Billigpreisen sollte man vorsichtig nutzen, weil man nicht weiß, wem man vertraut",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Datenschutz-Bewusstsein, Warnung vor Vertrauensmissbrauch durch kommerzielle Akteure"
+    },
+    {
+      "text": "Mit Heimnetzwerk-VPN sehen Webseiten deine echte IP von zu Hause, bei VPN-Anbietern erkennen sie ein Rechenzentrum",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Technische Erläuterung von Datenschutz-Mechanismen, implizite Befürwortung von Privatsphäre"
+    }
+  ],
+  "notable_quotes": [],
+  "issues": [
+    "Transkript ist stark fehlerhaft/OCR-beschädigt",
+    "Überwiegend technische Produktbeschreibung (VPN/Teleport-Features), keine klaren politischen Positionierungen",
+    "Keine ausreichend meinungstragenden Aussagen zu ökonomischen oder autoritären Fragen",
+    "Ironische/sarkastische Markierungen ('du Idiot') sind eher humorvoll als politisch",
+    "Weniger als 5 codierbare Aussagen identifizierbar"
+  ],
+  "episode_id": "bits_und_so_bpKT4E2EGQI",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_bpKT4E2EGQI",
+  "date": null,
+  "country": "DE",
+  "word_count": 490
+}

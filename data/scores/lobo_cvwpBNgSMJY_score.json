@@ -1,0 +1,89 @@
+{
+  "economic_score": 0.6,
+  "social_score": 0.0,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "ein bisschen Inflation ist ja tatsächlich auch was was zur Wirtschaft dazu gehört was Notenbanken auch haben wollen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Akzeptanz von Inflation als normales ökonomisches Instrument, pragmatische Haltung"
+    },
+    {
+      "text": "wenn man länger im Job ist wird man ja produktiver man kann da immer nach Fragen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Leistungsprinzip, Arbeitnehmer-Ermächtigung durch Marktposition, etwas pro-Marktwirtschaft"
+    },
+    {
+      "text": "es gibt Fachkräftemangel weiter also man kann sich ja umschauen im Arbeitsmarkt und auch den marktwert testen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung von Marktmechanismen und individueller Verhandlungsmacht"
+    },
+    {
+      "text": "der Staat fällt aus für Ausgaben weil de eine Schuldenbremse verfolgt das heißt der wird auch nicht im großen Stil jetzt irgendwie pushen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an restriktiver Fiskalpolitik, implizite Forderung nach mehr staatlicher Investition"
+    },
+    {
+      "text": "diese Bitcoin Netzwerk so unfassbar viel Strom verbraucht aber wenn man das macht dann würde ich sagen sollte man nicht zu viel Geld da reinstecken",
+      "speaker": "guest",
+      "economic": -1,
+      "social": -3,
+      "reasoning": "Kritik an ökologischen Folgen, skepsis gegenüber spekulativen Anlagen, gewisse Regulierungsaffinität"
+    },
+    {
+      "text": "wenn man das kann dann sollte man das machen und das auch unabhängig von der Konjunktur",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Finanzratschläge, neutrale Position zu Sparen als individueller Verantwortung"
+    },
+    {
+      "text": "viele Leute in Deutschland für die ist das eine theoretische Überlegung weil die tatsächlich das Geld was die verdienen zum Monatsende ausgeben",
+      "speaker": "guest",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Anerkennung von Armut und Ungleichheit, sozialkritischer Ton"
+    },
+    {
+      "text": "wir haben gute Ausgangsposition wir sind immer noch die drittgrößte Volkswirtschaft auf der Welt",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Optimismus über kapitalistische Positionsstärke, pro-Status-quo-Haltung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "kriegen wir schon hin zweitens wir sind immer noch die drittgrößte Volkswirtschaft auf der Welt",
+      "context": "Antwort auf Frage nach Grund für Optimismus in Wirtschaftskrise",
+      "quiz_suitable": true
+    },
+    {
+      "text": "man muss aber auch sagen es ist super volatil also es schwankt massiv wir wissen nicht was da kommt",
+      "context": "Zu Bitcoin und Kryptowährungen als Geldanlage",
+      "quiz_suitable": true
+    },
+    {
+      "text": "dieses 2% Ziel ist so das was man sich drauf geeinigt hat bei den Notenbanken den großen jetzt kriege ich wütende Mails von volkswürden nachher",
+      "context": "Erklärung von Inflationsziel, Meta-Ebene über Polarisierung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_cvwpBNgSMJY",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_cvwpBNgSMJY",
+  "date": null,
+  "country": "DE",
+  "word_count": 2635
+}

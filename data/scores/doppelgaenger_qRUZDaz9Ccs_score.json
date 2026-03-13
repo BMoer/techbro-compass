@@ -1,0 +1,148 @@
+{
+  "economic_score": 2.6,
+  "social_score": 0.6,
+  "n_coded": 15,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Unternehmen die keine 2% Rendite mehr schaffen sollten nicht mit Staatshilfe überlebt werden",
+      "speaker": "host",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Marktdisziplin statt Staatshilfen, marktkonforme Position"
+    },
+    {
+      "text": "Es ist gesund wenn auch mal wieder Unternehmen pleite gehen weil es Personal freisetzt",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Marktwirtschaftlich: Insolvenz als Allokationsmechanismus"
+    },
+    {
+      "text": "Geld war zu billig, der Staat hätte die Zinsen erhöhen sollen",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an lockerer Geldpolitik, pro-Zinserhöhung"
+    },
+    {
+      "text": "2021/2022 waren keine normalen Jahre, Jahresvergleiche sind nutzlos",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Dateninterpretation, keine ideologische Position"
+    },
+    {
+      "text": "Der diskrete Weg ist besser als öffentliche CEO-Suche im DSDS-Stil",
+      "speaker": "host",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Professionalität über Transparenz, aber mild libertär (Privatsphäre)"
+    },
+    {
+      "text": "LinkedIn braucht eine URL in der Bio um Influencer zu halten wie Twitter zu ersetzen",
+      "speaker": "host",
+      "economic": 0,
+      "social": 4,
+      "reasoning": "Pro-Creator-Freiheit, Anti-Plattform-Kontrolle"
+    },
+    {
+      "text": "Xing's lokales Businessnetzwerk macht in globalisierter Welt keinen Sinn",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Marktkritik: ineffiziente, überholte Geschäftsidee"
+    },
+    {
+      "text": "Spotify-Model mit Kostendisziplin und Profitabilität ist richtig nach Nullzins-Blase",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Effizienz und Margin-Management vor Wachstum um jeden Preis"
+    },
+    {
+      "text": "Google Cloud fällt von 28% auf 22,5% Wachstum - enttäuschend für Innovation",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Faktische Beobachtung, aber impliziert: Wachstum = Innovation"
+    },
+    {
+      "text": "Microsoft beschleunigt bei Azure während Google bricht - Master Move",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung von Effizienz und Geschäftskompetenz"
+    },
+    {
+      "text": "Ich würde das alles wieder so machen keine Sorge trotz Risiken",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Unternehmertum und Risikobereitschaft, aber jetzt selektiver"
+    },
+    {
+      "text": "Wenn du nur bei Nullzinsen mit 110% Fremdkapital erfolgreich bist hast du nichts gebaut",
+      "speaker": "host",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Marktkritik: künstliche Erfolge vs. echte Profitabilität"
+    },
+    {
+      "text": "Medien berichten schlecht über Insolvenzen weil schlechte News besser klicken",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Medienkontext-Verlust, impliziert: mehr Transparenz nötig"
+    },
+    {
+      "text": "Datenschutz und Privatsphäre schützen durch diskrete Prozesse ist wichtig",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Mild libertär: Privatspähre vor öffentlicher Transparenz"
+    },
+    {
+      "text": "Twitter verliert 14% Traffic unter Elon während andere Netzwerke wachsen",
+      "speaker": "host",
+      "economic": -1,
+      "social": 2,
+      "reasoning": "Marktversagen-Implikation + User-Freiheits-Problem (Content)"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn du nur bei Nullzinsen mit 110% Fremdkapital erfolgreich bist hast du nichts gebaut",
+      "context": "Debatte über Immobilienspekulanten in der Nullzinsphase",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es ist gesund wenn auch mal wieder Unternehmen pleite gehen weil es Personal freisetzt",
+      "context": "Diskussion über Insolvenzstatistiken und Staatshilfen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Microsoft hat mit 10 Milliarden in OpenAI 100 Milliarden Börsenwert geschaffen - Master Move",
+      "context": "Analyse von Microsofts Cloud-Beschleunigung vs. Google-Fall",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der ganze Wirtschaftsprozess sieht aus wie jemand der zwei Jahre auf Drogen war und jetzt will er mehr Drogen",
+      "context": "Metapher für fehlende Akzeptanz der Zinserhöhungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wer im Job ist interessiert sich nicht für LinkedIn - darum ist der diskrete Weg besser",
+      "context": "Ratschlag zu CEO-Nachfolgesuche: Netzwerk vor Öffentlichkeit",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_qRUZDaz9Ccs",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_qRUZDaz9Ccs",
+  "date": null,
+  "country": "DE",
+  "word_count": 12185
+}

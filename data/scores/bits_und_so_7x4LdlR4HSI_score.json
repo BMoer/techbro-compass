@@ -1,0 +1,51 @@
+{
+  "economic_score": 0.0,
+  "social_score": 2.5,
+  "n_coded": 4,
+  "insufficient_data": true,
+  "confidence": 0.35,
+  "coded_statements": [
+    {
+      "text": "die app kostet 17,99 euro pro woche, das ist mir fast schon weh",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Aussage über Preis, keine politische Meinung zu Wirtschaftssystem"
+    },
+    {
+      "text": "ende hat sehr gute instagram werbung, die hat bei mir total funktioniert",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Produktbewertung, keine politische Position"
+    },
+    {
+      "text": "man kann die app ausprobieren, zwei wochen trial modus, dann kann man gucken ob es einen sinn macht",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung von Verbraucherwahlfreiheit und Probieroptionen (leicht marktwirtschaftlich)"
+    },
+    {
+      "text": "du kannst die beats und takte selbst steuern, wenn du 180 bpm musik hörst hast du auch 180 puls",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Betonung individueller Kontrolle und Selbstbestimmung über die Technologie"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "ich mag das sehr gerne, muss man ausprobieren ob es einem sinn macht",
+      "context": "Host empfiehlt Trial-Version zum Selbsttest statt Zwang",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "bits_und_so_7x4LdlR4HSI",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_7x4LdlR4HSI",
+  "date": null,
+  "country": "DE",
+  "word_count": 1233
+}

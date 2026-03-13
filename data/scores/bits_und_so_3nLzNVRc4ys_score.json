@@ -1,0 +1,84 @@
+{
+  "economic_score": 1.25,
+  "social_score": 5.0,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "VPN-Service kostet 60€/Jahr, mit Box 70€ - gutes Preis-Leistungs-Verhältnis",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Bewertung eines Marktprodukts, keine ideologische Position"
+    },
+    {
+      "text": "Mit der Box kannst du dich überall sicher verbinden, ohne jedes Mal VPN-Client aktivieren zu müssen",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Betonung von Datenschutz und Privatspähre als Komfort-/Sicherheitsfeature"
+    },
+    {
+      "text": "Open WRT - man kann selber dran spielen wenn man möchte",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Befürwortung von Transparenz und Nutzer-Kontrolle über eigene Hardware"
+    },
+    {
+      "text": "Hotel-Netzwerk: Daten fliegen im Klartext rum, mit der Box bist du in einem sicheren VPN",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Kritik an fehlender Datensicherheit öffentlicher Netze, Befürwortung privater Verschlüsselung"
+    },
+    {
+      "text": "Mit VPN hast du auch keine GEMA-Sperren, keine YouTube-Live-Stream-Sperren",
+      "speaker": "host",
+      "economic": 3,
+      "social": 7,
+      "reasoning": "VPN ermöglicht Umgehung von Inhaltsfiltern/geografischen Beschränkungen, libertäre Neigung"
+    },
+    {
+      "text": "Die Box hat nur 3-10 Mbit/s - reicht gerade für Video, nicht für Online-Backups",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Reine technische Bewertung, keine Meinung"
+    },
+    {
+      "text": "Es ist eine schwache Musiksting auf der Seite, dass auch VPN-Provider genug Bandbreite bieten müssen",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Subtile Forderung nach Service-Qualität von Anbietern, leicht regulatorischer Ton"
+    },
+    {
+      "text": "Die Shell-Firebox ist eine nette, praktische Lösung für sichere Internetnutzung überall",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Affirmative Bewertung eines Datenschutz-Tools für breite Nutzerschicht"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Mit VPN hast du auch keine GEMA-Sperren, keine YouTube-Live-Stream-Sperren",
+      "context": "VPN ermöglicht Umgehung geografischer Content-Beschränkungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Deine ganzen Daten müssten halt irgendwo im Klartext rumfliegen",
+      "context": "Kritik an fehlender Sicherheit in öffentlichen Hotel-Netzwerken",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_3nLzNVRc4ys",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_3nLzNVRc4ys",
+  "date": null,
+  "country": "DE",
+  "word_count": 1068
+}

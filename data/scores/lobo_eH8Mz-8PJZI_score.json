@@ -1,0 +1,113 @@
+{
+  "economic_score": -3.4,
+  "social_score": 2.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Mentoringprogramme wie Rock Your Life leisten etwas, das Schulen oft nicht können",
+      "speaker": "host",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Kritik am Staat, Betonung sozialer Unterstützung statt Marktkräfte"
+    },
+    {
+      "text": "Die Coronapandemie ist ein Katalysator - verstärkt Unterschiede für benachteiligte Kinder",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Sorge um vulnerable Gruppen, Staat-Versagen beim Schutz"
+    },
+    {
+      "text": "Das mehrgliedrige Schulsystem manifestiert nur soziale Unterschiede, nicht Leistung",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 3,
+      "reasoning": "Kritik an Klassensystem, Forderung nach Chancengleichheit und Gemeinschaftsschulen"
+    },
+    {
+      "text": "Der Staat ist rechtlich verpflichtet, ordentliche Lern- und Lehrverhältnisse für alle bereitzustellen",
+      "speaker": "guest",
+      "economic": -5,
+      "social": 2,
+      "reasoning": "Starke Betonung staatlicher Verantwortung, Kritik an Privatisierung via Ehrenamt"
+    },
+    {
+      "text": "Das Aufholprogramm setzt nur auf alte Mittel - reine Defizitorientierung ohne Innovation",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an konservativer Regierungspolitik, fehlendes Umdenken"
+    },
+    {
+      "text": "Chancengleichheit ist eine Utopie, aber wir können dem Idealbild näher kommen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Realistische Kritik am Status Quo, Forderung nach substantiellen Reformen"
+    },
+    {
+      "text": "Lehrer mit 24 Schülern können keine individualisierte Beratung leisten wie ein Mentor",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kritik an Ressourcenmangel im öffentlichen System"
+    },
+    {
+      "text": "Der Föderalismus in der Schulpolitik ist gelähmt - Länder haben sich 'nicht mit Ruhm bekleckert'",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Strukturkritik, Forderung nach zentralerer/mutigerer Reform"
+    },
+    {
+      "text": "Zivilgesellschaftliches Engagement muss einspringen für Versäumnisse des Staates",
+      "speaker": "host",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Implizite Kritik: Staat-Versagen erfordert private Überbrückung (strukturell unbefriedigend)"
+    },
+    {
+      "text": "Man muss sich von vorgezeichneten Schubladen befreien und eigene Stärken erkunden",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Libertäre Betonung von Eigenverantwortung und Selbstbestimmung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Bildungserfolg hängt immer noch viel zu stark von Herkunft und finanziellen Möglichkeiten ab",
+      "context": "Kritik am deutschen Bildungssystem durch Bundespräsident Steinmeier",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das mehrgliedrige System manifestiert soziale Schichten - hat nichts mit Leistung zu tun",
+      "context": "Natalias fundamentale Systemkritik am Gymnasium/Realschule-Modell",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Staat muss ordentliche Verhältnisse schaffen, nicht andere einstellen um seine Fehler zu beheben",
+      "context": "Kritik daran, dass Ehrenamt Lücken füllt, die der Staat reißt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Chancengleichheit ist eine Utopie - aber wir können dem Idealbild näher kommen als derzeit",
+      "context": "Pragmatisch-realistische Position von Netzwerk Chancen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Krise war eine Chance für Reformen - stattdessen will Politik nur zur Normalität zurück",
+      "context": "Moderator kritisiert fehlende strukturelle Nutzung der Corona-Krise",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_eH8Mz-8PJZI",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_eH8Mz-8PJZI",
+  "date": null,
+  "country": "DE",
+  "word_count": 6069
+}

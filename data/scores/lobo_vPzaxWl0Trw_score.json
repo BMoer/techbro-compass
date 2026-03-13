@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 54 column 17 (char 1805)",
+  "raw_response": "{\n  \"economic_score\": -4.6,\n  \"social_score\": 1.2,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.78,\n  \"coded_statements\": [\n    {\n      \"text\": \"gerechte Löhne oder bezahlbares Wohnen\",\n      \"speaker\": \"guest\",\n      \"economic\": -5,\n      \"social\": null,\n      \"reasoning\": \"Fordert Umverteilung und Regulierung für Arbeitnehmer\"\n    },\n    {\n      \"text\": \"die ganze linke Spektrum ist unglaublich schwach\",\n      \"speaker\": \"guest\",\n      \"economic\": -4,\n      \"social\": null,\n",
+  "episode_id": "lobo_vPzaxWl0Trw",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_vPzaxWl0Trw",
+  "date": null,
+  "country": "DE",
+  "word_count": 3764
+}

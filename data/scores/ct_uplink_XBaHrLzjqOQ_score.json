@@ -1,0 +1,94 @@
+{
+  "economic_score": 0.6,
+  "social_score": 0.0,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Der ganz billige für 80€ ohne Wassertank ist nichts wert, macht mehr Arbeit als ohne Roboter",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritik an Billigprodukt, implizit: Qualität rechtfertigt höheren Preis"
+    },
+    {
+      "text": "You get what you pay for - Preisleistung korreliert konsistent miteinander",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Bestätigung Marktmechanismus: Preis=Qualität, pragmatische Marktlogik"
+    },
+    {
+      "text": "Fensterputzroboter sparen Arbeitszeit vs. Fensterputzer jährlich rufen - regelmäßige Nutzung erspart Handarbeit",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Effizienzgewinn durch Technologie, spart Arbeit, pragmatisch"
+    },
+    {
+      "text": "Mammibot leisester und gutes Preisleistungsverhältnis bei 240€, würde ich kaufen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Mittelsegment-Empfehlung, neutral zu Marktmechanismen"
+    },
+    {
+      "text": "Ecovex teuerst mit 540€ aber beste Features: Akku, Koffer, sparsamster Stromverbrauch",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Premium-Produkt gerechtfertigt durch Innovation, Effizienz, technologischer Vorsprung"
+    },
+    {
+      "text": "Bei dreckigen Scheiben muss man vorreinigen - Roboter nicht für Grundreinigung geeignet wie Staubsauger",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Realistische Anwendungsbeschreibung, akzeptiert Produktlimitation"
+    },
+    {
+      "text": "Alkoholhaltige Reiniger können Kunststoff der Pumpe beschädigen - nicht nehmen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Verbraucherschutz, Produktschutz, Warnung vor Schaden"
+    },
+    {
+      "text": "Die Dinger sind nicht ganz so leise wie nötig für Ruhezeiten - stört beim Fernsehen, Radio, Videokonferenz",
+      "speaker": "guest",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Kritik an Lärmbelästigung (begrenzt sozial relevant, eher praktisch)"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn das Fenster wirklich sehr dreckig war und ein eckiger drüber fährt, had ich horizontale Schlieren - der dreht wie Karatekitauftrag",
+      "context": "Vergleich Reinigungs-Mechaniken runder vs. eckiger Roboter",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Gerät hat irre Kraft - fuhr unter Jalousie-Drehstab, hob ihn hoch und brach den",
+      "context": "Demonstration unerwartet großer mechanischer Kraft des Roboters",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Du musst das Fenster nur eine Handbreit öffnen, Blumentöpfe bleiben stehen - ganz praktisch",
+      "context": "Praktischer Vorteil gegenüber manuellem Fensterputzen mit Öffnung/Vorbereitung",
+      "quiz_suitable": false
+    },
+    {
+      "text": "80€-Gerät ohne Wassertank: Das macht ja dann auch am Ende mehr Arbeit als wenn man da selber putzt",
+      "context": "Evaluation Billigprodukt schlechter als gar keine Automation",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "ct_uplink_XBaHrLzjqOQ",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_XBaHrLzjqOQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 9194
+}

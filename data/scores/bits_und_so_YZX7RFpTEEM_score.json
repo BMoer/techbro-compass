@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 26 column 17 (char 850)",
+  "raw_response": "{\n  \"economic_score\": 1.4,\n  \"social_score\": 3.0,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.72,\n  \"coded_statements\": [\n    {\n      \"text\": \"Diese Gadgets sind überflüssig weil Smartphones diese Funktionalität bald abdecken\",\n      \"speaker\": \"host\",\n      \"economic\": null,\n      \"social\": null,\n      \"reasoning\": \"Technische Prognose, keine Wertung zu Märkten/Regulierung\"\n    },\n    {\n      \"text\": \"Das Problem: AI macht Werbung-Geschäftsmodelle kaputt wenn sie Apps autom",
+  "episode_id": "bits_und_so_YZX7RFpTEEM",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_YZX7RFpTEEM",
+  "date": null,
+  "country": "DE",
+  "word_count": 5057
+}

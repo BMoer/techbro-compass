@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 19 column 17 (char 613)",
+  "raw_response": "{\n  \"economic_score\": -1.4,\n  \"social_score\": 1.6,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.78,\n  \"coded_statements\": [\n    {\n      \"text\": \"Firmen haben Mantra: es darf keine Bezahldecke geben, müssen immer neue teurere Angebote erfinden\",\n      \"speaker\": \"guest\",\n      \"economic\": -4,\n      \"social\": null,\n      \"reasoning\": \"Kritik an manipulativen Geschäftspraktiken, exploitative Unternehmenslogik\"\n    },\n    {\n      \"text\": \"Dark Patterns und manipulative Techniken ",
+  "episode_id": "lobo_2vOEtotdBJQ",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_2vOEtotdBJQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 4061
+}

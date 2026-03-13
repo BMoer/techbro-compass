@@ -1,0 +1,51 @@
+{
+  "economic_score": 0.0,
+  "social_score": 2.5,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.45,
+  "coded_statements": [
+    {
+      "text": "sie müssen alle irgendwie ihre displays zu kleben damit kein spion von ausmachen gucken kann",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Datenschutz/Privatsphäre-Bedenken, Ironie erkannt"
+    },
+    {
+      "text": "geld spielt keine rolle kann nicht mal ein bisschen rolle ja du kannst einfach ausgeben was du möchtest",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Unbegrenztes Budget-Verhalten von Apple, wertfrei beschreibend"
+    },
+    {
+      "text": "das beste vom besten von alben bis zu den ledersitzen",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Bewunderung für Premium-Qualität, keine politische Position"
+    },
+    {
+      "text": "maximale faulheit wirklich gut zu 100 prozent unterstützt",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Ironie über Design-Komfort, keine klare Achsen-Position"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "sie müssen alle irgendwie ihre displays zu kleben damit kein spion von ausmachen gucken kann",
+      "context": "Kritik an Großraumbüro-Design im Steve Jobs Theater",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_JDZjB-NeOdU",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_JDZjB-NeOdU",
+  "date": null,
+  "country": "DE",
+  "word_count": 962
+}

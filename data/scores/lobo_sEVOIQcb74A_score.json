@@ -1,0 +1,89 @@
+{
+  "economic_score": -2.0,
+  "social_score": 1.5,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Verlage schießen mit Schrot, hauen alles raus, investieren keine Mühe mehr ins Produkt",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Marktlogik, mangelnde Qualitätsinvestition, Massenproduktion"
+    },
+    {
+      "text": "Im Buchgeschäft haben nur Promis eine Chance, es geht nicht mehr um Text",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Kommerzialisierung, Macht von Celebrity-Status über Qualität"
+    },
+    {
+      "text": "Ich bin jemand der gerne alleine sein kann, Leben in Freiheit als Romancier",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Wertschätzung für Unabhängigkeit, künstlerische Freiheit, Anti-Kollektivismus"
+    },
+    {
+      "text": "Corona zeigte: Meetings brauchen keine Flieger, wir leben in Gefängnissen unserer Annahmen",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 3,
+      "reasoning": "Kritik an Sachzwängen des Kapitalismus, Plädoyer für Freiheit & Alternativen"
+    },
+    {
+      "text": "Ich spüre Verpflichtung, Familie zu versorgen, obwohl meine Frau gut verdient",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Internalisierte konservative Geschlechtsrollen-Erwartungen, Patriarch-Pflichtdenken"
+    },
+    {
+      "text": "Man muss sich fragen: tue ich das, was ich wirklich tun möchte?",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Befürwortung individueller Autonomie, Hinterfragung gesellschaftlicher Zwänge"
+    },
+    {
+      "text": "Sachbücher über Erziehung sind ethisch problematisch, wenn Faktenlage dünn ist",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Sorge um Verantwortung, Ablehnung von simplifizierten Ratschlägen mit Massenwirkung"
+    },
+    {
+      "text": "Das Jetzt ist kostbar, nur das Jetzt gibt es wirklich, Zukunft existiert nur im Kopf",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 3,
+      "reasoning": "Anti-konsumeristischer Impetus (Verzicht auf ständiges Streben), Präsenz-Philosophie"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Im Roman ist nichts Zufall - im echten Leben ergibt fast nichts Sinn",
+      "context": "Über den Unterschied zwischen Literatur und Realität beim Romanschreiben",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir leben in Gefängnissen unserer Annahmen - Corona hat gezeigt es geht auch anders",
+      "context": "Kritik an als unvermeidbar wahrgenommenen Lebensstrukturen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn du das nächste Projekt hast, bist du schon wieder beim übernächsten - eine Illusion",
+      "context": "Über Unersättlichkeit und ständiges Streben im modernen Leben",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_sEVOIQcb74A",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_sEVOIQcb74A",
+  "date": null,
+  "country": "DE",
+  "word_count": 8922
+}

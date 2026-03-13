@@ -1,0 +1,89 @@
+{
+  "economic_score": 2.5,
+  "social_score": 0.2,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, libertäre Marktposition"
+    },
+    {
+      "text": "Specs sind hervorragende Mittel um Negativzinsen aus dem Weg zu gehen",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Pro-Finanzinnovation, Anti-Regulierung, Kapitalmarkt-liberalismus"
+    },
+    {
+      "text": "Mountain Partners ist eher Regionalliga als erste/zweite Liga",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Skepsis gegenüber zweifelhafter Investmentqualität, implizite Regulierungskritik"
+    },
+    {
+      "text": "FC Barcelona ist in großen finanziellen Schwierigkeiten, agiert nach Prinzip beggars can't be choosers",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Marktversagen von Großunternehmen, Desperation statt freier Markt"
+    },
+    {
+      "text": "Die hypothetischen Monetarisierungszahlen sind vollkommen ausgedacht, nicht mit Traction belegt",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an spekulativer Finanzierung ohne reale Geschäftsgrundlage"
+    },
+    {
+      "text": "Open AI macht jetzt 80 Millionen im Monat, das ist brutal schnell zu einer Milliarde Umsatz gekommen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Bewunderung für schnelle Kommerzialisierung, Tech-Entrepreneurship-positiv"
+    },
+    {
+      "text": "Wenn du bewiesen hast dass das Modell funktioniert, kannst du wieder Gas geben um Konkurrenz zu vernichten",
+      "speaker": "host",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Pro-Wettbewerb, Marktkonzentration, aggressive Geschäftspraxis akzeptabel"
+    },
+    {
+      "text": "Claner sollte im private Market bleiben, im Public Market wird sie mit firm verglichen und das ist schlecht",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Kapitalmarktanalyse, weder links noch rechts, effizienzfokussiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Barcelona verkauft jetzt das Tafelsilber, die Mediasparte an die Börse",
+      "context": "Analyse des Barcelona-Media-Spec-Deals als Zeichen von Finanznot",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Eine hypothetische Tabelle mit Conversion Rates zwischen 0,25 und 2,25% - das kann hinten und vorne nicht klappen",
+      "context": "Kritik an der Monetarisierungsprognose ohne historische Traction-Daten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Open AI macht jetzt 80 Millionen im Monat - wie schnell ist eine Firma zu einer Milliarde Umsatz gekommen?",
+      "context": "Begeisterung über das Wachstum von OpenAI im Kontext der AI-Revolution",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_6aKTUlrw25Q",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_6aKTUlrw25Q",
+  "date": null,
+  "country": "DE",
+  "word_count": 12574
+}

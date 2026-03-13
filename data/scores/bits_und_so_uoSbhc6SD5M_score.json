@@ -1,0 +1,84 @@
+{
+  "economic_score": 1.25,
+  "social_score": 2.5,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Apple darf Fotos einfach abgreifen ohne zu fragen",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an unkontrolliertem Datenzugriff, libertäre Perspektive"
+    },
+    {
+      "text": "Wieso kommt Instagram nicht und klagt gegen Apple?",
+      "speaker": "host",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Kritik an ungleicher Regelanwendung, regulatorische Perspektive"
+    },
+    {
+      "text": "App Store Regeln sind absolut dämlich und essentiell",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Ambivalenz: kritisiert Überregulierung aber erkennt Notwendigkeit"
+    },
+    {
+      "text": "Nutzer klicken ok ok ok weil sie endlich anfangen wollen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an Überzahl von Berechtigungsabfragen als Autonomie-Problem"
+    },
+    {
+      "text": "Apple muss sich nicht an eigene App Store Regeln halten",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Kritik an Wettbewerbsvorteil durch Regelbefreiung für eigene Apps"
+    },
+    {
+      "text": "Standort wird immer abgefragt, auch von Apples eigenen Apps",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Anerkennung von Datenschutzstandard bei Standortabfrage"
+    },
+    {
+      "text": "Erklärungstexte in Dialogen sind recht eindimensional",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an unzureichender Transparenz bei Berechtigungen"
+    },
+    {
+      "text": "Apps sind clever und rechnen Ablehnung schon ein",
+      "speaker": "host",
+      "economic": 2,
+      "social": 1,
+      "reasoning": "Kritik an Manipulation durch App-Design bei Nutzerwahl"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wieso kommt Instagram nicht und klagt gegen Apple?",
+      "context": "Diskussion über ungleiche Regeldurchsetzung bei App-Berechtigungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Nutzer klicken ok ok ok weil sie endlich anfangen wollen",
+      "context": "Kritik an zu vielen Berechtigungsabfragen am App-Start",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_uoSbhc6SD5M",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_uoSbhc6SD5M",
+  "date": null,
+  "country": "DE",
+  "word_count": 2172
+}

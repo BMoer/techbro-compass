@@ -1,0 +1,58 @@
+{
+  "economic_score": -2.0,
+  "social_score": -1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Schwesig ging fragwürdige Wege bei Pipeline nordstream 2, unterstützte Stiftungskonstrukt gegen US-Sanktionen",
+      "speaker": "host",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Kritik an wirtschaftlichen Eigeninteressen & staatlicher Verflechtung; Umgehung von Sanktionen = autoritär"
+    },
+    {
+      "text": "Man mag Schwesig zugute halten, dass sie als Ministerpräsidentin wirtschaftliche Interessen ihres Bundeslandes vertrat",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung von regionalen wirtschaftlichen Interessen als legitim; pragmatisch-marktwirtschaftlich"
+    },
+    {
+      "text": "Lemke will globales Abkommen zum Schutz vor Plastikmüll vorantreiben, braucht dafür chinesischen Amtskollegen",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Internationale Regulierung & Umweltschutz; moderat interventionistisch, nicht radikal"
+    },
+    {
+      "text": "Beide Seiten wollen verdeutlichen, dass man bei Klima- und Umweltfragen aufeinander angewiesen ist",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Multilaterale Kooperation & Regulierung für Umweltschutz; linksliberal-pragmatisch"
+    },
+    {
+      "text": "Skandinavische Länder kooperieren bei Abschiebung illegal eingereister Migranten mit Hilfe von Frontex",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Verstärkte Grenzkontrolle & migrationspolitische Restriktivität; autoritäre Sicherheitsorientierung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Schwesig ging fragwürdige Wege, etwa indem sie Stiftung unterstützte, um Pipeline trotz US-Sanktionen fertig zu bauen",
+      "context": "Kritik an Schwesigs Russland-Politik und Umgehung westlicher Sanktionen als Ministerpräsidentin",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_lca5WzVvgIk",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_lca5WzVvgIk",
+  "date": null,
+  "country": "DE",
+  "word_count": 674
+}

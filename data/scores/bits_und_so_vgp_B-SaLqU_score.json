@@ -1,0 +1,58 @@
+{
+  "economic_score": 0.0,
+  "social_score": 1.25,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.35,
+  "coded_statements": [
+    {
+      "text": "Apple sollte nicht sagen, das alte Produkt war Mist, jetzt ist es besser - schlechtes Marketing",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an Kommunikationsstrategie, leicht libertär (Transparenz vs. Beschönigung)"
+    },
+    {
+      "text": "Es ist gut, dass Apple das Problem eingesehen und zugegeben hat - offene Fehlerkultur",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Befürwortung von Transparenz und offener Kommunikation über Probleme"
+    },
+    {
+      "text": "Siri funktioniert mit Sicherheit nicht richtig, komplexe Passwörter sind ein Problem",
+      "speaker": "host",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Kritik an Sicherheitsfunktionen, pragmatisch-neutral"
+    },
+    {
+      "text": "Activity-Sharing ist eine überfällige Funktion - andere Apps haben das längst",
+      "speaker": "host",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Kritik an langsamer Innovation, wertungsneutral faktisch"
+    },
+    {
+      "text": "Accessibility-Features für Rollstuhlfahrer und Sehbehinderte sind sehr wichtig - Apple macht das gut",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Befürwortung von Inklusion und Barrierefreiheit, libertäre Werte"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die Uhr anzuschauen bedeutet im normalen Leben immer noch: Ich muss weg - das können sie nicht ändern",
+      "context": "Kritik an Atemtrainings-Feature, das zur Uhrzeit auffordert",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_vgp_B-SaLqU",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_vgp_B-SaLqU",
+  "date": null,
+  "country": "DE",
+  "word_count": 4303
+}

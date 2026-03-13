@@ -1,0 +1,51 @@
+{
+  "economic_score": 2.5,
+  "social_score": -3.5,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "Geräte verwalten, orten, sperren und fernlöschen ermöglicht Kontrolle über Mitarbeitergeräte",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Überwachungs- und Kontrollmechanismen für Geräte; autoritäre Tendenzen"
+    },
+    {
+      "text": "MDM-Service spart Zeit beim Aufsetzen mehrerer Geräte und Installieren von Apps",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Effizienzsteigerung, Automatisierung, Unternehmertum; pragmatisch marktwirtschaftlich"
+    },
+    {
+      "text": "Profilverwaltung mit Verbotenen Domains und Whatsapp-Beschränkung für Produktivität",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Einschränkung von Nutzungsfreiheit durch kontrollierende Maßnahmen"
+    },
+    {
+      "text": "Service kostengünstig: 3 Geräte gratis, weitere 2 Dollar pro Monat",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Freemarkt-Preismodell, niedrige Einstiegsbarriere, unternehmerisches Angebot"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ihr könnt Geräte orten, sperren und fernlöschen wenn sie gestohlen wurden",
+      "context": "Beschreibung von MDM-Kontrollmechanismen für Unternehmensgeräte",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "bits_und_so_bPJrTacepjE",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_bPJrTacepjE",
+  "date": null,
+  "country": "DE",
+  "word_count": 278
+}

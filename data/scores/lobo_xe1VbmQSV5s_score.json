@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 47 column 17 (char 1601)",
+  "raw_response": "{\n  \"economic_score\": -1.25,\n  \"social_score\": 2.5,\n  \"n_coded\": 8,\n  \"insufficient_data\": false,\n  \"confidence\": 0.72,\n  \"coded_statements\": [\n    {\n      \"text\": \"Russland bricht ständig Völkerrecht, besetzt Territorien, lässt Gegner vergiften\",\n      \"speaker\": \"guest\",\n      \"economic\": null,\n      \"social\": -6,\n      \"reasoning\": \"Kritik an autoritärem Staatsverhalten, Verletzung von Rechtsnormen\"\n    },\n    {\n      \"text\": \"Sanktionen im Finanzsektor gegen Russland haben ernsthafte Konsequ",
+  "episode_id": "lobo_xe1VbmQSV5s",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_xe1VbmQSV5s",
+  "date": null,
+  "country": "DE",
+  "word_count": 6287
+}

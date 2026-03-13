@@ -1,0 +1,122 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.6,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Sozialleistungen machen abhängig - wenn einer nicht arbeitet, soll nicht essen",
+      "speaker": "host",
+      "economic": 8,
+      "social": -3,
+      "reasoning": "Stark libertär-rechts, Ablehnung von Sozialleistungen, harte Arbeitsethik"
+    },
+    {
+      "text": "Der Markt verarbeitet Daten sofort, Big Tech wird selbst regulieren",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-Markt, Skeptik gegenüber staatlicher Regulierung, Vertrauen in Marktkräfte"
+    },
+    {
+      "text": "VCs sollten nicht ständig ins Business reinreden, Vertrauen in Founder",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Libertär: gegen externe Bevormundung, für Autonomie und dezentrale Entscheidungen"
+    },
+    {
+      "text": "Founder haben das Recht zu micromanagen, weil sie ihr Baby geschaffen haben",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Leicht autoritär: legitimiert zentrale Kontrolle durch Eigentümerschaft"
+    },
+    {
+      "text": "Google brauchte nicht diese ganzen Diversifizierungen, nur Search hätte gereicht",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pro-Fokus, gegen Konglomerate, eher effizienz-marktorientiert"
+    },
+    {
+      "text": "Big Tech kauft AI Startups illegal über Reverse Equity statt Akquisitionen",
+      "speaker": "host",
+      "economic": -4,
+      "social": 5,
+      "reasoning": "Kritik an Regulierungslücken, für strengere Wettbewerbskontrolle, libertär bei Regulierung"
+    },
+    {
+      "text": "Overleverage bei E-Commerce Aggregatoren wie bei Immobilien - zu riskant",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Warnt vor zu aggressivem Fremdkapital, eher konservativ im Finanzmanagement"
+    },
+    {
+      "text": "Verlustmachende E-Commerce ist wie Immobiliencrash - Systemrisiko",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Sieht strukturelle Überschuldung als systemisch problematisch, warnt vor Blasen"
+    },
+    {
+      "text": "Gründer sollten sich auf Kerngeschäft konzentrieren, nicht in alle Bereiche gehen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Fokus und Autonomie wichtig, gegen Überexpansion, dezentral-handlungsorientiert"
+    },
+    {
+      "text": "AI Startups brauchen riesige Context Windows - technischer Fortschritt ist Pflicht",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Pro-technologischer Fortschritt, für Innovation durch Kapitalallokation"
+    },
+    {
+      "text": "The Trade Desk wächst 26% während Meta nur 22% wächst - Unabhängigkeit siegt",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Freut sich über Erfolg unabhängiger Wettbewerber gegen Big Tech Plattformen"
+    },
+    {
+      "text": "Wer als VC in Founder investiert, sollte sie dann nicht permanent bevormunden",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Stark libertär: gegen ständige externe Kontrolle, für operative Autonomie"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das ist das größte Problem: Leute glauben, weil ich in sie investiert habe, kann ich jetzt sagen wie die Firma zu führen ist",
+      "context": "Kritik an VC-Board-Kultur und deren Bevormundung von Gründern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Big Tech kauft AI Startups inzwischen illegal über Reverse Equity statt echte Akquisitionen um Kartellbehörden zu umgehen",
+      "context": "Analyse regulatorischer Lücken bei Tech M&A",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Founder Mode heißt: nur was ich persönlich managen kann, wird gemacht - der Rest nicht",
+      "context": "Definition von Founder Mode als radikale Fokussierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Airbnb verpasst Millionen bei SEO aus ideologischen Gründen - produktive Ineffizienz",
+      "context": "Beispiel für Kosten von zu striktem Fokus",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_molE2ptDpBU",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_molE2ptDpBU",
+  "date": null,
+  "country": "DE",
+  "word_count": 11751
+}

@@ -1,0 +1,99 @@
+{
+  "economic_score": -1.5,
+  "social_score": 1.0,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Klimatransformation kostet Bürger viel Arbeit und Kosten - Vorwurf der Ideologen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Umverteilungskosten für Klimapolitik, aber nicht radikal"
+    },
+    {
+      "text": "Heizungsgesetz: wichtige Komponente Förderung/Ausgleich fehlte initial",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Befürwortung sozialer Ausgleichsmechanismen bei Regulierung"
+    },
+    {
+      "text": "FDP hat bei Heizungsgesetz zurecht auf erste Entwürfe den Finger gelegt",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung von Deregulierungs-Kritik, pragmatische Kompromisshaltung"
+    },
+    {
+      "text": "Kommunale Wärmeplanung vor Wärmepumpenpflicht - staatliche Koordination nötig",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Befürwortung staatlicher Planung, aber pragmatisch-regulativ nicht radikal"
+    },
+    {
+      "text": "Solarindustrie-Hilfen streichen tut weh - regieren schmerzhaft",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Bedauern über gestrichene Industrie-Subventionen, pro-staatliche Intervention"
+    },
+    {
+      "text": "Freiheit soll kein Egotrip sein, auch Freiheiten anderer berücksichtigen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Gemeinwohlorientiertes Freiheitsverständnis, pro-Regulierung für Kollektivwohl"
+    },
+    {
+      "text": "Politik ist Kompromissschmieden, nicht 1:1-Umsetzung von Wahlprogrammen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische, marktwirtschaftlich offene Sicht auf Politikgestaltung"
+    },
+    {
+      "text": "Verfassungsgericht hatte recht gegen Haushaltsbuchungstricks zu klagen",
+      "speaker": "host",
+      "economic": 0,
+      "social": 4,
+      "reasoning": "Anerkennung rechtlicher Kontrolle/Transparenz, pro Rechtsstaatlichkeit"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "heute morgen habe ich Müsli mit Wasser gegessen ohne Scheiß weil ich keine Milch und keine Hafermilch mehr hatte",
+      "context": "Habecks Erschöpfung während intensiver Koalitionsverhandlungen 2021",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wenn du nicht dünnhäutig bist um das weiterzumachen dann sagst du wisst ihr was ihr könnt mich alle mal",
+      "context": "Diskussion über Habecks Fähigkeit, Kritik und Hass zu verkraften",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Freiheit soll kein Egotrip sein sondern auch die Freiheiten der anderen berücksichtigen",
+      "context": "Habecks philosophisches Verständnis von Freiheit als Gemeinschaftswert",
+      "quiz_suitable": true
+    },
+    {
+      "text": "das klang für mich ein bisschen kindisch dann zu sagen Bürger könnt ihr euch bei Marz bedanken",
+      "context": "Feldenkirchens Kritik an Habecks impulsiver Reaktion zum Verfassungsgerichtsurteil",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wer gestalten will der kriegt halt auch Gegenwind und das gehört dazu",
+      "context": "Habecks pragmatische Einstellung zu Popularitätsverlust und Kritik",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_YUgPKVINsF4",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_YUgPKVINsF4",
+  "date": null,
+  "country": "DE",
+  "word_count": 5362
+}

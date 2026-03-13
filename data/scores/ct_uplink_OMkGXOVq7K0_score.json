@@ -1,0 +1,94 @@
+{
+  "economic_score": 0.8,
+  "social_score": 1.6,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Apple hat Angst, dass ein Tablet mit macOS ihre Notebook-Verkäufe kannibalisiert",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an künstlicher Marktfragmentierung für Umsatzschutz"
+    },
+    {
+      "text": "Man könnte Apple 300-400€ Aufpreis für macOS-Option auf dem Tablet bezahlen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pro-Markt-Argument: Premium-Feature durch höheren Preis lösen"
+    },
+    {
+      "text": "Apple sollte einen Gastmodus/Mehrbenutzerverwaltung anbieten",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Forderung nach mehr User-Kontrolle und Datenschutz/Privatsphäre"
+    },
+    {
+      "text": "Die Bildschirmzeitfunktion und Familienfreigabe von Apple funktionieren relativ gut",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Anerkennung von Datenschutz-/Kontrollfeatures, aber noch Luft nach oben"
+    },
+    {
+      "text": "Man kann Tablets gebraucht oder als Vorjahresmodelle günstig kaufen",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Markt: Verbraucher können sparen durch smarte Kaufentscheidungen"
+    },
+    {
+      "text": "Speicher sollte man nicht sparen, aber Mobilfunk/mattiertes Display sind optional",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatische Kostenoptimierung für Standardnutzer"
+    },
+    {
+      "text": "Bei Huawei-Tablets ohne Google-Services stört mich das weniger als beim Handy",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Akzeptanz von Kontrollbeschränkungen im Tablet-Kontext (wenig privat)"
+    },
+    {
+      "text": "Samsung macht mit eigenem Desktop-Modus bei Tablets etwas, das Google noch nicht schafft",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Lob für Herstellerinovation vs. Konkurrenz-Fragmentierung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das iPad pro ist eine richtige Luxusfluunder wenn ich das richtig verstanden habe",
+      "context": "Diskussion über die hohen Preise des iPad Pro (bis 3000€)",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Apple trennt das tatsächlich ganz scharf: Wer macOS will, der muss sich ein MacBook kaufen",
+      "context": "Erklärung der bewussten Betriebssystem-Fragmentierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das ist wie wenn du mit deinem Porsche die ganze Zeit die Spielstraße fahren musst",
+      "context": "Metapher für überdimensionierte M-Prozessoren in Standard-Tablets",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich finde immer mir reichen WLAN-Geräte weil ich dann ein Hotspot mit dem Handy aufmache",
+      "context": "Sparratschlag zum Verzicht auf Mobilfunk-Modelle",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "ct_uplink_OMkGXOVq7K0",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_OMkGXOVq7K0",
+  "date": null,
+  "country": "DE",
+  "word_count": 7578
+}

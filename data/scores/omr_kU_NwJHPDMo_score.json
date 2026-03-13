@@ -1,0 +1,143 @@
+{
+  "economic_score": 3.6,
+  "social_score": 0.2,
+  "n_coded": 15,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, freemarkt-orientiert"
+    },
+    {
+      "text": "Wir verzichten bewusst auf dynamisches Pricing, halten Fixpreise",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Anti-Algorithmen-Haltung, Verbraucherschutz vor Margin-Optimierung"
+    },
+    {
+      "text": "Der Erfolg liegt in der Lage – wenn die stimmt, Rest folgt von selbst",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatisch-kapitalistische Kernfaktoren, keine Ideologie"
+    },
+    {
+      "text": "Wir investieren massiv in Arbeitgebermarke, bessere Gehälter, Image",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Humankapital-Fokus gegen Branchennorm, aber im kapitalistischen Rahmen"
+    },
+    {
+      "text": "Cashflow finanziert Wachstum, Perpetuum Mobile aus Hotels selbst",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Klassische Unternehmertum, organisches Wachstum, Kapitaleffizienz"
+    },
+    {
+      "text": "Keine Telefone im Zimmer war damals eine kleine Revolution",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 2,
+      "reasoning": "Effizienzdenken trifft Kundenerlebnis-Innovation"
+    },
+    {
+      "text": "Checkout beim Check-in, keine Minibar – Gast geht stressfrei",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 5,
+      "reasoning": "Kundenfreiheit + Effizienz, Anti-Abzocke-Mentalität"
+    },
+    {
+      "text": "Sterneklassifikation ist unsinnig, Gästebewertungen sind König",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Dezentralisierung von Bewertungsmacht, Transparenz-Befürwortung"
+    },
+    {
+      "text": "Mit Hilton als Vorbild: Location, location, location – Rest folgt",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Marktkräfte-Vertrauen, klassisch-liberale Geschäftsphilosophie"
+    },
+    {
+      "text": "Airbnb macht Branding nicht gut – illegal Vermietungen, Hass in Städten",
+      "speaker": "guest",
+      "economic": 2,
+      "social": -2,
+      "reasoning": "Kritik an Plattform-Externalitäten, Light-Regulierungs-Befürwortung"
+    },
+    {
+      "text": "Bewusst Nachfolger (Sohn) übergeben mit 69, Management verjüngen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Pro-Nachfolgeplanung, Vertrauen in andere Talente, Anti-Gerontokratie"
+    },
+    {
+      "text": "Börsengang eines Tages möglich – nie nie sagen, offene Optionen",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Kapitalmarkt-freundlich, Exit-optionalität, Growth-fokussiert"
+    },
+    {
+      "text": "Inflationäre Zeiten sind gut für uns – Firmen sparen, kommen zu uns",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Opportunistisches Denken, Marktschwäche = Chance"
+    },
+    {
+      "text": "KI wird helfen, hochqualifizierte Jobs ersetzen Service-Jobs nicht",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 1,
+      "reasoning": "Tech-Optimismus mit sozialer Sorge um Klassengesellschaft"
+    },
+    {
+      "text": "Renovierungsrhythmen 7-10 Jahre – Marke nicht veralten lassen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Langfristplan-denken, Markenschutz durch Investition"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn die Lage stimmt, dann ist die Auslastung von alleine hoch",
+      "context": "Kernphilosophie: Marktkräfte erledigen Rest selbst",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir wollen eine Top-Marke werden, nicht ein Fake – darum nur Original-Designer",
+      "context": "Unternehmerischer Stolz und Brand-Puritanismus",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Corona: Plötzlich nur noch Beifahrer im eigenen Unternehmen – Katastrophe",
+      "context": "Libertäre Kritik an Lockdown-Willkür und Staatseingriffen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Markenname sagt schon sehr viel – dann musst du nicht erklären, was du machst",
+      "context": "Effizienz-Denken: Türkis + Motel = Marketing-Arbeit erledigt",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_kU_NwJHPDMo",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_kU_NwJHPDMo",
+  "date": null,
+  "country": "DE",
+  "word_count": 12150
+}

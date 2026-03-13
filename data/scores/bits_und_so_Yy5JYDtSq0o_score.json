@@ -1,0 +1,82 @@
+{
+  "economic_score": 0.4,
+  "social_score": 1.0,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Big Tech Plattformen müssen Content moderieren und Menüs strukturieren",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Befürwortung von Regulierung/Kontrolle durch Plattformen"
+    },
+    {
+      "text": "Apple Goldedition für 18.000€ ist legitime Marketingstrategie",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Freier Markt, Preisdifferenzierung, Luxussegment-Akzeptanz"
+    },
+    {
+      "text": "Leute sollten sich nicht auf den Schlitz treten fühlen wegen teurer Produkte",
+      "speaker": "host",
+      "economic": 6,
+      "social": 2,
+      "reasoning": "Anti-Neid, Marktfreiheit, Verbrauchersouveränität"
+    },
+    {
+      "text": "Apple übernimmt sich mit Golduhren nicht - BMW macht ähnliche Preisspannung",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Logik, Preisgestaltungsfreiheit"
+    },
+    {
+      "text": "Design und Materialien wecken emotionale Kaufmotive, nicht nur Preis-Leistung",
+      "speaker": "host",
+      "economic": 4,
+      "social": 3,
+      "reasoning": "Anerkennung immaterieller Werte, Anti-rationalistische Konsumlogik"
+    },
+    {
+      "text": "Apple watch Sportedition leichter = Vorteil für Tragekomfort ohne Luxury",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Pragmatische Produktdifferenzierung, neutral"
+    },
+    {
+      "text": "Uhren-Liebhaber werden beide Uhren tragen oder zwischen tragen wechseln",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pluralistische Konsumlogik, Marktsegmentierung akzeptiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "bist du drin - warum haben sie das Solarsystem nicht aufgefahren",
+      "context": "Kritik an selektiver Produktpräsentation von Apple",
+      "quiz_suitable": false
+    },
+    {
+      "text": "18.000€ Golduhr ist Erbstück? Lacht! Das ist Taschencomputer mit Uhrzeit",
+      "context": "Ironische Dekonstruktion von Apple's Luxuspositionierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Leute treffen Kaufentscheidungen nicht durch Preis-Leistung - sondern Bauchgefühl",
+      "context": "Ökonomisch-psychologische Analyse von Konsumentenverhalten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_Yy5JYDtSq0o",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_Yy5JYDtSq0o",
+  "date": null,
+  "country": "DE",
+  "word_count": 8650
+}

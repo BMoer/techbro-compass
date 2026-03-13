@@ -1,0 +1,63 @@
+{
+  "economic_score": -1.6,
+  "social_score": 0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Die Politik hat die Immobilienkrise verschlafen oder sogar verschlimmert",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Marktversagen und staatlichem Versagen, implizit regulatorische Lösung gefordert"
+    },
+    {
+      "text": "Viele Menschen können sich den Traum vom eigenen Heim nicht leisten",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik am Kapitalismus/Markt, der Zugang zu Grundbedarf einschränkt"
+    },
+    {
+      "text": "Mieten steigen rasant, Wohnungen werden zur Mangelware",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Beobachtung von Marktversagen, implizite Kritik an fehlender Regulierung"
+    },
+    {
+      "text": "Biden baut 25 Meilen Mauer an der Grenze zu Mexiko, obwohl er dies versprochen hatte zu beenden",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Sicherheitsmaßnahmen trotz gegensätzlichem Versprechen, Migrationskontrolle als Priorität"
+    },
+    {
+      "text": "Menschen fühlen sich als Absteiger wegen der Wohnungskrise",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Soziale Folgen von Marktversagen, wirtschaftliche Ungleichheit kritisch beleuchtet"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die Politik hat die ganze Entwicklung verschlafen oder sogar noch verschlimmbessert",
+      "context": "Kritik an Regierungsversagen bei der Immobilienkrise",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Viele Menschen werden mit der Krisensituation weiterleben müssen",
+      "context": "Pessimistische Einschätzung fehlender Lösungskapazität",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_wE0QBqbJ6Ig",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_wE0QBqbJ6Ig",
+  "date": null,
+  "country": "DE",
+  "word_count": 669
+}

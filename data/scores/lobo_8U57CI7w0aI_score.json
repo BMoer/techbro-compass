@@ -1,0 +1,103 @@
+{
+  "economic_score": -1.4,
+  "social_score": 2.1,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Elterngeld bedeutet ich verzichte auf ein Drittel des Gehaltes, da müssen wir einfach zusehen dass wir genug Geld verdienen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Akzeptanz von Marktlogik, Einkommensfokus als Zwang"
+    },
+    {
+      "text": "Europa reguliert sich zu Tode mit all diesen Regelungen",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, libertäre Markthaltung"
+    },
+    {
+      "text": "Datenschutz und Bürgerrechte sind Grundwerte, die wir schützen müssen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Betonung von Privatrechten, Anti-Überwachung"
+    },
+    {
+      "text": "Big Tech Plattformen sollten stärker reguliert werden für Nutzerschutz",
+      "speaker": "host",
+      "economic": -4,
+      "social": 3,
+      "reasoning": "Regulierungsforderung + Bürgerrechtsfokus"
+    },
+    {
+      "text": "Wenn man in einem Betrieb arbeitet wo Elternzeit nicht angesehen ist, sollte man sich überlegen ob man da dauerhaft arbeiten möchte",
+      "speaker": "host",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Arbeitnehmerrechte, individuelle Freiheit > Karrierezwang"
+    },
+    {
+      "text": "Der Vater muss arbeiten gehen, die Mutter muss auf das Kind schauen, weil sonst können die Rechnungen nicht bezahlt werden",
+      "speaker": "host",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Kritik an struktureller Wirtschaftszwang, autoritäre Rollenfestlegung"
+    },
+    {
+      "text": "Es braucht einen Kulturwechsel, dass Väter ohne Angst vor Karriereknick lange Elternzeit nehmen können",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Anti-diskriminatorische Haltung, Freiheitsrechte für Väter"
+    },
+    {
+      "text": "Wer verdient mehr entscheidet oft wer Elternzeit nimmt - das ist eine einfache ökonomische Entscheidung",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktlogik als Erklärungsfaktor akzeptiert"
+    },
+    {
+      "text": "Ich bin rausgegangen aus der Firma weil mir meine Tochter wichtiger war als der Job",
+      "speaker": "guest",
+      "economic": -6,
+      "social": 7,
+      "reasoning": "Ablehnung von Erwerbszwang, Familienrechte > Kapitalinteressen"
+    },
+    {
+      "text": "Elternzeitreisen sind oft nur Urlaub für den Papa, wenn Mama danach wieder alles macht wie vorher",
+      "speaker": "host",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Kritik an performativer Elternbeteiligung ohne strukturellen Wandel"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Es war mir wichtig für meine Tochter da zu sein und wenn das dann mit dem Job nicht vereinbar ist, dann suche ich mir halt was neues",
+      "context": "Vater kündigt seinen Job für längere Elternzeit - radikale Lebenspriorität",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Hauptgrund dass Männer keine Elternzeit nehmen ist nicht der Arbeitgeber, sondern der Gender Pay Gap",
+      "context": "Expert erklärt strukturelle ökonomische Barrieren für Väter",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wo wir hinkommen sollten ist eine Kultur, wo ein Vater nicht Angst hat dass Elternzeit ihm negativ ausgelegt wird",
+      "context": "Forderung nach Kulturwandel statt nur Gesetzen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_8U57CI7w0aI",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_8U57CI7w0aI",
+  "date": null,
+  "country": "DE",
+  "word_count": 6992
+}

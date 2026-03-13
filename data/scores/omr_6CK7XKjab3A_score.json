@@ -1,0 +1,216 @@
+{
+  "economic_score": 2.8,
+  "social_score": 1.6,
+  "n_coded": 24,
+  "insufficient_data": false,
+  "confidence": 0.82,
+  "coded_statements": [
+    {
+      "text": "Kryptowirtschaft sollte sich auf Use Cases mit echtem Mehrwert konzentrieren statt Betrugsprojekte",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an spekulativer Finanzwirtschaft, Regulierungsbefürwortung"
+    },
+    {
+      "text": "Venture Capital ist nicht für die meisten Firmen die richtige Finanzierungsform",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritik an VC-System, Alternative zu radikalem Liberalismus"
+    },
+    {
+      "text": "Europa braucht mehr Unternehmertum und weniger Regulierung durch Verbote, mehr durch Anreize",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Markt, Anti-Verbote, Fokus auf Deregulierung und Anreize"
+    },
+    {
+      "text": "Wir brauchen eine wachsende Wirtschaft, um alle Aufgaben zu lösen - Widerspruch zwischen Kapital und Arbeit ist überkommen",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-kapitalistisch, marktwirtschaftlich, Ablehnung von Klassenkampfrhetorik"
+    },
+    {
+      "text": "Top-Talente global anzuziehen braucht Attraktivität, AFD hilft da nicht",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Pro-Zuwanderung, gegen rechtsextreme Politik, libertäre Haltung zu Migration"
+    },
+    {
+      "text": "Lilium-Scheitern ist nichts Verwerfliches, wir brauchen Leute die so denken",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pro-Unternehmertum, Fehlertoleranz, pro-Risikokapital"
+    },
+    {
+      "text": "Deutschland braucht eine europäische Industriepolitik für Schlüsseltechnologien",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Staatsintervention, strategische Planung, gegen rein marktwirtschaftliche Lösung"
+    },
+    {
+      "text": "Stablecoin-Payments sind ein reales Business mit echtem Use-Case, nicht nur Spekulation",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pro-Krypto-Innovation, pragmatisch, marktwirtschaftlich orientiert"
+    },
+    {
+      "text": "Gründer sollten bewusst wählen, ob Venture-Track sie auf schmale Bahn zwingt oder ob sie bootstrappen",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Abwägung, neutral, beide Wege legitim"
+    },
+    {
+      "text": "Datenschutz und Stablecoin-basierte Dezentralität haben echten Mehrwert",
+      "speaker": "host",
+      "economic": 3,
+      "social": 3,
+      "reasoning": "Pro-Dezentralisierung, libertäre Technologie, Datenschutz"
+    },
+    {
+      "text": "Wir dürfen nicht länger tolerieren, dass Big Tech über Irland/Luxemburg zu niedrig besteuert wird",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Pro-Steuergerechtigkeit, gegen Steuervermeidung, regulativ"
+    },
+    {
+      "text": "Zölle sind wahrscheinlich nicht der Weg, Freihandel hat allen Ländern genützt",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Pro-Freihandel, gegen Protektionismus, libertäre Position"
+    },
+    {
+      "text": "Bitcoin wird als Reservewährung akzeptiert und Regulierung ist positiv für Adoption",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-Krypto-Mainstream, pro-Bitcoin-Mainstream, marktoptimistisch"
+    },
+    {
+      "text": "CDU mit Grünen hätte gut getan, Kombination aus Klimaschutz und klassischer Wirtschaftsorientierung",
+      "speaker": "host",
+      "economic": 2,
+      "social": 2,
+      "reasoning": "Pragmatische Koalitionspräferenz, marktwirtschaftlich + Umwelt"
+    },
+    {
+      "text": "Eine starke AFD hilft nicht bei Talentanziehung, das ist unideologisch klar",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Anti-Rechtspopulismus, pro-liberale Gesellschaft, pro-Diversität"
+    },
+    {
+      "text": "Bootstrap-Firmen wie Julies Erotik-Hörbuch mit 15M Umsatz zeigen: VC ist nicht immer nötig",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pro-Alternative zu VC, gegen VC-Zentrismmus, pragmatisch"
+    },
+    {
+      "text": "Regulatorische Anforderungen für Medizintechnik-AI sind zu hoch und komplex für kleine Firmen",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Deregulierung, Kritik an übermäßiger Regulierung"
+    },
+    {
+      "text": "Defense-Startups wie Endural zeigen: wenn Staat zuverlässiger Kunde ist, braucht es keine Förderung",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pro-Marktlösung durch staatliche Nachfrage, nicht Subvention"
+    },
+    {
+      "text": "Verlagerung von High-Tech zu dezentralisierten Hubs statt Zentralisierung ist die Zukunft",
+      "speaker": "host",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Pro-Dezentralisierung, pro-Effizienz, etwas libertär"
+    },
+    {
+      "text": "Europa müsste konsolidierte Börsenplätze für Tech haben, nicht fragmentierte nationale Lösungen",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pro-europäische Integration, Effizienz, marktwirtschaftlich"
+    },
+    {
+      "text": "5-10% der Ventures setzen sich durch, Rest wird Investition nicht wert - das ist normal",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Realistische Venture-Sichtweise, akzeptiert Marktmechaniken"
+    },
+    {
+      "text": "Gute Firmen werden gekauft, nicht verkauft - Exit-Druck ist jetzt Hauptproblem",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische M&A-Einsicht, akzeptiert Marktlogik"
+    },
+    {
+      "text": "Digitale Modelle erfordern kontinuierliches Innovieren, nicht Ruhen auf Lorbeeren",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pro-Wettbewerb, pro-Innovation, marktwirtschaftlich"
+    },
+    {
+      "text": "Verena Pausder oder Julia Jeckel als Digitalministerin - beide kompetent, würde Durchlässigkeit USA-Style helfen",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Pro-Meritokratie, pro-externe Kompetenz, pragmatisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wir brauchen eine wachsende Wirtschaft um diese Aufgaben zu lösen - ohne das wird nix",
+      "context": "Begründung warum Klimaschutz+Wirtschaftswachstum kombiniert sein müssen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Krypto hat sich null Gefallen getan damit dass viele Projekte Betrugereien waren",
+      "context": "Kritik an schädlichen Marktpraktiken in der Kryptoindustrie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Lilium-Scheitern ist nichts Verwerfliches - wir brauchen Leute die genau so denken",
+      "context": "Verteidigung von riskanten Startup-Wetten als notwendiger Innovationsmechanismus",
+      "quiz_suitable": true
+    },
+    {
+      "text": "AFD hilft nicht bei der Talentanziehung - man kann sich drüber nicht streiten",
+      "context": "Unideologische Kritik an rechtsextremer Politik aus wirtschaftlichem Interesse",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Gute Firmen werden gekauft nicht verkauft",
+      "context": "Pragmatische Aussage zum aktuellen Exit-Problem im VC-Markt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Venture Capital ist für die meisten Firmen nicht die richtige Finanzierungsform",
+      "context": "Kritik am VC-Zentrismmus und Plädoyer für alternative Finanzierungsmodelle",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_6CK7XKjab3A",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_6CK7XKjab3A",
+  "date": null,
+  "country": "DE",
+  "word_count": 13393
+}

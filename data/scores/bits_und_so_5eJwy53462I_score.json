@@ -1,0 +1,89 @@
+{
+  "economic_score": 0.8,
+  "social_score": 2.2,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "proprietäre Lösungen im Smart Home führen zu Abhängigkeit von Herstellern und deren Server",
+      "speaker": "host",
+      "economic": 2,
+      "social": 4,
+      "reasoning": "Kritik an Monopolisierung durch proprietäre Systeme, fordert offene Standards"
+    },
+    {
+      "text": "Apple HomeKit sollte als zentrale Plattform funktionieren, damit andere Anbieter darauf aufspringen",
+      "speaker": "host",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Plädiert für Plattform-Standardisierung statt reiner Marktwettbewerb"
+    },
+    {
+      "text": "Philips Update blockiert non-certified Zigbee-Geräte - das ist kundenfeindlich und kurzsichtig",
+      "speaker": "host",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Kritik an Herstellerkontrolle und Netzwerkeffekt-Manipulation gegen Nutzerinteressen"
+    },
+    {
+      "text": "Belkin-Geräte funktionieren langfristig nicht, weil Hersteller Server abschalten kann",
+      "speaker": "host",
+      "economic": 3,
+      "social": 4,
+      "reasoning": "Systemische Kritik: privatwirtschaftliche Kontrolle über Produktlebenszyklus problematisch"
+    },
+    {
+      "text": "Phil Schiller als App Store Chef - endlich jemand der Software versteht, nicht nur Deals",
+      "speaker": "host",
+      "economic": -1,
+      "social": 3,
+      "reasoning": "Vertraut technischem Sachverstand über Geschäftskompetenz für Developer Relations"
+    },
+    {
+      "text": "App Store braucht spezialisierten Manager nur für App Store, nicht mehrere Dienste gleichzeitig",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an ineffizienter Managementstruktur, plädiert für spezialisierte Verantwortung"
+    },
+    {
+      "text": "App Store ist Gelddruckmaschine für Apple, aber langfristig sicher Probleme ohne Reformen",
+      "speaker": "host",
+      "economic": 4,
+      "social": -1,
+      "reasoning": "Anerkennt Profitabilität, warnt aber vor Problemen durch fehlende Developer-Fokus"
+    },
+    {
+      "text": "Domain auf Jimdo kaufen = Sicherheit, sonst verschwinden Inhalte wenn Plattform weg",
+      "speaker": "host",
+      "economic": 1,
+      "social": 5,
+      "reasoning": "Warnt vor Plattformabhängigkeit, bevorzugt dezentrale Kontrolle über Daten"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Solange diese Services an proprietären Dingen dranhängen, wird es überall Probleme geben",
+      "context": "Kritik an Smart-Home-Fragmentierung durch Herstellerkontrolle",
+      "quiz_suitable": true
+    },
+    {
+      "text": "App Store ist eine Gelddruckmaschine, aber du brauchst Bewegung und Veränderung für die Zukunft",
+      "context": "Analyse der Apple App Store Umstrukturierung und Developers Relations",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn alles auf Plattformen läuft, irgendwann ist es weg - deshalb eigene Domain kaufen",
+      "context": "Warnung vor Plattformabhängigkeit und Datenverlust",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_5eJwy53462I",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_5eJwy53462I",
+  "date": null,
+  "country": "DE",
+  "word_count": 9145
+}

@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 47 column 17 (char 1744)",
+  "raw_response": "{\n  \"economic_score\": -2.0,\n  \"social_score\": -3.5,\n  \"n_coded\": 8,\n  \"insufficient_data\": false,\n  \"confidence\": 0.72,\n  \"coded_statements\": [\n    {\n      \"text\": \"Nach 26 Jahren sehen die Menschen keine wirtschaftliche Entwicklung, viele gehen ins Ausland für bessere Löhne\",\n      \"speaker\": \"guest\",\n      \"economic\": -3,\n      \"social\": null,\n      \"reasoning\": \"Kritik an wirtschaftlicher Stagnation unter Lukaschenko, implizit Regierungsversagen\"\n    },\n    {\n      \"text\": \"Lukaschenko hat da",
+  "episode_id": "lobo_K6afrAdPzkQ",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_K6afrAdPzkQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 3847
+}

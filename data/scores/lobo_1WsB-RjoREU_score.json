@@ -1,0 +1,94 @@
+{
+  "economic_score": -1.0,
+  "social_score": -3.5,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.85,
+  "coded_statements": [
+    {
+      "text": "sie wollen euren gesamten Alltag infiltrieren...um die AFD an die Macht zu bringen",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an Überwachung/Manipulation des Privatlebens durch politische Kampagnen"
+    },
+    {
+      "text": "es ist so ein E Mikrokosmos...Steuergelder...fließen dann wieder in diese anderen Aktivitäten",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an staatlicher Mittelverwendung für private politische Ziele"
+    },
+    {
+      "text": "das Ziel ist eine rechtsextreme Wende...erst wenn wir in den Köpfen der Menschen sind",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Autoritäre Ideologie zur Kontrolle von Gedanken und Diskurs"
+    },
+    {
+      "text": "die haben sogar einen eigenen Shop...Proteinpulver...ohne aufdringliche Regenbogenideologie",
+      "speaker": "host",
+      "economic": 1,
+      "social": -3,
+      "reasoning": "Marktwirtschaftliche Aktivitäten verbunden mit anti-progressiver Ideologie"
+    },
+    {
+      "text": "völkische Ideologie...ein weißes Volk...wiederherzustellen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -8,
+      "reasoning": "Stark autoritäre ethnische Homogenisierungsideologie"
+    },
+    {
+      "text": "Metapolitik...in die Köpfe zuerst rein...Diskurs verschieben",
+      "speaker": "guest",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Strategie der Gedankenkontrolle und Diskurshegemonie"
+    },
+    {
+      "text": "die AFD sagt wir sind noch eine bürgerliche Partei...gleichzeitig ändern sich die Inhalte",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -4,
+      "reasoning": "Kritik an Heuchelei + zunehmend autoritäre/rechtsextreme Ausrichtung"
+    },
+    {
+      "text": "das Vorfeld bemüht sich...dass es dabei bleibt und eher noch mehr in diese Richtung geht",
+      "speaker": "guest",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Intentionale Radikalisierung in autoritäre Richtung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "sie wollen euren gesamten Alltag infiltrieren euren tiktok Feed eure feierabendplanung",
+      "context": "Eröffnungsstatement über Infiltrationsstrategie des AFD-Vorfelds",
+      "quiz_suitable": true
+    },
+    {
+      "text": "eine völkische Ideologie die versucht...ein weißes Volk...wiederherzustellen",
+      "context": "Kern-Ideologie des Netzwerks um Kubicek",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Metapolitik...dass man in die Köpfe zuerst rein will bevor man Politik macht",
+      "context": "Erklärung der langfristigen Strategie zur Diskursverschiebung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wir sind noch eine bürgerliche Partei...gleichzeitig versucht man zu sagen wir sind überhaupt nicht rechtsextrem",
+      "context": "Widerspruch der AFD zwischen Selbstdarstellung und tatsächlicher Ausrichtung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_1WsB-RjoREU",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_1WsB-RjoREU",
+  "date": null,
+  "country": "DE",
+  "word_count": 4034
+}

@@ -1,0 +1,17 @@
+{
+  "economic_score": 0.0,
+  "social_score": 0.0,
+  "n_coded": 0,
+  "insufficient_data": true,
+  "confidence": 0.95,
+  "coded_statements": [],
+  "notable_quotes": [],
+  "error": "Das Transkript enthält keine codierbaren meinungstragenden Aussagen zu politischen, wirtschaftlichen oder gesellschaftlichen Themen. Es handelt sich um einen technologie-fokussierten Podcast über Fernseher, Waschmaschinen und Haushaltsgeräte mit primär deskriptiven und persönlichen Anekdoten (z.B. Wäsche falten, Trockner-Reparatur, IFA-Messebesuche). Ironie und Humor sind vorhanden, beziehen sich aber nicht auf politische Positionen.",
+  "episode_id": "bits_und_so_ZlVh0DsUCHg",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_ZlVh0DsUCHg",
+  "date": null,
+  "country": "DE",
+  "word_count": 3401
+}

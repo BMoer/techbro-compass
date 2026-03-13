@@ -1,0 +1,63 @@
+{
+  "economic_score": 3.6,
+  "social_score": 5.2,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "App speichert Links über iCloud statt Drittanbieter-Server",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Datenschutz/Privatsphäre: Vermeidung zentraler Kontrolle durch Dritte"
+    },
+    {
+      "text": "Safari Leseliste kaputt durch Bestätigungsdialoge - praktisch unbrauchbar",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an schlechter Produktgestaltung, implizite Kritik an Apple-Monopol"
+    },
+    {
+      "text": "Universal App mit einmaliger Kaufentscheidung für alle Plattformen",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Effizienz, einfaches Geschäftsmodell, anti-komplex, libertäres Design"
+    },
+    {
+      "text": "Keine Web-Interface nötig weil kein externer Service dahinter hängt",
+      "speaker": "host",
+      "economic": null,
+      "social": 7,
+      "reasoning": "Starke Datensouveränität, minimale externe Abhängigkeit, User-Kontrolle"
+    },
+    {
+      "text": "Catalyst App ist hässlich, keine echte Mac Software aber funktioniert",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatisches Akzeptieren von Kompromissen für Cross-Plattform-Effizienzen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "nicht über deine server von einem drittanbieter sondern über deine icloud",
+      "context": "Der zentrale Verkaufspoint der App: Datenschutz statt Zentralisierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "die ist praktisch kaputt weil da mehr als drei links drin",
+      "context": "Kritik an Apple-Feature, das durch Sicherheitsmaßnahmen unbrauchbar wurde",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_wB5P8e1gKP0",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_wB5P8e1gKP0",
+  "date": null,
+  "country": "DE",
+  "word_count": 1230
+}

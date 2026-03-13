@@ -1,0 +1,37 @@
+{
+  "economic_score": 0,
+  "social_score": 0,
+  "n_coded": 2,
+  "insufficient_data": true,
+  "confidence": 0.3,
+  "coded_statements": [
+    {
+      "text": "diese Mikros kosten 400 Euro, sind seit den 70ern unverändert, Apple hätte sie neu kaufen sollen statt umzubauen",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Kritik an Unternehmens-Effizienzentscheidung, keine ökonomische Positionierung"
+    },
+    {
+      "text": "Apple nimmt externe USB-Laufwerke ernst, bemüht sich um iOS-Sicherheitsarchitektur statt einfacher Lösung",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Anerkennung von Unternehmens-Sorgfalt, neutrale technische Bewertung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "ich bin erstaunt dass sie diese Raum nicht irgendwie als Konferenzzentrum nutzen, müssen eigene Häuser bauen für Podcasts",
+      "context": "Kritik an Apples Aufwand für WWDC Podcast-Studio bei schlechter Akustik",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "bits_und_so_a_WVsxbBavw",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_a_WVsxbBavw",
+  "date": null,
+  "country": "DE",
+  "word_count": 2273
+}

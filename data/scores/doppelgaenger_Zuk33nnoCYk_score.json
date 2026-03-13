@@ -1,0 +1,127 @@
+{
+  "economic_score": 1.2,
+  "social_score": 0.8,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "autonome Autos werden am Ende China gewinnen, weil sie günstiger bauen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Marktmechanismus, keine ideologische Position"
+    },
+    {
+      "text": "Teslas Geschäftsmodell mit 30% Take-Rate ist unrealistisch gegen chinesische Konkurrenz",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Skeptik gegenüber Unternehmensgewinne, realistische Markteinschätzung"
+    },
+    {
+      "text": "Regulierung durch DOJ-Zerschlagung von Google ist notwendig für Innovationen",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Pro-Regulierung, Anti-Monopol, impliziert Marktversagen"
+    },
+    {
+      "text": "Datenfreigabe würde mehr Innovation ermöglichen, aber ändert Marktanteile nicht radikal",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Gemäßigte Pro-Regulierung, pragmatische Erwartungshaltung"
+    },
+    {
+      "text": "Tesla faked schon mehrfach Präsentationen, historisch haben wir keinen Grund zu glauben",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Anti-Deception, Pro-Transparenz, gesellschaftliche Kritik"
+    },
+    {
+      "text": "OpenAI-Profitabilität vor Trainingskosten ist irreführend Marketing wie WeWork",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 3,
+      "reasoning": "Kritik an Bilanzierungstricks, Pro-Transparenz, skeptisch gegenüber Manipulationen"
+    },
+    {
+      "text": "Robotaxi-Zulassung in Deutschland in 5 Monaten ist vollkommen Unfug",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an unrealistischen Versprechen, Pro-sachliche Regulierung"
+    },
+    {
+      "text": "Deutsche Automobilhersteller fahren Level 3, Tesla ist noch bei Level 2",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Faktische Kritik, Pro-Standards und Realismus"
+    },
+    {
+      "text": "Im Moment ist Tesla hinten dran, Fakten kann man nicht vernachlässigen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Pro-Evidenzbasierung, gegen Narrative, Pro-Transparenz"
+    },
+    {
+      "text": "Roboter-Haushaltshilfe muss sich gegen echte Haushaltshilfe rechnen wirtschaftlich",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Kostenbetrachtung, weder links noch rechts"
+    },
+    {
+      "text": "Apple könnte mit Datenschutz ein Vertrauensargument für Haushaltsroboter bauen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Pro-Datenschutz als Geschäftsvorteil, libertäre Perspektive"
+    },
+    {
+      "text": "VC-Fonds mit 70% unter Wasser Exit-Rate ist deutlich schlechter als historische 55-60%",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Analyse von Markteffizienzverlust, neutral-analytisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "du musst erstmal dieses FSD Paket für 7-10k kaufen damit du eventuell das kannst",
+      "context": "Kritik an Teslas Geschäftsmodell für Full Self-Driving",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Tesla und Elon Musk haben diese Präsentationen regelmäßig gefakt",
+      "context": "Skeptik basierend auf historischen Fakten von Tech-Anzeigen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "adjusted EBITDA before training cost is Bullshit, Training ist 60-80% der Kosten",
+      "context": "Kritik an OpenAI-Bilanzierungstricks im VC-Deck",
+      "quiz_suitable": true
+    },
+    {
+      "text": "am Ende gewinnt der die das billigste Auto baut, weil der Fahrer wegfällt",
+      "context": "Analyse von Robotaxi-Marktdynamiken und Commoditization",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Hindenburg macht viel guten Research, aber mit Roblox finde ich es nicht überzeugend",
+      "context": "Balanced Critique von Short-Report-Industrie",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "doppelgaenger_Zuk33nnoCYk",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_Zuk33nnoCYk",
+  "date": null,
+  "country": "DE",
+  "word_count": 12135
+}

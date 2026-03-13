@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 26 column 17 (char 821)",
+  "raw_response": "{\n  \"economic_score\": -1.6,\n  \"social_score\": 1.0,\n  \"n_coded\": 5,\n  \"insufficient_data\": false,\n  \"confidence\": 0.72,\n  \"coded_statements\": [\n    {\n      \"text\": \"Große Tech-Konzerne sollen Abgabe an Provider zahlen für hohen Daten-Traffic\",\n      \"speaker\": \"host\",\n      \"economic\": -4,\n      \"social\": null,\n      \"reasoning\": \"Regulierung von Tech-Konzernen, neue Abgaben, gegen freien Markt\"\n    },\n    {\n      \"text\": \"Datenmaut wird letztendlich auf VerbraucherInnen abgewälzt, bereits Gebühr",
+  "episode_id": "t3n_wg6XMqbdlLA",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_wg6XMqbdlLA",
+  "date": null,
+  "country": "DE",
+  "word_count": 649
+}

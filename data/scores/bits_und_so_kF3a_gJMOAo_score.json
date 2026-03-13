@@ -1,0 +1,32 @@
+{
+  "economic_score": null,
+  "social_score": 2,
+  "n_coded": 2,
+  "insufficient_data": true,
+  "confidence": 0.3,
+  "coded_statements": [
+    {
+      "text": "die funktion funktioniert erstaunlich gut und ist praktisch nützlich",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Bewertung von Technik-Feature, keine Meinungsäußerung zu politischen Fragen"
+    },
+    {
+      "text": "es ist extrem praktisch das einfach automatisch in der app drin zu haben",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Schwache positive Äußerung zu Datenerfassung (Standort), aber primär pragmatisch nicht ideologisch"
+    }
+  ],
+  "notable_quotes": [],
+  "analysis_note": "Das Transkript ist ein technisches Review einer iOS-Funktion (Parkplatz-Standort-Merking) ohne erkennbare politische oder ideologische Meinungsäußerungen. Der Host diskutiert funktionale Aspekte einer Apple-Feature. Es gibt keine Aussagen zu Ökonomie, Regulierung, Datenschutz, Freiheitsrechten oder gesellschaftlichen Themen, die für die politikwissenschaftliche Codierung relevant wären. Eine valide Codierung ist daher nicht möglich.",
+  "episode_id": "bits_und_so_kF3a_gJMOAo",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_kF3a_gJMOAo",
+  "date": null,
+  "country": "DE",
+  "word_count": 826
+}

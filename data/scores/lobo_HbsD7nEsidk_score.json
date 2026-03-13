@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 18 column 19 (char 574)",
+  "raw_response": "{\n  \"economic_score\": -3.2,\n  \"social_score\": 1.4,\n  \"n_coded\": 12,\n  \"insufficient_data\": false,\n  \"confidence\": 0.78,\n  \"coded_statements\": [\n    {\n      \"text\": \"Sozialleistungen und Millionen in die Vorstädte stecken, aber die Chancen werden nicht genutzt\",\n      \"speaker\": \"guest\",\n      \"economic\": -2,\n      \"social\": null,\n      \"reasoning\": \"Kritik an Sozialausgaben ohne Erfolg, impliziert zu wenig Marktelemente\"\n    },\n    {\n      \"text\": \"Regierung wirft Millionen für Leute aus, die al",
+  "episode_id": "lobo_HbsD7nEsidk",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_HbsD7nEsidk",
+  "date": null,
+  "country": "DE",
+  "word_count": 7471
+}

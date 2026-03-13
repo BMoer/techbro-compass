@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.4,
+  "social_score": 2.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "Die App bietet kostenlosen Basis-Datenzugang mit Werbung statt Bezahlmodell",
+      "speaker": "host",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Freemium-Modell mit Datenschutz-Optionen (Werbetracking ablehnen)"
+    },
+    {
+      "text": "Apple hat Schnittstellen für eSIM-Aktivierung nicht richtig integriert",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an unzureichender Transparenz und User-Kontrolle über APIs"
+    },
+    {
+      "text": "Neue Netzbetreiber bieten eSIM-Support nur für iPhone, nicht Google Pixel",
+      "speaker": "host",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Marktfragmentierung und ungleicher Zugang je nach Gerät-Hersteller"
+    },
+    {
+      "text": "Die Aktivierung funktioniert insgesamt, aber mit ruppigen Feinheiten am Rand",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Pragmatische Akzeptanz technischer Mängel als normales Entwicklungsstadium"
+    },
+    {
+      "text": "eSIM-Provisioning hintenrum ist für Provider ein riesiger Aufwand",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung von Komplexität und hohem technischem Overhead"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "das ist ja technisch aber unmöglich völlig völlig unmöglich",
+      "context": "Sarkastische Kritik an Apples fehlender eSIM-Integration trotz technischer Machbarkeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "der QR-Code der ist auch fehlerhaft weil der hat den rechten oberen Tracking Marker nicht gesetzt der kann gar nicht scannen",
+      "context": "Konkrete technische Fehler im App-Setup-Prozess",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "bits_und_so_snvrnrw5Myc",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_snvrnrw5Myc",
+  "date": null,
+  "country": "DE",
+  "word_count": 1826
+}

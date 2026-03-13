@@ -1,0 +1,75 @@
+{
+  "economic_score": -1.67,
+  "social_score": 3.33,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Trump will neutralität als Vermittler, nicht Solidarität mit der Ukraine",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Befürwortung von Neutralität statt parteiischer Unterstützung; autoritärer Aspekt der Kontrolle durch Vermittlerrolle"
+    },
+    {
+      "text": "Europa muss Militärhilfe übernehmen, die USA bisher leisteten",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Staatliche Militärintervention und Unterstützung; keine Marktlogik, sondern Sicherheitslogik"
+    },
+    {
+      "text": "Sicherheitsgarantien sind existentiell notwendig, nicht optional",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Schutz von Souveränität und Selbstbestimmung; Anti-autoritär durch Forderung nach Schutzrechten"
+    },
+    {
+      "text": "Diplomatie ohne Vertrauen in Putin funktioniert nicht, wie die Minsker Abkommen zeigen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an Verträgen unter Zwang; skeptisch gegenüber autoritärer Machtdynamik"
+    },
+    {
+      "text": "Trump schwächt Ukraine systematisch statt in Verhandlungsposition zu stärken",
+      "speaker": "host",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Kritik an Machtungleichgewicht; sowohl wirtschaftliche als auch autoritäre Dimension"
+    },
+    {
+      "text": "Waffenstillstand nur auf Luft-/Seeangriffe ist pragmatisch überwachbar",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 1,
+      "reasoning": "Pragmatische, technisch-rationale Lösung; neutral-libertär durch Fokus auf Verifikation statt Kontrolle"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Putin ist ein Killer und Terrorist – man kann nicht einfach so Diplomatie treiben",
+      "context": "Zelenski wirft Trump implizit vor, realistische Lagebeurteilung zu ignorieren",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Sicherheit ist nur 2% des Problems – Trump marginalisiert ukrainische Kernbedenken",
+      "context": "Kernkonflikt zwischen Trump und Zelenski über Prioritäten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die freie Welt braucht neue Führung – Europa muss die Bürde schultern",
+      "context": "EU-Außenbeauftragte Kaja Kallas fordert europäische Unabhängigkeit",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_pLEYMgnRiFg",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_pLEYMgnRiFg",
+  "date": null,
+  "country": "DE",
+  "word_count": 4156
+}

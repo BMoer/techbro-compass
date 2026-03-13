@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.0,
+  "social_score": 1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "Hersteller können Fixes sehr schnell an alle ausrollen",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Positiv bewertete technische Effizienz, leicht libertär (Verbraucher profitieren von schneller Sicherheit)"
+    },
+    {
+      "text": "Provider wie Vodafone sind nicht flott mit Updates",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an Ineffizienz von Providern, impliziert Verbraucherschaden durch Trägheit"
+    },
+    {
+      "text": "Vodafone muss neue Boxen verschicken, das kostet sie nur Geld",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Analyse der wirtschaftlichen Anreize für Provider-Handeln"
+    },
+    {
+      "text": "Wenn Fritzbox-Exploit existiert, interessiert das keinen",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an mangelnder Sicherheitsüberwachung, leicht libertäre Position (mehr Transparenz nötig)"
+    },
+    {
+      "text": "Provider zahlen monatlich, also muss Vodafone Geräte ersetzen",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Verbraucherschutz-Perspektive: Miete verpflichtet Provider zur Verantwortung, leicht pro-Regulierung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "das Ding existieren garantiert auch eine Handvoll Exploits aber es interessiert halt keinen",
+      "context": "Kritik an mangelndem Sicherheitsbewusstsein für Routergeräte",
+      "quiz_suitable": true
+    },
+    {
+      "text": "du bezahlst dir für sehr viel Geld jeden Monat und damit hast du sie halt für völlig albernes Geld gemietet",
+      "context": "Verbraucherkritik an Provider-Geschäftsmodell",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_3_CVkfMtrMA",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_3_CVkfMtrMA",
+  "date": null,
+  "country": "DE",
+  "word_count": 1241
+}

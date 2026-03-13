@@ -1,0 +1,32 @@
+{
+  "economic_score": null,
+  "social_score": 3.5,
+  "n_coded": 2,
+  "insufficient_data": true,
+  "confidence": 0.3,
+  "coded_statements": [
+    {
+      "text": "Moshi soll für privaten Gebrauch gratis bleiben",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Befürwortung kostenloser, dezentraler Zugänglichkeit von Tools"
+    },
+    {
+      "text": "Du kannst dein eigenes Netzwerk zu Hause selbst betreiben (Tailscale, SSH)",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Betonung von Selbstbestimmung und Datenkontrolle statt Cloud-Abhängigkeit"
+    }
+  ],
+  "notable_quotes": [],
+  "comment": "Transkript ist primär technische Produktbeschreibung (Moshi-App). Keine meinungstragenden Aussagen zu ökonomischen oder autoritären Fragen erkannt. Die wenigen codierbaren Aussagen beziehen sich auf technische Souveränität/Datenschutz (libertäre Komponente). Unzureichend für valide Analyse.",
+  "episode_id": "bits_und_so_HDjWNymLJrQ",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_HDjWNymLJrQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 584
+}

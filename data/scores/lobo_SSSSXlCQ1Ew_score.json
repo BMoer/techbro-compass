@@ -1,0 +1,122 @@
+{
+  "economic_score": -1.5,
+  "social_score": 0.6,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Die AFD will stärkste Kraft werden und Regierung bilden im Interesse Sachsens",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Autoritärer Anspruch auf Regierungsmacht, mobilisiert gegen etablierte Ordnung"
+    },
+    {
+      "text": "Höcke möchte der erste blaue Ministerpräsident werden, das ist nicht vermessen sondern realistisch",
+      "speaker": "guest",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Autoritärer Führungsanspruch, Anti-Establishment-Positur"
+    },
+    {
+      "text": "AFD führt Nationalsozialen Wahlkampf, soziale Gerechtigkeit und Frieden ins Zentrum",
+      "speaker": "guest",
+      "economic": -6,
+      "social": -3,
+      "reasoning": "Linke Wirtschaftsrhetorik kombiniert mit autoritärer Mobilisierung"
+    },
+    {
+      "text": "Höcke schlägt Rentenaufschlag nur für deutsche Staatsangehörige vor",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -6,
+      "reasoning": "Paternalistische Sozialpolitik mit ethno-nationalistischer Komponente"
+    },
+    {
+      "text": "Die SPD ist in Sandwich-Position zwischen CDU und AFD, wird beim Arbeiter-Milieu angegriffen",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Deskriptive Analyse, keine Meinung"
+    },
+    {
+      "text": "Europa muss sich verändern, nicht als Selbstzweck wahrgenommen werden",
+      "speaker": "guest",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Pragmatische Reform-Forderung, neutral auf beide Achsen"
+    },
+    {
+      "text": "Die SPD müsste sich von 20 Jahren altem Personal trennen und neue Leute nach oben bringen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Personalpolitische Forderung, ideologisch neutral"
+    },
+    {
+      "text": "Die Angst vor Rechtspopulisten bei Neuwahlen ist ein totales Gaga Argument",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Pro-demokratische Normalität, gegen Angst-Rhetorik, libertäre Position"
+    },
+    {
+      "text": "CDU hat Tabu gegen Koalition mit Linkspartei, diskutiert das aber theoretisch",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Konservative Distanzwahrung, schwach-autoritäre Ablehnung"
+    },
+    {
+      "text": "Minderheitsregierung von PDS-geduldeter SPD (Magdeburger Modell) als historisches Vorbild",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Pragmatische Kooperation über Ideologiegrenzen, dezentralisierend"
+    },
+    {
+      "text": "Grüne gelten als Besserwisser-Partei mit höheren Einkommen, Tesla-Image im Osten",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an Marktsegmentierung und elitärer Wahrnehmung"
+    },
+    {
+      "text": "FDP-Generalsekretärin Linda Teuteberg aus Brandenburg könnte Signal sein: Wir nehmen euch ernst",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Inklusive Repräsentation, dezentralisierte Aufmerksamkeit"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Unser Zielsetzung muss es sein den ersten blauen Ministerpräsidenten der Bundesrepublik zu stellen",
+      "context": "Björn Höcke (AFD) auf Machtergreifung in Ostdeutschland zielend",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Angst vor Rechtspopulisten bei Neuwahlen ist ein totales Gaga Argument",
+      "context": "Diskussant argumentiert pro-demokratisch gegen Angst-Rhetorik",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Deutschland hat das erste Mal wieder die Chance einen deutschen EU-Kommissionspräsidenten zu bringen",
+      "context": "Manfred Weber (CSU) als EVP-Spitzenkandidat für Europa-Wahl",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die SPD hat noch gar nicht richtig verstanden was Sache ist",
+      "context": "Kritik an mangelnder Krisenbewusstsein der SPD-Führung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_SSSSXlCQ1Ew",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_SSSSXlCQ1Ew",
+  "date": null,
+  "country": "DE",
+  "word_count": 5417
+}

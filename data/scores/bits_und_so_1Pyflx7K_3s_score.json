@@ -1,0 +1,58 @@
+{
+  "economic_score": 0.4,
+  "social_score": 0.4,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Es war die App die es nicht geben müssen sollte weil eigentlich sollte man ja an der Säule sehen was das kostet",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Marktversagen; fordert Transparenz/Regulierung statt Lotteriesystem"
+    },
+    {
+      "text": "jetzt kann halt wenn Holger an buxdhuden eichhörnchenkraftwerk sollen laden möchte kann er das halt machen",
+      "speaker": "host",
+      "economic": 2,
+      "social": 1,
+      "reasoning": "Nutzerempowerment durch dezentrale Auswahl; pro Marktöffnung für kleine Anbieter"
+    },
+    {
+      "text": "das ist halt literally jeden Monat wieder was anderes und mal und ich sagt damals ja das machen wir jetzt wie lange kann das dauern das löst sich ja von selber",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an ungelöstem Marktproblem; implizit: Markt regelt sich nicht selbst"
+    },
+    {
+      "text": "wenn wenn man sich das einfach rauspicken hätte können dass der magisch Code rausfällt hätten wir das sicher auch in flatter gebaut jetzt hatten wir nur Leute die R native können",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatismus statt Ideologie; akzeptiert Restriktionen am Markt aus Gründen"
+    },
+    {
+      "text": "am Schluss funktioniert halt gut ist flüssig und das fallen halt am Ende zwei Binaries raus",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Funktionsorientierung; akzeptiert nicht-optimale Lösung wenn praktisches Resultat stimmt"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Es war die App die es nicht geben müssen sollte weil eigentlich sollte man ja an der Säule sehen was das kostet",
+      "context": "Kritik am Marktversagen bei Ladetarif-Transparenz für E-Auto-Fahrer",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_1Pyflx7K_3s",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_1Pyflx7K_3s",
+  "date": null,
+  "country": "DE",
+  "word_count": 1018
+}

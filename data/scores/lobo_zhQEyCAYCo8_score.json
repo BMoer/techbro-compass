@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 25 column 19 (char 842)",
+  "raw_response": "{\n  \"economic_score\": -3.4,\n  \"social_score\": 0,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.82,\n  \"coded_statements\": [\n    {\n      \"text\": \"Zölle können sinnvoll sein, um Verzerrung im wirtschaftlichen Wettbewerb zu korrigieren\",\n      \"speaker\": \"guest\",\n      \"economic\": -2,\n      \"social\": null,\n      \"reasoning\": \"Befürwortung von Regulierung zur Marktkorrektur, aber pragmatisch, nicht ideologisch\"\n    },\n    {\n      \"text\": \"Trump setzt Zölle aggressiver ein und auch ",
+  "episode_id": "lobo_zhQEyCAYCo8",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_zhQEyCAYCo8",
+  "date": null,
+  "country": "DE",
+  "word_count": 3091
+}

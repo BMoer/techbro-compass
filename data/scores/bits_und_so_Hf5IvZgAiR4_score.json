@@ -1,0 +1,58 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.6,
+  "coded_statements": [
+    {
+      "text": "Man kann sich eine Webcam für 20-30€ von AliExpress kaufen und selbst einbauen statt teurer Smart-Türklingeln",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung von günstigen DIY-Lösungen statt teurer proprietärer Produkte, pro Konsumentenfreiheit"
+    },
+    {
+      "text": "Es gibt hochwertige Video-Alternativen zu Smart-Locks wie Nuki und Smart Key, die man sich anschauen kann",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Darstellung von Marktoptionen, technische Offenheit ohne ideologische Position"
+    },
+    {
+      "text": "Das einfache Display-System ist gar nicht so blöde und kostet fast nichts",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Betonung von Low-Cost-Lösungen, Anti-Konsumismus tendierend"
+    },
+    {
+      "text": "Man kann sich ein Modell aussuchen und es selbst einfach installieren ohne Fachleute",
+      "speaker": "host",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Betonung von DIY, Selbstbestimmung und Unabhängigkeit von Professionellen"
+    },
+    {
+      "text": "Türklingeln mit WLAN-Funktion und App-Benachrichtigungen sind nicht super zuverlässig",
+      "speaker": "host",
+      "economic": 1,
+      "social": 1,
+      "reasoning": "Skeptische Haltung gegenüber komplexer Cloud-Technologie, eher Pragmatismus"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Es ist ja tatsächlich auch komplett tot und aus wenn es halt nicht gedrückt wird",
+      "context": "Beschreibung der Batterie-Effizienz des Türspion-Displays",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "bits_und_so_Hf5IvZgAiR4",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_Hf5IvZgAiR4",
+  "date": null,
+  "country": "DE",
+  "word_count": 804
+}

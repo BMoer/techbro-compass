@@ -1,0 +1,58 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "wäre es denn nicht viel angenehmer das ganze irgendwie online erledigen zu können",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Befürwortung digitaler Effizienz über Bürokratie; leicht pro-Innovation, libertär"
+    },
+    {
+      "text": "sie haben halt dieses problem in die post wieder halle zu laufen sozusagen umgangen",
+      "speaker": "host",
+      "economic": 4,
+      "social": 1,
+      "reasoning": "Positive Bewertung technologischer Disintermediation von staatlichen Strukturen"
+    },
+    {
+      "text": "ich finde es glaube ich ganz gut... das preismodell... die meisten... das war ja immer kostenfrei für den kunden",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Neutral-pragmatische Bewertung von Geschäftsmodellen; keine ideologische Position"
+    },
+    {
+      "text": "da kannst du halt auch ist es ist vielleicht besser mit einem callcenter in deutschland wurde dann auch den eltern schießt",
+      "speaker": "host",
+      "economic": -1,
+      "social": 1,
+      "reasoning": "Leichte Präferenz für lokale/nationale Lösung statt US-Outsourcing; leicht datenschutzbesorgt"
+    },
+    {
+      "text": "du redest dort mit einem menschen du hältst deinen ausweis in die kamera... kontrolliert ob die daten stimmen",
+      "speaker": "host",
+      "economic": 2,
+      "social": -1,
+      "reasoning": "Beschreibung von Identitätsprüfung mit Datenweitergabe; neutral-akzeptierend gegenüber Überwachung für Zweck"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "sie haben halt dieses problem in die post wieder halle zu laufen sozusagen umgangen",
+      "context": "Digitale Identitätsprüfung ersetzt analoge Prozesse",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_GJpZLeplxj8",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_GJpZLeplxj8",
+  "date": null,
+  "country": "DE",
+  "word_count": 846
+}

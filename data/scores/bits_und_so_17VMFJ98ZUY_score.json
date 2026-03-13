@@ -1,0 +1,32 @@
+{
+  "economic_score": null,
+  "social_score": 3.5,
+  "n_coded": 2,
+  "insufficient_data": true,
+  "confidence": 0.3,
+  "coded_statements": [
+    {
+      "text": "Google Authenticator schwächt das Sicherheitsprinzip durch fehlenden Export",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an proprietärer Lösung, Plädoyer für Nutzerkontrolle und Datenmobilität"
+    },
+    {
+      "text": "Backup-Mechanismus via SMS erhöht Zugänglichkeit bei Gerätewechsel",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Befürwortung praktischer Sicherheitslösung, die Benutzerfreiheit erhöht"
+    }
+  ],
+  "notable_quotes": [],
+  "analysis_note": "Transkript behandelt primär technische Produktfeatures (Google Authenticator vs. Authy vs. 1Password). Keine signifikanten ökonomischen oder politischen Positionen vorhanden. Die wenigen codierbaren Aussagen betreffen Datenschutz/Kontrolle (gesellschaftliche Achse), nicht aber ökonomische Ordnungsfragen. Zu wenig meinungstragende politische Positionen für robuste Analyse.",
+  "episode_id": "bits_und_so_17VMFJ98ZUY",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_17VMFJ98ZUY",
+  "date": null,
+  "country": "DE",
+  "word_count": 504
+}

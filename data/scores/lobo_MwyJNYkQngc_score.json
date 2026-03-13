@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 26 column 17 (char 879)",
+  "raw_response": "{\n  \"economic_score\": -1.4,\n  \"social_score\": 1.6,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.72,\n  \"coded_statements\": [\n    {\n      \"text\": \"Die SPÖ-Vorsitzenden sind alle Millionäre und Banker, der kleine Mann verliert Vertrauen\",\n      \"speaker\": \"guest\",\n      \"economic\": -4,\n      \"social\": null,\n      \"reasoning\": \"Kritik an Reichtum der Parteiführung, fehlende Nähe zur Arbeitnehmerschaft\"\n    },\n    {\n      \"text\": \"FPÖ schafft es, als Partei des kleinen Mannes zu w",
+  "episode_id": "lobo_MwyJNYkQngc",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_MwyJNYkQngc",
+  "date": null,
+  "country": "DE",
+  "word_count": 7843
+}

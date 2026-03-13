@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.4,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.45,
+  "coded_statements": [
+    {
+      "text": "Tesla dreht Autopilot aus der Ferne ab, obwohl Kunden dafür zahlten",
+      "speaker": "host",
+      "economic": 2,
+      "social": 3,
+      "reasoning": "Kritik an Unternehmenskontrolle über Produkte; leichte Skepsis gegenüber Marktmacht"
+    },
+    {
+      "text": "Charge-Preis-Website hilft bei Transparenz von Ladetarifen verschiedener Anbieter",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Befürwortung von Markttransparenz und Informationstools im freien Markt"
+    },
+    {
+      "text": "VW-Ladekarte war attraktiv, aber nun werden solche Karten abgeschafft",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Implizite Kritik an Geschäftsmodell-Instabilität; weder stark links noch rechts"
+    },
+    {
+      "text": "Tesla hat die technische Möglichkeit, Features nachträglich zu deaktivieren",
+      "speaker": "host",
+      "economic": 1,
+      "social": 2,
+      "reasoning": "Kritik an Unternehmenskontrolle und Datenverfügbarkeit; datenschutz-relevant"
+    },
+    {
+      "text": "Gratis-Ladesäulen sind selten, aber es gibt sie noch in der Region",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Beobachtung zu Marktangebot; keine normative Position"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Tesla dreht Autopilot aus der Ferne ab, obwohl Kunden das zahlten",
+      "context": "Kritik an digitaler Kontrolle und Geschäftspraktiken von Tech-Konzernen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "5000-Dollar-Käufe aus Versehen in der Hosentasche ausgelöst",
+      "context": "Kritik an Tesla-UX-Design und fehlenden Sicherheitsmechanismen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_c_KHd0WS9zI",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_c_KHd0WS9zI",
+  "date": null,
+  "country": "DE",
+  "word_count": 2027
+}

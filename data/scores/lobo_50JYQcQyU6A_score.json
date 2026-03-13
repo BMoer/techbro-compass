@@ -1,0 +1,68 @@
+{
+  "economic_score": -3.2,
+  "social_score": 2.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Trump kippt Gefährdungsfeststellung für Treibhausgase, damit keine Regulierung von Fossilen nötig",
+      "speaker": "host",
+      "economic": 8,
+      "social": null,
+      "reasoning": "Radikale Deregulierung, Unternehmertum vor Klimaschutz"
+    },
+    {
+      "text": "Öllobby kämpft seit 1980ern gegen Klimaschutzregeln, jetzt haben sie gewonnen",
+      "speaker": "host",
+      "economic": -7,
+      "social": null,
+      "reasoning": "Kritik an Kapitalinteressen über Gemeinwohl, implizit für stärkere Regulierung"
+    },
+    {
+      "text": "Bundeskanzler März kritisiert Trump-Regierung, fordert europäisches Selbstbewusstsein gegenüber USA",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Implizite Kritik an Deregulierung, Plädoyer für stärkere staatliche Rolle Europas"
+    },
+    {
+      "text": "Deutsche Bahn möchte Bodycams für Personal einsetzen, Risiken für Unbeteiligte werden bemerkt",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Abwägung zwischen Sicherheit und Datenschutz/Privatsphäre, leicht libertär"
+    },
+    {
+      "text": "Chinas CO2-Emissionen sinken trotz wachsender Wirtschaft durch Ausbau erneuerbarer Energien",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik impliziter an fossiler Wirtschaft, Befürwortung staatlich gelenkter grüner Transformation"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Trump bedient schwere Maschinen, z.B. den amerikanischen Staatsapparat, obwohl er offenbar regelmäßig solche Tage hat",
+      "context": "Kritik an Trumps impulsiven Deregulierungsentscheidungen zur Klimapolitik",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir heben offiziell die Gefährdungsfeststellung auf - Trumps neueste Entscheidung zur Klimapolitik",
+      "context": "USA kippt faktisch bundesweiten Klimaschutz durch Neubewertung von Treibhausgasen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Europa hätte seinen langen Urlaub von der Weltgeschichte beendet",
+      "context": "Kanzler März fordert europäisches Selbstbewusstsein gegen USA und China",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_50JYQcQyU6A",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_50JYQcQyU6A",
+  "date": null,
+  "country": "DE",
+  "word_count": 898
+}

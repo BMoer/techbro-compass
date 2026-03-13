@@ -1,0 +1,75 @@
+{
+  "economic_score": 0,
+  "social_score": 2.5,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Vertrauensvorschuss führt zu Leistungssteigerung beim Gegenüber",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Positive Sicht auf Vertrauenskultur, freiwillige Verantwortung, humanistische Perspektive"
+    },
+    {
+      "text": "Kontrollkultur kostet Zeit, Energie, Nerven und Geld",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 3,
+      "reasoning": "Kritik an Effizienz von Kontrolle, wirtschaftliche und libertäre Perspektive"
+    },
+    {
+      "text": "Flache Hierarchien reduzieren menschliche Fehler durch höheres Vertrauen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 4,
+      "reasoning": "Pro-flache Strukturen, gegen autoritäre Hierarchien, empirisch fundiert"
+    },
+    {
+      "text": "Perfektion schafft Aggression, Menschen sind sympathischer wenn nicht perfekt",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Gegen Leistungsdruck, für Authentizität und Vulnerabilität"
+    },
+    {
+      "text": "Verschwiegenheit ist absoluter Vertrauenskiller, Tratsch zerstört Vertrauen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Pro-Datenschutz, Pro-Privatsphäre, gegen Verletzung von Vertrauen"
+    },
+    {
+      "text": "Kluges Vertrauen statt blindes Vertrauen, Vertrauen bewusst investieren",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Pragmatische, abwägende Position zu Vertrauensfragen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Vertrauen ist keine Garantie, sondern eine Entscheidung",
+      "context": "Kernthese zur Natur von Vertrauen als bewusster Akt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Gegenteil von Vertrauen ist nicht Misstrauen, sondern Kontrolle",
+      "context": "Konzeptuelle Klarstellung der Vertrauenslogik",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Enttäuschung nimmt uns ein Stück der Täuschung und bringt uns der Realität näher",
+      "context": "Positive Reinterpretation von Enttäuschungserlebnissen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_FGebMlDb2hI",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_FGebMlDb2hI",
+  "date": null,
+  "country": "DE",
+  "word_count": 5775
+}

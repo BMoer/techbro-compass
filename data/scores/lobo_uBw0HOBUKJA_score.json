@@ -1,0 +1,89 @@
+{
+  "economic_score": 2.5,
+  "social_score": -1.25,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "die ganzen Nachrichtensender machen eine Live Berichterstattung, Trump wartet auf diesen Moment",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an medialer Inszenierung und Kontrolle des Narrativs"
+    },
+    {
+      "text": "die Macht der Präsidentschaft soll ausgeweitet werden, die Ministerien sollen gleichgeschaltet werden",
+      "speaker": "guest",
+      "economic": 6,
+      "social": -6,
+      "reasoning": "Deregulierung+Zentralisierung; autoritäre Strukturierung der Exekutive"
+    },
+    {
+      "text": "Trump will dass die Grenze dicht gemacht wird, harte Politik vertritt",
+      "speaker": "guest",
+      "economic": 5,
+      "social": -4,
+      "reasoning": "Marktwirtschaftliche Protektionismus-Rhetorik; autoritäre Sicherheitspolitik"
+    },
+    {
+      "text": "JD Vance hat Trump früher als Amerikas Hitler bezeichnet, jetzt wandelt er sich wunderbar",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kritik an Opportunismus und mangelnder kritischer Diskursfähigkeit in Partei"
+    },
+    {
+      "text": "Trump mag Sieger, mag die Winners, mag keine Loser - Loyalität ist wichtiger als frühere Positionen",
+      "speaker": "guest",
+      "economic": 7,
+      "social": -5,
+      "reasoning": "Meritokratische Denkweise mit autoritärer Loyalitätsstruktur"
+    },
+    {
+      "text": "es gibt keine Erwachsenen mehr die ihn bewachen, alle arbeiten wirklich für ihn",
+      "speaker": "guest",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Befürchtung von totalitärer Kontrolle ohne Checks and Balances"
+    },
+    {
+      "text": "Biden muss alle drei Swing States gewinnen, Trump hat zehn verschiedene Wege zum Erdrutschsieg",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Reine Wahlprognose, keine Meinungsäußerung zu Politik"
+    },
+    {
+      "text": "die Strategie der Demokraten ist momentan nur zu erklären, dass Biden nicht umfällt",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Politische Beobachtung, keine normative Aussage"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "je mehr man den Trump kennenlernt umso besser findet man ihn",
+      "context": "JD Vance argumentiert seine politische Wandlung gegenüber Trump",
+      "quiz_suitable": true
+    },
+    {
+      "text": "alle Leute die für ihn arbeiten werden auch wirklich für ihn arbeiten und nicht gegen ihn",
+      "context": "Analyse der geplanten Trump-Administration ohne institutionelle Gegenkräfte",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Trump mag Sieger, mag die Winners, mag keine Loser",
+      "context": "Erklärung warum Trump JD Vance trotz früherer Hitler-Vergleiche als VP wählt",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_uBw0HOBUKJA",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_uBw0HOBUKJA",
+  "date": null,
+  "country": "DE",
+  "word_count": 3343
+}

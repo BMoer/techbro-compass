@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "350 Euro für elektrisch höhenverstellbaren Tisch - extrem günstig, gute Preis-Leistung",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung preisgünstiger Marktlösung, pragmatisches Konsumverhalten"
+    },
+    {
+      "text": "Man kann sich davon einfach selber einen Stehtisch aus Pappkarton bauen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "DIY-Ansatz, Selbermachen statt kaufen, ressourcensparsam"
+    },
+    {
+      "text": "IKEA-Tisch kostet über 400 Euro, hat Garantie und Motor - teurer aber fertig",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Vergleich zwischen Budget-Lösung und Premium-Lösung, neutrale Bewertung"
+    },
+    {
+      "text": "Memory-Modul für 80 Euro Nachrüstung - könnte ich machen, brauche ich aber nicht",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Konsumentscheidung gegen Luxus-Features, Kosteneffizienz"
+    },
+    {
+      "text": "Stehtisch-Konzept: ausprobieren, sehr angenehm, anders beansprucht den Körper",
+      "speaker": "host",
+      "economic": 0,
+      "social": 1,
+      "reasoning": "Gesundheitliche Autonomie, persönliche Wahlfreiheit bei Arbeitsgestaltung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wer das kaufen will kann man machen, das ist völlig okay für den Preis",
+      "context": "Empfehlung des günstigen Tisches trotz minderer Qualität",
+      "quiz_suitable": false
+    },
+    {
+      "text": "Ich kann mir gut vorstellen dass das nicht für jeden funktioniert",
+      "context": "Reflexion über persönliche Leistungsfähigkeit beim Stehen",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "bits_und_so_dc7oMx9_9mU",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_dc7oMx9_9mU",
+  "date": null,
+  "country": "DE",
+  "word_count": 1923
+}

@@ -1,0 +1,75 @@
+{
+  "economic_score": 0.0,
+  "social_score": 0.6,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Verbrechen lohnt sich oft genug",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an unzureichender Bestrafung, Vertrauensverlust in Justizsystem"
+    },
+    {
+      "text": "der hat eine günstige Sozialprognose [...] lassen wir den schnell wieder raus",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an leichten Strafen trotz schwerer Verbrechen, Justizversagen"
+    },
+    {
+      "text": "hier gelten unsere Regeln hier ist was anderes hier zählen nicht eure Regeln",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Paralleljustiz, Ablehnung staatlicher Autorität zugunsten Clan-Regeln"
+    },
+    {
+      "text": "der hatte eine gymnasiumempfehlung [...] war ein sehr guter Breakdancer",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 1,
+      "reasoning": "Sympathie für Täter durch Hervorhebung positiver Elemente, sozialwissenschaftliche Perspektive"
+    },
+    {
+      "text": "Tilidin [...] das euphorisiert und macht natürlich auch ein bisschen enthemmt",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Justizversagen bei Drogenproblematik, fehlende Prävention"
+    },
+    {
+      "text": "die staatsanwälte die ihn verknackt haben die sind dann nicht mehr dafür zuständig",
+      "speaker": "guest",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Kritik an Behördenversagen, mangende Kontrolle, Justizwillkür"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "verbrechen lohnt sich ja verbrechen lohnt sich oft genug",
+      "context": "Fazit des Moderators zur Verurteilung und frühen Freilassung von Momo Abuaka",
+      "quiz_suitable": true
+    },
+    {
+      "text": "hier gelten unsere Regeln hier zählen nicht eure Regeln",
+      "context": "Aussage von Clan-Mitgliedern zu Journalisten, die an die Tür klopfen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "großes Herz hat ein Herz aus Gold",
+      "context": "Schwester beschreibt ihren kriminellen Bruder positiv trotz Überfall",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_Caf-WhEOPJw",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_Caf-WhEOPJw",
+  "date": null,
+  "country": "DE",
+  "word_count": 7463
+}

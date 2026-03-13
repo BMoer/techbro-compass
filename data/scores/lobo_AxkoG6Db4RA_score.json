@@ -1,0 +1,103 @@
+{
+  "economic_score": -2.0,
+  "social_score": 3.2,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Rassismus ist nicht angeboren, er entsteht in der Gesellschaft und verbreitet sich auch in der Schule",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Pro-Bildung, gegen Diskriminierung, libertäre Perspektive auf Gesellschaftswandel"
+    },
+    {
+      "text": "Wenn ich diese Staatsangehörigkeit habe, sollte es egal sein wer hinter dieser Staatsangehörigkeit ist",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Fordert Gleichberechtigung und staatliche Garantien, gegen Diskriminierung"
+    },
+    {
+      "text": "Die Behörden brauchen mehr Befugnisse um in abgeschottete Gruppen reinzukommen bei konkreter Terrorgefahr",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Autorität befürwortend: fordert erweiterte Überwachungsbefugnisse für Sicherheit"
+    },
+    {
+      "text": "Das Vertrauen in Sicherheitsbehörden leidet, wenn man nicht sicher sein kann, wem man dort begegnet",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an fehlender Transparenz und Rechenschaftspflicht, Bürgerschutz-fokussiert"
+    },
+    {
+      "text": "Man kann Feuer nicht mit Feuer bekämpfen - aus Wut machen wir was Positives durch Bildungsarbeit",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Gewaltfreiheit, konstruktive Gesellschaftskritik, gemeinwohlorientiert"
+    },
+    {
+      "text": "Antirassistische Bildungsarbeit muss langfristig vom Bund und Land finanziert werden",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 4,
+      "reasoning": "Fordert staatliche Finanzierung von Bildungsprojekten, sozialer Fokus"
+    },
+    {
+      "text": "Die große Koalition konnte sich nicht auf ein Demokratiefördergesetz einigen - Blockadehaltung der Union",
+      "speaker": "host",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Kritik an fehlender staatlicher Unterstützung für Demokratie-Projekte"
+    },
+    {
+      "text": "Wer sich öffentlich gegen Rechtsextremismus positioniert wird Ziel von Anfeindungen und Bedrohungen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Warnt vor Einschüchterung, fordert Schutz von Zivilgesellschaft"
+    },
+    {
+      "text": "Schulbanner gegen Rassismus allein bekämpfen das Problem nicht - man braucht echte strukturelle Arbeit",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Kritik an Symbolpolitik, fordert substantielle Reformen und Engagement"
+    },
+    {
+      "text": "Es muss eine klare Abgrenzung von der AfD geben - sie ist teilweise rechtsextrem und gehört widersprochen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Explizite Kritik an rechtsextremer Partei, defensive gesellschaftliche Position"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Als Jude in Deutschland ist es so, als ob man ein Fadenkreuz auf dem Kopf hat",
+      "context": "Beschreibung alltäglicher Bedrohungssituation für jüdische Bürger nach Anschlägen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt über 10 Jahre hinweg die hässlichste Blutspur im Rechtsextremismus - warum spricht dann komm jemand drüber?",
+      "context": "Kritik am fehlenden Fokus auf Rechtsterrorismus im Wahlkampf und in der Öffentlichkeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir brauchen mehr als ein Schulbanner - man kann mit 50€ Druckkosten Rassismus nicht bekämpfen",
+      "context": "Kritik an oberflächlichen Maßnahmen gegen Rassismus in Schulen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_AxkoG6Db4RA",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_AxkoG6Db4RA",
+  "date": null,
+  "country": "DE",
+  "word_count": 5369
+}

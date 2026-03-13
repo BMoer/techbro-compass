@@ -1,0 +1,44 @@
+{
+  "economic_score": 0,
+  "social_score": 1.67,
+  "n_coded": 3,
+  "insufficient_data": true,
+  "confidence": 0.35,
+  "coded_statements": [
+    {
+      "text": "Da gibt es auch noch die Diskussion ob die [Blitzer] überhaupt legal in Deutschland zu verwenden sind",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an Überwachungstechnologie, Datenschutz-Bedenken"
+    },
+    {
+      "text": "Die Stauinformationen... es würde ja irgendwie Sinn machen dass die auch von Google Maps rüberkommen",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Neutrale technische Beobachtung ohne Wertung"
+    },
+    {
+      "text": "Es gab eine Studie... dass [Navis] Leute auf kleinste und Mini-Straßen schicken und alle in der Seitenstraße hängen bleiben",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an Algorithmen-Kollektiveffekten, dezentraler Koordination"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ob die Blitzer überhaupt legal in Deutschland zu verwenden sind - weiß ich nicht brauche ich nicht",
+      "context": "Host hinterfragt Legalität und Sinnhaftigkeit von Blitzer-Datenbanken in Navigationssystemen",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "bits_und_so_EBQmAD1kD7Y",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_EBQmAD1kD7Y",
+  "date": null,
+  "country": "DE",
+  "word_count": 1894
+}

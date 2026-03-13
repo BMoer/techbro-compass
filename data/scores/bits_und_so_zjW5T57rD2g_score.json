@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.45,
+  "coded_statements": [
+    {
+      "text": "Ich kaufe das billigste Produkt im Preissegment, nicht das teure Modell",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Preisorientierte Konsumentscheidung, pragmatischer Sparansatz"
+    },
+    {
+      "text": "Bei Aliexpress kann man die Preise vergleichen, die variieren durchaus",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Befürwortung von Marktvergleich und Wettbewerb, freier Preiskonkurrenz"
+    },
+    {
+      "text": "Das teure 50€ Modell ist vermutlich hochwertiger verarbeitet, aber macht keinen praktischen Unterschied",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Skeptis gegenüber Preis-Leistungs-Verhältnis bei Premium-Produkten"
+    },
+    {
+      "text": "MHW3 Bomber ist die beste Kaffeefirma, hat fantastische Produkte",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Lob für Privatunternehmen und deren Marktangebot"
+    },
+    {
+      "text": "Man kann bei verschiedenen Stores kaufen, offizielle oder weniger offizielle, Preise unterscheiden sich",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Implizite Befürwortung von Marktvielfalt und Auswahlmöglichkeiten"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "das unterste Preissegment zu kaufen weil ich brauche das nicht so super oft",
+      "context": "Timo erklärt seine Konsumentscheidung für einen günstigen Milchschäumer",
+      "quiz_suitable": false
+    },
+    {
+      "text": "MHW3 Bomber ist die ultimativste chinesische Hipster Kaffeebude die fantastische Produkte hat",
+      "context": "Enthusiastisches Lob für ein kleines Kaffee-Zubehör-Unternehmen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_zjW5T57rD2g",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_zjW5T57rD2g",
+  "date": null,
+  "country": "DE",
+  "word_count": 1862
+}

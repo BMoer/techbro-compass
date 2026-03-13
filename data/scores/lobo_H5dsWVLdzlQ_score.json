@@ -1,0 +1,89 @@
+{
+  "economic_score": -2.0,
+  "social_score": -1.5,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Die Demokraten müssen sich auf was konzentrieren, was jenseits des Identitätspolitischen ist, also was tatsächlich alle Amerikaner abholt.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kritik an identitätspolitischer Zersplitterung; implizit für mehr Einheit, aber nicht autoritär"
+    },
+    {
+      "text": "Steven Miller sagt, seine Eisagenten sind immun, die können hingehen und Bürger abknallen, dann wird den nichts passieren.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Kritik an staatlicher Gewaltimmunität und fehlenden Kontrollmechanismen; stark autoritär"
+    },
+    {
+      "text": "Das ist ein Punkt. Trump gerne nach außen tragen möchte, auch Stabilität. Wenn USA in Shutdown gehen, der Dollar weich ist.",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische ökonomische Analyse von Shutdown-Konsequenzen; nicht ideologisch"
+    },
+    {
+      "text": "Es sind die Menschen, die da stehen, die Nachbarschaften, die sich zusammenrotten mit Trillerpfeifen, die tapfer sind.",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Betonung von Bürgerbeteiligung und zivilgesellschaftlichem Widerstand; libertär"
+    },
+    {
+      "text": "Wenn die Zivilgesellschaft gemeinsam mit Corporate America vorgeht und sagt, bis hierher und nicht weiter, das schadet uns allen.",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Regierungspolitik, aber auch Vertrauen in Marktakteure als Gegenkraft; links-gemäßigt"
+    },
+    {
+      "text": "Wenn es um Wirtschaft geht und Geld und Deals, ist das ja bekanntlich ein Mittel, mit dem man Donald Trump kriegen kann.",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung von ökonomischen Incentives als Hebel; pragmatisch-rechts"
+    },
+    {
+      "text": "Die Demokraten können klar sagen, dass sie diese Politik nicht mitvertreten, dass sie für eine andere Politik stehen.",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Allgemeine progressive Position ohne spezifische ökonomische Ausrichtung"
+    },
+    {
+      "text": "Alleine kann da gar nichts passieren. Es sind die Institutionen nicht, die Trump das Stoppschild zeigen, sondern die Zivilbevölkerung.",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Betonung von dezentraler Macht und Bürgerbeteiligung statt staatlicher Institutionen; libertär"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Steven Miller sagt, seine Eisagenten sind immun, die können hingehen und Bürger abknallen, muss man ja wirklich so böse sagen.",
+      "context": "Kritik an behaupteter Straffreiheit von Regierungsbehörden bei Tötungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es sind die Menschen, die da stehen, die Nachbarschaften, die sich zusammenrotten mit Trillerpfeifen, die so wahnsinnig mutig und tapfer sind.",
+      "context": "Zivilgesellschaftlicher Widerstand gegen staatliche Gewalt in Minneapolis",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn die Zivilgesellschaft gemeinsam mit Corporate America vorgeht und sagt, bis hierher und nicht weiter, das schadet uns allen.",
+      "context": "Unerwartete Koalition aus NGOs und Wirtschaft gegen Regierungspolitik",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_H5dsWVLdzlQ",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_H5dsWVLdzlQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 2915
+}

@@ -1,0 +1,63 @@
+{
+  "economic_score": -1.0,
+  "social_score": 1.6,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Smart Toys mit KI - Datensicherheit ist problematisch, wenn das Spielzeug immer aufnimmt",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Datenschutzbedenken, Überwachungsaspekt bei smarten Geräten"
+    },
+    {
+      "text": "Kinder könnten nicht mehr in der Lage sein, einfache Spiele zu spielen ohne Digital",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Sorge um Abhängigkeit von digitalen Systemen, paternalistische Regulation"
+    },
+    {
+      "text": "Die Bildschirmzeit ist das Maß aller Dinge - nicht zu viel vor dem Bildschirm",
+      "speaker": "host",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Pragmatische, abwägende Position zu digitalen Medien"
+    },
+    {
+      "text": "Minecraft ist wertvoll - konstruktives Spielzeug, ähnlich wie Lego, digital umgesetzt",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Befürwortung kreativer, nicht-extractiver Spielmechaniken; leicht pro-Kunstfreiheit"
+    },
+    {
+      "text": "Games mit Gewinnspiel-Prinzipien, die Kinder zum Kaufen zwingen, sind kritisch",
+      "speaker": "guest",
+      "economic": -5,
+      "social": -2,
+      "reasoning": "Kritik an predatorischen Geschäftsmodellen, exploitative Monetarisierung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das ist einfach nicht so wahnsinnig neu, das ist neu zusammenkombiniert.",
+      "context": "Experte bewertet Smart Bricks als Marketing-Innovation ohne substantielle pädagogische Neuerung.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es ist noch nicht so im Kinderzimmer angekommen aus guten Gründen - Datensicherheit und schädliche Antworten.",
+      "context": "Warnung vor KI-Spielzeugen mit Überwachungs- und Sicherheitsrisiken.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_RcUopuYErkI",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_RcUopuYErkI",
+  "date": null,
+  "country": "DE",
+  "word_count": 2681
+}

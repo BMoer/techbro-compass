@@ -1,0 +1,108 @@
+{
+  "economic_score": -2.0,
+  "social_score": 4.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Abrüstung ist eine fundamentale feministische Forderung",
+      "speaker": "guest",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Anti-Rüstungs-Position, regulativ, aber nicht ökonomisch radikal"
+    },
+    {
+      "text": "Waffenexporte müssen restriktiver sein, deutsches Rüstungsexportkontrollgesetz unterstützen",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Forderung nach Regulierung von Waffenhandel"
+    },
+    {
+      "text": "Feministische Außenpolitik: Repräsentanz, Rechte und Ressourcen",
+      "speaker": "host",
+      "economic": -3,
+      "social": 6,
+      "reasoning": "Umverteilungsforderung + starke Bürgerrechts-/Gleichstellungsorientierung"
+    },
+    {
+      "text": "Patriarchale Gesellschaft: Männer haben Vormachtstellung, Hierarchien werden mit Gewalt aufrechterhalten",
+      "speaker": "guest",
+      "economic": null,
+      "social": 7,
+      "reasoning": "Stark kritisch gegenüber autoritärer Struktur, libertär orientiert"
+    },
+    {
+      "text": "Frauen müssen in Sicherheitskonferenzen repräsentiert sein, nicht nur Männer entscheiden",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Anti-autoritär, Forderung nach Partizipation und Gleichberechtigung"
+    },
+    {
+      "text": "Sexualisierte Gewalt als Kriegswaffe muss verfolgt werden, neues Völkerrecht seit 1990ern",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Fokus auf Menschenrechte und rechtliche Gleichbehandlung"
+    },
+    {
+      "text": "Es ist ein urpatriarchales Konzept, Männer und Frauen in Boxen zu stecken",
+      "speaker": "guest",
+      "economic": null,
+      "social": 8,
+      "reasoning": "Kritik autoritärer Geschlechterkategorisierung, libertäre Perspektive"
+    },
+    {
+      "text": "Wir müssen an Strukturen arbeiten, die Demilitarisierung und Zivilgesellschaft stärken",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Staatliche Investition in zivile Strukturen, anti-militaristisch"
+    },
+    {
+      "text": "Ukrainer fordern Waffen, ich kann ihnen das nicht verwehren wenn ihr Volk betroffen ist",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatischer Mittelweg zwischen Pazifismus und Kriegsunterstützung"
+    },
+    {
+      "text": "Transfrauen werden als kampffähig eingestuft, queere Menschen gefährdet - sichtbar machen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Anti-autoritär, Minderheitenschutz, gegen formale Diskriminierung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Feministische Außenpolitik: Repräsentanz, Rechte und Ressourcen",
+      "context": "Kernbotschaft von Außenministerin Baerbock zur Neuausrichtung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Abrüstung ist eine fundamentale feministische Forderung - aber was folgt daraus wenn Krieg herrscht?",
+      "context": "Zentrale Spannung: Pazifistische Ideale treffen auf Kriegsrealität",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es ist ein urpatriarchales Konzept, Menschen aufgrund ihres Geschlechts Dinge zu erlauben oder nicht",
+      "context": "Kritik an Evakuierungsregeln, die Männer zurückhalten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich bin froh, dass ich Zivilgesellschaft bin und keine Regierungsverantwortung habe",
+      "context": "Christina Lunz räumt ein, dass perfekte Entscheidungen in Kriegszeiten unmöglich sind",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_R15l9uOftpY",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_R15l9uOftpY",
+  "date": null,
+  "country": "DE",
+  "word_count": 4476
+}

@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 39 column 19 (char 1445)",
+  "raw_response": "{\n  \"economic_score\": -2.0,\n  \"social_score\": -1.0,\n  \"n_coded\": 6,\n  \"insufficient_data\": false,\n  \"confidence\": 0.62,\n  \"coded_statements\": [\n    {\n      \"text\": \"Die Netzneutralität wird durch 5G angegriffen, weil Verletzungen schon im Protokoll integriert sind\",\n      \"speaker\": \"host\",\n      \"economic\": -4,\n      \"social\": null,\n      \"reasoning\": \"Kritik an Marktmacht von Konzernen (Telekom), Regulierungsdefizit\"\n    },\n    {\n      \"text\": \"Die Telekom wird sich ausdenken, wie 5G-Streaming",
+  "episode_id": "bits_und_so_2Yd5Me9v7fE",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_2Yd5Me9v7fE",
+  "date": null,
+  "country": "DE",
+  "word_count": 2623
+}

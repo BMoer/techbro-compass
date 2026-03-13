@@ -1,0 +1,127 @@
+{
+  "economic_score": 1.2,
+  "social_score": 2.0,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Renault macht ausschließlich Miete kein Batterieverkauf",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Mietermodell statt Verkauf = regulatorisches Geschäftsmodell, leicht interventionistisch"
+    },
+    {
+      "text": "Die Batterie wird ausgetauscht wenn sie unter 75% Kapazität sinkt",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Starke Konsumentenschutzregulation, paternalistische Qualitätssicherung"
+    },
+    {
+      "text": "Elektroautos sparen beim Strom etwa ein Drittel vs. Benzin",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Reine Kostenaussage, keine normative Position"
+    },
+    {
+      "text": "Würde in der Innenstadt kein eigenes Auto kaufen, lieber CarSharing",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Skeptik gegenüber Privateigentum, Präferenz für Sharing-Modelle"
+    },
+    {
+      "text": "Der Listenpreis zahlt derzeit niemand, alle bieten sich tot mit Rabatten",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Marktbeobachtung ohne normative Bewertung"
+    },
+    {
+      "text": "Tesla blockiert die kostenlosen Supercharger für Dauernutzer per Mail",
+      "speaker": "host",
+      "economic": 0,
+      "social": -3,
+      "reasoning": "Kritik an Überwachung (Bewegungsprofile) und Paternalismus durch Konzern"
+    },
+    {
+      "text": "Alle Hersteller sollten sich auf einheitliche Batteriewechselsysteme einigen",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Regulatorische Harmonisierung, Anti-Fragmentierung, kollaborative Standardisierung"
+    },
+    {
+      "text": "Einheitliches Ladesystem ist besser als Batteriewechsel",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Technikbewertung, keine ökonomische Position"
+    },
+    {
+      "text": "Aldi installiert kostenlose Ladesäulen mit Solarpaneln auf den Dächern",
+      "speaker": "host",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Marktgesteuerte Lösung mit Umweltaspekt, pragmatisch liberal mit grüner Note"
+    },
+    {
+      "text": "Adobe Creative Cloud abgeschaltet wegen Abo-Müdigkeit",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an Subscription-Modell, Präferenz für Kaufsoftware (individualistisch)"
+    },
+    {
+      "text": "Affinity-Suite ist neu programmiert ohne Altlasten, kosten 50€ einmalig",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Lob für Alternativangebot zu Monopolist Adobe, Fokus auf Kaufmodell"
+    },
+    {
+      "text": "Responsive Webdesign per Hand ist aufwändig, Jimdo automatisiert das",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Markteffizienz durch Automatisierung statt Handwerk, pro Effizienz"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Würde in der Innenstadt für 12.000€ kein Auto kaufen, eher Taxis und CarSharing",
+      "context": "Debatte über Elektroauto-Sinnhaftigkeit in Großstädten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Tesla sendet freundliche Mail: Das ist für Durchreisende, nicht als private Tankstelle",
+      "context": "Kritik an unflexibler KI-Überwachung von Lademustern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Multipler ist hässlicher als jedes andere Auto, sogar als der i3 Multiplied",
+      "context": "Humorvolle Debatte über Elektroauto-Design-Katastrophen",
+      "quiz_suitable": false
+    },
+    {
+      "text": "Kaputte Ladesäulen ohne Verantwortliche sind die beste Förderpolitik",
+      "context": "Sarkasmus über halbherzig installierte Infrastruktur",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Adobe-Abo kostet 140€/Jahr, dafür 3 Affinity-Apps kaufen",
+      "context": "Kritik an Subscription-Modell vs. Kaufsoftware-Modell",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_X9ub8urNQaA",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_X9ub8urNQaA",
+  "date": null,
+  "country": "DE",
+  "word_count": 13122
+}

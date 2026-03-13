@@ -1,0 +1,94 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.5,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, marktliberal"
+    },
+    {
+      "text": "TikTok sitzt am längeren Hebel in Verhandlungen mit Universal",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktmacht von Tech-Plattformen, dereguliert"
+    },
+    {
+      "text": "Künstler würden gerne kostenlos auf TikTok sein, weil es ihr bester Marketingkanal ist",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an Künstlerschutzmaßnahmen, freie Märkte"
+    },
+    {
+      "text": "Den perfekten ETF gibt's nicht, ein Tod muss man sterben",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische, akzeptierende Haltung zu Marktlösung"
+    },
+    {
+      "text": "Spotify muss transparent sein über ihre Algorithmen und Rekommendationssysteme",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Forderung nach Transparenz und Kontrolle über Plattformen"
+    },
+    {
+      "text": "Abschreibungsdauern für Server von 4 auf 6 Jahre zu verlängern ist buchhalterischer Trick zur Gewinnverschönerung",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Unternehmensmanipulation, aber nicht radikal anti-kapitalistisch"
+    },
+    {
+      "text": "Bei Specs sollte man vorsichtig sein - das ist eine Klasse die absolut anderslautend performt hat",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Skeptis gegenüber Finanzprodukt-Konstruktionen"
+    },
+    {
+      "text": "Man sollte nicht exklusiv Inhalte machen, sondern maximale Distribution anstreben um Geld zu verdienen",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Markt, Anti-Monopolisierung, ökonomische Effizienz"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wä ich jetzt universal und würde meine jungen Künstler gut vertreten also oder andersrum wä ich tiktok weiß ich eigentlich Sitz am längeren Hebel",
+      "context": "Diskussion über TikTok-Universal Verhandlungen und Marktmacht",
+      "quiz_suitable": true
+    },
+    {
+      "text": "ein Tod muss man sterben das perfekte Produkt gibt's nicht",
+      "context": "ETF-Bewertung und Marktpragmatismus",
+      "quiz_suitable": true
+    },
+    {
+      "text": "die Abschreibungsdauer zu verkürzen also das genaue Gegenteil davon zu tun und das wiederum möchte die Industrie aber hauptsächlich um Steuern zu sparen",
+      "context": "Analyse von Unternehmens-Buchhaltungstricks bei Tech-Giants",
+      "quiz_suitable": true
+    },
+    {
+      "text": "keiner wird mit dem Keyboard Arbeiten du wirst dieses Keyboard haben hier und du wirst damit mit dem MacBook arbeiten und du hast einfach deine Bild",
+      "context": "Vision Pro Use-Case Diskussion",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_J1Dg4uQyqd8",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_J1Dg4uQyqd8",
+  "date": null,
+  "country": "DE",
+  "word_count": 14807
+}

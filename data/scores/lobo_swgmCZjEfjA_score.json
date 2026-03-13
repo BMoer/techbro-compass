@@ -1,0 +1,143 @@
+{
+  "economic_score": -2.0,
+  "social_score": 4.6,
+  "n_coded": 15,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Die Menschen schweigen weil sie beim geringsten Abweichen von der vorgesehenen Meinung als Rassisten niedergeschrieen werden",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an Zensur durch Rassismusvorwurf, libertäre Bedenken"
+    },
+    {
+      "text": "Empörung, lautstarke Teilnahme an der Debatte kann ein wichtiges demokratisches Korrektiv sein",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Befürwortung freier Meinungsäußerung, Bürgerrechte"
+    },
+    {
+      "text": "Die schweigende Mehrheit ist in einer liberalen Demokratie keine Mehrheit",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Pro-Partizipation, libertäre Demokratietheorie"
+    },
+    {
+      "text": "Rassismus ist etwas wofür nur Rassisten verantwortlich sind, nicht die Opfer",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Starke Anti-Autoritarismus-Position, Opferschutz"
+    },
+    {
+      "text": "Das Gegenteil von rechtsextrem ist nicht links, sondern demokratisch",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an polarisierten Kategorien, pro-demokratisch"
+    },
+    {
+      "text": "Sozialleistungen und Umverteilung für Integration nötig",
+      "speaker": "host",
+      "economic": -4,
+      "social": 5,
+      "reasoning": "Sozialstaat-befürwortung mit libertärem Fokus auf Inklusion"
+    },
+    {
+      "text": "Regulierung der Boulevard-Medien durch Mechanismen wie Kampagnen gegen Personen",
+      "speaker": "host",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Implizite Kritik an dereguliertem Mediensystem"
+    },
+    {
+      "text": "Big Tech muss Inhalte moderieren, aber nicht zensieren",
+      "speaker": "host",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Moderate Position zwischen Deregulierung und Kontrolle"
+    },
+    {
+      "text": "Datenschutz und Menschenrechte sind fundamentale Demokratie-Basis",
+      "speaker": "host",
+      "economic": null,
+      "social": 7,
+      "reasoning": "Starker Libertarismus bei Grundrechten"
+    },
+    {
+      "text": "Man muss Rassismus benennen, auch wenn es unbequem ist",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Pro-freie-Rede zur Kritik von Rassismus"
+    },
+    {
+      "text": "Struktureller Rassismus ist normal und in jedem verankert",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritische Gesellschaftsanalyse, aber nicht autoritär"
+    },
+    {
+      "text": "Gegen Extremismus hilft nur Selbstreflexion bei sich selbst entdecken",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Libertärer Fokus auf individuelle Verantwortung"
+    },
+    {
+      "text": "Schweigen gegenüber Rechtsextremisten funktioniert nicht",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Pro-Aktivismus gegen Autoritarismus"
+    },
+    {
+      "text": "Wir brauchen eine neue Vision einer liberalen Demokratie die Menschen besser stellt",
+      "speaker": "host",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Moderate Reformkritik mit sozialem Anspruch"
+    },
+    {
+      "text": "Menschenfeindlichkeit springt von einer Gruppe zur nächsten wenn nicht eingemeindet",
+      "speaker": "host",
+      "economic": -1,
+      "social": 6,
+      "reasoning": "Inklusive, anti-autoritäre Gesellschaftstheorie"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Rassismus ist etwas wofür nur Rassisten verantwortlich sind, nicht die Opfer",
+      "context": "Lobo verteidigt Solidarität mit Betroffenen gegen rassistische Attacken",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die schweigende Mehrheit ist in einer liberalen Demokratie keine Mehrheit",
+      "context": "Zentrale These über Extremismus und Schweigen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Gegenteil von rechtsextrem ist nicht links, sondern demokratisch",
+      "context": "Kritik an Polarisierungslogik in Debatten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn die Debatte eine Rechtsverschiebung bringen konnte, kann sie auch wieder eine Verschiebung ins Menschenfreundliche bewirken",
+      "context": "Hoffnungsvolle Schlussbemerkung zu Debatten-Wirkung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_swgmCZjEfjA",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_swgmCZjEfjA",
+  "date": null,
+  "country": "DE",
+  "word_count": 8164
+}

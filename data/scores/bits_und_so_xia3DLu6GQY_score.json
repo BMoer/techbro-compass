@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.8,
+  "social_score": 0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Mario auf iPhone bringt Nintendo direkt viel Geld ohne eigene Konsole zu produzieren",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unternehmertum, Marktexpansion, Profit-Fokus auf neue Plattformen"
+    },
+    {
+      "text": "Apple hat wahrscheinlich Geld an Nintendo geflossen, um Mario exklusiv im AppStore zu bringen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Transaktionen zwischen Konzernen, pragmatisches Geschäftsdenken"
+    },
+    {
+      "text": "Nintendo kann über Stickerpacks und In-App-Käufe zusätzliche Einnahmen generieren - Lizenz zum Gelddrucken",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Maximierung von Monetarisierung, Geschäftsmodell-Optimierung, Gewinnmaximierung"
+    },
+    {
+      "text": "Nintendo sollte den Mario kostenpflichtig zum Download anbieten, nicht kostenlos mit In-App-Käufen",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Klassisches kommerzielles Verkaufsmodell, Widerstand gegen freemium-Trends"
+    },
+    {
+      "text": "Kunden zahlen bereitwillig 20€+ für Mario auf dem iPhone, weil die Brand so wertvoll ist",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Marktmacht, Preissetzungskompetenz, Brand-Value-Ausnutzung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das ist glaube ich eine Lizenz zum Geld drucken",
+      "context": "Diskussion über Monetarisierungsmöglichkeiten durch Stickerpacks und In-App-Käufe",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Nintendo hat im Grunde ja nur ein Mario Spiel seit 1980 und es verkaufen sie immer und immer wieder",
+      "context": "Kritische Beobachtung zum wiederholten Verkauf derselben IP",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_xia3DLu6GQY",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_xia3DLu6GQY",
+  "date": null,
+  "country": "DE",
+  "word_count": 1550
+}

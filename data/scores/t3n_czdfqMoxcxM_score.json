@@ -1,0 +1,75 @@
+{
+  "economic_score": 1.2,
+  "social_score": 0.4,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Pixelmator kostet 24€ im AppStore statt 45€ - günstige Alternative zu Photoshop",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Befürwortung von Preisreduzierung durch Marktdruck, pragmatisch"
+    },
+    {
+      "text": "Mit Radiergummi-Plugin müssen Freunde 6,99€ zahlen um Fotos zu sehen",
+      "speaker": "host",
+      "economic": 6,
+      "social": -2,
+      "reasoning": "Kritik an Paywall-Modell für Grundfunktionen; leichte Überwachungs-/Kontrollkomponente"
+    },
+    {
+      "text": "Quicky bekam 8 Millionen Dollar - Leute sagen das kann man einfach selbst programmieren",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an überkapitalisierten Startups; implizite Zweifel am Geschäftsmodell"
+    },
+    {
+      "text": "Gute Verkäufer kriegen viel Geld für wenig Arbeit - das sind perfekte Unternehmer",
+      "speaker": "host",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Bewunderung für Unternehmertum und Profitabilität; etwas ironisch gemeint"
+    },
+    {
+      "text": "Mac App Store funktioniert - Pixelmator verdient 1 Million in 20 Tagen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung von App-Store-Ökosystem als funktionierenden Markt"
+    },
+    {
+      "text": "Das Web ist bunt und vielfältig - HTML zeigt das auch mit dem neuen Logo",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Leichte libertäre Würdigung von Vielfalt und Innovation"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn der Ren das unterschreibt, verpflichtet er sich das immer zu sagen - Eigentor Nummer 700",
+      "context": "Diskussion über Unterlassungserklärung der Firma euroWeb gegen nerdcore.de-Blogger",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Gucke dir eine 2-Minuten-Sendung an ohne etwas zu tun - das erzeugt Helden",
+      "context": "Meta-Experiment: Hosts halten sich selbst 2 Minuten lang still",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Meine Mutter muss 6,99€ zahlen um meine fünf Urlaubsfotos zu sehen",
+      "context": "Kritik am Radiergummi-Plugin Geschäftsmodell",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_czdfqMoxcxM",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_czdfqMoxcxM",
+  "date": null,
+  "country": "DE",
+  "word_count": 3420
+}

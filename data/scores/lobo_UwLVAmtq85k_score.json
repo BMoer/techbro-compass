@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.0,
+  "social_score": -2.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.45,
+  "coded_statements": [
+    {
+      "text": "die AFD ist eine Gefahr für unsere Demokratie, sie hetzen gegen geflüchtete Menschen",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Autoritäre Partei wird kritisiert, Schutz von Minderheiten betont"
+    },
+    {
+      "text": "wenn die AFD verboten würde, können sie sich als Opfer darstellen und bekommen mehr Wähler",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Pragmatisches Argument gegen autoritäre Maßnahmen trotz Bedenken"
+    },
+    {
+      "text": "es gibt ein Bündnis von Vereinen und Fachleuten die sagen wir müssen es trotzdem probieren und ein Verbot prüfen um schwächste Gesellschaft zu schützen",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Schutz von Minderheiten vs. Freiheitsrechte abwägend, gemischt autoritär"
+    },
+    {
+      "text": "Astrologie versucht aus den Sternen hokuspokus sich was rauszulesen, nicht zu verwechseln mit Astronomie",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Wissenschaftskritik, nicht politisch tragend"
+    },
+    {
+      "text": "der Barnum-Effekt: in Horoskopen kann jeder was Richtiges für sich entdecken, das was nicht zutrifft blendet man aus",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Psychologische Beobachtung, keine politische Aussage"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "die AFD wird vom Verfassungsschutz beobachtet und die große Frage ist: verstößt sie gegen das Grundgesetz",
+      "context": "Diskussion über mögliches Parteiverbot der AfD in Deutschland",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wenn man ein Drittel der Wählerinnen und Wähler einfach ausschließt, ist das nicht unfair",
+      "context": "Debatte über Konsequenzen eines AfD-Verbots in Ostdeutschland",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_UwLVAmtq85k",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_UwLVAmtq85k",
+  "date": null,
+  "country": "DE",
+  "word_count": 5854
+}

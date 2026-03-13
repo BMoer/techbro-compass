@@ -1,0 +1,82 @@
+{
+  "economic_score": 1.57,
+  "social_score": 2.43,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Startups brauchen strukturelle Unterstützung durch neue Rechtsformen und Steuerfreibeträge",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Fordert staatliche Regulierung und Unterstützung für Startups, aber pragmatisch-zentristisch"
+    },
+    {
+      "text": "Ohne diese strukturellen Maßnahmen ist unser Ökosystem relativ am Arsch, Brain Drain folgt",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik am Marktversagen, fordert aktive wirtschaftspolitische Intervention"
+    },
+    {
+      "text": "Crypto ist langfristig ein sinnvolles Investment, aber nur mit Geld das man verlieren kann",
+      "speaker": "host",
+      "economic": 3,
+      "social": 5,
+      "reasoning": "Befürwortet Marktliberalität, warnt vor Überwachung, betont individuelle Entscheidungsfreiheit"
+    },
+    {
+      "text": "Große institutionelle Investoren manipulieren Krypto-Kurse wie Hedgefonds am Aktienmarkt",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik an Marktmacht-Konzentration, impliziert Regulierungsbedarf gegen Manipulation"
+    },
+    {
+      "text": "Spotify sollte Emotionserkennung nicht implementieren, da es menschliches Wachstum behindert",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Anti-Intervention, schützt Autonomie und persönliche Entwicklung vor Algorithmen-Paternalismus"
+    },
+    {
+      "text": "Twitter Premium-Subscriptions sind gut, weil Abo-Modelle bessere Anreize als Werbung schaffen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Befürwortet alternative Geschäftsmodelle, freier Markt statt Werbung"
+    },
+    {
+      "text": "Trade Republic ist Monster-Finanzierung wert, weil es Fintech-Innovation für Massen ermöglicht",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Befürwortet Unternehmertum und Marktinnovation, deregulierte Fintech-Plattformen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn diese Sachen nicht bald kommen, ist unser Ökosystem relativ am Arsch",
+      "context": "Forderung nach strukturellen Startup-Reformen in Österreich",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Crypto investiert bitte nur etwas, was du bereit bis zu 100% zu verlieren",
+      "context": "Warnung vor Risiken bei Krypto-Investments nach Elon Musk Pump & Dump",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich glaube, Algorithmen zerstören Serendipity und damit echtes emotionales Wachstum",
+      "context": "Kritik an Spotify Emotionserkennung-Technologie",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_Pzpxn_-RysY",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_Pzpxn_-RysY",
+  "date": null,
+  "country": "AT",
+  "word_count": 7723
+}

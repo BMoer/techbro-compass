@@ -1,0 +1,82 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.5,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "iPhone für 2€ pro Tag nutzen ist fantastisches Preisleistungsverhältnis",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Konsumfreundliche Haltung, Rechtfertigung von Massenkonsum"
+    },
+    {
+      "text": "Soziale Medien & digitale Services sind billiger als Kaffee pro Nutzungsstunde",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Konsum-Argumentation, Marktlogik akzeptierend"
+    },
+    {
+      "text": "Erste Jahr hat beim Auto größten Wertverlusst, wie bei iPhones",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale ökonomische Beobachtung ohne Wertung"
+    },
+    {
+      "text": "Celebrite Geräte landen auf eBay, Datenschutz bei Kundendaten problematisch",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an Datensicherheit, Privatsphärensorge"
+    },
+    {
+      "text": "Dieses Update-in-der-Verpackung Maschine ist sketchy & technisch falsch",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an Remote-Aktivierung von Geräten, Sicherheitsbedenken"
+    },
+    {
+      "text": "Apple Case für 50-60€ ist witzig, Beats Hüllen hässlich wegen Branding",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritik an Preisgestaltung & kommerziellem Design, skeptisch"
+    },
+    {
+      "text": "Hüllenkauf sollte man aufschieben, bis klar ist ob Cutouts funktionieren",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Konsumerrationales Verhalten, pragmatisch-kritisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das Telefon benutzt du 16 Stunden am Tag für 2€ - fantastisches Preisleistungsverhältnis",
+      "context": "Rechtfertigung von iPhone-Kaufimpuls durch mathematische Herunterrechnung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Update-Gerät hat magische Bits oder NFC-Stein der Telefone aufweckt",
+      "context": "Ironische/skeptische Erklärung von Apple's Logistik-Automatisierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Bei Series 4 Watch geben sie noch 35€ zurück, ist halt wirklich durch jetzt",
+      "context": "Resignierte Akzeptanz des Tech-Wertverfalls bei Altgeräten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_B5y1ndAlZ1M",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_B5y1ndAlZ1M",
+  "date": null,
+  "country": "DE",
+  "word_count": 4388
+}

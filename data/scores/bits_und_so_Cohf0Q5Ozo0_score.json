@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.2,
+  "social_score": 1.4,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Das Ding kostet etwa 100 Euro, aber ich brauche es eigentlich nicht",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Pragmatische Kostenabwägung, keine ideologische Position"
+    },
+    {
+      "text": "Ich kaufe mir das nicht, weil ich es nicht brauche - Konsumentische Autonomie",
+      "speaker": "host",
+      "economic": 2,
+      "social": 2,
+      "reasoning": "Leichte freie Marktlogik: Verbraucher entscheidet frei ohne staatliche Einmischung"
+    },
+    {
+      "text": "Die Aquare Software war relativ gruselig, weiß nicht wie das zusammenspielt",
+      "speaker": "host",
+      "economic": -1,
+      "social": 1,
+      "reasoning": "Kritik an Herstellerverhalten (Meta-Integration), leichte Datenschutzsensibilität"
+    },
+    {
+      "text": "Das ist der Anfang von etwas Coolem, aber irgendwie auch sinnlos - Spielerei",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Technologische Skepsis ohne ökonomische oder gesellschaftliche Wertung"
+    },
+    {
+      "text": "Vielleicht melden sich Hörer mit echtem Anwendungsfall - crowdsourced Problemlösung",
+      "speaker": "host",
+      "economic": 1,
+      "social": 3,
+      "reasoning": "Offene Kollaborativität, dezentrales Wissen, leicht libertär (Community over Corporate)"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ich stelle mir das cool vor, wenn dein Haus wirklich live auf dich reagiert",
+      "context": "Enthusiasmus für personalisierte Smart-Home-Automatisierung",
+      "quiz_suitable": false
+    },
+    {
+      "text": "Das Alleinstellungsmerkmal ist, dass er sehr präzise Zonen aufteilt",
+      "context": "Technische Differenzierung des Produkts gegenüber primitiven Bewegungsmeldern",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "bits_und_so_Cohf0Q5Ozo0",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_Cohf0Q5Ozo0",
+  "date": null,
+  "country": "DE",
+  "word_count": 1324
+}

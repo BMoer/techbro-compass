@@ -1,0 +1,108 @@
+{
+  "economic_score": -1.4,
+  "social_score": -2.0,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Artikel 146 Grundgesetz: Das Grundgesetz verliert Geltung, wenn sich eine Verfassung gibt.",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Verfassungspluralismus, rechtliche Alternative zulassen"
+    },
+    {
+      "text": "Die Leute verlassen sich auf mein Wort. Wenn ich sage, ich lass dich nicht im Regen stehen, dann ist das so.",
+      "speaker": "guest",
+      "economic": -3,
+      "social": -6,
+      "reasoning": "Charismatische Autorität > Rechtsschutz, Vermischung von Personen- und Vermögenswerten"
+    },
+    {
+      "text": "Wenn man wirkliche Veränderungen hervorbringen will, schnell und effizient, dann muss es starke Männer geben.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Autoritärer Führerkult, Ablehnung von demokratischen Strukturen"
+    },
+    {
+      "text": "Peter Fitzek merkt immer, wenn er Ratia hat, was habe ich falsch gemacht und kann ich besser machen.",
+      "speaker": "host",
+      "economic": -4,
+      "social": -8,
+      "reasoning": "Strategische Verschleierung von Geldströmen, konspirative Finanzstrukturen"
+    },
+    {
+      "text": "Die Verwendung der Mittel liegt vollständig im freien Ermessen des Kapitalempfängers.",
+      "speaker": "guest",
+      "economic": -8,
+      "social": -9,
+      "reasoning": "Totalitäre Kontrolle über Vermögen, keine Rechtssicherheit, Totalverlust akzeptieren"
+    },
+    {
+      "text": "Der Staat hat eine gewisse Sorgfaltspflicht für seine Untergebenen. Das ist Teil des Bankenschutzes.",
+      "speaker": "host",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Regulierungsbefürwortung zum Schutz vor Privatbetrug, staatliche Intervention"
+    },
+    {
+      "text": "Diese Miet- und Pachtvariante ist die beste, weil die Polizei keine Möglichkeit des Eingriffs mehr hat.",
+      "speaker": "guest",
+      "economic": -5,
+      "social": -8,
+      "reasoning": "Bewusste Umgehung staatlicher Autorität, Strukturen gegen Rechtsschutz"
+    },
+    {
+      "text": "Ich glaube, Peter Fitzek wird radikaler. Vielleicht nimmt er irgendwann Waffengewalt.",
+      "speaker": "host",
+      "economic": null,
+      "social": -9,
+      "reasoning": "Warnung vor Eskalation zu Gewalt, totalitäres Eskalationspotenzial"
+    },
+    {
+      "text": "Die Leute geben nicht Peter Fitzek die Schuld, sondern der Bundesrepublik Deutschland.",
+      "speaker": "host",
+      "economic": -6,
+      "social": -5,
+      "reasoning": "Ideologische Umkehrung von Schuldzuweisung, Anti-Staatlichkeit"
+    },
+    {
+      "text": "Es gibt verschiedene Vereine, wo nicht sofort Königreich Deutschland drin steht, sondern Gemeinwohl.",
+      "speaker": "host",
+      "economic": -7,
+      "social": -8,
+      "reasoning": "Strukturelle Verschleierung, organisierte kriminelle Finanzstrukturen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn man wirkliche Veränderungen will, braucht es starke Männer, nicht lauter Vollidioten.",
+      "context": "Anhänger rechtfertigt Anschluss ans Königreich mit Sehnsucht nach starker Führung.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Verwendung der Mittel liegt vollständig im freien Ermessen des Kapitalempfängers. Totalverlust in Kauf nehmen.",
+      "context": "Kapitalüberlassungsvertrag verschleiert totale Kontrolle und fehlende Rechtssicherheit.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Corona hat dem König eine Auferstehung beschert. Leute suchten Alternative zur Coronadiktatur der BRD.",
+      "context": "Pandemie als Rekrutierungsmotor für Reichsbürger-Staat.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Peter Fitzeck wird nie aufhören. Wenn er rauskommt, wird er radikaler sein.",
+      "context": "Host prognostiziert Eskalation nach Verbot und möglicher Inhaftierung.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_--RpMTrd788",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_--RpMTrd788",
+  "date": null,
+  "country": "DE",
+  "word_count": 8810
+}

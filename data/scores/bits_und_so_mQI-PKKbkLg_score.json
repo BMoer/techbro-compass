@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.45,
+  "coded_statements": [
+    {
+      "text": "Es wurde irgendwann unwirtschaftlich, immer wieder die Seite aufzurufen - günstiger die Uhr zu kaufen",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Rationalökonomisches Kosten-Nutzen-Denken, pragmatische Marktwirtschaft"
+    },
+    {
+      "text": "Apple bietet die Option, die Krone links oder rechts zu tragen - es gibt kein richtig oder falsch",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Betonung individueller Wahlfreiheit und Flexibilität ohne Bevormundung"
+    },
+    {
+      "text": "Das Laden ist kein Problem - mit Frühstückstrick schnell genug aufgeladen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatische Zufriedenheit mit Effizienz und praktischer Lösung"
+    },
+    {
+      "text": "Mapping, Navigation und Trainingsintegration sind praktisch unmöglich ohne immense Umwege",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an künstlichen Beschränkungen und geschlossenem Ökosystem, fehlendem offenen Zugang"
+    },
+    {
+      "text": "Die Apple Watch ist ein wichtiger Bestandteil meines Alltags und macht vieles besser",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Konsumeristische Zufriedenheit mit proprietärer Technologie und Markenloyalität"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Irgendwann war der Zeitpunkt erreicht, da war es einfach günstiger eine zu kaufen",
+      "context": "Entscheidungsprozess für Apple Watch Ultra Kauf nach Wochen des Zauderns",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es ist lächerlich im Kinderpool, drei Sekunden schwimmen in ein Meter Tiefe",
+      "context": "Humorvolle Kritik an der praktischen Nutzlosigkeit von Tiefenmessungen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_mQI-PKKbkLg",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_mQI-PKKbkLg",
+  "date": null,
+  "country": "DE",
+  "word_count": 3572
+}

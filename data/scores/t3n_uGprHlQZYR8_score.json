@@ -1,0 +1,63 @@
+{
+  "economic_score": -1.2,
+  "social_score": 3.6,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Sicherheitsrücklagen sollten mindestens drei Nettomonatsgehälter betragen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Staatliche Finanzberatung, soziales Sicherheitsdenken"
+    },
+    {
+      "text": "KI-Tools nutzen urheberrechtlich geschützte Werke ohne Erlaubnis als Trainingsdaten",
+      "speaker": "host",
+      "economic": -4,
+      "social": 6,
+      "reasoning": "Kritik an Tech-Großkonzernen, Schutz individueller Rechte/Datenschutz"
+    },
+    {
+      "text": "Amazon bevorzugt eigene Produkte in der Buy-Box antikonkurrenzwidrig",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik an Marktmacht, Regulierungsforderung impiziert"
+    },
+    {
+      "text": "Microsoft räumt falsch konfigurierte Sicherheit ein und behebt das Problem",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Datenschutz-Thematik, aber eher neutral/faktisch dargestellt"
+    },
+    {
+      "text": "Agrivoltaik ermöglicht simultane Nutzung für Landwirtschaft und Solarenergie",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Tech-Lösung, weder links noch rechts positioniert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "KI-Tools nutzen Millionen von Werken ohne die Künstler zu fragen",
+      "context": "Debatte um Copyright-Verletzungen bei generativer KI-Training",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Amazon verstoße mit geheimen Algorithmen gegen Wettbewerbsrecht",
+      "context": "Milliardenklage gegen Amazon wegen Bevorzugung von Eigenmarken",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_uGprHlQZYR8",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_uGprHlQZYR8",
+  "date": null,
+  "country": "DE",
+  "word_count": 984
+}

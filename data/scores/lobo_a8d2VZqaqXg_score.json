@@ -1,0 +1,75 @@
+{
+  "economic_score": 0,
+  "social_score": -1.67,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Medien folgen der Dramaturgie eines Films statt Wirklichkeit abzubilden",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kritik an Medienkontrolle und verzerrter Narrativbildung"
+    },
+    {
+      "text": "Die Wirklichkeit ist nicht Netflix - es gibt viele graue Zonen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Anti-manipulative Haltung, für unverfälschte Informationen"
+    },
+    {
+      "text": "Minenräumer sind Individualisten, jeder kann widersprechen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Dezentrale, Non-hierarchische Strukturen werden positiv dargestellt"
+    },
+    {
+      "text": "Russland legt Minen breitflächig ohne Räumplan an",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an zerstörerischer autoritärer Kriegsführung"
+    },
+    {
+      "text": "Bauern sollen auf verminten Feldern wirtschaften - irrational zerstörerisch",
+      "speaker": "host",
+      "economic": -3,
+      "social": -3,
+      "reasoning": "Kritik an destruktiver Wirtschaftspolitik und staatlicher Missachtung von Zivilisten"
+    },
+    {
+      "text": "Es ist ein reines Zeitschinden - Hoffnung auf Trump-Wahlsieg",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Zynische Haltung zur politischen Machtkalkulation und Destabilisierung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Es gibt mutige Minenräumer und es gibt alte Minenräumer",
+      "context": "Ukrainischer Offizier erklärt, dass bei diesem Job Fehler tödlich sind",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Wirklichkeit ist nicht Netflix",
+      "context": "Kritik an dramaturgischer Medienberichterstattung über die Ukraine-Offensive",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Tödliche Empathie - was denken die anderen, wie würde ich vorgehen",
+      "context": "Minenräumer müssen Logik des Gegners antizipieren",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_a8d2VZqaqXg",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_a8d2VZqaqXg",
+  "date": null,
+  "country": "DE",
+  "word_count": 6566
+}

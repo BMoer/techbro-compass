@@ -1,0 +1,143 @@
+{
+  "economic_score": -3.4,
+  "social_score": 1.2,
+  "n_coded": 15,
+  "insufficient_data": false,
+  "confidence": 0.82,
+  "coded_statements": [
+    {
+      "text": "Erlass aller Mietschulden aus der Coronapandemie, Stopp von Zwangsräumungen, dauerhafte Deckelung aller Mieten",
+      "speaker": "host",
+      "economic": -8,
+      "social": 2,
+      "reasoning": "Radikale Umverteilung, Mietpreiskontrolle, aber mit Fokus auf soziale Gerechtigkeit"
+    },
+    {
+      "text": "Der Mietendeckel hat Mieten gesenkt für Hunderttausende Wohnungen nach strikter Preistabelle",
+      "speaker": "host",
+      "economic": -7,
+      "social": 1,
+      "reasoning": "Staatliche Preisregulierung ohne Marktkräfte, aber fragmentarisch wirksam"
+    },
+    {
+      "text": "Private Vermieter in Darlehensverflichtung mussten bis zu 40% Mieten absenken",
+      "speaker": "guest",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik an ökonomischen Lasten durch Regulierung für kleine Vermietherinnen"
+    },
+    {
+      "text": "Der Mietendeckel hat das Angebot extrem verknappt, Inserate sind zurückgegangen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Kritik: Regulierung führt zu Angebotsverknappung"
+    },
+    {
+      "text": "Es muss flankierend zu Wohnungsbau durchaus eine Mietenregulierung geben",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Pragmatische Position: Regulierung + Marktlösung kombiniert"
+    },
+    {
+      "text": "Hamburg hat 2011 ein Bündnis zwischen Stadt und Wohnungswirtschaft geschaffen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Marktkompromiss: schnelle Genehmigungen, dafür 1/3 Sozialwohnungen"
+    },
+    {
+      "text": "Wir wollen große Konzerne enteignen und Wohnungen sozial-demokratisch verwalten",
+      "speaker": "guest",
+      "economic": -9,
+      "social": 1,
+      "reasoning": "Vergesellschaftung, Verbrauch von Marktmacht, radikale Umverteilung"
+    },
+    {
+      "text": "Enteignung schafft keine einzige neue Wohnung auf dem Markt",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Marktkritik: Umverteilungsmaßnahme ohne Angebotsausweitung"
+    },
+    {
+      "text": "Die Beweislast bei Mietpreisbremse sollte umgedreht werden auf Vermieter",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Regulierung mit Verbraucherschutz, verschiebt Lasten zu Vermietenden"
+    },
+    {
+      "text": "Mietspiegel sollten reformiert werden für bessere Datenlage und Transparenz",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 2,
+      "reasoning": "Informationsasymmetrie-Abbau als Regulierungsinstrument"
+    },
+    {
+      "text": "SPD spricht sich für Mietenmoratorium aus, nur Inflationsausgleich erlaubt",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Moderate Mietpreisregulierung, pragmatisch"
+    },
+    {
+      "text": "Die Linken wollen den Mietendeckel bundesweit zur Norm erheben",
+      "speaker": "host",
+      "economic": -8,
+      "social": null,
+      "reasoning": "Radikale, flächendeckende Preisregulierung"
+    },
+    {
+      "text": "Eigentum soll dem Wohle der Allgemeinheit dienen laut Grundgesetz",
+      "speaker": "guest",
+      "economic": -6,
+      "social": 2,
+      "reasoning": "Sozialpflichtigkeit von Eigentum, kollektive Interessenabwägung"
+    },
+    {
+      "text": "Jahrelange teure Rechtsstreitigkeiten würden Enteignung folgen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Skeptisches Marktargument gegen Enteignungsmaßnahmen"
+    },
+    {
+      "text": "Der Anteil überbelasteter Mieter steigt von Jahr zu Jahr kontinuierlich",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Dokumentation sozialer Ungerechtigkeit, begründet Regulierungsbedarf"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Eigentum soll dem Wohle der Allgemeinheit dienen - das steht auch im Grundgesetz",
+      "context": "Debatte über Enteignung von Immobilienkonzernen und Sozialpflichtigkeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Mietendeckel hat die Mieten gesenkt, aber nur für einige wenige - vor allem bessere Verdienende",
+      "context": "Analyse der Ungleichheitswirkung des Mietendeckels",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Bauen allein kann nicht die Lösung sein",
+      "context": "Gegenposition zur These, dass nur Neubau Wohnungskrise löst",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir wollen diese Wohnungen in öffentlichen Besitz bringen mit sozialer Zielsetzung",
+      "context": "Kernforderung der Enteignungsinitiative",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_Rkt4kK_OTI4",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_Rkt4kK_OTI4",
+  "date": null,
+  "country": "DE",
+  "word_count": 5901
+}

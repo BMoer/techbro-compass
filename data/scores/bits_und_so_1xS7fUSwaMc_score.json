@@ -1,0 +1,70 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Apple hätte die technische Dokumentation zeitgleich mit dem Produktstart veröffentlichen sollen",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Fordert Transparenz und Informationszugang, kritisiert fehlende Offenlegung"
+    },
+    {
+      "text": "Die After-Burner-Karte ist eine proprietäre Einschränkung, die auch in älteren Mac Pro Modellen funktionieren würde",
+      "speaker": "host",
+      "economic": -4,
+      "social": 2,
+      "reasoning": "Kritisiert künstliche Limitation eines Produkts; Transparenzmangel bei Hardware-Spezifikationen"
+    },
+    {
+      "text": "Der Mac Pro kann Dinge, die kein anderer Rechner stemmen kann - das ist fein für den Nutzer",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Würdigt technologische Leistung und Nutzen; leicht marktorientierte Perspektive"
+    },
+    {
+      "text": "Apple sollte technische Dokumentation bereits vor oder bei Marktstart verfügbar machen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Fordert Informationstransparenz und Verbraucherschutz vor Kaufentscheidung"
+    },
+    {
+      "text": "Die Security Whitepapers kommen oft verzögert raus - das braucht Anwälte und dauert Wochen bis Monate",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Akzeptiert mit leichter Kritik Regulierung/Compliance-Verzögerungen; leicht autoritär"
+    },
+    {
+      "text": "Es ist verrückt, dass Apple nicht einfach ein Pages-Dokument während der Entwicklung erstellen kann",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Kritisiert ineffiziente interne Prozesse bei großem Unternehmen; Effienz- vs. Transparenzperspektive gemischt"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wie schwer kann es denn sein ein verdammtes Pages-Dokument aufzumachen, während man das Ding baut?",
+      "context": "Kritik an der verzögerten technischen Dokumentation des Mac Pro",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die After-Burner funktioniert auch in älteren Mac Pros - da gibt es keinen technischen Grund für die Sperre",
+      "context": "Kritik an Apple-Restriktionen bei Hardware-Kompatibilität",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_1xS7fUSwaMc",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_1xS7fUSwaMc",
+  "date": null,
+  "country": "DE",
+  "word_count": 1943
+}

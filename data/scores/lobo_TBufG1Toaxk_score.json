@@ -1,0 +1,122 @@
+{
+  "economic_score": -0.6,
+  "social_score": -1.4,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wehrpflicht war Fehler, Aussetzen 2011 war richtig wegen Gleichheitsgrundsatz",
+      "speaker": "guest",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Verfassungsrechtliche Begründung, nicht ökonomisch oder autoritär"
+    },
+    {
+      "text": "Bundeswehr braucht Spezialisierte Fachkräfte, konkurriert mit freier Wirtschaft",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatischer Arbeitsmarktansatz, weder links noch rechts"
+    },
+    {
+      "text": "Schwedisches Modell: Musterungspflicht light, gezieltes Ansprechen statt Zwang",
+      "speaker": "guest",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Light-Regulierung mit staatlicher Lenkung, nicht libertär"
+    },
+    {
+      "text": "Soldaten haben Tapferkeitspflicht, können nicht einfach kündigen wie in Wirtschaft",
+      "speaker": "guest",
+      "economic": -3,
+      "social": -4,
+      "reasoning": "Betont staatliche Verpflichtung, Pflicht vor Freiheit"
+    },
+    {
+      "text": "Social Media Influencer-Strategien bergen Extremismusrisiken, brauchen Schulung",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Sicherheitsbedenken und Kontrolle von Kommunikation"
+    },
+    {
+      "text": "Wehrpflicht wäre hochkomplex: volkswirtschaftlich, organisatorisch, finanziell",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an staatlichen Großmaßnahmen, pragmatische Skepsis"
+    },
+    {
+      "text": "Bundeswehr muss an Schulen werben um Nachwuchs zu gewinnen",
+      "speaker": "host",
+      "economic": 0,
+      "social": -2,
+      "reasoning": "Staatliche Rekrutierungsstrategie in Schulen, leicht autoritär"
+    },
+    {
+      "text": "Interesse für Bundeswehr ist seit Ukraine-Krieg gestiegen, aber weniger Bewerbungen",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Faktische Beobachtung, keine meinungstragend"
+    },
+    {
+      "text": "Personalgewinnungsprämien sind gute pragmatische Maßnahme zur Rekrutierung",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Marktmechanismus (Prämien) statt Pflicht, leicht marktwirtschaftlich"
+    },
+    {
+      "text": "Guerilla-Marketing durch Q-Truck war gewinnbringend, sollte mehr Provokation sein",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 1,
+      "reasoning": "Unkonventionelle Marktstrategie, Anti-Establishment-Ansatz"
+    },
+    {
+      "text": "Wehrpflicht ist Scheindiskussion, wird aus politischen Gründen vorgebracht",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an politischer Manipulation, skeptisch gegenüber Staat"
+    },
+    {
+      "text": "Bundeswehr braucht nur paar tausend mehr Bewerber, nicht hunderttausende",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Ressourcenanalyse, rational-ökonomisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Soldaten haben eine Tapferkeitspflicht - das ist einzige Berufsfeld mit Pflicht zum Einsatz des eigenen Lebens",
+      "context": "Unterschied zwischen Bundeswehr und privatem Arbeitgeber",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wehrpflicht ist eine Scheindiskussion, die aus politischen Gründen vorgebracht wird",
+      "context": "Kritik an Verteidigungsminister Pistorius und der Debatte",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Bundeswehr braucht nicht Panzergrenadiere, sondern IT-Fachkräfte - und da konkurriert sie mit der freien Wirtschaft",
+      "context": "Analyse des echten Fachkräftemangels",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Schweden zeigt: Musterungspflicht light funktioniert besser als volle Wehrpflicht",
+      "context": "Diskussion über Alternativen zur klassischen Wehrpflicht",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_TBufG1Toaxk",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_TBufG1Toaxk",
+  "date": null,
+  "country": "DE",
+  "word_count": 6592
+}

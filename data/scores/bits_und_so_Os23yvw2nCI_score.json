@@ -1,0 +1,63 @@
+{
+  "economic_score": -1.6,
+  "social_score": -0.4,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.45,
+  "coded_statements": [
+    {
+      "text": "Regulierungsbehörden wirken unbeholfen, haben gute Ambitionen aber verstehen nicht wie App Stores funktionieren",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an staatlicher Überregulierung von Tech-Märkten ohne ausreichende Sachkunde"
+    },
+    {
+      "text": "Das Apple App Store Problem ist nicht der Gratis-Button, sondern die grundsätzliche Gestaltung",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritik an zu oberflächlichen regulatorischen Eingriffen statt systematischer Marktgestaltung"
+    },
+    {
+      "text": "Bei kostenlosen Apps mit Werbung: Eigentlich ist es gut, wenn nicht 'gratis' draufsteht, weil jemand immer bezahlt",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Forderung nach transparenter Kennzeichnung gegen irreführende Marketing; pro-Regulierung für Verbraucherschutz"
+    },
+    {
+      "text": "Wenn Eltern Gratis-Apps freigeben müssen: Das ist sinnvoll, damit man ablehnen kann wenn Kinder Kim Kardashian-Apps installieren",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Befürwortung von parental controls und Überwachungsmechanismen für Kindenschutz"
+    },
+    {
+      "text": "Google und Apple machen diese Änderungen nicht freiwillig, sondern widerwillig unter Druck - daher lieblos umgesetzt",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritik, dass Konzerne nur unter regulatorischem Druck kooperieren; implizit pro-stärkere Regulierung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Manche Vorgehen von staatlicher Seite wirken sehr unbeholfen - die haben nicht kapiert wie das funktioniert",
+      "context": "Host kritisiert regulatorische Eingriffe in App-Store-Praktiken als uninformiert",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Bei kostenlosen Apps mit Werbung: Eigentlich ist es gut wenn nicht Gratis draufsteht, weil irgendwer bezahlt immer",
+      "context": "Diskussion über transparente Kennzeichnung von vermeintlich kostenlosen Diensten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_Os23yvw2nCI",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_Os23yvw2nCI",
+  "date": null,
+  "country": "DE",
+  "word_count": 1695
+}

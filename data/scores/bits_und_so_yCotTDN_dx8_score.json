@@ -1,0 +1,90 @@
+{
+  "economic_score": 0.8,
+  "social_score": 1.6,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Apple hat sich bislang mit Privacy gut raushalten können, weil Werbung nicht der Fokus ist",
+      "speaker": "host",
+      "economic": 0,
+      "social": 4,
+      "reasoning": "Bevorzugt Privacy-fokussierte Geschäftsmodelle gegenüber Daten-Monetarisierung"
+    },
+    {
+      "text": "Google macht sich seine Suchergebnisse kaputt mit schlechten AI statt Links anzubieten",
+      "speaker": "host",
+      "economic": -3,
+      "social": 0,
+      "reasoning": "Kritik an Marktverzerrung durch unzureichende Regulierung/Qualitätskontrolle"
+    },
+    {
+      "text": "Lokale Modelle taugen nichts, du kannst nur super wenig lokal machen",
+      "speaker": "host",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Technische Bewertung ohne politische Aussage"
+    },
+    {
+      "text": "Apple könnte morgen ankündigen, HomePod fragt ChatGPT für Weltwissen",
+      "speaker": "host",
+      "economic": 2,
+      "social": 0,
+      "reasoning": "Befürwortung von Geschäftspartnerschaften/Marktlösungen"
+    },
+    {
+      "text": "Diese Werbe-Fernseher sind bescheuert aber werden Realität - Werbung ist das Business",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Kritik an Geschäftsmodellen, die Verbraucher negativ beeinflussen"
+    },
+    {
+      "text": "Gemini in Google-Suche ist ein Skalierungsproblem, nicht echte KI-Integration",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 0,
+      "reasoning": "Implizite Kritik an mangelnder Regulierung von Skalierungspraktiken"
+    },
+    {
+      "text": "Open AI ist eine Geldverbrennungsmaschine, alles egal, 47 Milliarden einsammeln",
+      "speaker": "host",
+      "economic": -4,
+      "social": 0,
+      "reasoning": "Kritik an unsustainablem Kapitalismus und Marktdynamiken",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Apple Intelligence Sprachmix-Restriktion ist bescheuert für multilinguale Nutzer",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Kritik an Nutzerrechten/Freiheit, nicht technische Restriktion akzeptabel"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Open AI ist eine Geldverbrennungsmaschine, 47 Milliarden einsammeln, whatever",
+      "context": "Diskussion über teure KI-Infrastruktur und fragwürdige Business-Modelle",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Google macht sich seine Suchergebnisse kaputt mit schlechten AI statt Links zu zeigen",
+      "context": "Kritik an Googles AI-Integration die relevante Informationen verschlechtert",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Verschwörungstheorien werden Realität - Fernseher pushen einfach von alleine Werbung",
+      "context": "Beobachtung zur Konvergenz von dystopischen Szenarien und tatsächlichen Markttrends",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_yCotTDN_dx8",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_yCotTDN_dx8",
+  "date": null,
+  "country": "DE",
+  "word_count": 5061
+}

@@ -1,0 +1,82 @@
+{
+  "economic_score": 1.4,
+  "social_score": 0.8,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, pro-Deregulierung Position"
+    },
+    {
+      "text": "Speicherstufen sind merkwürdige Preisgestaltung, Apple könnte 32GB für 149€ anbieten",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Gewinnmaximierung durch künstliche Differenzierung"
+    },
+    {
+      "text": "Wenn Leute Gummibänder für 70€ kaufen wollen, geben wir ihnen Gummibänder für 70€",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Haltung: Nachfrage bestimmt Angebot"
+    },
+    {
+      "text": "Das JavaScript/XML-Modell ermöglicht es mehr Entwicklern Apps zu bauen",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Demokratisierung von Entwicklung durch zugängliche Technologie"
+    },
+    {
+      "text": "WebViews fehlen, was schäbige HTML5-Apps verhindert",
+      "speaker": "host",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Qualitätskontrolle über technische Beschränkung"
+    },
+    {
+      "text": "App Store auf Fire TV ist ein Müllhaufen, hunderte identische Apps",
+      "speaker": "host",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Kritik an fehlender Kurierung und Spam im offenen Ökosystem"
+    },
+    {
+      "text": "Pond5 zahlt Künstlern faire Auszahlungsraten aus",
+      "speaker": "host",
+      "economic": -4,
+      "social": 4,
+      "reasoning": "Befürwortung fairer Kompensation für Content-Creator"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das ist so ein nicht-Apple-Move: Du musst dir im Vorfeld überlegen wie viel Speicher du brauchst",
+      "context": "Kritik an der verwirrenden 32GB vs. 64GB Apple-TV-Strategie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn Leute Gummibänder für 70€ kaufen wollen: dann geben wir ihnen Gummibänder für 70€",
+      "context": "Philosophie zu Zubehör-Preisgestaltung bei der Apple Watch",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Fire TV App Store ist ein Müllhaufen - einer hat 400 Apps mit dem gleichen Text reingekippt",
+      "context": "Vergleich: Warum Apples kurierte App-Strategie besser ist als offene Modelle",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_40-Ye3izExA",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_40-Ye3izExA",
+  "date": null,
+  "country": "DE",
+  "word_count": 15072
+}

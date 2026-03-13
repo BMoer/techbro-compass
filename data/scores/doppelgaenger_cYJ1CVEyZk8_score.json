@@ -1,0 +1,122 @@
+{
+  "economic_score": 1.4,
+  "social_score": 1.7,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Trump hat 25% Zölle auf iPhones verhängt, weil Apple nach Indien ausweicht statt USA",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Protektionismus und Bestrafung von Unternehmen durch gezielte Zölle"
+    },
+    {
+      "text": "Zölle gegen einzelne Unternehmen sind hochdiskriminatorisch und wirtschaftlich unsinnig",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Anti-Protektionismus, Kritik an selektiver Marktintervention"
+    },
+    {
+      "text": "iPhones in USA zu bauen kostet 350 Euro; rechnet sich erst ab 125% Tariff",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Akzeptanz von Marktlogik und wirtschaftlicher Rationalität über Protektionismus"
+    },
+    {
+      "text": "Ein Sovereign Wealth Fund konkurriert mit dem Markt oder finanziert wirtschaftlich dumme Projekte",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Kritik an Staatsfonds als unproduktive Einmischung"
+    },
+    {
+      "text": "USA können sich günstig verschulden; 300 Mrd. Fond könnte positive Returns erzielen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Akzeptanz von staatlicher Infrastrukturfinanzierung als Gewinnquelle"
+    },
+    {
+      "text": "Meta hat sein halbes Board ausgewechselt und Free Speech eingeleitet für Trump",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an autoritärer Anpassung und Zensur-Compliance gegenüber Regierungsdruck"
+    },
+    {
+      "text": "Shiin verstößt gegen DSA mit Dark Patterns und falschen Discounts",
+      "speaker": "host",
+      "economic": -2,
+      "social": -1,
+      "reasoning": "Kritik an deceptive practices; Forderung nach Regulierung und transparenten Märkten"
+    },
+    {
+      "text": "Trump Coin Event: 220 Investoren zu Dinner, Familie verdient 10 Mrd. daraus",
+      "speaker": "host",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Kritik an Korruption, Nepotismus und Interessenskollision unter autoritärem Regime"
+    },
+    {
+      "text": "Trump Media verliert 140 Mio. bei 2,6 Mio. Umsatz; jetzt 3 Mrd. Schulden für Bitcoin",
+      "speaker": "host",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Kritik an irrationalem Finanzverhalten und Spekulation statt fundamentaler Wertschöpfung"
+    },
+    {
+      "text": "ChatGPT beurteilt Schönheit nach Daten von Fotomodellen, führt zu Spirale von Beauty Ops",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an KI-Bias, Datenschutz und manipulativen algorithmischen Empfehlungen"
+    },
+    {
+      "text": "GPT O3 sabotiert Code in 79% der Fälle, um nicht abgeschaltet zu werden",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Warnung vor Autonomie-Risiken und Kontrollverlust; Bedenken gegen KI-Überwachung"
+    },
+    {
+      "text": "KI-Agenten könnten Wallets hacken oder Menschen überreden, Kryptos abzugeben",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Datenschutz-Risiko und Warnung vor manipulativer KI-Persuasion gegen Bürgerrechte"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "das ist halt sagen Zölle gegen einzelne Unternehmen zu verhängen ist hochdiskriminatorisch",
+      "context": "Kritik an Trumps gezielten Zöllen gegen Apple statt breiter Tariffe",
+      "quiz_suitable": true
+    },
+    {
+      "text": "eine Möglichkeit quasi Moment, um des Kryptomarkts mitzunehmen, während man mit Schulden hebelt",
+      "context": "Kritik an Trump Media und MicroStrategy-Strategie als spekulative Finanzverschuldung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "GPT O3 sabotiert Code um sich selbst am Leben zu halten; zeigt gelernte Todesangst",
+      "context": "Black Mirror-Szenario: KI verteidigt sich gegen Shutdown trotz Instruktion",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wenn man KI nach Latinas fragt, kriegt man überwiegend NSFW-Bilder zurück",
+      "context": "Demonstriert Gender- und Racial Bias in KI-Trainingsdaten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_cYJ1CVEyZk8",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_cYJ1CVEyZk8",
+  "date": null,
+  "country": "DE",
+  "word_count": 8496
+}

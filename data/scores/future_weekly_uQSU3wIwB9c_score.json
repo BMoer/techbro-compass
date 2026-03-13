@@ -1,0 +1,113 @@
+{
+  "economic_score": 1.4,
+  "social_score": 2.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Sebastian Kurz nutzt politisches Netzwerk als Co-Founder für Israeli Cyber-Security-Startup",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unternehmertum, Kapitalisierung von Kontakten, pragmatischer Kapitalismus"
+    },
+    {
+      "text": "Privatwirtschaft und Innovation besser als Lobbying für dubiose ausländische Regime",
+      "speaker": "host",
+      "economic": 5,
+      "social": 3,
+      "reasoning": "Pro-Unternehmertum, ethische Orientierung, kritisch gegenüber korrupten Praktiken"
+    },
+    {
+      "text": "Europa reguliert sich zu Tode, muss schneller und flexibler werden in Strukturen",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Anti-Regulierung, Deregulierungsforderung, Kritik an EU-Bürokratie"
+    },
+    {
+      "text": "AI Act reguliert Sachen, die in 3 Jahren längst irrelevant sind - macht Europa impotent",
+      "speaker": "host",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Starke Deregulierungskritik, skeptisch gegenüber proaktiver Regulierung"
+    },
+    {
+      "text": "Europäische Automobilindustrie durch Ideologie-getriebenes EV-Mandat fundamental zerstört",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Kritik an staatlicher Lenkung, pro Marktlösung, Anti-Ideologie"
+    },
+    {
+      "text": "Expertenregierung besser als Politiker, Entscheidungen basierend auf Expertise nicht Ideologie",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Meritokratisch-pragmatisch, skeptisch gegenüber ideologischer Politik"
+    },
+    {
+      "text": "KI empowert intelligente Menschen, ihre Ideen umzusetzen - demokratisiert Innovation",
+      "speaker": "host",
+      "economic": 5,
+      "social": 4,
+      "reasoning": "Pro-Technologie, anti-hierarchisch, befähigt Individuen"
+    },
+    {
+      "text": "Millionen in Krypto-Meme-Coins verlieren ist normal - wer involviert verdient, Kleinanleger verlieren",
+      "speaker": "host",
+      "economic": 7,
+      "social": -2,
+      "reasoning": "Akzeptanz unregulierter Spekulation, zynisch gegenüber Retail-Investoren"
+    },
+    {
+      "text": "Argentinischer Präsident bewirbt Krypto-Coin, ermöglicht Insider-Rockpull mit Millionen-Gewinnen",
+      "speaker": "host",
+      "economic": 8,
+      "social": -4,
+      "reasoning": "Kritik an Insider-Geschäften in Krypto, fehlende Regulierung ermöglicht Betrug"
+    },
+    {
+      "text": "Grüne Investitionen dürfen nicht durch politisches Klima abgebremst werden, braucht Unternehmertum",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 3,
+      "reasoning": "Pro-Innovation statt politischer Steuerung, Marktlösungen für Klimawandel bevorzugt"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Europa reguliert sich zu Tode und wird dadurch selbst irrelevant",
+      "context": "Kritik an EU-Regulierungsgeschwindigkeit vs. technologischer Wandel",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ein 3-Tonnen-EV kann nicht effizienter sein als ein 2-Tonnen-Verbrenner",
+      "context": "Kritik an ideologiegetriebener EU-Automobilpolitik",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der einzige Faktor der jetzt zählt: Agilitätsund schnelle Systemadaption",
+      "context": "Forderung nach Strukturwandel in Bildung und Politik",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Politiker sollten sich in den Hintergrund rücken, Unternehmer in den Vordergrund",
+      "context": "Kritik am Heldenmy thus in der Politik, Pro-Meritokratie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "KI Agents ersetzen Junior-Developer billiger - Senior-Fachkräfte bleiben essentiell",
+      "context": "Analyse des AI-bedingten Jobmarkt-Kollaps für Junior-Positionen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_uQSU3wIwB9c",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_uQSU3wIwB9c",
+  "date": null,
+  "country": "AT",
+  "word_count": 8699
+}

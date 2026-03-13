@@ -1,0 +1,108 @@
+{
+  "economic_score": -1.4,
+  "social_score": 2.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wir wollen diesen Markt transparent machen, weg von Intransparenz und Monopolen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Regulierung/Transparenzbefürwortung, Bürgerrechte gegen etablierte Monopole"
+    },
+    {
+      "text": "Der Bestattungsmarkt war bis 2002 geschlossen mit Gebietsschutz pro Gemeinde",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Faktische Aussage, keine Meinung"
+    },
+    {
+      "text": "Wir arbeiten mit modernen Plattformen und Online-Planung statt traditionellen Wegen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 3,
+      "reasoning": "Digitalisierung, Marktliberalisierung, aber mit Transparenzfokus"
+    },
+    {
+      "text": "Bestattungsbranche muss gesellschaftsfähiger werden, das Thema aus der Tabuzone",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Libertär: Destigmatisierung, Informationsfreiheit, offene Gesellschaftsdiskussion"
+    },
+    {
+      "text": "Preistransparenz wie bei Flugbuchungen - drei Klicks und man kennt exakte Kosten",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 4,
+      "reasoning": "Marktdurchsichtigkeit, Konsumentenschutz, Anti-Monopol-Position"
+    },
+    {
+      "text": "Wir stellen Kundenbetreuung vor handwerkliche Effizienz - Mensch vor Prozess",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Humanistische Priorität, Dienstleistungsethik, nicht profit-maximal"
+    },
+    {
+      "text": "Menschen treffen Vorsorge-Maßnahmen um nicht zur Last zu fallen - Entlastung der Familie",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Eigenverantwortung, Selbstbestimmung, Bürgerrechte"
+    },
+    {
+      "text": "Wir brauchen weniger Bürokratie bei Sterbeurkunden, Geburtsurkunden via Blockchain",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 6,
+      "reasoning": "Deregulierung, Technologielösung statt Staat, Libertäre Technologie-Optimismus"
+    },
+    {
+      "text": "Rugby ist der fairste Sport - nachher gratuliert man sich, bildet Gasse für Sieger",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Gemeinschaftswerte, Fairness-Ethik, sozial-kulturelle Werte"
+    },
+    {
+      "text": "Bestattungsbranche wird sich durch Vorsorge zu mehr Individualität und Diversität wandeln",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 6,
+      "reasoning": "Individualisierung über Standardisierung, libertäre Wertewahl"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Suchvolumen für Gebrauchtwagen in Österreich = Suchvolumen für Bestattungsthemen",
+      "context": "Stefan zeigt Marktnachfrage für Transparenz in bisher tabusiertem Sektor",
+      "quiz_suitable": true
+    },
+    {
+      "text": "100 Prozent aller Menschen sterben - es sei denn, Gründer im Silicon Valley schaffen es",
+      "context": "Ironische Kritik auf Longevity-Hype während Bestattungen besprochen werden",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Mein größtes Geschenk an meine Familie - die Bestattung selbst zu planen",
+      "context": "Reframing von Todesvorsorge als Liebesakt der Entlastung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Leben ist vielleicht nicht für immer, die Blockchain schon",
+      "context": "Schlusswort verknüpft End-of-Life mit digitaler Persistenz",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_dp5IGlSpgBI",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_dp5IGlSpgBI",
+  "date": null,
+  "country": "AT",
+  "word_count": 8925
+}

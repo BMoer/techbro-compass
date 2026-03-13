@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 40 column 17 (char 1395)",
+  "raw_response": "{\n  \"economic_score\": -1.0,\n  \"social_score\": -2.0,\n  \"n_coded\": 8,\n  \"insufficient_data\": false,\n  \"confidence\": 0.72,\n  \"coded_statements\": [\n    {\n      \"text\": \"Das amerikanische Gesundheitssystem hat für Durchschnittsamerikaner viel weniger Optionen als für den Präsidenten\",\n      \"speaker\": \"guest\",\n      \"economic\": -4,\n      \"social\": null,\n      \"reasoning\": \"Kritik an ungleicher Ressourcenverteilung im Kapitalismus\"\n    },\n    {\n      \"text\": \"Trump erklärt, das Virus sei besiegt und e",
+  "episode_id": "lobo_WO9TqCF-g48",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_WO9TqCF-g48",
+  "date": null,
+  "country": "DE",
+  "word_count": 4724
+}

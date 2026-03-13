@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.45,
+  "coded_statements": [
+    {
+      "text": "Ich stecke den Gewinn komplett zurück in die Produktion, verdiene praktisch nichts daran",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Reinvestment über Profit; pragmatisch-solidarisch gegenüber Kunden"
+    },
+    {
+      "text": "Amazon-Lagerrobotik ist ein perfektes Konzept, das man generell haben sollte",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Bewunderung für Effizienzoptimierung und Automatisierung durch Kapitalisten"
+    },
+    {
+      "text": "Shopify API ist erstaunlich flott und gut - aber die Dokumentation ist seltsam",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Kritik an Tech-Infrastruktur, keine ideologische Position"
+    },
+    {
+      "text": "Skalierung ist schwierig - bräuchte 3-4 Leute, habe aber niemanden",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Beschreibung von Arbeitsproblem ohne Position zu Angestellten/Automatisierung"
+    },
+    {
+      "text": "Internetmarke-API ist Humbug in der Signatur-Methode, geht aber trotzdem irgendwie",
+      "speaker": "host",
+      "economic": 2,
+      "social": 3,
+      "reasoning": "Kritik an staatlicher Infrastruktur-Design + Pragmatismus; leichte libertäre Färbung durch Frustration mit Behörden-APIs"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die Flut von so viel auf einmal - man macht sich gar keine Vorstellung wie viel 100 T-Shirts wiegen",
+      "context": "Host reflektiert über unerwartet massives Skalierungsproblem nach erfolgreichem Pre-Order",
+      "quiz_suitable": false
+    },
+    {
+      "text": "Es ist auch lustig, diese ganzen seltsamen Geräte und einen Raspberry zusammenzustecken - das gab's vor 10-15 Jahren noch nicht",
+      "context": "Host beschreibt DIY-Logistik-Lösung mit Altgeräten und moderner API-Integration",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_Nt91KymZElo",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_Nt91KymZElo",
+  "date": null,
+  "country": "DE",
+  "word_count": 3726
+}

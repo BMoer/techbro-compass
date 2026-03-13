@@ -1,0 +1,148 @@
+{
+  "economic_score": 4.6,
+  "social_score": 1.4,
+  "n_coded": 15,
+  "insufficient_data": false,
+  "confidence": 0.82,
+  "coded_statements": [
+    {
+      "text": "Wir wollen eigenständig bleiben. Investoren wollen mitreden und brauchen extremes Berichtswesen.",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Ablehnung von Fremdkapital, Wertschätzung von Unternehmerunabhängigkeit"
+    },
+    {
+      "text": "Das geht nur über die Menge. Das ist ein reines Massengeschäft mit ganz kleinen Margen.",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Logik, Effizienzdenken, Skalierung"
+    },
+    {
+      "text": "Sozialleistungen fördern, Sprachkurse für Migration, wir fördern damit soziale Projekte.",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Redistributive Sozialprogramme, pro-Migration, Arbeitnehmerorientierung"
+    },
+    {
+      "text": "Wir brauchen mehr Selbstbewusstsein für unsere Kultur, ein bisschen Stolz sein.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kulturelle Konservativität, aber kein Nationalismus; ausgewogen"
+    },
+    {
+      "text": "Die AfD ist für mich ein Drama. Sie schwächen die konservative Mitte.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Populismus, Sorge um institutionelle Stabilität"
+    },
+    {
+      "text": "Wir brauchen das Verhältnis zwischen Behörden und Unternehmen zurückgedreht. Nicht alles vorschreiben.",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Anti-Regulierungshaltung, Forderung nach Deregulierung und Vertrauen"
+    },
+    {
+      "text": "Ordentlich mit den Menschen umgehen, ihnen Freiraum geben, nicht alles vorgeben.",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Arbeitnehmerrechte, Mitbestimmung, Arbeitnehmerorientierung"
+    },
+    {
+      "text": "75% kriegen weit über Mindestlohn, je nach Leistung und Qualität der Arbeit.",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Über-Mindestlohn-Zahlung, leistungsorientierte Vergütung, soziale Verantwortung"
+    },
+    {
+      "text": "Wer Gewalt anwendet, der fliegt raus. Hausordnung beim Verein, Stadionverbot.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Autoritäre Regeldurchsetzung, Bestrafung, wenig Diskursraum"
+    },
+    {
+      "text": "Die Ultras sind nicht der gesamte Verein. Wir haben Hausordnung und Regeln.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Top-down Autorität, Ablehnung von Partizipation durch Basis"
+    },
+    {
+      "text": "Wir haben Fußbodenheizung im Stall, Musik für Tierwohl, Tempel Grandin-Konzepte.",
+      "speaker": "guest",
+      "economic": -1,
+      "social": 4,
+      "reasoning": "Animal Welfare, höhere Kosten für ethische Standards akzeptiert"
+    },
+    {
+      "text": "Der Erfolg ist nie gepachtet. Den musst du jeden Tag neu erarbeiten.",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Leistungsethik, Effizienzdenken, Unternehmertum glorifiziert"
+    },
+    {
+      "text": "Mir geht's um das, was unterm Strich da steht. Nicht oben, sondern unten rechts.",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Profitorientierung, Gewinnmaximierung als Kernziel"
+    },
+    {
+      "text": "Ich hasse Patriarchen. Die wissen immer alles besser und hinterher.",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Anti-hierarchisch, pro-Delegation, gegen Autorität von oben"
+    },
+    {
+      "text": "Jeder soll das essen, was er will. Ich esse lieber Fleisch, mag keine Hafermilch.",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Konsumentenfreiheit, geringe libertäre Komponente, pragmatisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wir wollen eigenständig bleiben. Investoren brauchen extremes Berichtswesen.",
+      "context": "Erklärung, warum Tönnies nie externe Investoren suchte trotz Milliardeninvestitionen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das geht nur über die Menge. Das ist ein reines Massengeschäft mit ganz kleinen Margen.",
+      "context": "Darlegung des Geschäftsmodells der Fleischindustrie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Mir geht's um das, was unterm Strich da steht. Nicht was oben steht, sondern unten rechts.",
+      "context": "Antwort auf Frage zu Umsatzzielen, Profitorientierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die AfD ist für mich ein Drama. Sie schwächen die konservative Mitte.",
+      "context": "Politische Einschätzung zu Populismus und Polarisierung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich hasse Patriarchen. Die wissen immer alles besser und hinterher.",
+      "context": "Nachfolgeplanung und Unternehmenskultur, Warnung vor Überpatriarchalismus",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_OyrRYBHz7MY",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_OyrRYBHz7MY",
+  "date": null,
+  "country": "DE",
+  "word_count": 15510
+}

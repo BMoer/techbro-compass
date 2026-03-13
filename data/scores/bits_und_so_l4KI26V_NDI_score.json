@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 26 column 17 (char 938)",
+  "raw_response": "{\n  \"economic_score\": 0.8,\n  \"social_score\": 1.6,\n  \"n_coded\": 6,\n  \"insufficient_data\": false,\n  \"confidence\": 0.45,\n  \"coded_statements\": [\n    {\n      \"text\": \"für die allermeisten fällen reicht es wenn das whatsapp können dann kann das ganze live on sein\",\n      \"speaker\": \"host\",\n      \"economic\": 0,\n      \"social\": null,\n      \"reasoning\": \"Pragmatische, konsumkritische Haltung. Keine ideologische Position.\"\n    },\n    {\n      \"text\": \"für diesen ganzen kandidatin kraft ihre bitte auf kein",
+  "episode_id": "bits_und_so_l4KI26V_NDI",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_l4KI26V_NDI",
+  "date": null,
+  "country": "DE",
+  "word_count": 6792
+}

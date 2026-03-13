@@ -1,0 +1,63 @@
+{
+  "economic_score": -2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Apple muss sich kreuz und quer verbiegen um das Problem aus der Welt zu räumen",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Unternehmensverantwortung, impliziert Regulierungsbedarf"
+    },
+    {
+      "text": "Apple sollte für das Akkuproblem einstehen - das ist definitiv Apples Problem",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Forderung nach Unternehmenshaftung und -verantwortung"
+    },
+    {
+      "text": "Mit Austauschprogramm wird die Spannung aus dem Thema genommen",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Akzeptanz von Unternehmensmaßnahme zur Schadenshaftung"
+    },
+    {
+      "text": "Leute sind genervt von langen Wartezeiten - zu Recht genervt",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Unternehmensservice und Kundenschutz"
+    },
+    {
+      "text": "Je mehr Zeit vergeht, desto mehr Leute werden sich zu Wort melden",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Erwartung von wachsendem Druck auf Unternehmen durch Konsumentenmacht"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Apple hat von Anfang an gesagt 'ganz wenige Nutzer' - das ist offensichtlich zu wenig",
+      "context": "Kritik an Apples Verharmlosung des Akkuproblems bei Millionen Geräten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Samsung Probleme mit zu heißen Akkus, Apple Probleme mit zu kalten Akkus",
+      "context": "Vergleich von Herstellerproblemen mit Akkutechnologie",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_CJu6rjYX5BM",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_CJu6rjYX5BM",
+  "date": null,
+  "country": "DE",
+  "word_count": 3013
+}

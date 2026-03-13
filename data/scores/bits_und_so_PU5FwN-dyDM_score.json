@@ -1,0 +1,51 @@
+{
+  "economic_score": 1.5,
+  "social_score": 4.0,
+  "n_coded": 4,
+  "insufficient_data": true,
+  "confidence": 0.35,
+  "coded_statements": [
+    {
+      "text": "Pro Version kann man einmal bezahlen und es läuft halt alles lokal",
+      "speaker": "host",
+      "economic": 0,
+      "social": 4,
+      "reasoning": "Bevorzugung von lokalem Betrieb statt Cloud-Lösung, Datenschutzorientierung"
+    },
+    {
+      "text": "Lokal ist natürlich auch echt wichtig weil manche Niederschrift möchtest du einfach nicht ins Netz laden",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Starke Betonung von Datenschutz und Privatsphäre, Anti-Cloud-Sentiment"
+    },
+    {
+      "text": "Das läuft jetzt native auf dem Apple Silikon dadurch noch ein Tick schneller geworden",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Lob für Unternehmensoptimierung und technische Innovation, marktfreundlich"
+    },
+    {
+      "text": "40% Geschwindigkeitsgewinn im letzten Update, absurd nett wenn man Untertitel oder Gesprächsnotizen haben möchte",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Betonung von Produktverbesserung und Nutzerkomfort durch marktwirtschaftliche Konkurrenz"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Manche Niederschrift möchtest du einfach nicht ins Netz irgendwo laden wenn das irgendwelche privaten Meetings waren",
+      "context": "Begründung für lokale Datenverarbeitung statt Cloud-Lösungen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_PU5FwN-dyDM",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_PU5FwN-dyDM",
+  "date": null,
+  "country": "DE",
+  "word_count": 771
+}

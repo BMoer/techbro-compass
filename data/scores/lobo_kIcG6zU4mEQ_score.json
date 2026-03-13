@@ -1,0 +1,89 @@
+{
+  "economic_score": -2.5,
+  "social_score": 3.75,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Leo XIII. war für seine Sozialenzykler und die Rechte der Arbeiter bekannt",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Betonung sozialer Rechte und Arbeitnehmerrechte; sozialstaatliche Position"
+    },
+    {
+      "text": "Die Migration liegt ihm sehr am Herzen – die Rechte der Migranten, nicht Trumps Agenda",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Pro-Migrantenrechte, gegen restriktive Politik; libertäre Haltung zu Bewegungsfreiheit"
+    },
+    {
+      "text": "JD Vance's Prioritätenliste (Familie > Land > Rest der Welt) ist falsch – nicht, was Jesus lehrt",
+      "speaker": "guest",
+      "economic": -5,
+      "social": 6,
+      "reasoning": "Ablehnung nationalistischer Hierarchie; universelle Menschenwürde; Kritik von Autoritarismus"
+    },
+    {
+      "text": "Eine moralische Stimme ist nötig, die versucht, in der polarisierten Welt Richtung zu weisen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Streben nach gesellschaftlichem Dialog und Einheit über Polarisierung"
+    },
+    {
+      "text": "Leo setzt sich durch rote Stola traditionell ab – nicht so ein Disruptionsmensch wie Franziskus",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Signal von Respekt vor traditionellen Institutionen; weniger radikal libertär"
+    },
+    {
+      "text": "Die Kirche als verbindende Kraft: Brücken bauen, für alle da sein, mit Leidenden gehen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Universalistischer Anspruch; Inklusivität; anti-autoritäre Haltung zu Zugehörigkeit"
+    },
+    {
+      "text": "Der Papst wird moralisch abgehoben sprechen, nicht in Tagespolitik eingreifen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Pragmatische Einschätzung institutioneller Grenzen; neutral zu beide Achsen"
+    },
+    {
+      "text": "Ein Amerikaner könnte Trump als Gegenstimme konfrontieren – mit Standing eines Papstes",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Potentielle Kritik an autoritären/populistischen Tendenzen; moralische Kontrolle"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die Migration liegt ihm am Herzen – die Rechte der Migranten und nicht die Agenda von Trump",
+      "context": "Aussage des Bruders über Leos Prioritäten; direkte Oppositionslinie zu Trump",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das ist falsch, das ist nicht das, was Jesus lehrt",
+      "context": "Leos kritische Antwort auf JD Vance's Prioritätenliste der Liebe und Barmherzigkeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ein Amerikaner auf dem Heiligen Stuhl könnte Trump ein Stoppschild entgegenhalten",
+      "context": "Analyse der potenziellen globalen Gegenkraft eines US-amerikanischen Papstes",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_kIcG6zU4mEQ",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_kIcG6zU4mEQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 3788
+}

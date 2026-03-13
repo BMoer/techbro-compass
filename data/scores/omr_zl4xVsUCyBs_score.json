@@ -1,0 +1,141 @@
+{
+  "economic_score": 4.2,
+  "social_score": 2.1,
+  "n_coded": 14,
+  "insufficient_data": false,
+  "confidence": 0.82,
+  "coded_statements": [
+    {
+      "text": "früher hatte ich bei Produkten wirklich Faktor 2 für 1000 € gekauft für 2000 verkauft",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Freier Markt, Gewinnstreben, klassische Handelskalkulation"
+    },
+    {
+      "text": "nachts um 12 Uhr wenn die Preise ändern sind wir alle noch wach bis früh um 2 Uhr und dann matchen wir die Preise oder wir gehen auch noch mal ein Euro drunter",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Aggressive Preiskonkurrenz, Marktorientierung, Wettbewerbsfokus"
+    },
+    {
+      "text": "es ist unvernünftig aber es ist geil und deshalb mache ich's - 60 Millionen für Musikinstrumente Laden",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unternehmertum über Rationalsachlich, Expansion ohne Kostenoptimierung"
+    },
+    {
+      "text": "Investoren will ich hier nicht haben und es war für mich auch der Hauptgrund letztendlich meine Firma in der Stiftung zu bringen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Ablehnung von Kapitalgebern, gemeinschaftliche Strukturen, Unabhängigkeit"
+    },
+    {
+      "text": "wir sind ohne Fremdfinanzierung mit einer sehr hohen Eigenkapitalquote",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Finanzielle Unabhängigkeit, Selbstbeschaffung, antikapitalistisches Leihmodell"
+    },
+    {
+      "text": "wenn du Höchstleistung bringen willst dann muss es einfach Spaß machen und es muss vom Herzen kommen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 4,
+      "reasoning": "Mitarbeiterzufriedenheit, humanistische Unternehmenskultur, Anti-Burnout"
+    },
+    {
+      "text": "wir nutzten also wir sind unserer Marktmacht schon bewusst müssen kalkulieren ja aber es sind immer fair",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 5,
+      "reasoning": "Ethisches Wirtschaften trotz Marktmacht, Fairnessgebot"
+    },
+    {
+      "text": "wenn heute jemand eine Ukulele für 9 € irgendwo kaufen kann kaufen die, aber wenn es darum geht dass du immer der billigste sein willst mit extrem minderwertigen Produkten dann werden wir den Krieg nicht gewinnen",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 1,
+      "reasoning": "Qualität über Preisführerschaft, Marktsegmentierung statt Race-to-Bottom"
+    },
+    {
+      "text": "die grüne denken über 25% Erbschaftssteuer, CDU CSU über 10% - für eine Komanie das ist tödlich",
+      "speaker": "guest",
+      "economic": 6,
+      "social": -2,
+      "reasoning": "Steuerkritik von rechts, Unternehmerperspektive gegen Umverteilung"
+    },
+    {
+      "text": "Stipendium vergebe ich an Hochschulen für Musik, 1800 € der Staat gibt dann auch noch mal 1800 € dazu",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 6,
+      "reasoning": "Gemeinnütziges Engagement, Kunstförderung, Soziale Verantwortung"
+    },
+    {
+      "text": "Musikunterricht wurde bei uns in Bayern auf eine Stunde gekürzt - das ist eine Gefahr für euch nicht unbedingt aber gesellschaftlich schlecht",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Sparpolitik im Kulturbereich, gesellschaftliche Sorge"
+    },
+    {
+      "text": "bei uns gibt's keine automatische Preisänderung sondern wir schauen uns das mit Bedacht an",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Bedachter Wettbewerb, nicht-aggressive Marktmacht, ethische Preisgestaltung"
+    },
+    {
+      "text": "wir betreiben aber auch sehr hohen Aufwand die Auszubildenden zu bekommen, Großteil kommt aus irgendwo aus Deutschland sucht sich hier eine Wohnung",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 5,
+      "reasoning": "Investition in Humankapital, regionale Verantwortung, Arbeitgeberattraktivität"
+    },
+    {
+      "text": "Generation Z musst du ein bisschen mehr erklären und begründen dann ist ist gut - aber worklife Balance ist auch wichtig",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 5,
+      "reasoning": "Akzeptanz moderner Arbeitserwartungen, Flexibilität, Generationengerechtigkeity"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "es ist unvernünftig aber es ist geil und deshalb mache ich's",
+      "context": "Über den Bau eines 60-Millionen-Euro Musikinstrumentenladen trotz marginaler wirtschaftlicher Rechtfertigung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "nachts um 12 Uhr wenn die Preise ändern sind wir alle noch wach bis früh um 2 Uhr und dann matchen wir die Preise oder wir gehen auch noch mal ein Euro drunter",
+      "context": "Über extreme Preiskonkurrenz mit Amazon und anderen Wettbewerbern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Investoren will ich hier nicht haben - die machen die das Unternehmen am Ende kaputt",
+      "context": "Begründung für die Umstrukturierung in eine Doppelstiftung statt Kapitalgeber",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wenn du Höchstleistung bringen willst dann muss es einfach Spaß machen und es muss vom Herzen kommen",
+      "context": "Über Unternehmenskultur und Mitarbeitermotivation",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wer baut schon für 60 Millionen Musikinstrumente Laden - ja es ist komplett unvernünftig aber es ist geil",
+      "context": "Rechtfertigung für massive Investitionen in Ladenbau ohne reine Profitabilität",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_zl4xVsUCyBs",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_zl4xVsUCyBs",
+  "date": null,
+  "country": "DE",
+  "word_count": 14261
+}

@@ -1,0 +1,63 @@
+{
+  "economic_score": 1.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.4,
+  "coded_statements": [
+    {
+      "text": "MacOS nur noch über App Store, nicht auf DVD kaufbar - Volumenlizenzen für Firmen fehlen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Apple erzwingt digitale Distribution, einige Marktmonopol-Tendenzen, aber pragmatisch"
+    },
+    {
+      "text": "Apple entfernt optisches Laufwerk aus Mac mini - mutig und radikal",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Technologische Disruption, aber neutral bewertet, nicht anti-Kapitalismus"
+    },
+    {
+      "text": "AFP-Netzwerkverbindungen funktionieren nicht mehr - Apple sagt unsicher",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Sicherheit über Nutzerfreiheit/Kompatibilität. Restriktiv aber legitimiert durch Safety"
+    },
+    {
+      "text": "Unternehmen brauchen jetzt separate iTunes Accounts für 50 Macs - unklar ob erlaubt",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an DRM und Lizenzbeschränkungen, leicht pro-Markt, aber pro-Unternehmensflexibilität"
+    },
+    {
+      "text": "QR-Code Plakate in U-Bahn mit sofortiger Lieferung - super geile Idee",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Begeisterung für innovative marktgetriebene Mobile-Commerce-Lösung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wie können wir das jetzt installieren - dürfen wir mit dem iTunes Account überall einloggen?",
+      "context": "Kritik an Apples restriktivem Volumenlizenzmodell für Unternehmen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "das optische Laufwerk wird endgültig gesetyt - Apple war noch nie konservativ",
+      "context": "Diskussion über Apples radikale Entfernung von Hardwarekomponenten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_93XA3-KDTA4",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_93XA3-KDTA4",
+  "date": null,
+  "country": "DE",
+  "word_count": 2099
+}

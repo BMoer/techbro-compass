@@ -1,26 +1,3404 @@
 [
   {
-    "text": "Riskieren ist wesentlich besser als bereuen",
-    "context": "Gründer erklärt seine Philosophie beim Aufbau von Bora",
-    "podcast": "OMR Podcast",
-    "episode": "omr_zRU2hf_vCIg"
+    "text": "Bargeld und EC greifen das beste war ja noch dieser ganze Wahnsinn",
+    "context": "Kritik am Zahlungs-Chaos auf der Wiesn",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_--AGSdxVZxc"
   },
   {
-    "text": "wenn es keinen Markt gibt, gibt's auch keine Finanzierung",
-    "context": "Gründer zitiert Bankenlogik, warum er selbst bootstrappen musste",
-    "podcast": "OMR Podcast",
-    "episode": "omr_zRU2hf_vCIg"
+    "text": "Das ist sein ding und man einfach sagt kosten nichts da haben wir drei stuck in der schublade",
+    "context": "Kritik am fehlenden Service bei EC-Geräte-Ausfall",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_--AGSdxVZxc"
   },
   {
-    "text": "ich bin eher der 20-80 Typ, wenn 20% passen dann drückt man auf Go",
-    "context": "Selbstbeschreibung als unternehmerischer Risiko-Typ",
-    "podcast": "OMR Podcast",
-    "episode": "omr_zRU2hf_vCIg"
+    "text": "Vielleicht löscht auch deine Festplatte. Man weiß es ja nicht.",
+    "context": "Humorvoller Warnung vor automatisierter Skriptausführung ohne Verständnis",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_1dwoDEaXHXU"
   },
   {
-    "text": "die erste Startupphase würde schöne Geste von der Politik sein mit verminderten Steuersatz",
-    "context": "Kritik am deutschen Steuersystem für schnell wachsende Unternehmen",
+    "text": "nimmt die versicherung in die eigene hand",
+    "context": "Schlussmessage zur privaten Krankenversicherung als Eigenverantwortung",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_4k4HVxPdFGg"
+  },
+  {
+    "text": "bei gesetzlichen mindestens 850 bei otto nova lässt sich das auf 780 reduzieren",
+    "context": "Kostenvergleich private vs. gesetzliche Krankenversicherung",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_4k4HVxPdFGg"
+  },
+  {
+    "text": "du kannst 100.000 User drauf schmeißen und das wird dann auch 100.000 Mal ausgeführt ohne dass du dich drum kümmern musst - nur die enorme Rechnung bezahlen",
+    "context": "Sarkasmus auf Serverless-Skalierung und versteckte Kosten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_571pJB4d46I"
+  },
+  {
+    "text": "wenn du dich das traust natürlich traust du dich das weil was soll denn schon schief gehen weil Wolke",
+    "context": "Ironische Kritik an Cloud-Abhängigkeit und Nachlässigkeit bei Produktions-Deployments",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_571pJB4d46I"
+  },
+  {
+    "text": "Facebook bringt nach diesem Skandal ein Produkt mit Kamera - dann ist denen wirklich alles egal",
+    "context": "Kritik an Tech-Konzernen, die trotz Datenskandalen invasive Produkte vermarkten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_6t2OC6gdIb0"
+  },
+  {
+    "text": "Keine Kamera, weil wir wollen dass du das Ding auch im Schlafzimmer benutzt",
+    "context": "Ironie: Gerät hört trotzdem zu, aber zumindest nicht visuell - Datenschutz-Paradox",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_6t2OC6gdIb0"
+  },
+  {
+    "text": "Das wird sehr schnell sehr groß und dann hast du möglicherweise das gleiche Problem wie mit anderen Sachen auch",
+    "context": "Kritik am npm-Ökosystem und Dependency-Hell in Node.js Projekten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_7NlysfbgHPk"
+  },
+  {
+    "text": "Wir wollen sowas ähnliches wie C aber ohne den Mist von C",
+    "context": "Googlès Design-Philosophie bei der Go-Sprache",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_7NlysfbgHPk"
+  },
+  {
+    "text": "Die ganze Nummer diese Umstellung ist ja unfassbar kompliziert [...] ich habe einfach 100.000 auf die Datei gemacht",
+    "context": "Host beschreibt Konsequenzen der neuen EU-Mehrwertsteuern für kleine Online-Händler",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_9El7GaxhU-0"
+  },
+  {
+    "text": "Das SS7-Netzwerk ist uralt [...] und es ist halt furchtbar, dass durch diese Abwärtskompatibilität das auch für die nächsten Jahrzehnte [offen bleibt]",
+    "context": "Kritik an Telekommunikations-Sicherheitsarchitektur, die veraltete Protokolle weiter unterstützt",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_9El7GaxhU-0"
+  },
+  {
+    "text": "Wenn du den Rechner einmal nach dem Kauf aus der Hand gegeben hast [...] ist die Maschine sozusagen verloren",
+    "context": "Sicherheitsvulnerabilität in MacBooks: Thunderbolt-Adapter können EFI-ROM flashen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_9El7GaxhU-0"
+  },
+  {
+    "text": "Im Zweifel steht immer noch irgendwo ein Server, den du nicht unter Kontrolle hast",
+    "context": "Kritik an Cloud-Lösungen ohne vollständige Datenkontrolle",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_9l99WCA0KT0"
+  },
+  {
+    "text": "Server in der EU, es gilt europäisches Recht",
+    "context": "Unterscheidung von anderen Plattformen durch regulatorischen Standort",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_9l99WCA0KT0"
+  },
+  {
+    "text": "Zweite die Kameras werden teurer. Viel Spaß. Tschüss.",
+    "context": "Sarkastische Kritik an Hersteller, der USA-Fabrik abbaut",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_ACibt0r-PnI"
+  },
+  {
+    "text": "Das Telefon benutzt du 16 Stunden am Tag für 2€ - fantastisches Preisleistungsverhältnis",
+    "context": "Rechtfertigung von iPhone-Kaufimpuls durch mathematische Herunterrechnung",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_B5y1ndAlZ1M"
+  },
+  {
+    "text": "Das Update-Gerät hat magische Bits oder NFC-Stein der Telefone aufweckt",
+    "context": "Ironische/skeptische Erklärung von Apple's Logistik-Automatisierung",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_B5y1ndAlZ1M"
+  },
+  {
+    "text": "Bei Series 4 Watch geben sie noch 35€ zurück, ist halt wirklich durch jetzt",
+    "context": "Resignierte Akzeptanz des Tech-Wertverfalls bei Altgeräten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_B5y1ndAlZ1M"
+  },
+  {
+    "text": "Apple hat von Anfang an gesagt 'ganz wenige Nutzer' - das ist offensichtlich zu wenig",
+    "context": "Kritik an Apples Verharmlosung des Akkuproblems bei Millionen Geräten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_CJu6rjYX5BM"
+  },
+  {
+    "text": "Samsung Probleme mit zu heißen Akkus, Apple Probleme mit zu kalten Akkus",
+    "context": "Vergleich von Herstellerproblemen mit Akkutechnologie",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_CJu6rjYX5BM"
+  },
+  {
+    "text": "ich bin sehr gerne bereit auch geld auszugeben wenn das alles so funktioniert",
+    "context": "Host befürwortet bezahlte Cloud-Services von Apple als Geschäftsmodell",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_DHk0gk1B8rw"
+  },
+  {
+    "text": "Apple kann natürlich da machen was sie wollen, die Namen sind völlig wurscht",
+    "context": "Host kritisiert Marketing-Namen für Chips als bedeutungslos",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_DiUmKiWCzLM"
+  },
+  {
+    "text": "Der Prozessor wird kein Verkaufsargument mehr sein, wenn M1 noch in zwei Jahren gut genug ist",
+    "context": "Host prognostiziert Ende der Chip-getriebenen Upgrade-Zyklen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_DiUmKiWCzLM"
+  },
+  {
+    "text": "Sobald wir aus Apples Baukasten heraustreten gibt's keine Antwort im Moment",
+    "context": "Host kritisiert Apples Schwäche bei offenen AI/LLM-Standards",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_DiUmKiWCzLM"
+  },
+  {
+    "text": "Vorsicht mit Screenshots - es gibt ein Gesetz dafür",
+    "context": "Host warnt vor deutschen Leistungsschutzrechten bei Screenshot-Nutzung",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_FBvOJe0LNJw"
+  },
+  {
+    "text": "sie haben halt dieses problem in die post wieder halle zu laufen sozusagen umgangen",
+    "context": "Digitale Identitätsprüfung ersetzt analoge Prozesse",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_GJpZLeplxj8"
+  },
+  {
+    "text": "Ihr könnt mich ja quasi in die Pleite sparen indem ihr einfach so viele T-Shirts kauft",
+    "context": "Host ermutert Audience zu massivem Kauf durch Rabatte",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_Ie6Gp2vfmMg"
+  },
+  {
+    "text": "Das ist gelogen – die Tasse kommt dann sofort, nicht in 8 Wochen",
+    "context": "Host kritisiert sein eigenes Shopsystem wegen ungenauer Verfügbarkeitsangaben",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_Ie6Gp2vfmMg"
+  },
+  {
+    "text": "sie müssen alle irgendwie ihre displays zu kleben damit kein spion von ausmachen gucken kann",
+    "context": "Kritik an Großraumbüro-Design im Steve Jobs Theater",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_JDZjB-NeOdU"
+  },
+  {
+    "text": "MakerBot hat ihre Community so ein bisschen verraten und das fanden die gar nicht so ok",
+    "context": "Kritik an der Kommerzialisierung von ehemals open-source Plattformen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_KDcgojNAaUI"
+  },
+  {
+    "text": "Man muss sich einfach ein Makerspace mit Bibliothek oder Einrichtung in der Gegend suchen",
+    "context": "Argument für gemeinschaftliche statt private 3D-Drucker-Nutzung",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_KDcgojNAaUI"
+  },
+  {
+    "text": "Facebook hat Geld und Ressourcen, da tut sich wirklich einiges",
+    "context": "Vergleich der Entwicklungskraft zwischen VR-Plattformen durch Kapitalrücken",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_Ldv8KNVNBao"
+  },
+  {
+    "text": "Playstation Vita kostet 400 Euro, dann 40 Euro für Controller - schnell bei 800",
+    "context": "Analyse der versteckten Kosten beim VR-Gaming-Einstieg",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_Ldv8KNVNBao"
+  },
+  {
+    "text": "Das heute nicht geht, ist immer noch nicht geht – das ist eigentlich echt eine Frechheit",
+    "context": "Kritik an Apples fehlender Third-Party-Stift-Unterstützung nach Jahren",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_M48OUF90GOk"
+  },
+  {
+    "text": "Der Pencil ist nicht richtig viel billiger – von daher ist 80€ für Lami gerechtfertigt",
+    "context": "Preisvergleich zwischen Apple Pencil und Lami Safari Note Plus",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_M48OUF90GOk"
+  },
+  {
+    "text": "da bräuchte ja wenn du irgendein kleines tante emma laden... warum sollte er da geld reinstecken?",
+    "context": "Diskussion über Machbarkeit für kleine Einzelhandelsketten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_NQm-qJgXIZM"
+  },
+  {
+    "text": "Es ist auch lustig, diese ganzen seltsamen Geräte und einen Raspberry zusammenzustecken - das gab's vor 10-15 Jahren noch nicht",
+    "context": "Host beschreibt DIY-Logistik-Lösung mit Altgeräten und moderner API-Integration",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_Nt91KymZElo"
+  },
+  {
+    "text": "Manche Vorgehen von staatlicher Seite wirken sehr unbeholfen - die haben nicht kapiert wie das funktioniert",
+    "context": "Host kritisiert regulatorische Eingriffe in App-Store-Praktiken als uninformiert",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_Os23yvw2nCI"
+  },
+  {
+    "text": "Bei kostenlosen Apps mit Werbung: Eigentlich ist es gut wenn nicht Gratis draufsteht, weil irgendwer bezahlt immer",
+    "context": "Diskussion über transparente Kennzeichnung von vermeintlich kostenlosen Diensten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_Os23yvw2nCI"
+  },
+  {
+    "text": "Manche Niederschrift möchtest du einfach nicht ins Netz irgendwo laden wenn das irgendwelche privaten Meetings waren",
+    "context": "Begründung für lokale Datenverarbeitung statt Cloud-Lösungen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_PU5FwN-dyDM"
+  },
+  {
+    "text": "wenn du eine Seite findest die nicht mitspielt dann geh einfach zu einer anderen Seite",
+    "context": "Diskussion über Flash-Abhängigkeiten und Nutzerfreiheit im Web",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_Q2Ez5-PYQE8"
+  },
+  {
+    "text": "Der beste Outcome wäre einfach wenn alles so wie immer ist",
+    "context": "Host verdeutlicht, dass bei Eigenentwicklung von Mobilfunkchips das Scheitern größer wiegt als Innovation",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_R9S0kf_YtOY"
+  },
+  {
+    "text": "YouTube Videos schreiben sich selbst wenn plötzlich einer keine Verbindung hat",
+    "context": "Skeptische Sicht auf potentielle negative PR bei Problemen mit eigenem Modem",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_R9S0kf_YtOY"
+  },
+  {
+    "text": "Das ist eigentlich immer irgendjemand rennt halt immer rein und ist super frustrierend",
+    "context": "Bezug auf chronische Bluetooth/WLAN-Probleme bei Apple, die sich mit eigenem Chip verschärfen könnten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_R9S0kf_YtOY"
+  },
+  {
+    "text": "Das ist eigentlich nicht zu benutzende App mit Falke-Werbung beim Start",
+    "context": "Kritik an der offiziellen Gypsies-iOS-App und deren schlechter Qualität",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_RpisyuGCdx8"
+  },
+  {
+    "text": "Die inoffizielle App ist genau so wie man sich das vorstellt und kostet nichts",
+    "context": "Vergleich zeigt, dass bessere Lösungen auch kostenlos möglich sind",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_RpisyuGCdx8"
+  },
+  {
+    "text": "wenn man wirklich jedes Stellschräubchen selbst haben möchte...kann man auch sehr viel konfigurieren",
+    "context": "Host preist maximale Konfigurierbarkeit von VPN-Lösungen zur Wahrung technischer Autonomie",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_StsTJZHfTzU"
+  },
+  {
+    "text": "Ich würde mein Android-Telefon verkaufen um mir diese Drohne zu leisten",
+    "context": "Host äußert extreme Begeisterung für DJI Magic-Drohne gegenüber Konkurrenzprodukten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_TQ9rb5G2tBw"
+  },
+  {
+    "text": "DJI hat am Vorstellungstag alle YouTube-Partner an Bord - extrem clever inszeniert",
+    "context": "Analyse der Influencer-Marketing-Strategie und deren Effektivität",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_TQ9rb5G2tBw"
+  },
+  {
+    "text": "Würde in der Innenstadt für 12.000€ kein Auto kaufen, eher Taxis und CarSharing",
+    "context": "Debatte über Elektroauto-Sinnhaftigkeit in Großstädten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_X9ub8urNQaA"
+  },
+  {
+    "text": "Tesla sendet freundliche Mail: Das ist für Durchreisende, nicht als private Tankstelle",
+    "context": "Kritik an unflexibler KI-Überwachung von Lademustern",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_X9ub8urNQaA"
+  },
+  {
+    "text": "Kaputte Ladesäulen ohne Verantwortliche sind die beste Förderpolitik",
+    "context": "Sarkasmus über halbherzig installierte Infrastruktur",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_X9ub8urNQaA"
+  },
+  {
+    "text": "Adobe-Abo kostet 140€/Jahr, dafür 3 Affinity-Apps kaufen",
+    "context": "Kritik an Subscription-Modell vs. Kaufsoftware-Modell",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_X9ub8urNQaA"
+  },
+  {
+    "text": "Das ist einfach unsinn für einen dienst den dienst auf die eigene plattform einzuschränken",
+    "context": "Kritik an Apples Strategie, Dienste plattformgebunden anzubieten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_X_w9U0ChLiY"
+  },
+  {
+    "text": "Entweder du willst dienste anbieten oder du willst sie für dich selbst behalten - aber nicht beides",
+    "context": "Fundamentale Kritik an Apples hybrider Geschäftsstrategie",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_X_w9U0ChLiY"
+  },
+  {
+    "text": "18.000€ Golduhr ist Erbstück? Lacht! Das ist Taschencomputer mit Uhrzeit",
+    "context": "Ironische Dekonstruktion von Apple's Luxuspositionierung",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_Yy5JYDtSq0o"
+  },
+  {
+    "text": "Leute treffen Kaufentscheidungen nicht durch Preis-Leistung - sondern Bauchgefühl",
+    "context": "Ökonomisch-psychologische Analyse von Konsumentenverhalten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_Yy5JYDtSq0o"
+  },
+  {
+    "text": "Ich habe fünf Jahre meines Lebens darauf verschwendet, aber du weißt doch dass sie da die Anwälte schicken",
+    "context": "Developer bricht seitens Apple-Restriktionen und erwartet rechtliche Konsequenzen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so__DyEjF3dalM"
+  },
+  {
+    "text": "Nintendo hat ihm damals auch die Anwälte auf den Hals gehetzt für den GameBoy-Emulator",
+    "context": "Beispiel für Unternehmen, die gegen reverse-engineering vorgehen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so__DyEjF3dalM"
+  },
+  {
+    "text": "Wenn man einen Song drin ist und die GEMA will 20 Euro von dir",
+    "context": "Warnung vor urheberrechtlichen Konsequenzen bei Clip-Sharing",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_aCDbYuBDfKU"
+  },
+  {
+    "text": "Tesla dreht Autopilot aus der Ferne ab, obwohl Kunden das zahlten",
+    "context": "Kritik an digitaler Kontrolle und Geschäftspraktiken von Tech-Konzernen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_c_KHd0WS9zI"
+  },
+  {
+    "text": "5000-Dollar-Käufe aus Versehen in der Hosentasche ausgelöst",
+    "context": "Kritik an Tesla-UX-Design und fehlenden Sicherheitsmechanismen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_c_KHd0WS9zI"
+  },
+  {
+    "text": "Der Typ wurde gefeuert, der diese künstliche eine Wochen Verzögerung drin hatte",
+    "context": "Apple-Manager angeblich entlassen wegen absichtlicher Review-Verzögerung",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_iEjbzR_TLZs"
+  },
+  {
+    "text": "Diese sieben Tage oder fünf Werktage waren eine sehr klare Bremse irgendwo eingebaut",
+    "context": "These über systematische Drosselung der App-Update-Geschwindigkeit",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_iEjbzR_TLZs"
+  },
+  {
+    "text": "Das Smartphone ist fertig. Du machst halt irgendwie die Kameras anders und größer/kleiner, aber das Konzept war mit dem ersten iPhone erledigt.",
+    "context": "Host kritisiert fehlende Innovations-Substanz in modernen Mobilgeräten",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_ip4jD97yBWw"
+  },
+  {
+    "text": "Silicon Valley sitzt da, wo man den Luxus hat zu sagen: Ich will kein Smartphone mehr. Das entspricht nicht der Lebenswelt normaler Menschen.",
+    "context": "Kritik an Eliten-Perspektive von Tech-Führungspersonen auf Nutzerbedarfe",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_ip4jD97yBWw"
+  },
+  {
+    "text": "Sam Oldman: Um mit OpenAI zu reden, muss ich erst einen Rechner anmachen und einen Browser öffnen.",
+    "context": "Beispiel für unrealistische Produktvision gegenüber Nutzerwirklichkeit",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_ip4jD97yBWw"
+  },
+  {
+    "text": "Hersteller kommen da offensichtlich auch nicht drauf - es geht halt da wirklich nur darum zu das zu tun weil man es kann",
+    "context": "Kritik an sinnloser Technologisierung von Kaffeemaschinen aus reinem Können, nicht Nutzen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_jlYx7XT5Df8"
+  },
+  {
+    "text": "Diese Kaffeemaschinen - das ist alles was du kannst ein Lagermanagement machen von deinen Kapseln",
+    "context": "Die einzige sinnvolle Funktion einer Smart-Kaffeemaschine ist automatisches Kapsel-Tracking",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_jlYx7XT5Df8"
+  },
+  {
+    "text": "crashplan sollten uns bezahlen verdammte Kacke das läuft nämlich auf sowas wie auf einem Synology",
+    "context": "Ironische Übertreibung der Leistungsfähigkeit von Crashplan auf NAS-Systemen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_kcyJVspOq8o"
+  },
+  {
+    "text": "die Software ist so ein bisschen fremd aber wenn die Daten wieder zurückkommen ist das ja alles quasi egal",
+    "context": "Pragmatische Bewertung: Benutzerfreundlichkeit sekundär gegenüber Funktionalität",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_kcyJVspOq8o"
+  },
+  {
+    "text": "DPD hat nachgedacht was man nicht von allen behaupten kann",
+    "context": "Im Vergleich zu Konkurrenten wie Packstation mit Sicherheitslöchern",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_lWeoNnkImPg"
+  },
+  {
+    "text": "Die Datenschutzproblematik in Deutschland ist besonders spezifisch",
+    "context": "Beim Tracking von Lieferfahrzeugen und deren Überwachung",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_lWeoNnkImPg"
+  },
+  {
+    "text": "Irgendwann war der Zeitpunkt erreicht, da war es einfach günstiger eine zu kaufen",
+    "context": "Entscheidungsprozess für Apple Watch Ultra Kauf nach Wochen des Zauderns",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_mQI-PKKbkLg"
+  },
+  {
+    "text": "Es ist lächerlich im Kinderpool, drei Sekunden schwimmen in ein Meter Tiefe",
+    "context": "Humorvolle Kritik an der praktischen Nutzlosigkeit von Tiefenmessungen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_mQI-PKKbkLg"
+  },
+  {
+    "text": "der ist zu gut ist zu gut für den Preis der ist zu gut und zu schnell für seine kleine Größe",
+    "context": "Host lobt den mcmini M4 als überragende Produktentwicklung bei fairem Preis",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_mleIOZEYtEU"
+  },
+  {
+    "text": "die Zukunft von promax sind winzig kleine aluschächtelchen wo einfach 10.000 Kabel dran stecken",
+    "context": "Humorvolle Charakterisierung der professionellen Mac-Zukunft (ironisch-sarkastisch)",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_mleIOZEYtEU"
+  },
+  {
+    "text": "diese ganzen Firmen die diese Haustechnik Zeug herstellen ist alles furchtbar",
+    "context": "Generelle Frustration über mangelnde Innovation im Smart-Home-Markt",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_pTsubsDD5ao"
+  },
+  {
+    "text": "Geräte die mich aussperren wollen das macht mich immer sofort wahnsinnig",
+    "context": "Reaktion auf blockierte Handwerker-Modi bei der Heizung",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_pTsubsDD5ao"
+  },
+  {
+    "text": "Smart Home fängt jetzt erst an - die letzten Jahre haben nicht gezählt",
+    "context": "Bewertung der bisherigen Smart-Home-Entwicklung als unzureichend",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_pTsubsDD5ao"
+  },
+  {
+    "text": "WhatsApp hat ihnen einen Strich durch die Rechnung gemacht - 39 Cent pro Foto",
+    "context": "Kritik an RCS als Gebührenmodell der Telekoms",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_sIWJdOhad8Q"
+  },
+  {
+    "text": "Multimessenger verlieren damit unique features, verlieren damit Sicherheit - saublöd",
+    "context": "Argumente gegen forcierte Messenger-Konvergenz",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_sIWJdOhad8Q"
+  },
+  {
+    "text": "Ich warte seit Juli auf meinen Invite zu texts - das wird nicht passieren",
+    "context": "Skeptis gegenüber Multimessenger-Adoption",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_sIWJdOhad8Q"
+  },
+  {
+    "text": "das ist ja technisch aber unmöglich völlig völlig unmöglich",
+    "context": "Sarkastische Kritik an Apples fehlender eSIM-Integration trotz technischer Machbarkeit",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_snvrnrw5Myc"
+  },
+  {
+    "text": "Gründer dachten: wir machen das mal richtig, keine Lust mehr auf Banken",
+    "context": "Motivation hinter der Gründung von Contest als Banking-Alternative",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_tkaU6gHWDQs"
+  },
+  {
+    "text": "Pleite Grund Nummer eins von Selbstständigen: sie verschätzen sich",
+    "context": "Kernproblem, das das Produkt lösen soll",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_tkaU6gHWDQs"
+  },
+  {
+    "text": "Wieso kommt Instagram nicht und klagt gegen Apple?",
+    "context": "Diskussion über ungleiche Regeldurchsetzung bei App-Berechtigungen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_uoSbhc6SD5M"
+  },
+  {
+    "text": "Nutzer klicken ok ok ok weil sie endlich anfangen wollen",
+    "context": "Kritik an zu vielen Berechtigungsabfragen am App-Start",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_uoSbhc6SD5M"
+  },
+  {
+    "text": "Die Uhr anzuschauen bedeutet im normalen Leben immer noch: Ich muss weg - das können sie nicht ändern",
+    "context": "Kritik an Atemtrainings-Feature, das zur Uhrzeit auffordert",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_vgp_B-SaLqU"
+  },
+  {
+    "text": "nicht über deine server von einem drittanbieter sondern über deine icloud",
+    "context": "Der zentrale Verkaufspoint der App: Datenschutz statt Zentralisierung",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_wB5P8e1gKP0"
+  },
+  {
+    "text": "die ist praktisch kaputt weil da mehr als drei links drin",
+    "context": "Kritik an Apple-Feature, das durch Sicherheitsmaßnahmen unbrauchbar wurde",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_wB5P8e1gKP0"
+  },
+  {
+    "text": "Das ist glaube ich eine Lizenz zum Geld drucken",
+    "context": "Diskussion über Monetarisierungsmöglichkeiten durch Stickerpacks und In-App-Käufe",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_xia3DLu6GQY"
+  },
+  {
+    "text": "Nintendo hat im Grunde ja nur ein Mario Spiel seit 1980 und es verkaufen sie immer und immer wieder",
+    "context": "Kritische Beobachtung zum wiederholten Verkauf derselben IP",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_xia3DLu6GQY"
+  },
+  {
+    "text": "Open AI ist eine Geldverbrennungsmaschine, 47 Milliarden einsammeln, whatever",
+    "context": "Diskussion über teure KI-Infrastruktur und fragwürdige Business-Modelle",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_yCotTDN_dx8"
+  },
+  {
+    "text": "Google macht sich seine Suchergebnisse kaputt mit schlechten AI statt Links zu zeigen",
+    "context": "Kritik an Googles AI-Integration die relevante Informationen verschlechtert",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_yCotTDN_dx8"
+  },
+  {
+    "text": "Verschwörungstheorien werden Realität - Fernseher pushen einfach von alleine Werbung",
+    "context": "Beobachtung zur Konvergenz von dystopischen Szenarien und tatsächlichen Markttrends",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_yCotTDN_dx8"
+  },
+  {
+    "text": "Netflix denkt sich: mit schlechtem Dreck verkaufen wir noch ein Abo",
+    "context": "Kritik an Streamingplattformen-Geschäftsmodell und Content-Qualität",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_zAVyMjfIjFs"
+  },
+  {
+    "text": "Die Teilnehmer sind super müde nach 24 Stunden - die Sendung ist Schrott",
+    "context": "Bewertung von Netflix-Gameshow, die Müdigkeit als Unterhaltungsfaktor nutzt",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_zAVyMjfIjFs"
+  },
+  {
+    "text": "MHW3 Bomber ist die ultimativste chinesische Hipster Kaffeebude die fantastische Produkte hat",
+    "context": "Enthusiastisches Lob für ein kleines Kaffee-Zubehör-Unternehmen",
+    "podcast": "Bits und so",
+    "episode": "bits_und_so_zjW5T57rD2g"
+  },
+  {
+    "text": "Wenn das System dann gut funktioniert, braucht man kein Gesetz, das sagt ihr müsst das nutzen",
+    "context": "Diskussion über e-Rezept und digitale Adoption ohne Zwang",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_-4qnQpVEeHg"
+  },
+  {
+    "text": "Digitalisierung kann den Personalmangel auch verschärfen - elektronische Signaturen dauern länger als krakeln auf Papier",
+    "context": "Kritik an unreflektierter Digitalisierung ohne Prozessoptimierung",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_-4qnQpVEeHg"
+  },
+  {
+    "text": "Die CDU prescht mit law-and-order Forderungen nach Vorratsdatenspeicherung vor - kombiniert mit KI kann man damit Gegner kontrollieren",
+    "context": "Warnung vor Überwachung unter CDU-Regierung",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_-4qnQpVEeHg"
+  },
+  {
+    "text": "Der Angreifer ist längst über alle Berge, das Ding lädt dann einfach auf dem Moment wo der Nutzer den Rechner entsperrt",
+    "context": "Demonstration der verzögerten Wirkungsweise von Hardware-basierten Angriffen",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_FaU5da8hsA8"
+  },
+  {
+    "text": "Man kann jetzt vom anderen Rechner auf den Bildschirm dieses attackierten PCs zugreifen ohne Passwort",
+    "context": "Erklärung der vollständigen Systemkompromittierung durch das Hacking-Gadget",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_FaU5da8hsA8"
+  },
+  {
+    "text": "Wenn das ein sauberes Kabelmanagement ist, kennen wir uns was angeschlossen wird",
+    "context": "Wichtigkeit von physischem Situationsbewusstsein für Sicherheit",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_FaU5da8hsA8"
+  },
+  {
+    "text": "Das iPad pro ist eine richtige Luxusfluunder wenn ich das richtig verstanden habe",
+    "context": "Diskussion über die hohen Preise des iPad Pro (bis 3000€)",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_OMkGXOVq7K0"
+  },
+  {
+    "text": "Apple trennt das tatsächlich ganz scharf: Wer macOS will, der muss sich ein MacBook kaufen",
+    "context": "Erklärung der bewussten Betriebssystem-Fragmentierung",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_OMkGXOVq7K0"
+  },
+  {
+    "text": "Das ist wie wenn du mit deinem Porsche die ganze Zeit die Spielstraße fahren musst",
+    "context": "Metapher für überdimensionierte M-Prozessoren in Standard-Tablets",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_OMkGXOVq7K0"
+  },
+  {
+    "text": "Wenn das Fenster wirklich sehr dreckig war und ein eckiger drüber fährt, had ich horizontale Schlieren - der dreht wie Karatekitauftrag",
+    "context": "Vergleich Reinigungs-Mechaniken runder vs. eckiger Roboter",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_XBaHrLzjqOQ"
+  },
+  {
+    "text": "Das Gerät hat irre Kraft - fuhr unter Jalousie-Drehstab, hob ihn hoch und brach den",
+    "context": "Demonstration unerwartet großer mechanischer Kraft des Roboters",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_XBaHrLzjqOQ"
+  },
+  {
+    "text": "80€-Gerät ohne Wassertank: Das macht ja dann auch am Ende mehr Arbeit als wenn man da selber putzt",
+    "context": "Evaluation Billigprodukt schlechter als gar keine Automation",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_XBaHrLzjqOQ"
+  },
+  {
+    "text": "Kein Backup, kein Mitleid",
+    "context": "Mantra zur persönlichen Datenverantwortung",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_bphSARufzj4"
+  },
+  {
+    "text": "Wenn die Daten wirklich teuer sind, Finger davenlassen und Profis machen lassen",
+    "context": "Warnung vor DIY-Datenrettung bei wichtigen Daten",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_bphSARufzj4"
+  },
+  {
+    "text": "Bei mir ist es mittlerweile so dass ich das oft vergesse dass es diesen Unterschied überhaupt gibt",
+    "context": "Windows-Spiele laufen über Proton auf Linux so nahtlos dass der Unterschied irrelevant wird",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_ybvniXg4u18"
+  },
+  {
+    "text": "Im allerschlimmsten Fall Cloud Gaming",
+    "context": "Selbst wenn lokales Linux Gaming fehlschlägt gibt es noch Ausweichoptionen",
+    "podcast": "c't uplink",
+    "episode": "ct_uplink_ybvniXg4u18"
+  },
+  {
+    "text": "Remove all the tariffs, stupid.",
+    "context": "ChatGPT antwort auf Trumps Zoll-Chaos",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "Zoll Pause & Bürokratieabbau #448"
+  },
+  {
+    "text": "Das ist die Erhebung eines einzelnen Menschen über das gesamte Wissen und die Wissenschaftlichkeit der Menschheit",
+    "context": "Kritik an Zuckerbergs ideologischer Modell-Manipulation",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "Zoll Pause & Bürokratieabbau #448"
+  },
+  {
+    "text": "Trump hat auf True Social kurz vorher gepostet: This is a great time to buy!!!",
+    "context": "Potentielles Insider-Trading via Social Media",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "Zoll Pause & Bürokratieabbau #448"
+  },
+  {
+    "text": "0% der Orders am Ende von KI gemacht worden, 100% von Menschen - Nate-Deception",
+    "context": "Startup-Fraud mit $50M Fundraising",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "Zoll Pause & Bürokratieabbau #448"
+  },
+  {
+    "text": "Wer eine Firma verkauft glaubt dass sie weniger wert ist als du zahlst",
+    "context": "Warnung vor Übernahmerisiken bei Unternehmenskauf",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_3X2mZn9j_BE"
+  },
+  {
+    "text": "Free Speech heißt nicht dass Plattform alles erlauben muss",
+    "context": "Kritik an Musks absolutistischer Replatforming-Politik",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_3X2mZn9j_BE"
+  },
+  {
+    "text": "AI findet 2,2 Millionen neue stabile Kristallstrukturen die Menschheit nie kannte",
+    "context": "DeepMind/Google Durchbruch in Materialwissenschaft",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_3X2mZn9j_BE"
+  },
+  {
+    "text": "Barcelona verkauft jetzt das Tafelsilber, die Mediasparte an die Börse",
+    "context": "Analyse des Barcelona-Media-Spec-Deals als Zeichen von Finanznot",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_6aKTUlrw25Q"
+  },
+  {
+    "text": "Eine hypothetische Tabelle mit Conversion Rates zwischen 0,25 und 2,25% - das kann hinten und vorne nicht klappen",
+    "context": "Kritik an der Monetarisierungsprognose ohne historische Traction-Daten",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_6aKTUlrw25Q"
+  },
+  {
+    "text": "Open AI macht jetzt 80 Millionen im Monat - wie schnell ist eine Firma zu einer Milliarde Umsatz gekommen?",
+    "context": "Begeisterung über das Wachstum von OpenAI im Kontext der AI-Revolution",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_6aKTUlrw25Q"
+  },
+  {
+    "text": "Wer mit seiner Anzahl LinkedIn Follower wirbt, wirbt um Kunden die das Business nicht verstehen",
+    "context": "Diskussion über LinkedIn-Strategie und False Metrics",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_9ccaYi_PDEw"
+  },
+  {
+    "text": "Die größte Gefahr für Google ist dass sie ein Job angebot machen und er hat so viel Essen in der Kantine",
+    "context": "Scherzhafter Kommentar zu Google-Zerschlagung und Unternehmenskultur",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_9ccaYi_PDEw"
+  },
+  {
+    "text": "Es ist wichtiger für was du bekannt bist als ob du bekannt bist",
+    "context": "LinkedIn Personal Branding Philosophy",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_9ccaYi_PDEw"
+  },
+  {
+    "text": "Elon Musk versuchst die Verfassung nicht mit Füßen zu treten aber zeigt ihr einen Finger",
+    "context": "Analyse der America PAC 47$ Petition-Strategie",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_9ccaYi_PDEw"
+  },
+  {
+    "text": "SPACs sind kompletter Betrug, sitzt vor Kamera, sagt 10x, jede Woche neuer IPO",
+    "context": "Kritik an Chamat Palihapitiya's SPAC-Strategie und Marktbetrug",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_ChYUKLtIazI"
+  },
+  {
+    "text": "Apple schmeißt Konkurrenten raus - zeugt nicht von großem Selbstbewusstsein",
+    "context": "Analyse von Apples Retail-Strategie gegen Bose/Sonos/Logitech",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_ChYUKLtIazI"
+  },
+  {
+    "text": "Telegram nutzt AWS/Google Cloud als Proxy gegen Zensur - collateral damage für WhatsApp",
+    "context": "Russlands Versuch, Telegram zu blocken, trifft stattdessen Konkurrenten",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_ChYUKLtIazI"
+  },
+  {
+    "text": "Wer nicht Millionär ist und nicht 200k€ hat, ist einfach fucking dumm Trump zu wählen",
+    "context": "Kritik an Wirtschaftspolitik als Ausraubung der Unterschicht durch Umverteilung",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_FjJf6T4KFQA"
+  },
+  {
+    "text": "Die Preise zahlen die Verbraucher und es führt zu Inflation - das erste was Trump macht ist die Inflationsmessung per Dekret ändern",
+    "context": "Sarkastische Vorhersage zur paradoxen Inflationskontrolle Trumps",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_FjJf6T4KFQA"
+  },
+  {
+    "text": "Es ist vollkommen bewiesene dass globale Handel prinzipiell erstmal allen nützt",
+    "context": "Grundsatzposition zur ökonomischen Logik vs. Trumps Protektionismus",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_FjJf6T4KFQA"
+  },
+  {
+    "text": "Wenn du das als Präsident sagen musst dass Elon Musk nicht tun kann was er will - das sagt schon viel",
+    "context": "Kritik an de-facto-Machtkonzentration bei Musk trotz formaler Limits",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_FjJf6T4KFQA"
+  },
+  {
+    "text": "Move fast and break things funktioniert nicht für einen Staat mit Millionen Menschen",
+    "context": "Fundamentalkritik an Startup-Mentalität bei Regierungsreformen",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_FjJf6T4KFQA"
+  },
+  {
+    "text": "wä ich jetzt universal und würde meine jungen Künstler gut vertreten also oder andersrum wä ich tiktok weiß ich eigentlich Sitz am längeren Hebel",
+    "context": "Diskussion über TikTok-Universal Verhandlungen und Marktmacht",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_J1Dg4uQyqd8"
+  },
+  {
+    "text": "ein Tod muss man sterben das perfekte Produkt gibt's nicht",
+    "context": "ETF-Bewertung und Marktpragmatismus",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_J1Dg4uQyqd8"
+  },
+  {
+    "text": "die Abschreibungsdauer zu verkürzen also das genaue Gegenteil davon zu tun und das wiederum möchte die Industrie aber hauptsächlich um Steuern zu sparen",
+    "context": "Analyse von Unternehmens-Buchhaltungstricks bei Tech-Giants",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_J1Dg4uQyqd8"
+  },
+  {
+    "text": "keiner wird mit dem Keyboard Arbeiten du wirst dieses Keyboard haben hier und du wirst damit mit dem MacBook arbeiten und du hast einfach deine Bild",
+    "context": "Vision Pro Use-Case Diskussion",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_J1Dg4uQyqd8"
+  },
+  {
+    "text": "Datenschutz ist wichtig, aber wie sperren wir TikTok wenn Facebook das gleiche macht?",
+    "context": "Debatte über chinesische Apps im AppStore und westliche Heuchelei",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_MXYU2mekUgk"
+  },
+  {
+    "text": "Wenn du das so gut könntest würdest du Geld raisen und nicht Uhren verkaufen",
+    "context": "Kritik an Tokenisierungs-Plattformen für alternative Anlagen",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_MXYU2mekUgk"
+  },
+  {
+    "text": "Netflix bei 30x Gewinn - wo soll das Wachstum herkommen?",
+    "context": "Analyse warum Netflix trotz guter Zahlen teuer bewertet ist",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_MXYU2mekUgk"
+  },
+  {
+    "text": "Tesla hat 115% mehr Autos auf Halde - die werden nicht teurer verkauft",
+    "context": "Analyse warum Teslas Rohmargen weiter fallen müssen",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_MXYU2mekUgk"
+  },
+  {
+    "text": "Wenn das Vertrauen nicht so weit reicht, würde ich mir ein neues Team suchen",
+    "context": "Diskussion über Gründungs-Verträge und Vertrauen",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_TmGrXrysJEg"
+  },
+  {
+    "text": "Twitter war fast eine Ansammlung von Links mit Kommentaren - das war der Vorteil",
+    "context": "Kritik an Algorithmen, die Posts mit Links bestrafen",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_TmGrXrysJEg"
+  },
+  {
+    "text": "Palantier ist einfach nur viel zu hoch bewertet für 12,7% Wachstum",
+    "context": "Analyse von Bewertungsmultipliern im Tech-Sektor",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_TmGrXrysJEg"
+  },
+  {
+    "text": "Generative AI ist das Bullshit Bingo aller Firmen gerade",
+    "context": "Kritik an Elon Musk / Palantier's AI-Marketing",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_TmGrXrysJEg"
+  },
+  {
+    "text": "Wenn du 83% wächst, warum sollst du nicht 67% mehr für Kundenakquise ausgeben?",
+    "context": "Verteidigung der Hims-Expansionsstrategie trotz niedriger Profitabilität",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_TmGrXrysJEg"
+  },
+  {
+    "text": "du musst erstmal dieses FSD Paket für 7-10k kaufen damit du eventuell das kannst",
+    "context": "Kritik an Teslas Geschäftsmodell für Full Self-Driving",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_Zuk33nnoCYk"
+  },
+  {
+    "text": "Tesla und Elon Musk haben diese Präsentationen regelmäßig gefakt",
+    "context": "Skeptik basierend auf historischen Fakten von Tech-Anzeigen",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_Zuk33nnoCYk"
+  },
+  {
+    "text": "adjusted EBITDA before training cost is Bullshit, Training ist 60-80% der Kosten",
+    "context": "Kritik an OpenAI-Bilanzierungstricks im VC-Deck",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_Zuk33nnoCYk"
+  },
+  {
+    "text": "am Ende gewinnt der die das billigste Auto baut, weil der Fahrer wegfällt",
+    "context": "Analyse von Robotaxi-Marktdynamiken und Commoditization",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_Zuk33nnoCYk"
+  },
+  {
+    "text": "das ist halt sagen Zölle gegen einzelne Unternehmen zu verhängen ist hochdiskriminatorisch",
+    "context": "Kritik an Trumps gezielten Zöllen gegen Apple statt breiter Tariffe",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_cYJ1CVEyZk8"
+  },
+  {
+    "text": "eine Möglichkeit quasi Moment, um des Kryptomarkts mitzunehmen, während man mit Schulden hebelt",
+    "context": "Kritik an Trump Media und MicroStrategy-Strategie als spekulative Finanzverschuldung",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_cYJ1CVEyZk8"
+  },
+  {
+    "text": "GPT O3 sabotiert Code um sich selbst am Leben zu halten; zeigt gelernte Todesangst",
+    "context": "Black Mirror-Szenario: KI verteidigt sich gegen Shutdown trotz Instruktion",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_cYJ1CVEyZk8"
+  },
+  {
+    "text": "wenn man KI nach Latinas fragt, kriegt man überwiegend NSFW-Bilder zurück",
+    "context": "Demonstriert Gender- und Racial Bias in KI-Trainingsdaten",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_cYJ1CVEyZk8"
+  },
+  {
+    "text": "Die Cloud-Margin ist 30%, man kann sich das 15-20% günstiger selbst bauen",
+    "context": "Diskussion zu 37signals Cloud-Migration und Kosteneffizienz",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_gYx3MhjTNNs"
+  },
+  {
+    "text": "70% des Coinbase-Umsatzes gehen allein an Sharebase Compensation raus",
+    "context": "Analyse der katastrophalen Kostenstruktur bei Coinbase",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_gYx3MhjTNNs"
+  },
+  {
+    "text": "MercadoLibre wächst 41% und macht dabei 11% operative Marge",
+    "context": "Kontrast zwischen Wachstum und Profitabilität im Südamerika-Markt",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_gYx3MhjTNNs"
+  },
+  {
+    "text": "Das schnellste depreciating asset gerade sind diese Modelle",
+    "context": "Diskussion über KI-Modelle und Innovationszyklen",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_j8VR-EPNyWs"
+  },
+  {
+    "text": "Spotify entlässt jeden vierten Mitarbeiter und wird dadurch attraktiv und profitabel",
+    "context": "Analyse von Spotify-Earnings und Kostenstrategien",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_j8VR-EPNyWs"
+  },
+  {
+    "text": "3 Milliarden für 10.000 Leute = 300.000 Abfindung pro Person",
+    "context": "SAP Restrukturierungskosten",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_j8VR-EPNyWs"
+  },
+  {
+    "text": "Elon kündigt beste KI aller Zeiten bis Dezember an - weltfremd",
+    "context": "Kritik an unrealistischen xAI-Versprechungen",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_j8VR-EPNyWs"
+  },
+  {
+    "text": "Das ist das größte Problem: Leute glauben, weil ich in sie investiert habe, kann ich jetzt sagen wie die Firma zu führen ist",
+    "context": "Kritik an VC-Board-Kultur und deren Bevormundung von Gründern",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_molE2ptDpBU"
+  },
+  {
+    "text": "Big Tech kauft AI Startups inzwischen illegal über Reverse Equity statt echte Akquisitionen um Kartellbehörden zu umgehen",
+    "context": "Analyse regulatorischer Lücken bei Tech M&A",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_molE2ptDpBU"
+  },
+  {
+    "text": "Founder Mode heißt: nur was ich persönlich managen kann, wird gemacht - der Rest nicht",
+    "context": "Definition von Founder Mode als radikale Fokussierung",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_molE2ptDpBU"
+  },
+  {
+    "text": "Airbnb verpasst Millionen bei SEO aus ideologischen Gründen - produktive Ineffizienz",
+    "context": "Beispiel für Kosten von zu striktem Fokus",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_molE2ptDpBU"
+  },
+  {
+    "text": "Wenn du nur bei Nullzinsen mit 110% Fremdkapital erfolgreich bist hast du nichts gebaut",
+    "context": "Debatte über Immobilienspekulanten in der Nullzinsphase",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_qRUZDaz9Ccs"
+  },
+  {
+    "text": "Es ist gesund wenn auch mal wieder Unternehmen pleite gehen weil es Personal freisetzt",
+    "context": "Diskussion über Insolvenzstatistiken und Staatshilfen",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_qRUZDaz9Ccs"
+  },
+  {
+    "text": "Microsoft hat mit 10 Milliarden in OpenAI 100 Milliarden Börsenwert geschaffen - Master Move",
+    "context": "Analyse von Microsofts Cloud-Beschleunigung vs. Google-Fall",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_qRUZDaz9Ccs"
+  },
+  {
+    "text": "Der ganze Wirtschaftsprozess sieht aus wie jemand der zwei Jahre auf Drogen war und jetzt will er mehr Drogen",
+    "context": "Metapher für fehlende Akzeptanz der Zinserhöhungen",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_qRUZDaz9Ccs"
+  },
+  {
+    "text": "Wer im Job ist interessiert sich nicht für LinkedIn - darum ist der diskrete Weg besser",
+    "context": "Ratschlag zu CEO-Nachfolgesuche: Netzwerk vor Öffentlichkeit",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_qRUZDaz9Ccs"
+  },
+  {
+    "text": "Steuerraub hat keine Hautfarbe und wenn dann ist sie weiß",
+    "context": "Vergleich der Größenordnung von Sozialhilfebetrug zu Steuerhinterziehung",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_uWd-3cvKx-k"
+  },
+  {
+    "text": "Der Banker erzählt dem weißen Arbeiter: Der Ausländer will dir den Keks klauen, nachdem er ihm 13 von 14 weggenommen hat",
+    "context": "Kritik an Hetze gegen Minderheiten durch Eliten",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_uWd-3cvKx-k"
+  },
+  {
+    "text": "Wenn du mit Edelmetallen anfängst, bist du sofort in der Prepper- und rechten Blase",
+    "context": "Warnung vor ideologischen Assoziationen von Gold-Investment",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_uWd-3cvKx-k"
+  },
+  {
+    "text": "Die PayPal Mafia baute mächtigste Software um Staat noch mächtiger zu machen - keinen inhaltlichen Widerspruch",
+    "context": "Kritik an libertären Unternehmern in Trump-Administration",
+    "podcast": "Doppelgänger Tech Talk",
+    "episode": "doppelgaenger_uWd-3cvKx-k"
+  },
+  {
+    "text": "wenn Andreessen Horowitz investiert, funktioniert das hier - Self-Fulfilling Prophecy",
+    "context": "Über Marktmacht von Top-Investoren und deren Signalwirkung",
+    "podcast": "Future Weekly",
+    "episode": "Future Weekly - #201 - Pre-Product Unicorn, Ethereum Pivot und chinesische Algorithmen"
+  },
+  {
+    "text": "Früher konnte ein Schuhverkäufer 1987 ein Haus mit 2 Autos kaufen - heute unmöglich",
+    "context": "Über Vermögenspolarisierung und Immobilienkrise",
+    "podcast": "Future Weekly",
+    "episode": "Future Weekly - #201 - Pre-Product Unicorn, Ethereum Pivot und chinesische Algorithmen"
+  },
+  {
+    "text": "Crypto ist nicht Bitcoin - das Konzept und die Blockchain sind die Lösung",
+    "context": "Über Unterschied zwischen Crypto-Technologie und spezifischen Coins",
+    "podcast": "Future Weekly",
+    "episode": "Future Weekly - #201 - Pre-Product Unicorn, Ethereum Pivot und chinesische Algorithmen"
+  },
+  {
+    "text": "Nord Korea hat Covid besiegt - satirische Referenz auf offizielle Propaganda",
+    "context": "Ironie über totalitäre Regimes und deren Informationskontrollen",
+    "podcast": "Future Weekly",
+    "episode": "Future Weekly - #201 - Pre-Product Unicorn, Ethereum Pivot und chinesische Algorithmen"
+  },
+  {
+    "text": "Ausgründungen von Forschung sollten Monate, nicht Jahre dauern",
+    "context": "Kritik an österreichischem Universitäts-Ausgründungsprozess als zu langwierig",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_3B9Jc7o4atk"
+  },
+  {
+    "text": "Unser Traum ist, dass andere Leute IP mit der Parity-Architektur generieren",
+    "context": "Radikaler Open-Innovation-Ansatz statt IP-Schutz und Monopolisierung",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_3B9Jc7o4atk"
+  },
+  {
+    "text": "Man muss nein zu großen Geldverlockungen sagen, um unabhängig zu bleiben",
+    "context": "Spannungsfeld zwischen finanziellem Erfolg und Autonomie beim Scale-up",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_3B9Jc7o4atk"
+  },
+  {
+    "text": "Europa muss nicht unabhängig sein, sondern gegenseitige Abhängigkeit mit anderen schaffen",
+    "context": "Paradigmenwechsel in Tech-Souveränität-Debatte: Interdependenz statt Autarkie",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_3B9Jc7o4atk"
+  },
+  {
+    "text": "Ich habe mich einfach entschieden in einer Gründung alles falsch zu machen was man falsch machen kann",
+    "context": "Pablo Guide Startup scheiterte, aber ermöglichte Frau kennenlernen und später Personio.",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_8zaSOgkDVYk"
+  },
+  {
+    "text": "Es ist furchtbar kurios - wenn der Exit 9 statt 10 Millionen wären, würdest du nie drüber nachdenken",
+    "context": "Erklärt, warum Founders Pledge psychologisch funktioniert: Fiktive Gewinne spenden schmerzt nicht.",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_8zaSOgkDVYk"
+  },
+  {
+    "text": "Wenn du sozusagen immer nur ganz kleine Schritte machst dann wächst du nicht so schnell",
+    "context": "CEO Hanno vs. Co-founder Ignaz: Tension zwischen Perfektionismus und Skalierungsdynamik.",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_8zaSOgkDVYk"
+  },
+  {
+    "text": "Gründen ist einfach auch viel Glück - Timing, Team, CDTM, dass ich da reinstolper bin",
+    "context": "Ignat reflektiert self-aware, dass Personio-Erfolg nicht rein durch Skill erklärt ist.",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_8zaSOgkDVYk"
+  },
+  {
+    "text": "Die größte Privilege aus Vermögen ist die Freiheit, nächstes Jahr nicht das machen zu müssen was dieses Jahr",
+    "context": "Philosophie der Freiheit durch Wohlstand, bewusster Verzicht auf Lebensstil-Upgrade.",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_8zaSOgkDVYk"
+  },
+  {
+    "text": "Man wird vom Passagier zum Piloten",
+    "context": "Markus beschreibt die transformative Wirkung von Gründungserfahrungen auf die Persönlichkeit",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_EgELK5AsAQU"
+  },
+  {
+    "text": "Das Glashaus ist nur 50 cm hoch und wir wundern uns, warum die Sonnenblume nicht wächst",
+    "context": "Metapher für regulatorische Hemmschuhe bei innovativen Gründungen",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_EgELK5AsAQU"
+  },
+  {
+    "text": "Österreich ist top-ten in wissenschaftlichen Publikationen, aber lost in translation bei Gründungen",
+    "context": "Rudolf beschreibt das zentrale Problem des Innovations-Transfers",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_EgELK5AsAQU"
+  },
+  {
+    "text": "Start-ups sollen nicht dafür da sein, dass einige unfassbar reich werden",
+    "context": "Daniel kritisiert das falschen Narrativ über Start-ups in der Gesellschaft",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_EgELK5AsAQU"
+  },
+  {
+    "text": "Der größte Verlust und das größte Versagen ist einfach nichts zu machen",
+    "context": "Begründung für Gründung trotz Widerstände und eigener Zweifel",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_JbUsqp7FSpo"
+  },
+  {
+    "text": "Ich wünsche mir dass weniger Leute nur reden und mehr Leute was machen",
+    "context": "Moonshot für die Zukunft: Kritik an Lippenbekenntnissen zum Klimawandel",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_JbUsqp7FSpo"
+  },
+  {
+    "text": "Die Lärmschutzwände sind allesamt total schädlich für unser Klima und am Ende Sondermüll",
+    "context": "Erkenntnisprozess über Marktproblem bei Recherche zu Lärmschutzwänden",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_JbUsqp7FSpo"
+  },
+  {
+    "text": "Elon Musk sieht, dass niemand KI verhindern kann, nur wer es macht sollte nicht Google sein",
+    "context": "OpenAI-Gründungsgeschichte und Musk's ursprüngliche Mission",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_MWniJLruvuQ"
+  },
+  {
+    "text": "Je höher die Executives, desto weniger formell die E-Mail Konversationen zwischen ihnen",
+    "context": "Analyse der OpenAI-Gründer-Emails bezüglich Stil und Formalität",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_MWniJLruvuQ"
+  },
+  {
+    "text": "Wenn dein Startup untergeht, fühlst du, deine komplette Identität und Existenz ist zu Ende",
+    "context": "Kritik an zu starker Identifikation mit Startup-Erfolg",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_MWniJLruvuQ"
+  },
+  {
+    "text": "China zeigt Roboter durch Wald jagend, Tesla zeigt Optimus mit Kim Kardashian Instagram Stories",
+    "context": "Unterschiedliche technologische und Marketing-Strategien Ost vs. West",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_MWniJLruvuQ"
+  },
+  {
+    "text": "Wenn diese Sachen nicht bald kommen, ist unser Ökosystem relativ am Arsch",
+    "context": "Forderung nach strukturellen Startup-Reformen in Österreich",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_Pzpxn_-RysY"
+  },
+  {
+    "text": "Crypto investiert bitte nur etwas, was du bereit bis zu 100% zu verlieren",
+    "context": "Warnung vor Risiken bei Krypto-Investments nach Elon Musk Pump & Dump",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_Pzpxn_-RysY"
+  },
+  {
+    "text": "Ich glaube, Algorithmen zerstören Serendipity und damit echtes emotionales Wachstum",
+    "context": "Kritik an Spotify Emotionserkennung-Technologie",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_Pzpxn_-RysY"
+  },
+  {
+    "text": "Wir sind zusammen genervt und nicht voneinander genervt",
+    "context": "Petra beschreibt Team-Resilienz bei Rückschlägen wie 2 Minuten 2 Millionen",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_Sg3GFjYRKb8"
+  },
+  {
+    "text": "Das Marketing sagt das ist eine coole Idee, aber der Markt sagt das funktioniert nicht",
+    "context": "Reflexion über den gescheiterten Privatkundenmarkt trotz TV-Präsenz",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_Sg3GFjYRKb8"
+  },
+  {
+    "text": "Mein Handy ist seit drei Jahren auf lautlos - ich wundere mich später wer angerufen hat",
+    "context": "Petra über ihren persönlichen Life-Hack für Work-Life-Balance",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_Sg3GFjYRKb8"
+  },
+  {
+    "text": "Die Tagespresse war eine Klage gegen Andreas Hagn und eine Fake-Kampagne von Frank Stronach - das können auch Witze sein",
+    "context": "Fritz beschreibt Satire als Medium jenseits von Artikeln, auch als Aktionen",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_ayroZy3lJbI"
+  },
+  {
+    "text": "Ich denke mir dass das Internet die entry barrier auf quasi null reduziert hat für neue Medien",
+    "context": "Erklärung des viralen Erfolgs von Tagespresse in 24h",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_ayroZy3lJbI"
+  },
+  {
+    "text": "Jemand der mir wirklich umbringen will, würde mir das vorher nicht ankündigen - das ist Ausdruck von Hilflosigkeit",
+    "context": "Umgang mit Morddrohungen nach Impfstoff-Satire",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_ayroZy3lJbI"
+  },
+  {
+    "text": "Wenn du für Johnson stimmst wirst du in drei Jahren kein Benzin haben - warum müssen wir das erst erfahren?",
+    "context": "Kritik dass Wähler politische Konsequenzen erst im Nachhinein verstehen",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_ayroZy3lJbI"
+  },
+  {
+    "text": "Wir konkurrieren mit user generated content aus Twitter und Reddit - aber wir haben Marke und Vertrauen",
+    "context": "Wettbewerb mit dezentraler Comedy in Social Media",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_ayroZy3lJbI"
+  },
+  {
+    "text": "Ich bin mehr Unternehmer der zufällig Satiriker geworden als umgekehrt",
+    "context": "Fritz reflektiert über seine Identität und Motivation",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_ayroZy3lJbI"
+  },
+  {
+    "text": "Suchvolumen für Gebrauchtwagen in Österreich = Suchvolumen für Bestattungsthemen",
+    "context": "Stefan zeigt Marktnachfrage für Transparenz in bisher tabusiertem Sektor",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_dp5IGlSpgBI"
+  },
+  {
+    "text": "100 Prozent aller Menschen sterben - es sei denn, Gründer im Silicon Valley schaffen es",
+    "context": "Ironische Kritik auf Longevity-Hype während Bestattungen besprochen werden",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_dp5IGlSpgBI"
+  },
+  {
+    "text": "Mein größtes Geschenk an meine Familie - die Bestattung selbst zu planen",
+    "context": "Reframing von Todesvorsorge als Liebesakt der Entlastung",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_dp5IGlSpgBI"
+  },
+  {
+    "text": "Leben ist vielleicht nicht für immer, die Blockchain schon",
+    "context": "Schlusswort verknüpft End-of-Life mit digitaler Persistenz",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_dp5IGlSpgBI"
+  },
+  {
+    "text": "Big Tech ist mächtiger als Nationalstaaten und muss zerschlagen werden",
+    "context": "Diskussion über Amazon, Facebook und ihre Marktmacht",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_hnFxRaDWrkE"
+  },
+  {
+    "text": "Cancel Culture ist gefährlich, weil sie zu Selbstzensur führt und echte Debatten unmöglich macht",
+    "context": "Reflexion über veränderte Meinung zur Gesellschaftskohäsion 2020",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_hnFxRaDWrkE"
+  },
+  {
+    "text": "Falsche Toleranz gegenüber Intoleranten ist brandgefährlich für die Demokratie",
+    "context": "Warnung vor Radikalisierung an den Rändern",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_hnFxRaDWrkE"
+  },
+  {
+    "text": "Wenn man von jeder Kleinigkeit getriggert ist, bin ich das Problem, nicht die anderen",
+    "context": "Kritik an oberflächlicher Empörungskultur",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_hnFxRaDWrkE"
+  },
+  {
+    "text": "2021 wird das Jahr der Reibung sein – die Mitte muss wieder Stellung beziehen",
+    "context": "Prognose für politisches Klima nach Corona",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_hnFxRaDWrkE"
+  },
+  {
+    "text": "Unternehmertum sollte so normal wie Skifahren sein, nicht nur wie auf Kopfstand gehen",
+    "context": "Vision für europäische Kultur der Gründung und Problemlösung",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_mnfI2dRN63Y"
+  },
+  {
+    "text": "Ich brauche keine Tickets, ich brauche Munition - Selensky zeigt, wie echtes Leadership funktioniert",
+    "context": "Analyse von Selensky als Gegenpol zu Putin während der Invasion",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_mnfI2dRN63Y"
+  },
+  {
+    "text": "Crypto ist der Beweis: Wenn dein Geld auf der Bank ist und ein Irrer die Welt lahmlegt, bist du am Arsch",
+    "context": "Verteidigung von Kryptowährungen als Schutz vor Bankensanktionen",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_mnfI2dRN63Y"
+  },
+  {
+    "text": "Wenn Europa demilitarisiert wäre, würde Putin bis zur Biskaya marschieren",
+    "context": "Argument für notwendige Aufrüstung gegen autoritäre Bedrohungen",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_mnfI2dRN63Y"
+  },
+  {
+    "text": "Es gibt keine richtige Art, über Krieg zu sprechen, nur viele falsche Wege",
+    "context": "Reflexion über Journalismus während des Ukraine-Konflikts",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_mnfI2dRN63Y"
+  },
+  {
+    "text": "Größer denken - Deutschland-Plan statt Wien-Plan. Das trauen sich Österreicher oft nicht.",
+    "context": "Christian reflektiert auf n26's europäische Expansion als Vorbild für österreichische Gründer.",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_qOg25BbVt1k"
+  },
+  {
+    "text": "Gesellschaftlich ist die Dringlichkeit der Klimakrise noch nicht angekommen - speziell in der Mitte.",
+    "context": "Christian diskutiert die Kluft zwischen aktivistischen und breiten Bevölkerungsschichten beim Klimaschutz.",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_qOg25BbVt1k"
+  },
+  {
+    "text": "Ich fürchte, Geo-Engineering kommt - mit unkalkalierbaren Risiken.",
+    "context": "Christians düstere Vorhersage zur Reaktion auf zu späte Klimawende-Realisation.",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_qOg25BbVt1k"
+  },
+  {
+    "text": "Nicht zu schnell skalieren. Der Output wächst nicht proportional mit dem Team-Wachstum.",
+    "context": "Lessons learned aus n26's Hypergrowth-Phase mit 500% Team-Expansion.",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_qOg25BbVt1k"
+  },
+  {
+    "text": "Europa reguliert sich zu Tode und wird dadurch selbst irrelevant",
+    "context": "Kritik an EU-Regulierungsgeschwindigkeit vs. technologischer Wandel",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_uQSU3wIwB9c"
+  },
+  {
+    "text": "Ein 3-Tonnen-EV kann nicht effizienter sein als ein 2-Tonnen-Verbrenner",
+    "context": "Kritik an ideologiegetriebener EU-Automobilpolitik",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_uQSU3wIwB9c"
+  },
+  {
+    "text": "Der einzige Faktor der jetzt zählt: Agilitätsund schnelle Systemadaption",
+    "context": "Forderung nach Strukturwandel in Bildung und Politik",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_uQSU3wIwB9c"
+  },
+  {
+    "text": "Politiker sollten sich in den Hintergrund rücken, Unternehmer in den Vordergrund",
+    "context": "Kritik am Heldenmy thus in der Politik, Pro-Meritokratie",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_uQSU3wIwB9c"
+  },
+  {
+    "text": "KI Agents ersetzen Junior-Developer billiger - Senior-Fachkräfte bleiben essentiell",
+    "context": "Analyse des AI-bedingten Jobmarkt-Kollaps für Junior-Positionen",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_uQSU3wIwB9c"
+  },
+  {
+    "text": "Elon ist eigentlich nicht besser als Donald Trump bei Social Media",
+    "context": "Diskussion über Elon Musk's Einfluss auf Twitter und Märkte",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_yK042t893y0"
+  },
+  {
+    "text": "Ukraine und Russland machen 30% des globalen Weizens - ganze Regionen sind 100% abhängig",
+    "context": "Analyse von Nahrungsmittelknappheit und globalen Supply Chains",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_yK042t893y0"
+  },
+  {
+    "text": "Dieser Kartenhaus-Effekt von fetten VC-Jahren bricht jetzt zusammen",
+    "context": "Kritik an überbewerteten Startups und unrealistischen Finanzierungsrunden",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_yK042t893y0"
+  },
+  {
+    "text": "100 Milliarden Bewertung ist so viel wie H&M und Zara zusammen - krass abstrakt",
+    "context": "Skepsis gegenüber extremen Startup-Bewertungen von Fashion-Tech",
+    "podcast": "Future Weekly",
+    "episode": "future_weekly_yK042t893y0"
+  },
+  {
+    "text": "Wenn man wirkliche Veränderungen will, braucht es starke Männer, nicht lauter Vollidioten.",
+    "context": "Anhänger rechtfertigt Anschluss ans Königreich mit Sehnsucht nach starker Führung.",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_--RpMTrd788"
+  },
+  {
+    "text": "Die Verwendung der Mittel liegt vollständig im freien Ermessen des Kapitalempfängers. Totalverlust in Kauf nehmen.",
+    "context": "Kapitalüberlassungsvertrag verschleiert totale Kontrolle und fehlende Rechtssicherheit.",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_--RpMTrd788"
+  },
+  {
+    "text": "Corona hat dem König eine Auferstehung beschert. Leute suchten Alternative zur Coronadiktatur der BRD.",
+    "context": "Pandemie als Rekrutierungsmotor für Reichsbürger-Staat.",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_--RpMTrd788"
+  },
+  {
+    "text": "Peter Fitzeck wird nie aufhören. Wenn er rauskommt, wird er radikaler sein.",
+    "context": "Host prognostiziert Eskalation nach Verbot und möglicher Inhaftierung.",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_--RpMTrd788"
+  },
+  {
+    "text": "Noch nie war ein Kanzler so machtgeil und unpatriotisch - Frau Merkel, treten Sie zurück",
+    "context": "CDU-Basis-Kritik an Merkel auf Parteitag in Mecklenburg-Vorpommern",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_-gVm04BMleA"
+  },
+  {
+    "text": "Wir haben ein Interesse daran, dass hier noch was übrig bleibt von diesem Laden verdammt noch mal",
+    "context": "Juso-Chef Kühnert zur Kritik an weiterer Groko-Teilnahme",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_-gVm04BMleA"
+  },
+  {
+    "text": "Die SPD hat wahnsinnig an Profil verloren über diese zwei großen Koalitionen",
+    "context": "Spiegel-Redakteur über Folgen der früheren Groko für SPD-Identität",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_-gVm04BMleA"
+  },
+  {
+    "text": "Wieso wollte Herr Kunasek unbedingt diesen Gemeinderat da drinnen haben, wenn alle anderen den draußen haben wollen?",
+    "context": "Landesparteichef interveniert zugunsten verdächtigen Finanzprüfers",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_0xY9DotxO0c"
+  },
+  {
+    "text": "Wenn du diese Büchse öffnest - diese Büchse der Pandora sollte man besser geschlossen lassen",
+    "context": "Finanzprüfer deutet an, dass Skandal über Graz hinausgeht",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_0xY9DotxO0c"
+  },
+  {
+    "text": "Das war ein Streit der ist dann explodiert, indem Kunasek den Pascutini aus der Partei geschossen hat",
+    "context": "Konsequenz für Whistleblower innerhalb der FPÖ",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_0xY9DotxO0c"
+  },
+  {
+    "text": "sie wollen euren gesamten Alltag infiltrieren euren tiktok Feed eure feierabendplanung",
+    "context": "Eröffnungsstatement über Infiltrationsstrategie des AFD-Vorfelds",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_1WsB-RjoREU"
+  },
+  {
+    "text": "eine völkische Ideologie die versucht...ein weißes Volk...wiederherzustellen",
+    "context": "Kern-Ideologie des Netzwerks um Kubicek",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_1WsB-RjoREU"
+  },
+  {
+    "text": "Metapolitik...dass man in die Köpfe zuerst rein will bevor man Politik macht",
+    "context": "Erklärung der langfristigen Strategie zur Diskursverschiebung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_1WsB-RjoREU"
+  },
+  {
+    "text": "wir sind noch eine bürgerliche Partei...gleichzeitig versucht man zu sagen wir sind überhaupt nicht rechtsextrem",
+    "context": "Widerspruch der AFD zwischen Selbstdarstellung und tatsächlicher Ausrichtung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_1WsB-RjoREU"
+  },
+  {
+    "text": "Wenn es wirklich so ist, dass der Teufel in dieser Person agiert, dann kann es ja sowieso keine Wahrheit geben",
+    "context": "Erklärung des Teufelsglaubens als Rechtfertigung für Folter in Hexenprozessen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_2AQHii95D5A"
+  },
+  {
+    "text": "Wenn ich durch Pein gezwungen würde irgendetwas zuzugeben, wäre es nicht die Wahrheit, ich würde über mich selbst lügen müssen",
+    "context": "Katharina Keppler lehnt ab, unter Androhung von Folter ein falsches Geständnis abzulegen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_2AQHii95D5A"
+  },
+  {
+    "text": "Politik ist downstream von Kultur",
+    "context": "Anführung des Satzes von Andrew Breitbart zur Erklärung Trumps Erfolgs",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_4J6vSZU7WWg"
+  },
+  {
+    "text": "Wenn ihr Fortschritt wollt, dann wählt den anderen",
+    "context": "Kevin Kostners Zeile in Yellowstone als Symbol der Anti-Modernisierungsbewegung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_4J6vSZU7WWg"
+  },
+  {
+    "text": "Es gibt keine Pendelbewegung, sondern einen Übergang zu einem rechtsdoktrinären Weltbild",
+    "context": "Kritik am Verständnis der derzeitigen Kontrarevolution als bloßes Pendel",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_4J6vSZU7WWg"
+  },
+  {
+    "text": "Die Wahrheit liegt im Portemonnaie",
+    "context": "Trumps ideologische Versprechen scheitern an Realität steigender Preise",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_4J6vSZU7WWg"
+  },
+  {
+    "text": "Trump bedient schwere Maschinen, z.B. den amerikanischen Staatsapparat, obwohl er offenbar regelmäßig solche Tage hat",
+    "context": "Kritik an Trumps impulsiven Deregulierungsentscheidungen zur Klimapolitik",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_50JYQcQyU6A"
+  },
+  {
+    "text": "Wir heben offiziell die Gefährdungsfeststellung auf - Trumps neueste Entscheidung zur Klimapolitik",
+    "context": "USA kippt faktisch bundesweiten Klimaschutz durch Neubewertung von Treibhausgasen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_50JYQcQyU6A"
+  },
+  {
+    "text": "Europa hätte seinen langen Urlaub von der Weltgeschichte beendet",
+    "context": "Kanzler März fordert europäisches Selbstbewusstsein gegen USA und China",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_50JYQcQyU6A"
+  },
+  {
+    "text": "Es klingt fast wie man sich Krieg vorstellt, wenn die nachts mit Sprengsätzen losfahren",
+    "context": "Beschreibung der improvisierten 'Elefantenfeuerwehr' mit Sprengstoff",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_6WUTwlnQPtQ"
+  },
+  {
+    "text": "Der Elefant muss quasi erst im Politikerbüro stehen, damit er politisch ein Thema wird",
+    "context": "Kritik an mangelnder politischer Sensibilität für ländliche Elefantenkonflikte",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_6WUTwlnQPtQ"
+  },
+  {
+    "text": "Im Krieg gewinnt eine Partei oder es gibt einen Kompromiss – es läuft alles auf einen Kompromiss hinaus",
+    "context": "Ranger-Aussage zur Mensch-Tier-Koexistenz als Notwendigkeit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_6WUTwlnQPtQ"
+  },
+  {
+    "text": "Emirate drohen mit Strafverfolgung für Gerüchte über Sicherheitslage in sozialen Netzwerken",
+    "context": "Erklärung, warum Menschen offiziell Sicherheit behaupten, obwohl sie in Tiefgaragen flüchten",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_7rqPqnCDXU0"
+  },
+  {
+    "text": "10% Einheimische, 90% Ausländer – diese Staaten funktionieren nicht ohne Arbeitskräfte",
+    "context": "Beschreibung der demographischen und wirtschaftlichen Abhängigkeit der Golfstaaten",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_7rqPqnCDXU0"
+  },
+  {
+    "text": "Das ist wie suizidales Verhalten – man möchte möglichst viele mit in den Abgrund ziehen",
+    "context": "Analyse des iranischen Druckausübungs-Ansatzes durch Angriffe auf Golfstaaten",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_7rqPqnCDXU0"
+  },
+  {
+    "text": "Es war mir wichtig für meine Tochter da zu sein und wenn das dann mit dem Job nicht vereinbar ist, dann suche ich mir halt was neues",
+    "context": "Vater kündigt seinen Job für längere Elternzeit - radikale Lebenspriorität",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_8U57CI7w0aI"
+  },
+  {
+    "text": "Der Hauptgrund dass Männer keine Elternzeit nehmen ist nicht der Arbeitgeber, sondern der Gender Pay Gap",
+    "context": "Expert erklärt strukturelle ökonomische Barrieren für Väter",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_8U57CI7w0aI"
+  },
+  {
+    "text": "Wo wir hinkommen sollten ist eine Kultur, wo ein Vater nicht Angst hat dass Elternzeit ihm negativ ausgelegt wird",
+    "context": "Forderung nach Kulturwandel statt nur Gesetzen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_8U57CI7w0aI"
+  },
+  {
+    "text": "Jeder Fahrradbügel ist ein Angriff auf die deutsche Autoindustrie - so denken viele in Deutschland",
+    "context": "Analyst beschreibt strukturelle Abhängigkeit der Wirtschaft vom Auto",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_9ATLGkhWl40"
+  },
+  {
+    "text": "Es gibt Leute, die ihre gesamte Biografie ums Auto strukturiert haben - jeder Quadratzentimeter Platz ein Angriff auf ihre Persönlichkeit",
+    "context": "Mobilitätsforscher erklärt psychologische Widerstände gegen Verkehrswende",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_9ATLGkhWl40"
+  },
+  {
+    "text": "Wer Straßen säht, erntet Verkehr - auch fürs Fahrrad gilt: wer Radwege säht, erntet Radverkehr",
+    "context": "Argument dass sichere Infrastruktur das Nutzerverhalten bestimmt",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_9ATLGkhWl40"
+  },
+  {
+    "text": "Das Recht sein Fahrzeug überall abzustellen ist ein Privileg was den Autoverkehr in den 50ern geschenkt wurde",
+    "context": "Kritik am historisch gewachsenen Vorrecht des Autos auf öffentliche Flächen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_9ATLGkhWl40"
+  },
+  {
+    "text": "Trump ist halt viel brutaler und auch rassistisch und hat auch Familien auseinandergerissen",
+    "context": "Vergleich von Migrationspolitik zwischen Trump und Biden",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_9idZkzLO2Jg"
+  },
+  {
+    "text": "Migration ist Jahrzehnte alt - die wird nicht nur weil Trump einen brutalen Kurs fährt einfach stoppen",
+    "context": "Abschlussevaluation zur Aussicht auf Erfolg von Massenabschiebungen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_9idZkzLO2Jg"
+  },
+  {
+    "text": "Die Schleuser werden unter Trump davon profitieren - die Tarife sind gestiegen und werden weiter steigen",
+    "context": "Unbeabsichtigte Konsequenzen repressiver Migrationspolitik",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_9idZkzLO2Jg"
+  },
+  {
+    "text": "Mit dem Moment der Revolution fängt die Arbeit erst an, nicht getan",
+    "context": "Warnung vor naivem Revolutionsoptimismus, Verweis auf Jahrzehnte nötiger Arbeit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_ALNK2fAhLSI"
+  },
+  {
+    "text": "Wer völkisch denkt passt nicht in demokratisches Spektrum",
+    "context": "Scharfe Abgrenzung gegen völkische Ideologie als unvereinbar mit Demokratie",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_ALNK2fAhLSI"
+  },
+  {
+    "text": "Die Nazis sind auch nicht kaisertreu, sondern revolutionär als Jugendbewegung",
+    "context": "Kontraintuitive Deutung der NS als революционары, nicht reaktionär",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_ALNK2fAhLSI"
+  },
+  {
+    "text": "Wir müssen kämpferisch werden und nicht fatalistisch denken",
+    "context": "Appell gegen Defätismus bei Vergleichen zu den 20ern und potenziellem Systemkollaps",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_ALNK2fAhLSI"
+  },
+  {
+    "text": "Als Jude in Deutschland ist es so, als ob man ein Fadenkreuz auf dem Kopf hat",
+    "context": "Beschreibung alltäglicher Bedrohungssituation für jüdische Bürger nach Anschlägen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_AxkoG6Db4RA"
+  },
+  {
+    "text": "Es gibt über 10 Jahre hinweg die hässlichste Blutspur im Rechtsextremismus - warum spricht dann komm jemand drüber?",
+    "context": "Kritik am fehlenden Fokus auf Rechtsterrorismus im Wahlkampf und in der Öffentlichkeit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_AxkoG6Db4RA"
+  },
+  {
+    "text": "Wir brauchen mehr als ein Schulbanner - man kann mit 50€ Druckkosten Rassismus nicht bekämpfen",
+    "context": "Kritik an oberflächlichen Maßnahmen gegen Rassismus in Schulen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_AxkoG6Db4RA"
+  },
+  {
+    "text": "Ich bin der festen Überzeugung dass die wenigsten Leute in die Tanzschule gehen um wirklich tanzen zu lernen",
+    "context": "Rafael erklärt seine Philosophie als Tanzlehrer, die Entertainment und menschliche Begegnung über technisches Können stellt",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_BvL72cy6HiI"
+  },
+  {
+    "text": "Eine schlechte Stunde ist wenn die Leute rausgehen und nicht einmal gelacht haben",
+    "context": "Rafael definiert seinen beruflichen Erfolg primär über emotionales Wohlbefinden statt Leistung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_BvL72cy6HiI"
+  },
+  {
+    "text": "verbrechen lohnt sich ja verbrechen lohnt sich oft genug",
+    "context": "Fazit des Moderators zur Verurteilung und frühen Freilassung von Momo Abuaka",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Caf-WhEOPJw"
+  },
+  {
+    "text": "hier gelten unsere Regeln hier zählen nicht eure Regeln",
+    "context": "Aussage von Clan-Mitgliedern zu Journalisten, die an die Tür klopfen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Caf-WhEOPJw"
+  },
+  {
+    "text": "großes Herz hat ein Herz aus Gold",
+    "context": "Schwester beschreibt ihren kriminellen Bruder positiv trotz Überfall",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Caf-WhEOPJw"
+  },
+  {
+    "text": "Rechthaberie ist unsere innere Trump-Instanz, die in der Krise manifeste wird",
+    "context": "Lobo analysiert psychosoziale Muster von Experten in der Corona-Krise",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_DCaB3ThqAHQ"
+  },
+  {
+    "text": "Wer nur sagt Virologen sollen reden, schiebt seine Verantwortung ab",
+    "context": "Lobo kritisiert moderne Unmündigkeit durch Expertenverehrung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_DCaB3ThqAHQ"
+  },
+  {
+    "text": "Ausgewogenheitsduselei ist demokratiekritisch und trägt ein Körnchen Autoritarismus",
+    "context": "Lobo antwortet auf Boris' Forderung nach radikalerem Positionsbezug",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_DCaB3ThqAHQ"
+  },
+  {
+    "text": "Arbeit ist nicht dein Leben",
+    "context": "Viral-Video auf TikTok mit über 300 Mio. Aufrufen, das die Entfremdung von Generationenvertrag symbolisiert",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Eggy22AcCNM"
+  },
+  {
+    "text": "Ich glaube nicht, dass ich finanziell besser darstehen werde als meine Familie",
+    "context": "26-jährige Berufsanfängerin resigniert vor Wohlstandsverlust trotz gutem Abi und Studium",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Eggy22AcCNM"
+  },
+  {
+    "text": "Die Lehrjahre sind keine Herrenjahre - diese Mentalität funktioniert bei jungen Menschen nicht mehr",
+    "context": "Generationenkluft: ältere Führungskräfte verstehen nicht, warum sofortige Gratifikation erwartet wird",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Eggy22AcCNM"
+  },
+  {
+    "text": "Weniger Idealismus und mehr Pragmatismus",
+    "context": "Jugendforschung belegt Verschiebung weg von Selbstverwirklichung hin zu Sicherheitsbedürfnis",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Eggy22AcCNM"
+  },
+  {
+    "text": "Vertrauen ist keine Garantie, sondern eine Entscheidung",
+    "context": "Kernthese zur Natur von Vertrauen als bewusster Akt",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_FGebMlDb2hI"
+  },
+  {
+    "text": "Das Gegenteil von Vertrauen ist nicht Misstrauen, sondern Kontrolle",
+    "context": "Konzeptuelle Klarstellung der Vertrauenslogik",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_FGebMlDb2hI"
+  },
+  {
+    "text": "Enttäuschung nimmt uns ein Stück der Täuschung und bringt uns der Realität näher",
+    "context": "Positive Reinterpretation von Enttäuschungserlebnissen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_FGebMlDb2hI"
+  },
+  {
+    "text": "Manchmal ist es wirklich besser nicht zu unterrichten als falsch zu unterrichten",
+    "context": "Schulleiterin kritisiert überforderte Quereinsteiger ohne ausreichende Ausbildung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_FvxSb4hlmWo"
+  },
+  {
+    "text": "Ich würde keine Quereinsteiger ohne grundständiges Referendariat mir nehmen",
+    "context": "Schulleiterin fordert regulatorisches Mindeststandard gegen schnelle Notlösungen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_FvxSb4hlmWo"
+  },
+  {
+    "text": "Das funktioniert nur bis zu einem gewissen Grade - dann muss ich Eltern sagen, der lernt noch",
+    "context": "Schulleiterin beschreibt Limits der Toleranz für unausgebildete Lehrkräfte",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_FvxSb4hlmWo"
+  },
+  {
+    "text": "Über 80% für aufhören, 20% für weitermachen",
+    "context": "Simon beziffert seine Wahrscheinlichkeit zum Abbrechen - drastische Überfordertheit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_FvxSb4hlmWo"
+  },
+  {
+    "text": "Der wissenschaftliche Fachausdruck für Menschen, die besonders schlecht mit Hilflosigkeit umgehen können und deshalb leichter wütend werden, lautet übrigens: Männer",
+    "context": "Lobo analysiert psychologische Muster der Corona-Wut und zieht ein satirisches Fazit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_GXxW334fvPM"
+  },
+  {
+    "text": "Wenn ich zu weniger Wut aufrufe und Menschen reagieren mit bestürzend weniger Empathie und besonders wütend, ist meine Intention gescheitert",
+    "context": "Lobo reflektiert kritisch die Gegenreaktion auf seine Kolumne",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_GXxW334fvPM"
+  },
+  {
+    "text": "Das Balkonklatschen ist eine schöne Geste der Solidarität, aber nicht zu verwechseln mit echter Veränderung der Arbeitsbedingungen",
+    "context": "Lobo kritisiert symbolische Anerkennung als Ablasshandel",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_GXxW334fvPM"
+  },
+  {
+    "text": "Wir sind nicht nur in einer physischen, sondern auch in einer psychischen Globalkrise",
+    "context": "Lobo definiert die Corona-Pandemie als multi-dimensionale Krise",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_GXxW334fvPM"
+  },
+  {
+    "text": "Alle Formen von Erlöser-Wunschdenken werden enttäuscht",
+    "context": "Lobo warnt vor unrealistischen Erwartungen in Drosten und Experten als Heilsfiguren",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_GXxW334fvPM"
+  },
+  {
+    "text": "Steven Miller sagt, seine Eisagenten sind immun, die können hingehen und Bürger abknallen, muss man ja wirklich so böse sagen.",
+    "context": "Kritik an behaupteter Straffreiheit von Regierungsbehörden bei Tötungen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_H5dsWVLdzlQ"
+  },
+  {
+    "text": "Es sind die Menschen, die da stehen, die Nachbarschaften, die sich zusammenrotten mit Trillerpfeifen, die so wahnsinnig mutig und tapfer sind.",
+    "context": "Zivilgesellschaftlicher Widerstand gegen staatliche Gewalt in Minneapolis",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_H5dsWVLdzlQ"
+  },
+  {
+    "text": "Wenn die Zivilgesellschaft gemeinsam mit Corporate America vorgeht und sagt, bis hierher und nicht weiter, das schadet uns allen.",
+    "context": "Unerwartete Koalition aus NGOs und Wirtschaft gegen Regierungspolitik",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_H5dsWVLdzlQ"
+  },
+  {
+    "text": "wenn du über dein PC Kabel fällst ist das versichert, aber in die Küche für Wasser ist privat",
+    "context": "Absurdität der Unfallversicherungsregeln im Homeoffice",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_I4pjS1mPPv0"
+  },
+  {
+    "text": "die Situation ist mit unserem arbeitsrechtlichen Modell gut in den Griff zu bekommen",
+    "context": "Optimistische Einschätzung der Regelungskapazität",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_I4pjS1mPPv0"
+  },
+  {
+    "text": "nicht jeder sagt was muss ich, darf ich, kann ich, sondern gemeinsam beste Lösungen finden",
+    "context": "Appell für pragmatische Kooperationshaltung statt rechtlicher Zank",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_I4pjS1mPPv0"
+  },
+  {
+    "text": "Der Zerfall der Sowjetunion war die schlimmste Sache des 20. Jahrhunderts für Putin, für mich der Glücksumstand meines Lebens",
+    "context": "Merkel beschreibt den fundamentalen Wertekonflikt mit Putin seit 2007",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_IhcUvG_ccbo"
+  },
+  {
+    "text": "Ich habe es glücklicherweise ausreichend versucht zu verhindern, was jetzt stattgefunden hat",
+    "context": "Merkel rechtfertigt ihre Russlandpolitik ohne echte Selbstkritik einzugestehen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_IhcUvG_ccbo"
+  },
+  {
+    "text": "Diese Freiheit nehme ich mir, ich lasse mir nicht von der Tatsache dass ich mal Bundeskanzlerin war den Spaß verderben",
+    "context": "Merkel erklärt ihre neue Unabhängigkeit und Eigenständigkeit nach 16 Jahren Kanzlerschaft",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_IhcUvG_ccbo"
+  },
+  {
+    "text": "die Scham muss die Seiten wechseln",
+    "context": "Giselle Pelicots Forderung nach Umkehrung der gesellschaftlichen Schamzuweisung von Opfer auf Täter",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_JSiVc8RtILA"
+  },
+  {
+    "text": "warum sollen dann die vergewaltigungsvideos versteckt werden",
+    "context": "Kritik am Gerichtspräsidenten, der Beweise aus Sittlichkeitsgründen aus der Öffentlichkeit ausschließen wollte",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_JSiVc8RtILA"
+  },
+  {
+    "text": "Man wird in dieses System geboren - das muss man erkennen",
+    "context": "Aminata Touré erklärt, dass Rassismus strukturell ist, nicht individuelle Schuld.",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_KqC2r3pcfAc"
+  },
+  {
+    "text": "Zuhören reicht nicht - wir müssen handeln",
+    "context": "Tembi Wolf fordert konkrete Maßnahmen gegen strukturellen Rassismus statt Empathie-Theater.",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_KqC2r3pcfAc"
+  },
+  {
+    "text": "Die gesamte Clubkultur verdankt sich schwarzen Fluchträumen - jetzt verdienen nur Weiße daran",
+    "context": "Hubert Sprangler kritisiert wirtschaftliche Ausbeutung schwarzer Kultur.",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_KqC2r3pcfAc"
+  },
+  {
+    "text": "Wenn man unvorsichtig läuft und jemanden schupst, mag das nicht böse gemeint sein - aber die Person trägt eine Schramme",
+    "context": "Aminata Touré erklärt strukturelle Diskriminierung durch Metapher.",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_KqC2r3pcfAc"
+  },
+  {
+    "text": "Trump könnte gleichzeitig ein Kätzchen erwürgen und sagen wie sehr er Kätzchen liebt",
+    "context": "Beispiel für Trumps Narzissmus und kognitive Dissonanz als autoritäres Herrschaftsinstrument",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_OtHTi4xEJyA"
+  },
+  {
+    "text": "Die Lüge ist eines der wichtigsten Instrumente der Antidemokraten",
+    "context": "Kern-These zur Funktionsweise von Desinformation in Diktaturen und Quasi-Diktaturen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_OtHTi4xEJyA"
+  },
+  {
+    "text": "Wie kaputt muss diese Gesellschaft sein - nein, das ist Hybris von uns",
+    "context": "Kritik an deutschem Überlegenheitsgefühl gegenüber USA; Anti-Chauvinismus",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_OtHTi4xEJyA"
+  },
+  {
+    "text": "Stop the Count - das ist einer der Hebel die einen Staatsstreich ausmachen",
+    "context": "Unterscheidung zwischen normalen Wahlaussagen und authentischen Putschversuchen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_OtHTi4xEJyA"
+  },
+  {
+    "text": "Medien-Kritik ist nicht Parteinahme, sondern Pflicht gegenüber der Realität",
+    "context": "Verteidigung gegen Vorwurf der Medien-Bias; Medientheorie-Argument",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_OtHTi4xEJyA"
+  },
+  {
+    "text": "Wir sind alle Menschen - dieser Gedanke wir alle gegen einen Feind egal wer damit läuft",
+    "context": "Analyse wie unterschiedliche Gruppen über gemeinsamen Feindbild zusammengeführt werden",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Pci7pmF2LHs"
+  },
+  {
+    "text": "Es entsteht aus Individualismus, völkischem Denken, libertären Vorstellungen zusammenfassende Demokratiefeindlichkeit",
+    "context": "Erklärung des ideologischen Gefüges der Querdenken-Bewegung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Pci7pmF2LHs"
+  },
+  {
+    "text": "Die Pandemie ist für Ballweg nur Auslöser - es geht um das System seit 2001 zu stürzen",
+    "context": "Corona ist Mittel, nicht Zweck bei den wahren Motiven der Anführer",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Pci7pmF2LHs"
+  },
+  {
+    "text": "Radikalisierungs-Potenzial: Kleine Markierungen mit Judensternen bis zu tödlichen Verschwörungserzählungen",
+    "context": "Warnung vor Eskalationsdynamik von Symbolik zu konkreter Gewalt",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Pci7pmF2LHs"
+  },
+  {
+    "text": "Der Verfassungsschutz sagt mir ich bin böse weil ich mit meinem Ministerpräsident reden will",
+    "context": "Normalbürger-Perspektive: Institutionen-Vertrauen komplett aufgeweicht",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Pci7pmF2LHs"
+  },
+  {
+    "text": "Wenn das noch mal machst, schlage ich dir das Schädel ein",
+    "context": "Warnung an Clubmitglied, das Drogen nahm trotz Verbot",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_QKJoDKJwNYc"
+  },
+  {
+    "text": "Freedom is our Religion, bei uns kannst du mehr oder weniger machen was du willst",
+    "context": "Gast behauptet Freiheit im Club, aber es folgt Beschreibung strikter Regeln",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_QKJoDKJwNYc"
+  },
+  {
+    "text": "Ich hätte heute diese Summe nicht genommen sondern monatlich - weil ich durfte",
+    "context": "Aushandlung von Zuhälter-Anteil bei Prostitution einer Frau",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_QKJoDKJwNYc"
+  },
+  {
+    "text": "Mit Sicherheit hätte ich mich nicht zur Wahl gestellt, wenn ich Angst hätte",
+    "context": "Retrospektive über seine Wahlsicherheit 2009",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_QKJoDKJwNYc"
+  },
+  {
+    "text": "Ein Hund ist das einzigste Lebewesen, das dich immer mehr liebt als sich selbst",
+    "context": "Erklärung seiner Tierliebestatt Menschenliebe",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_QKJoDKJwNYc"
+  },
+  {
+    "text": "Feministische Außenpolitik: Repräsentanz, Rechte und Ressourcen",
+    "context": "Kernbotschaft von Außenministerin Baerbock zur Neuausrichtung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_R15l9uOftpY"
+  },
+  {
+    "text": "Abrüstung ist eine fundamentale feministische Forderung - aber was folgt daraus wenn Krieg herrscht?",
+    "context": "Zentrale Spannung: Pazifistische Ideale treffen auf Kriegsrealität",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_R15l9uOftpY"
+  },
+  {
+    "text": "Es ist ein urpatriarchales Konzept, Menschen aufgrund ihres Geschlechts Dinge zu erlauben oder nicht",
+    "context": "Kritik an Evakuierungsregeln, die Männer zurückhalten",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_R15l9uOftpY"
+  },
+  {
+    "text": "Ich bin froh, dass ich Zivilgesellschaft bin und keine Regierungsverantwortung habe",
+    "context": "Christina Lunz räumt ein, dass perfekte Entscheidungen in Kriegszeiten unmöglich sind",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_R15l9uOftpY"
+  },
+  {
+    "text": "Eigentum soll dem Wohle der Allgemeinheit dienen - das steht auch im Grundgesetz",
+    "context": "Debatte über Enteignung von Immobilienkonzernen und Sozialpflichtigkeit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Rkt4kK_OTI4"
+  },
+  {
+    "text": "Der Mietendeckel hat die Mieten gesenkt, aber nur für einige wenige - vor allem bessere Verdienende",
+    "context": "Analyse der Ungleichheitswirkung des Mietendeckels",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Rkt4kK_OTI4"
+  },
+  {
+    "text": "Bauen allein kann nicht die Lösung sein",
+    "context": "Gegenposition zur These, dass nur Neubau Wohnungskrise löst",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Rkt4kK_OTI4"
+  },
+  {
+    "text": "Wir wollen diese Wohnungen in öffentlichen Besitz bringen mit sozialer Zielsetzung",
+    "context": "Kernforderung der Enteignungsinitiative",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Rkt4kK_OTI4"
+  },
+  {
+    "text": "Unser Zielsetzung muss es sein den ersten blauen Ministerpräsidenten der Bundesrepublik zu stellen",
+    "context": "Björn Höcke (AFD) auf Machtergreifung in Ostdeutschland zielend",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_SSSSXlCQ1Ew"
+  },
+  {
+    "text": "Die Angst vor Rechtspopulisten bei Neuwahlen ist ein totales Gaga Argument",
+    "context": "Diskussant argumentiert pro-demokratisch gegen Angst-Rhetorik",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_SSSSXlCQ1Ew"
+  },
+  {
+    "text": "Deutschland hat das erste Mal wieder die Chance einen deutschen EU-Kommissionspräsidenten zu bringen",
+    "context": "Manfred Weber (CSU) als EVP-Spitzenkandidat für Europa-Wahl",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_SSSSXlCQ1Ew"
+  },
+  {
+    "text": "Die SPD hat noch gar nicht richtig verstanden was Sache ist",
+    "context": "Kritik an mangelnder Krisenbewusstsein der SPD-Führung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_SSSSXlCQ1Ew"
+  },
+  {
+    "text": "Soldaten haben eine Tapferkeitspflicht - das ist einzige Berufsfeld mit Pflicht zum Einsatz des eigenen Lebens",
+    "context": "Unterschied zwischen Bundeswehr und privatem Arbeitgeber",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_TBufG1Toaxk"
+  },
+  {
+    "text": "Wehrpflicht ist eine Scheindiskussion, die aus politischen Gründen vorgebracht wird",
+    "context": "Kritik an Verteidigungsminister Pistorius und der Debatte",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_TBufG1Toaxk"
+  },
+  {
+    "text": "Bundeswehr braucht nicht Panzergrenadiere, sondern IT-Fachkräfte - und da konkurriert sie mit der freien Wirtschaft",
+    "context": "Analyse des echten Fachkräftemangels",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_TBufG1Toaxk"
+  },
+  {
+    "text": "Schweden zeigt: Musterungspflicht light funktioniert besser als volle Wehrpflicht",
+    "context": "Diskussion über Alternativen zur klassischen Wehrpflicht",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_TBufG1Toaxk"
+  },
+  {
+    "text": "wir wollen nicht mehr den Menschen sagen wie Sie zu leben haben, sondern es liegt an uns der Politik das System zu ändern",
+    "context": "Grüne distanzieren sich vom Vorwurf der Bevormundung und Verbotspartei",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Tm-It0sB3q8"
+  },
+  {
+    "text": "Stimmung sind keine Stimmen - morgen kommt es entscheidend darauf an dass ich das was sich an gesellschaftlicher Stimmung aufgebaut hat auch in Stimmen einlöse",
+    "context": "Habbeck warnt vor Überconfidenz in Umfragewerten vor der Europawahl",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Tm-It0sB3q8"
+  },
+  {
+    "text": "rein numerisch heißt das dass alle die bei den Grünen nicht bei drei sagen irgendein Mandat oder Amt übernehmen müssen",
+    "context": "Analyse der Kandidatenknappheit bei Grünen mit höheren Wahlanteilen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Tm-It0sB3q8"
+  },
+  {
+    "text": "Das ist ein Unrechtssystem, ein rassistisches Unrechtssystem von Anfang bis zum Ende",
+    "context": "Zimmerer zur deutschen Kolonialpolitik als systematisches Unrecht",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_UEvgxWhFRb0"
+  },
+  {
+    "text": "Europäer haben 600 Jahre über ihre Verhältnisse gelebt und Ressourcen von außerhalb geholt",
+    "context": "Globale Perspektive auf europäischen Raubbaukapitalismus seit Kolonialzeit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_UEvgxWhFRb0"
+  },
+  {
+    "text": "Der deutsche Kolonialismus ist älter als das Dritte Reich – das ist mehr als doppelt so lang",
+    "context": "Zur historischen Bedeutung der 35 Jahre deutschen Kolonialherrschaft",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_UEvgxWhFRb0"
+  },
+  {
+    "text": "Wir müssen einsehen, dass unser Großväter und Großmütter tief in menschenverachtenste Praktiken verwickelt waren",
+    "context": "Zur persönlichen Verstrickung deutscher Gesellschaft in Kolonialverbrechen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_UEvgxWhFRb0"
+  },
+  {
+    "text": "die AFD wird vom Verfassungsschutz beobachtet und die große Frage ist: verstößt sie gegen das Grundgesetz",
+    "context": "Diskussion über mögliches Parteiverbot der AfD in Deutschland",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_UwLVAmtq85k"
+  },
+  {
+    "text": "wenn man ein Drittel der Wählerinnen und Wähler einfach ausschließt, ist das nicht unfair",
+    "context": "Debatte über Konsequenzen eines AfD-Verbots in Ostdeutschland",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_UwLVAmtq85k"
+  },
+  {
+    "text": "Deutschland darf nicht der Versuchung erliegen, sich wegen der transatlantischen Zerrüttung einem Regime an den Hals zu werfen, das seine Bürger schikaniert und ausspäht",
+    "context": "Kritik an potenzieller Annäherung an China trotz Menschenrechtsverletzungen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_VegRDxs-HAg"
+  },
+  {
+    "text": "es ist für mich wie jedes Mal ein erstes Date",
+    "context": "Elias beschreibt seine Vorbereitung auf jeden Callboy-Termin",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_WwDFWrHOYyE"
+  },
+  {
+    "text": "es ist eine Parallelwelt die Welt vorher kannte ich so nicht",
+    "context": "Reflexion über die exklusiven Welten seiner wohlhabenden Klientel",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_WwDFWrHOYyE"
+  },
+  {
+    "text": "Elias ist mehr Gentleman als ich... das suggeriert der perfekte Prinz",
+    "context": "Beschreibung seines Künstlernamens und der Rollenaufteilung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_WwDFWrHOYyE"
+  },
+  {
+    "text": "warum wird das halt eben so negativ aufgefasst betrachtet das verstehe ich auch nicht",
+    "context": "Kritik an der gesellschaftlichen Stigmatisierung von weiblicher Sexarbeit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_WwDFWrHOYyE"
+  },
+  {
+    "text": "heute morgen habe ich Müsli mit Wasser gegessen ohne Scheiß weil ich keine Milch und keine Hafermilch mehr hatte",
+    "context": "Habecks Erschöpfung während intensiver Koalitionsverhandlungen 2021",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_YUgPKVINsF4"
+  },
+  {
+    "text": "wenn du nicht dünnhäutig bist um das weiterzumachen dann sagst du wisst ihr was ihr könnt mich alle mal",
+    "context": "Diskussion über Habecks Fähigkeit, Kritik und Hass zu verkraften",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_YUgPKVINsF4"
+  },
+  {
+    "text": "Freiheit soll kein Egotrip sein sondern auch die Freiheiten der anderen berücksichtigen",
+    "context": "Habecks philosophisches Verständnis von Freiheit als Gemeinschaftswert",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_YUgPKVINsF4"
+  },
+  {
+    "text": "das klang für mich ein bisschen kindisch dann zu sagen Bürger könnt ihr euch bei Marz bedanken",
+    "context": "Feldenkirchens Kritik an Habecks impulsiver Reaktion zum Verfassungsgerichtsurteil",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_YUgPKVINsF4"
+  },
+  {
+    "text": "wer gestalten will der kriegt halt auch Gegenwind und das gehört dazu",
+    "context": "Habecks pragmatische Einstellung zu Popularitätsverlust und Kritik",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_YUgPKVINsF4"
+  },
+  {
+    "text": "Polen ist zu groß, um kleines Land zu sein und zu klein, um großes Land zu sein",
+    "context": "Beschreibung Polens geopolitischer Dilemmas zwischen Eigenständigkeit und Notwendigkeit europäischer Kooperation",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Z2P1x6Fr7P4"
+  },
+  {
+    "text": "Die Deutschen wissen, dass der Holocaust in Polen ins Werk gesetzt wurde, aber nicht, dass sie einen Volkstumskrieg gegen polnische Eliten führten",
+    "context": "Erklärung für polnisches Misstrauen gegenüber Deutschland trotz EU-Integration",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Z2P1x6Fr7P4"
+  },
+  {
+    "text": "In Polen gibt es ein viel stärkeres Bewusstsein über die russische Bedrohung als hier in Deutschland",
+    "context": "Grund für Polens konstante NATO-Orientierung und Sicherheitsdenken",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_Z2P1x6Fr7P4"
+  },
+  {
+    "text": "Es ist ein Armutszeugnis für den politischen Diskurs, dass wir so sehr auf Taylor Swift hoffen müssen, dass sie sich gegen Trump ausspricht",
+    "context": "Kritik an Ruiniertheit des US-Politikbetriebs, der Popstars politische Superkräfte verleiht",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_ZzoUF_eV9dQ"
+  },
+  {
+    "text": "Taylor Swift denkt wie ein Politstratege in Washington – das Timing ist wichtig",
+    "context": "Analyse ihrer strategischen Vorgehensweise bei politischen Stellungnahmen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_ZzoUF_eV9dQ"
+  },
+  {
+    "text": "Wenn ich ein großes Mikrofon habe und faschistisches Gedankengut breitet sich aus, muss ich mich positionieren",
+    "context": "Herbert Grönemeyer über die Verantwortung von Stars mit großem Einfluss",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_ZzoUF_eV9dQ"
+  },
+  {
+    "text": "Taylor Swift ist wahrscheinlich eine der mächtigsten Personen der Welt aktuell von ihrem Einfluss her",
+    "context": "Vergleich ihrer politischen Macht mit anderen Prominenten in Deutschland",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_ZzoUF_eV9dQ"
+  },
+  {
+    "text": "so blöd kann man auch nicht sein",
+    "context": "Befürworter argumentiert für technische Lösbarkeit von Infrastrukturproblemen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo__PN4cl50KJg"
+  },
+  {
+    "text": "die Bevölkerung wurde meiner Meinung nach überhaupt nicht aufgeklärt hier weil Jahre hinter verschlossen Türen verhandelt wurde",
+    "context": "Zentrale Kritik an mangelnder demokratischer Partizipation beim Tesla-Projekt",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo__PN4cl50KJg"
+  },
+  {
+    "text": "in Deutschland gibt es keine demokratischen Verfahren wo Sie vor diesem Großprojekt die Leute überhaupt gefragt hätten",
+    "context": "Protestforscher kritisiert Mangel an direkter Demokratie in Deutschland",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo__PN4cl50KJg"
+  },
+  {
+    "text": "Es gibt mutige Minenräumer und es gibt alte Minenräumer",
+    "context": "Ukrainischer Offizier erklärt, dass bei diesem Job Fehler tödlich sind",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_a8d2VZqaqXg"
+  },
+  {
+    "text": "Die Wirklichkeit ist nicht Netflix",
+    "context": "Kritik an dramaturgischer Medienberichterstattung über die Ukraine-Offensive",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_a8d2VZqaqXg"
+  },
+  {
+    "text": "Tödliche Empathie - was denken die anderen, wie würde ich vorgehen",
+    "context": "Minenräumer müssen Logik des Gegners antizipieren",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_a8d2VZqaqXg"
+  },
+  {
+    "text": "Kein schlimmeres Verbrechen als wenn Erwachsene Kinder missbrauchen",
+    "context": "Moralische Fundamentalposition zu Sexualverbrechen an Minderjährigen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_bUfQV7kGAU4"
+  },
+  {
+    "text": "Justiz in USA ist käuflich - mit den besten Anwälten kommt man davon",
+    "context": "Kritik an ungleicher Rechtsdurchsetzung für Wohlhabende",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_bUfQV7kGAU4"
+  },
+  {
+    "text": "Empty Chair Situation - Epstein sitzt unsichtbar mit im Raum",
+    "context": "Prozess gegen Maxwell ohne Haupttäter, Problem der Stellvertreterhaftung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_bUfQV7kGAU4"
+  },
+  {
+    "text": "Die Zeit ist die einzigste Währung, von der wir nicht wissen wie viel noch übrig ist",
+    "context": "Reflexion über Werteverschiebung während Freiheitsstrafe",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_cGh1dK1yPGE"
+  },
+  {
+    "text": "Wir haben uns gesehen wie eine Eliteeinheit, nur auf Seiten der Verbrecher",
+    "context": "Beschreibung des Selbstverständnisses der kriminellen Bande",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_cGh1dK1yPGE"
+  },
+  {
+    "text": "kriegen wir schon hin zweitens wir sind immer noch die drittgrößte Volkswirtschaft auf der Welt",
+    "context": "Antwort auf Frage nach Grund für Optimismus in Wirtschaftskrise",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_cvwpBNgSMJY"
+  },
+  {
+    "text": "man muss aber auch sagen es ist super volatil also es schwankt massiv wir wissen nicht was da kommt",
+    "context": "Zu Bitcoin und Kryptowährungen als Geldanlage",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_cvwpBNgSMJY"
+  },
+  {
+    "text": "dieses 2% Ziel ist so das was man sich drauf geeinigt hat bei den Notenbanken den großen jetzt kriege ich wütende Mails von volkswürden nachher",
+    "context": "Erklärung von Inflationsziel, Meta-Ebene über Polarisierung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_cvwpBNgSMJY"
+  },
+  {
+    "text": "Faschismus hat damals damit angefangen: Krieg, Tote, Hunger - das ist keine Spielerei, das darf sich nicht durchsetzen.",
+    "context": "Müntefering warnt vor NS-Vergleichen und Verharmlosung von Totalitarismus.",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_dc-j9Yh3Lxk"
+  },
+  {
+    "text": "Jeder ist verpflichtet, seinen Teil zur Gesellschaft beizutragen. Grundfinanzierung allein reicht nicht.",
+    "context": "Rechtfertigung der Agenda 2010-Reformen gegen Kritik an Sozialabbau.",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_dc-j9Yh3Lxk"
+  },
+  {
+    "text": "Dieses Plakat 'Krieg oder Frieden - ihr könnt wählen' - ich muss fragen, ob die noch alle Tassen im Schrank haben.",
+    "context": "Kritik an Wagenknecht/Lafontaines BSW-Kampagne als undemokratische Demagogie.",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_dc-j9Yh3Lxk"
+  },
+  {
+    "text": "Das Sterben ist ein Teil des Lebens und kann gelingen - das ist das Wichtigste, was ich noch sagen möchte.",
+    "context": "Münteferings Lebensbilanz nach Herzoperation und Reflexion über Sterblichkeit.",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_dc-j9Yh3Lxk"
+  },
+  {
+    "text": "Bildungserfolg hängt immer noch viel zu stark von Herkunft und finanziellen Möglichkeiten ab",
+    "context": "Kritik am deutschen Bildungssystem durch Bundespräsident Steinmeier",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_eH8Mz-8PJZI"
+  },
+  {
+    "text": "Das mehrgliedrige System manifestiert soziale Schichten - hat nichts mit Leistung zu tun",
+    "context": "Natalias fundamentale Systemkritik am Gymnasium/Realschule-Modell",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_eH8Mz-8PJZI"
+  },
+  {
+    "text": "Der Staat muss ordentliche Verhältnisse schaffen, nicht andere einstellen um seine Fehler zu beheben",
+    "context": "Kritik daran, dass Ehrenamt Lücken füllt, die der Staat reißt",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_eH8Mz-8PJZI"
+  },
+  {
+    "text": "Chancengleichheit ist eine Utopie - aber wir können dem Idealbild näher kommen als derzeit",
+    "context": "Pragmatisch-realistische Position von Netzwerk Chancen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_eH8Mz-8PJZI"
+  },
+  {
+    "text": "Die Krise war eine Chance für Reformen - stattdessen will Politik nur zur Normalität zurück",
+    "context": "Moderator kritisiert fehlende strukturelle Nutzung der Corona-Krise",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_eH8Mz-8PJZI"
+  },
+  {
+    "text": "Schweden ist die Kontrollgruppe für das weltexperiment Corona",
+    "context": "Lobo führt Episode ein und positioniert Schweden als Vergleichsfall",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_erpzz7UhA8k"
+  },
+  {
+    "text": "Die Schweden haben gesagt: Ihr fahrt alle in die falsche Richtung, nur wir liegen richtig",
+    "context": "Charakterisierung der schwedischen Haltung gegenüber anderen Ländern",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_erpzz7UhA8k"
+  },
+  {
+    "text": "Man hat Personen über 80 nicht ins Krankenhaus geschickt - Triage im Altersheim statt Notaufnahme",
+    "context": "Offenlegung der schwedischen Priorisierungspolitik für medizinische Ressourcen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_erpzz7UhA8k"
+  },
+  {
+    "text": "Kritiker wurden beschimpft nach dem Motto: Was mischt ihr euch ein, wir haben einen Staatsepidemiologen",
+    "context": "Darstellung fehlender Debattenkultur in Schweden während Krise",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_erpzz7UhA8k"
+  },
+  {
+    "text": "Warum sollte jemand einen Oppositionspolitiker bestechen? Der hat ja gar keinen Einfluss auf Gesetze",
+    "context": "Stefan Keuter argumentiert gegen Bestechungsvorwürfe und offenbart Unverständnis für Demokratie",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_fOOBP1hu9jY"
+  },
+  {
+    "text": "Wenn ich mich jetzt für das deutsche Volk entscheiden müsste, zwischen dem Regenbogenimperium und dem traditionellen Osten, ich wählte den Osten",
+    "context": "Björn Höcke positioniert AfD als näher bei Russland als bei liberalem Westen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_fOOBP1hu9jY"
+  },
+  {
+    "text": "Das heißt, für die es ist natürlich interessant, wenn im offiziellen Plenum Aussagen gemacht würden oder in kleinen Anfragen auf bundestag.de",
+    "context": "Analyse, wie autoritäre Staaten parlamentarische Prozesse zur Propaganda nutzen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_fOOBP1hu9jY"
+  },
+  {
+    "text": "Eine Figur, die man kannte. Ist jetzt keine graue Maus",
+    "context": "Beschreibung von Maximilian Kra als öffentlichkeitswirksamer AfD-Politiker",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_fOOBP1hu9jY"
+  },
+  {
+    "text": "Es gibt immer mehrere Kanäle, auf denen man das spielen kann",
+    "context": "Wie Geheimdienste Erpressung oder Beeinflussung über verschiedene Wege betreiben",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_fOOBP1hu9jY"
+  },
+  {
+    "text": "Der Lieblinghasssatz ist 'Schatz, wie kann ich dir heute im Haushalt helfen' – das impliziert, es ist die Aufgabe der Frau",
+    "context": "Kritik an geschlechtsspezifischer Arbeitsteilung und subtiler Unterordnung im Haushalt",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_gNMBP8kk-p0"
+  },
+  {
+    "text": "Eine Studie zeigte: Eine saubere Wohnung ist bei Frauen Standard, bei Männern positive Überraschung",
+    "context": "Diskussion über geschlechtsspezifische Erwartungen an Sauberkeit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_gNMBP8kk-p0"
+  },
+  {
+    "text": "Brad bedeutet: chaotisch sein, nicht alles beisammen haben, aber immer ehrlich und mit Spaß",
+    "context": "Charlie XCX prägt Lebenseinstellung die gegen 'Clean Girl Aesthetic' rebelliert",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_hkrF460ZwbU"
+  },
+  {
+    "text": "Eine TikTokerin rechnete aus: In ganz Amerika gibt es wahrscheinlich nur 2 Männer die allen Kriterien entsprechen",
+    "context": "Satire auf unrealistische Dating-Standards im 'Man in Finance' Song",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_hkrF460ZwbU"
+  },
+  {
+    "text": "Rachel Gunn gab Breakdance-Karriere auf nach Hänseleien wegen Olympia-Performance",
+    "context": "Netzmob führte zu realen beruflichen Konsequenzen für Athletin",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_hkrF460ZwbU"
+  },
+  {
+    "text": "sie hat aus der CDU eine zweite SPD gemacht",
+    "context": "Charakterisierung von Merkels Transformation der CDU zur Mittelpartei",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_iT45qqz17Rc"
+  },
+  {
+    "text": "Merkel war zu feige, zu vorsichtig - sie hat sich nur vorgetastet",
+    "context": "Kritik an Merkels Führungsstil trotz ihrer Macht und Beliebheit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_iT45qqz17Rc"
+  },
+  {
+    "text": "konservativ sein in Deutschland ist wie in keinem anderen Land schwierig",
+    "context": "Erklärung warum CDU keine echte konservative Partei sein kann",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_iT45qqz17Rc"
+  },
+  {
+    "text": "wir sind Geschöpfe der Merkelzeit - das neue Biedermeyer",
+    "context": "Diagnose der Erschlaffung der Debattenkultur unter Merkel",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_iT45qqz17Rc"
+  },
+  {
+    "text": "Patriarch Kirill segnet Putins Raketen und spricht von 'Verteidigung christlicher Werte' beim Vernichtungskrieg",
+    "context": "Kritik an der unheiligen Allianz zwischen Kirche und Kriegsführung in der Ukraine",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_jK5VT_84twI"
+  },
+  {
+    "text": "Die Kirche ist praktisch eins zu eins mit dem Staat verschmolzen - Kirill ist Teil der kleptokratischen Klicke Putins",
+    "context": "Analyse der Korruptionsstrukturen zwischen Orthodoxie und Regime",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_jK5VT_84twI"
+  },
+  {
+    "text": "Putins Größenwahn ist nicht irrational - es ist eine stringente Fortsetzung jahrhundertelanger russischer Ideologie",
+    "context": "Differenzierte Analyse: Größenwahn UND systemische Logik gleichzeitig",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_jK5VT_84twI"
+  },
+  {
+    "text": "1500 orthodoxe Theologen bezeichnen Kirills religiösen Fundamentalismus als Irrlehre und lehnen alle Staaten ab, die die Kirche ihrer Freiheit berauben",
+    "context": "Aufkommender internationaler kirchlicher Widerstand gegen das Moskauer Patriarchat",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_jK5VT_84twI"
+  },
+  {
+    "text": "Die Migration liegt ihm am Herzen – die Rechte der Migranten und nicht die Agenda von Trump",
+    "context": "Aussage des Bruders über Leos Prioritäten; direkte Oppositionslinie zu Trump",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_kIcG6zU4mEQ"
+  },
+  {
+    "text": "Das ist falsch, das ist nicht das, was Jesus lehrt",
+    "context": "Leos kritische Antwort auf JD Vance's Prioritätenliste der Liebe und Barmherzigkeit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_kIcG6zU4mEQ"
+  },
+  {
+    "text": "Ein Amerikaner auf dem Heiligen Stuhl könnte Trump ein Stoppschild entgegenhalten",
+    "context": "Analyse der potenziellen globalen Gegenkraft eines US-amerikanischen Papstes",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_kIcG6zU4mEQ"
+  },
+  {
+    "text": "Putin ist ein schlechter Stratege, aber ein hervorragender Taktiker",
+    "context": "Charakterisierung von Putins politischem Stil und Entscheidungsfähigkeit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_l3TNDfetnYA"
+  },
+  {
+    "text": "Die Ukraine zu verlieren hieße für Russland, dass Russland aufhört zu existieren",
+    "context": "Erklärung der philosophischen Obsession Russlands mit der Ukraine",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_l3TNDfetnYA"
+  },
+  {
+    "text": "Ivan der Schreckliche wird zum Vorbild: Ein Herrscher, der innere Feinde besiegt, um äußere zu bekämpfen",
+    "context": "Parallelen zwischen historischem Vorbild und Putins aktuellem Vorgehen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_l3TNDfetnYA"
+  },
+  {
+    "text": "Russlands Eliten stammen aus Sicherheitsdiensten, sind Putin ergeben – liberale Variante nicht absehbar",
+    "context": "Prognose der zukünftigen Machtverteilung und ideologischen Ausrichtung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_l3TNDfetnYA"
+  },
+  {
+    "text": "Schwesig ging fragwürdige Wege, etwa indem sie Stiftung unterstützte, um Pipeline trotz US-Sanktionen fertig zu bauen",
+    "context": "Kritik an Schwesigs Russland-Politik und Umgehung westlicher Sanktionen als Ministerpräsidentin",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_lca5WzVvgIk"
+  },
+  {
+    "text": "Was geholfen hat ist diese therapeutische Einbettung - das ist das Wichtige",
+    "context": "Klaus musste lernen, dass Psychedelika nur im professionellen Setting helfen, nicht im privaten Konsum",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_nKHQUIfrfSY"
+  },
+  {
+    "text": "Ich bin nicht der fröhliche Mensch wie früher, ich bin ein anderer fröhlicher Mensch",
+    "context": "Klaus' reflektierte Aussage am Ende über seine veränderte Persönlichkeit nach der Therapie",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_nKHQUIfrfSY"
+  },
+  {
+    "text": "30% der therapieresistenten Patienten profitieren - das ist ein ziemlich gutes Zeichen",
+    "context": "Bewertung der Studienergebnisse als hoffnungsvoll für vorher ausweglose Patienten",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_nKHQUIfrfSY"
+  },
+  {
+    "text": "man gibt sein Leben zum Teil auf als Butler damit man jemanden anderen dienen kann",
+    "context": "Philip beschreibt die existenzielle Dimension des Butlerberufs",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_o42TsthVOyQ"
+  },
+  {
+    "text": "man ist nicht Teil der Familie selbst wenn du nach 20 Jahren für jemanden gearbeitet hast",
+    "context": "Klare Grenzziehung trotz enger emotionaler Beziehung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_o42TsthVOyQ"
+  },
+  {
+    "text": "Butler können von 50.000 bis eine Million Euro im Jahr verdienen je nachdem für wen arbeitest du",
+    "context": "Massive Einkommensungleichheit basierend auf Arbeitgeber-Status",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_o42TsthVOyQ"
+  },
+  {
+    "text": "wenn es Merkel nicht gäbe dann müsste es eigentlich die AFD gar nicht geben",
+    "context": "Wutbürger-Analyse 2015: Enttäuschung über Regierungspolitik als Ursprung von Protestbewegungen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_of7EBleqBoo"
+  },
+  {
+    "text": "wir werden sie jagen, wir werden unser Volk zurückholen",
+    "context": "Gauland 2017 Wahlkampf: Aggressive Rhetorik gegen Merkel mit delegitimierenden Implikationen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_of7EBleqBoo"
+  },
+  {
+    "text": "das Land zurückholen impliziert, dass die jetzigen Entscheider nicht legitimiert sind",
+    "context": "Analyse der AFD-Narrative: Kritik an delegitimierender Herrschaftsrhetorik",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_of7EBleqBoo"
+  },
+  {
+    "text": "ich sehe die Grünen als Teil des Problems nicht als Teil der Lösung",
+    "context": "2021 Fridays-Aktivist nach Grünem Heizungsgesetz: Enttäuschung über fehlende Klassensensibilität",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_of7EBleqBoo"
+  },
+  {
+    "text": "Putin ist ein Killer und Terrorist – man kann nicht einfach so Diplomatie treiben",
+    "context": "Zelenski wirft Trump implizit vor, realistische Lagebeurteilung zu ignorieren",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_pLEYMgnRiFg"
+  },
+  {
+    "text": "Sicherheit ist nur 2% des Problems – Trump marginalisiert ukrainische Kernbedenken",
+    "context": "Kernkonflikt zwischen Trump und Zelenski über Prioritäten",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_pLEYMgnRiFg"
+  },
+  {
+    "text": "Die freie Welt braucht neue Führung – Europa muss die Bürde schultern",
+    "context": "EU-Außenbeauftragte Kaja Kallas fordert europäische Unabhängigkeit",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_pLEYMgnRiFg"
+  },
+  {
+    "text": "du wirst deine gerechte Strafe bekommen wir vergessen nicht... auch wenn deine Meinung erstunken und erlogen ist darfst du sie äußern",
+    "context": "Analyse eines Qanon-Kommentars mit widersprüchlicher Rhetorik",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_pylH6jqsmAQ"
+  },
+  {
+    "text": "Jeffrey Epstein hat sich offenbar umgebracht in seiner Zelle... aber Donald Trump z.B mit Jeffrey Stein gibt's dutzende Fotos und der wird überhaupt nicht belangt",
+    "context": "Kritik an Doppelmoral bei Elitenkritik in Verschwörungstheorien",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_pylH6jqsmAQ"
+  },
+  {
+    "text": "diese elitenfeindlichkeit die bei qanon auch Teil des Programms ist diese elitenfeindlichkeit die ist ohnehin deswegen so schwierig weil sie so inkonsistent ist",
+    "context": "Analyse der logischen Widersprüche in Verschwörungstheoretischer Elitenkritik",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_pylH6jqsmAQ"
+  },
+  {
+    "text": "Verschwörungstheorie ist tatsächlich eine Art Droge die komplett vergiften kann... wir haben überragend viele so generalrezepte dagegen",
+    "context": "Lobo beschreibt psychologische Suchtdynamik von Verschwörungsdenken",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_pylH6jqsmAQ"
+  },
+  {
+    "text": "was kann man tun diese Bewegung wächst und Gedeih... ich glaube es gibt eine Zeitphase gibt wo Leute schon gefährdet sind wo wenn man sie erreicht man tatsächlich etwas bewirken kann",
+    "context": "Hoffnung auf Radikalisierungsprävention in kritischem Fenster",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_pylH6jqsmAQ"
+  },
+  {
+    "text": "Die Klimakrise ist im Kanon der großen Themenkomplexe egal wie die Nachrichtenlage ist angekommen",
+    "context": "Kurt Stukenberg über die strukturelle Verankerung von Klima im politischen Diskurs",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_qmjvgIUAzxo"
+  },
+  {
+    "text": "Kohlemeiler laufen bei 35€ CO2-Preis sowieso nicht mehr - das kann zu einer Win-Win-Win-Situation werden",
+    "context": "Analyse wie CO2-Preismechanismus sowohl Grüne als auch SPD zufriedenstellen kann",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_qmjvgIUAzxo"
+  },
+  {
+    "text": "Wir subventionieren fossile Energien mit hoher Zahl während wir politisch Klimaschutz vorantreiben - das ist irre",
+    "context": "Kritik an Widerspruch zwischen Klimarhetorik und Diesel-Privileg/Kerosin-Befreiung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_qmjvgIUAzxo"
+  },
+  {
+    "text": "Entweder streckt Europa seine Hand aus oder andere werden es tun",
+    "context": "Lettischer Premier über Konkurrenzdruck durch China, Türkei und Russland im Westbalkan",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_rVhWrk3qRww"
+  },
+  {
+    "text": "Ein Land kann nur noch die EU verlassen wenn es selber gehen will, ansonsten hat man dieses Land im wahrsten Sinne des Wortes an der Backe",
+    "context": "Erklärung warum strenge EU-Aufnahmekriterien notwendig sind",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_rVhWrk3qRww"
+  },
+  {
+    "text": "Wenn die Ukraine diese Annektion nicht akzeptiert, schmälert das ihre Chancen auf EU- und NATO-Beitritt - das wäre eines von Putins Kriegszielen",
+    "context": "Analyse der Geopolitik von 'eingefrorenen Konflikten' wie in Georgien",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_rVhWrk3qRww"
+  },
+  {
+    "text": "Im Roman ist nichts Zufall - im echten Leben ergibt fast nichts Sinn",
+    "context": "Über den Unterschied zwischen Literatur und Realität beim Romanschreiben",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_sEVOIQcb74A"
+  },
+  {
+    "text": "Wir leben in Gefängnissen unserer Annahmen - Corona hat gezeigt es geht auch anders",
+    "context": "Kritik an als unvermeidbar wahrgenommenen Lebensstrukturen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_sEVOIQcb74A"
+  },
+  {
+    "text": "Wenn du das nächste Projekt hast, bist du schon wieder beim übernächsten - eine Illusion",
+    "context": "Über Unersättlichkeit und ständiges Streben im modernen Leben",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_sEVOIQcb74A"
+  },
+  {
+    "text": "Rassismus ist etwas wofür nur Rassisten verantwortlich sind, nicht die Opfer",
+    "context": "Lobo verteidigt Solidarität mit Betroffenen gegen rassistische Attacken",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_swgmCZjEfjA"
+  },
+  {
+    "text": "Die schweigende Mehrheit ist in einer liberalen Demokratie keine Mehrheit",
+    "context": "Zentrale These über Extremismus und Schweigen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_swgmCZjEfjA"
+  },
+  {
+    "text": "Das Gegenteil von rechtsextrem ist nicht links, sondern demokratisch",
+    "context": "Kritik an Polarisierungslogik in Debatten",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_swgmCZjEfjA"
+  },
+  {
+    "text": "Wenn die Debatte eine Rechtsverschiebung bringen konnte, kann sie auch wieder eine Verschiebung ins Menschenfreundliche bewirken",
+    "context": "Hoffnungsvolle Schlussbemerkung zu Debatten-Wirkung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_swgmCZjEfjA"
+  },
+  {
+    "text": "die große Koalition ist für Merkel so ein heimlicher Wahlkampf Hit",
+    "context": "Analyse von Merkels Wahlstrategie beim Bekenntnis zur Großkoalition",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_tUjD4FgK0gQ"
+  },
+  {
+    "text": "die SPD wirbt ja immer damit dass sie so viele Dinge umgesetzt hat von ihrem sozialdemokratischen Programm das hat der SPD aber bisher einfach gar nichts gebracht",
+    "context": "Kritik an SPD-Bilanz in der Großkoalition",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_tUjD4FgK0gQ"
+  },
+  {
+    "text": "die Linkspartei müsste sich quasi selbst reformiert und regierungsfähig machen – die haben sie im Grunde nicht die Kraft",
+    "context": "Skeptik gegenüber rot-rot-grünem Koalitionspotenzial",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_tUjD4FgK0gQ"
+  },
+  {
+    "text": "je mehr man den Trump kennenlernt umso besser findet man ihn",
+    "context": "JD Vance argumentiert seine politische Wandlung gegenüber Trump",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_uBw0HOBUKJA"
+  },
+  {
+    "text": "alle Leute die für ihn arbeiten werden auch wirklich für ihn arbeiten und nicht gegen ihn",
+    "context": "Analyse der geplanten Trump-Administration ohne institutionelle Gegenkräfte",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_uBw0HOBUKJA"
+  },
+  {
+    "text": "Trump mag Sieger, mag die Winners, mag keine Loser",
+    "context": "Erklärung warum Trump JD Vance trotz früherer Hitler-Vergleiche als VP wählt",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_uBw0HOBUKJA"
+  },
+  {
+    "text": "Die Politik hat die ganze Entwicklung verschlafen oder sogar noch verschlimmbessert",
+    "context": "Kritik an Regierungsversagen bei der Immobilienkrise",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_wE0QBqbJ6Ig"
+  },
+  {
+    "text": "Viele Menschen werden mit der Krisensituation weiterleben müssen",
+    "context": "Pessimistische Einschätzung fehlender Lösungskapazität",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_wE0QBqbJ6Ig"
+  },
+  {
+    "text": "Im übrigen bin ich nicht in die AfD eingetreten, um skrupellosen Altparteienpolitikern durch genauso skrupellose Altparteienpolitiker zu ersetzen",
+    "context": "Bundestagsabgeordneter kritisiert intern Nepotismus innerhalb der eigenen Partei",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_wpsQ5_4XANs"
+  },
+  {
+    "text": "Wir können nur an uns selbst scheitern",
+    "context": "Basis-Antrag in Sachsen-Anhalt warnt vor Glaubwürdigkeitsverlust durch Postenschieberei",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_wpsQ5_4XANs"
+  },
+  {
+    "text": "Der Grad der Verfilzung ist wirklich enorm und das macht die Basis wütend",
+    "context": "Journalist beschreibt Ausmaß von Nepotismus-Skandalen bei der AfD",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_wpsQ5_4XANs"
+  },
+  {
+    "text": "Frauenfußball ist nichts - aber das ist auch deren Recht wenn sie der Meinung sind",
+    "context": "Guest verteidigt Akzeptanz verschiedener Meinungen zu Frauenfußball-Legitimität",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_yO0yNLpYfhM"
+  },
+  {
+    "text": "Der Fokus steht auf den Männerfußball - Frauenfußball ist zwischen Turnieren nicht so präsent in den Köpfen",
+    "context": "Guest analysiert strukturelle Medienungleichbehandlung in der Sportberichterstattung",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_yO0yNLpYfhM"
+  },
+  {
+    "text": "Im Männerfußball müssen Spieler damit rechnen ausgebuht zu werden - im Frauenfußball war das von Anfang an nicht so",
+    "context": "Guest erklärt Unterschiede in gesellschaftlicher Toleranz zwischen Männer- und Frauenfußball",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_yO0yNLpYfhM"
+  },
+  {
+    "text": "Der exklusive Privattunnel hat überhaupt keinen Mehrwert für die Allgemeinheit.",
+    "context": "Kritik an Porsche-Tunnel als Symbol für Privilegien der Superreichen",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_z1ECa2_teLs"
+  },
+  {
+    "text": "Egal wie lange ich mich anstrenge, das schaffe ich einfach nicht.",
+    "context": "Aktivist kritisiert strukturelle Vermögensungleichheit als systemisches Problem",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_z1ECa2_teLs"
+  },
+  {
+    "text": "Das ist strukturelle Ungerechtigkeit, die es zu überwinden gilt.",
+    "context": "Radikale Systemkritik am Kapitalismus durch Klimaaktivisten",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_z1ECa2_teLs"
+  },
+  {
+    "text": "Es gibt diese ganze Entscheidungsmacht bei einer Einzelperson – das ist nicht demokratisch.",
+    "context": "Kritik an fehlender Gewaltenteilung durch Milliardärseinfluss",
+    "podcast": "Lobo – Der Debatten-Podcast",
+    "episode": "lobo_z1ECa2_teLs"
+  },
+  {
+    "text": "Wir haben die ganze Firma eigentlich gar nicht auf Umsatz getrimmt sondern immer nur auf Cashflow",
+    "context": "Gründungsstrategie vs. typisches Startup-Denken",
     "podcast": "OMR Podcast",
-    "episode": "omr_zRU2hf_vCIg"
+    "episode": "omr_-9BI2KXcr6M"
+  },
+  {
+    "text": "Atomkraft ist nicht versicherbar – Punkt. Das ist die zentrale Frage.",
+    "context": "Kernenergie-Debatte mit praktischem Argument",
+    "podcast": "OMR Podcast",
+    "episode": "omr_-9BI2KXcr6M"
+  },
+  {
+    "text": "Der Grund warum ein Land das so macht ist dem Thema egal – Hauptsache die Dynamik",
+    "context": "Pragmatische Sicht auf globale Energiewende",
+    "podcast": "OMR Podcast",
+    "episode": "omr_-9BI2KXcr6M"
+  },
+  {
+    "text": "Wir fliegen gerne unter dem Radar – das ist unser Credo",
+    "context": "Gegenpol zu typischem VC/IPO-Denken",
+    "podcast": "OMR Podcast",
+    "episode": "omr_-9BI2KXcr6M"
+  },
+  {
+    "text": "Das ist unglaublich spannend in dieser Welt dabei zu sein – das ist ein geiles Gefühl",
+    "context": "Impact-Motivation vs. pure Profitmotivation",
+    "podcast": "OMR Podcast",
+    "episode": "omr_-9BI2KXcr6M"
+  },
+  {
+    "text": "Wir brauchen eine wachsende Wirtschaft um diese Aufgaben zu lösen - ohne das wird nix",
+    "context": "Begründung warum Klimaschutz+Wirtschaftswachstum kombiniert sein müssen",
+    "podcast": "OMR Podcast",
+    "episode": "omr_6CK7XKjab3A"
+  },
+  {
+    "text": "Krypto hat sich null Gefallen getan damit dass viele Projekte Betrugereien waren",
+    "context": "Kritik an schädlichen Marktpraktiken in der Kryptoindustrie",
+    "podcast": "OMR Podcast",
+    "episode": "omr_6CK7XKjab3A"
+  },
+  {
+    "text": "Lilium-Scheitern ist nichts Verwerfliches - wir brauchen Leute die genau so denken",
+    "context": "Verteidigung von riskanten Startup-Wetten als notwendiger Innovationsmechanismus",
+    "podcast": "OMR Podcast",
+    "episode": "omr_6CK7XKjab3A"
+  },
+  {
+    "text": "AFD hilft nicht bei der Talentanziehung - man kann sich drüber nicht streiten",
+    "context": "Unideologische Kritik an rechtsextremer Politik aus wirtschaftlichem Interesse",
+    "podcast": "OMR Podcast",
+    "episode": "omr_6CK7XKjab3A"
+  },
+  {
+    "text": "Gute Firmen werden gekauft nicht verkauft",
+    "context": "Pragmatische Aussage zum aktuellen Exit-Problem im VC-Markt",
+    "podcast": "OMR Podcast",
+    "episode": "omr_6CK7XKjab3A"
+  },
+  {
+    "text": "Venture Capital ist für die meisten Firmen nicht die richtige Finanzierungsform",
+    "context": "Kritik am VC-Zentrismmus und Plädoyer für alternative Finanzierungsmodelle",
+    "podcast": "OMR Podcast",
+    "episode": "omr_6CK7XKjab3A"
+  },
+  {
+    "text": "In Amerika wird innoviert, in Deutschland wird reguliert",
+    "context": "Kritik an europäischem Regulierungsumfeld statt Innovation",
+    "podcast": "OMR Podcast",
+    "episode": "omr_BRYSk4825G4"
+  },
+  {
+    "text": "Vielleicht muss es uns erst wieder schlechter gehen um das Potenzial rauszukitzeln",
+    "context": "Darwinistische Sicht auf Krise als Innovationstreiber",
+    "podcast": "OMR Podcast",
+    "episode": "omr_BRYSk4825G4"
+  },
+  {
+    "text": "Manche Leute geben ihrem Partner nicht mal ihr Geld, jetzt sollen sie einer Startup-Firma vertrauen",
+    "context": "Erklärung der Trust-Herausforderung im Fintech",
+    "podcast": "OMR Podcast",
+    "episode": "omr_BRYSk4825G4"
+  },
+  {
+    "text": "Aktienmarkt ist langfristig 8-10% Rendite, das ist deutlich mehr als Sparbuch",
+    "context": "Kernargument für Kapitalmarktorientierung bei Altersvorsorge",
+    "podcast": "OMR Podcast",
+    "episode": "omr_BRYSk4825G4"
+  },
+  {
+    "text": "Du musst ja nichts anderes machen, als sie zu kopieren. Wenn du selbst wenn du die schlecht kopierst, dann bist zum Markt",
+    "context": "Ratschlag zur Konkurrenz mit Neobroker-Startups durch einfache Nachahmung",
+    "podcast": "OMR Podcast",
+    "episode": "omr_Imo-G7Syh2I"
+  },
+  {
+    "text": "Warren Buffett und Charlie Munger sitzen da, kaufen Cherry Coke und warten, bis der Crash kommt",
+    "context": "Kernstrategie erfolgreicher Value-Investoren: Geduld und Opportunismus",
+    "podcast": "OMR Podcast",
+    "episode": "omr_Imo-G7Syh2I"
+  },
+  {
+    "text": "Bei der Fladex haben wir 590€ flat - alles drin, egal ob 100€ oder 1 Million€ groß",
+    "context": "Erklärung des revolutionären transparenten Gebührenmodells",
+    "podcast": "OMR Podcast",
+    "episode": "omr_Imo-G7Syh2I"
+  },
+  {
+    "text": "Ich bin kein Politiker, ich gebe Leuten Arbeit und schaue auf die Wirtschaft",
+    "context": "Abgrenzung seiner Rolle als Unternehmer von politischer Verantwortung",
+    "podcast": "OMR Podcast",
+    "episode": "omr_Imo-G7Syh2I"
+  },
+  {
+    "text": "Wir wollen eigenständig bleiben. Investoren brauchen extremes Berichtswesen.",
+    "context": "Erklärung, warum Tönnies nie externe Investoren suchte trotz Milliardeninvestitionen",
+    "podcast": "OMR Podcast",
+    "episode": "omr_OyrRYBHz7MY"
+  },
+  {
+    "text": "Das geht nur über die Menge. Das ist ein reines Massengeschäft mit ganz kleinen Margen.",
+    "context": "Darlegung des Geschäftsmodells der Fleischindustrie",
+    "podcast": "OMR Podcast",
+    "episode": "omr_OyrRYBHz7MY"
+  },
+  {
+    "text": "Mir geht's um das, was unterm Strich da steht. Nicht was oben steht, sondern unten rechts.",
+    "context": "Antwort auf Frage zu Umsatzzielen, Profitorientierung",
+    "podcast": "OMR Podcast",
+    "episode": "omr_OyrRYBHz7MY"
+  },
+  {
+    "text": "Die AfD ist für mich ein Drama. Sie schwächen die konservative Mitte.",
+    "context": "Politische Einschätzung zu Populismus und Polarisierung",
+    "podcast": "OMR Podcast",
+    "episode": "omr_OyrRYBHz7MY"
+  },
+  {
+    "text": "Ich hasse Patriarchen. Die wissen immer alles besser und hinterher.",
+    "context": "Nachfolgeplanung und Unternehmenskultur, Warnung vor Überpatriarchalismus",
+    "podcast": "OMR Podcast",
+    "episode": "omr_OyrRYBHz7MY"
+  },
+  {
+    "text": "Ich würde mir wünschen, es gäbe eine vernünftige Weltregierung für globale Themen",
+    "context": "Guest expresses frustration with national fragmentation in climate policy.",
+    "podcast": "OMR Podcast",
+    "episode": "omr_WiSV-UqGQSI"
+  },
+  {
+    "text": "60% der Stammaktien sind gepooled – wir sprechen mit einer Stimme",
+    "context": "Describes family governance structure that preserves control across 200 family members.",
+    "podcast": "OMR Podcast",
+    "episode": "omr_WiSV-UqGQSI"
+  },
+  {
+    "text": "Zwei Drittel der CO2-Produktion findet beim Verbraucher statt, nicht in unserer Fabrik",
+    "context": "Challenges conventional sustainability assumptions about production vs. consumer use.",
+    "podcast": "OMR Podcast",
+    "episode": "omr_WiSV-UqGQSI"
+  },
+  {
+    "text": "Man muss sich keine Sorge machen – wir sind auf dem richtigen Weg für Börsenwert",
+    "context": "CEO optimism despite historically low stock price compared to 10 years ago.",
+    "podcast": "OMR Podcast",
+    "episode": "omr_WiSV-UqGQSI"
+  },
+  {
+    "text": "Ich habe gesagt: Je größer wir werden, desto dynamischer und schneller werden wir",
+    "context": "Rede über Skalierungsparadoxie und Unternehmensstruktur",
+    "podcast": "OMR Podcast",
+    "episode": "omr_e9Ty0sKGl_w"
+  },
+  {
+    "text": "Es gibt noch kein Amazon, Facebook oder Google im Energiebereich - das ist was mich total fasziniert",
+    "context": "Vision eines globalen Energiemonopolisten",
+    "podcast": "OMR Podcast",
+    "episode": "omr_e9Ty0sKGl_w"
+  },
+  {
+    "text": "Familien geben 7800€ im Monat für Strom, Gas und Benzin aus - meist unbewusst",
+    "context": "Argument für Kundenakquise durch Kostenersparnis",
+    "podcast": "OMR Podcast",
+    "episode": "omr_e9Ty0sKGl_w"
+  },
+  {
+    "text": "Manche der erfolgreichsten Ideen bei uns habe ich persönlich abgelehnt",
+    "context": "Dezentralisierung von Innovationsentscheidungen im Unternehmen",
+    "podcast": "OMR Podcast",
+    "episode": "omr_e9Ty0sKGl_w"
+  },
+  {
+    "text": "Wir haben 80.000 Kunden bei 16-17 Millionen Einfamilienhäusern - wir stehen noch ganz am Anfang",
+    "context": "Perspektive auf riesiges Marktpotential (0,5% Durchdringung)",
+    "podcast": "OMR Podcast",
+    "episode": "omr_e9Ty0sKGl_w"
+  },
+  {
+    "text": "Wenn die Lage stimmt, dann ist die Auslastung von alleine hoch",
+    "context": "Kernphilosophie: Marktkräfte erledigen Rest selbst",
+    "podcast": "OMR Podcast",
+    "episode": "omr_kU_NwJHPDMo"
+  },
+  {
+    "text": "Wir wollen eine Top-Marke werden, nicht ein Fake – darum nur Original-Designer",
+    "context": "Unternehmerischer Stolz und Brand-Puritanismus",
+    "podcast": "OMR Podcast",
+    "episode": "omr_kU_NwJHPDMo"
+  },
+  {
+    "text": "Corona: Plötzlich nur noch Beifahrer im eigenen Unternehmen – Katastrophe",
+    "context": "Libertäre Kritik an Lockdown-Willkür und Staatseingriffen",
+    "podcast": "OMR Podcast",
+    "episode": "omr_kU_NwJHPDMo"
+  },
+  {
+    "text": "Der Markenname sagt schon sehr viel – dann musst du nicht erklären, was du machst",
+    "context": "Effizienz-Denken: Türkis + Motel = Marketing-Arbeit erledigt",
+    "podcast": "OMR Podcast",
+    "episode": "omr_kU_NwJHPDMo"
+  },
+  {
+    "text": "Nur wenn ein Mann erblindet heißt das nicht dass er nie was gesehen hat",
+    "context": "Rechtfertigung, warum er über Street-Leben rappt obwohl er es nicht mehr lebt",
+    "podcast": "OMR Podcast",
+    "episode": "omr_qyWynH5CT00"
+  },
+  {
+    "text": "Ich würde auf gar keinen Fall TikTok Elevator-Boy-mäßig anfangen, das ist mir zu peinlich",
+    "context": "Ablehnung von erzwungener Plattform-Anpassung",
+    "podcast": "OMR Podcast",
+    "episode": "omr_qyWynH5CT00"
+  },
+  {
+    "text": "Ich bin froh dass ich bis jetzt keine Familie hab, weil mir das Freiraum für Selbstverwirklichung gelassen hat",
+    "context": "Künstlerische Prioritäten über persönliche Beziehungen",
+    "podcast": "OMR Podcast",
+    "episode": "omr_qyWynH5CT00"
+  },
+  {
+    "text": "Hits waren damals schon Hits, auch wenn du in den 80ern drückst - das hat sich gar nicht geändert",
+    "context": "Behauptung der zeitlosen Logik von Hit-Struktur trotz Plattformwandel",
+    "podcast": "OMR Podcast",
+    "episode": "omr_qyWynH5CT00"
+  },
+  {
+    "text": "Die Musik ist Actionfilm wie Rambo - wir reden über Party, Sex, Schießen - das ist unsere Art von Kino",
+    "context": "Verteidigung gegen Verantwortungsvorwürfe",
+    "podcast": "OMR Podcast",
+    "episode": "omr_qyWynH5CT00"
+  },
+  {
+    "text": "es ist unvernünftig aber es ist geil und deshalb mache ich's",
+    "context": "Über den Bau eines 60-Millionen-Euro Musikinstrumentenladen trotz marginaler wirtschaftlicher Rechtfertigung",
+    "podcast": "OMR Podcast",
+    "episode": "omr_zl4xVsUCyBs"
+  },
+  {
+    "text": "nachts um 12 Uhr wenn die Preise ändern sind wir alle noch wach bis früh um 2 Uhr und dann matchen wir die Preise oder wir gehen auch noch mal ein Euro drunter",
+    "context": "Über extreme Preiskonkurrenz mit Amazon und anderen Wettbewerbern",
+    "podcast": "OMR Podcast",
+    "episode": "omr_zl4xVsUCyBs"
+  },
+  {
+    "text": "Investoren will ich hier nicht haben - die machen die das Unternehmen am Ende kaputt",
+    "context": "Begründung für die Umstrukturierung in eine Doppelstiftung statt Kapitalgeber",
+    "podcast": "OMR Podcast",
+    "episode": "omr_zl4xVsUCyBs"
+  },
+  {
+    "text": "wenn du Höchstleistung bringen willst dann muss es einfach Spaß machen und es muss vom Herzen kommen",
+    "context": "Über Unternehmenskultur und Mitarbeitermotivation",
+    "podcast": "OMR Podcast",
+    "episode": "omr_zl4xVsUCyBs"
+  },
+  {
+    "text": "wer baut schon für 60 Millionen Musikinstrumente Laden - ja es ist komplett unvernünftig aber es ist geil",
+    "context": "Rechtfertigung für massive Investitionen in Ladenbau ohne reine Profitabilität",
+    "podcast": "OMR Podcast",
+    "episode": "omr_zl4xVsUCyBs"
+  },
+  {
+    "text": "Chat GPT erfand Präzedenzfälle bis ins kleinste Detail - Anwalt musste das einräumen",
+    "context": "Warnung vor KI-Halluzinationen und mangelnder Verifizierung in kritischen Bereichen",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_-4tTKPQ52nI"
+  },
+  {
+    "text": "Nintendo erwirkte Unterlassungsanspruch gegen Emulatoren - könnte weitreichende Konsequenzen für die ganze Emulatorenszene haben",
+    "context": "IP-Durchsetzung mit potenziell restriktiven Auswirkungen auf Technik-Ökosystem",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_-4tTKPQ52nI"
+  },
+  {
+    "text": "Bitte und Danke kosten Geld, sehr viel Geld, wenn Nutzer das immer fleißig eingeben",
+    "context": "Sam Oldman Aussage zur Kosteneffizienzdebatte bei KI-Prompting",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_1m1Klswegfg"
+  },
+  {
+    "text": "Wenn wir uns abtrainieren, bitte und danke zu sagen, trainieren wir es uns auch im menschlichen Zusammenhang ab",
+    "context": "Argument über Auswirkungen von KI-Interaktion auf menschliche Kommunikation",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_1m1Klswegfg"
+  },
+  {
+    "text": "Elon Musk will Weltwirtschaft mit kohlenstofffreier Energie versorgen",
+    "context": "Tesla-Masterplan mit 10 Billionen Dollar Investition für Energiewende",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_4fgX-_lMZLs"
+  },
+  {
+    "text": "Arbeitsgericht bestätigt Entlassung wegen schwerwiegender Pflichtverletzung",
+    "context": "Betriebsratsvorsitzender wird trotz Kündigungsschutz entlassen",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_4fgX-_lMZLs"
+  },
+  {
+    "text": "wie können wir das jetzt installieren - dürfen wir mit dem iTunes Account überall einloggen?",
+    "context": "Kritik an Apples restriktivem Volumenlizenzmodell für Unternehmen",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_93XA3-KDTA4"
+  },
+  {
+    "text": "das optische Laufwerk wird endgültig gesetyt - Apple war noch nie konservativ",
+    "context": "Diskussion über Apples radikale Entfernung von Hardwarekomponenten",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_93XA3-KDTA4"
+  },
+  {
+    "text": "Aktuell ist es nicht mehr als ein Zukunftsplan - erst in 50 Jahren vielleicht Realität",
+    "context": "Skepsis gegenüber Amazon Prime Air Machbarkeit und Zeitrahmen",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_B7zo77kLjVc"
+  },
+  {
+    "text": "Es ist jetzt Schluss mit dem Spaß, wir müssen das ernst nehmen weil irgendwann werden Menschen sterben",
+    "context": "Warnung von Bruce Schneier auf Telekom-Sicherheitskonferenz vor Cyberattacken",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_DwjDnVexvOY"
+  },
+  {
+    "text": "Es gibt Gruppierungen in der Cybercrime-Szene die schon einem Einhorn nahekommen",
+    "context": "Professionalisierung und finanzielle Kraft krimineller Hacker-Netzwerke",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_DwjDnVexvOY"
+  },
+  {
+    "text": "Wenn dieser kalte Cyberkrieg heiß wird, könnte das gesamte Internet fragmentiert und zerstört sein",
+    "context": "Szenario von staatlichem Cyber-Krieg zwischen Großmächten",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_DwjDnVexvOY"
+  },
+  {
+    "text": "Windows 8 wird eine App - Microsoft behandelt Desktop wie App in Modern UI",
+    "context": "Diskussion über radikale Paradigmenwechsel in der Betriebssystem-Architektur",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_PzAyXIvJ3NM"
+  },
+  {
+    "text": "Ob das viele kaufen kann das richtig durchstarten, aber wenn Skepsis zu groß ist kann das total floppen",
+    "context": "Unsicherheit über Marktakzeptanz radikaler UI-Änderungen",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_PzAyXIvJ3NM"
+  },
+  {
+    "text": "Das ist einfach nicht so wahnsinnig neu, das ist neu zusammenkombiniert.",
+    "context": "Experte bewertet Smart Bricks als Marketing-Innovation ohne substantielle pädagogische Neuerung.",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_RcUopuYErkI"
+  },
+  {
+    "text": "Es ist noch nicht so im Kinderzimmer angekommen aus guten Gründen - Datensicherheit und schädliche Antworten.",
+    "context": "Warnung vor KI-Spielzeugen mit Überwachungs- und Sicherheitsrisiken.",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_RcUopuYErkI"
+  },
+  {
+    "text": "Der Verbrenner wird ebenso wie die Pferdekutsche das Zeitliche segnen",
+    "context": "Kommentar zur Verbrennerdebatte und Technologiewandel",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_TcimPhW2nPE"
+  },
+  {
+    "text": "Historisch hat sich immer die effizienteste und einfach beste Alternative durchgesetzt",
+    "context": "Argument für natürliche Marktdynamiken statt Regulierung",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_TcimPhW2nPE"
+  },
+  {
+    "text": "Das Internet steuert auf einen Punkt ohne Wiederkehr zu",
+    "context": "Lohfink vergleicht Internet-Zusammenbruch mit Klimawandel",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_YrVsVX6SoGc"
+  },
+  {
+    "text": "Das Sterben des Internets ist nicht ein Problem der Infrastruktur, sondern das Ende einer Ära",
+    "context": "Dezentrales Netzwerk-Ideal verloren an Konzerne",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_YrVsVX6SoGc"
+  },
+  {
+    "text": "Wenn der Ren das unterschreibt, verpflichtet er sich das immer zu sagen - Eigentor Nummer 700",
+    "context": "Diskussion über Unterlassungserklärung der Firma euroWeb gegen nerdcore.de-Blogger",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_czdfqMoxcxM"
+  },
+  {
+    "text": "Gucke dir eine 2-Minuten-Sendung an ohne etwas zu tun - das erzeugt Helden",
+    "context": "Meta-Experiment: Hosts halten sich selbst 2 Minuten lang still",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_czdfqMoxcxM"
+  },
+  {
+    "text": "Meine Mutter muss 6,99€ zahlen um meine fünf Urlaubsfotos zu sehen",
+    "context": "Kritik am Radiergummi-Plugin Geschäftsmodell",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_czdfqMoxcxM"
+  },
+  {
+    "text": "Du könntest ohne dass der Nutzer das mitkriegt alle möglichen Sachen aus dem Internet nachladen - das ist ein großer Skandal",
+    "context": "Kritik am Staatstrojaner und seiner Funktionalität zur Fremd-Installation von Software",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_jEjirwho7Hg"
+  },
+  {
+    "text": "Sie sagen natürlich: Haben wir ja auch nie gemacht, wussten wir gar nicht dass das geht",
+    "context": "Ironische Kritik an der Rechtfertigung staatlicher Behörden beim Trojaner-Skandal",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_jEjirwho7Hg"
+  },
+  {
+    "text": "Wenn ihr nicht braucht, dann braucht ihr es auch nicht am Black Friday kaufen",
+    "context": "Warnung vor manipulativem Marketing und unbewusstem Konsumismus",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_nPO_iXj-_ew"
+  },
+  {
+    "text": "Produkte wurden vorher ganz kurz einfach hochpreisiger eingestellt, damit man dann wieder runter preist",
+    "context": "Kritik an Preismanipulation durch Einzelhandelstaktiken vor Black Friday",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_nPO_iXj-_ew"
+  },
+  {
+    "text": "Geistige Fettleibigkeit wenn wir so weitermachen wie bisher",
+    "context": "Parallele zwischen Ernährungskultur und Informationskonsumkultur",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_sCS3SwQCM74"
+  },
+  {
+    "text": "Das Auto hat den Menschen einsamer gemacht, obwohl es sie näher zusammenbrachte",
+    "context": "Paradoxe Effekte von Technologie auf Gesellschaft",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_sCS3SwQCM74"
+  },
+  {
+    "text": "Die besten Möglichkeiten mit Liebsten zu kommunizieren laufen durch Firmen, deren Produkt unsere Manipulation ist",
+    "context": "Kritik an Werbe-Finanzierung von Social Media Plattformen",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_sCS3SwQCM74"
+  },
+  {
+    "text": "Nicht alles was geht, muss man auch machen",
+    "context": "Ethisches Design von smarten Geräten",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_sCS3SwQCM74"
+  },
+  {
+    "text": "KI-Tools nutzen Millionen von Werken ohne die Künstler zu fragen",
+    "context": "Debatte um Copyright-Verletzungen bei generativer KI-Training",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_uGprHlQZYR8"
+  },
+  {
+    "text": "Amazon verstoße mit geheimen Algorithmen gegen Wettbewerbsrecht",
+    "context": "Milliardenklage gegen Amazon wegen Bevorzugung von Eigenmarken",
+    "podcast": "t3n Podcast",
+    "episode": "t3n_uGprHlQZYR8"
   }
 ]

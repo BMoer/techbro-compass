@@ -1,0 +1,70 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Smart-Features bei Kaffeemaschinen sind Quatsch, weil man trotzdem die Kapsel manuell einlegen muss",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritik an sinnloser Technologisierung; pragmatisch, leicht marktskeptisch"
+    },
+    {
+      "text": "Mit App statt Knopfdruck Kaffee machen - das ist maximal bescheuert in jeder Hinsicht",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an unnötiger Komplexität; Skepsis gegenüber Tech-Marketing"
+    },
+    {
+      "text": "Hersteller machen das nur, weil sie es können und weil App alles geiler macht",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an Kapitalismus-Logik (Features aus Profitgründen, nicht Nutzen)"
+    },
+    {
+      "text": "Kapseln in Plastik verpackt als nachhaltig zu verkaufen ist definitiv heuchlerisch",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Greenwashing und Konsumprodukt-Umweltschädigung"
+    },
+    {
+      "text": "WiFi-Kaffeemaschine ist schlauer als Bluetooth, weil Bluetooth nicht bis zur Küche reicht",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Technologie-Bewertung, neutral-praktisch"
+    },
+    {
+      "text": "Smart-Features ermöglichen sinnvolles Lagermanagement von Kapseln und automatische Bestellvorschläge",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung eines legitimen Nutzens; aber insgesamt skeptisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Hersteller kommen da offensichtlich auch nicht drauf - es geht halt da wirklich nur darum zu das zu tun weil man es kann",
+      "context": "Kritik an sinnloser Technologisierung von Kaffeemaschinen aus reinem Können, nicht Nutzen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Diese Kaffeemaschinen - das ist alles was du kannst ein Lagermanagement machen von deinen Kapseln",
+      "context": "Die einzige sinnvolle Funktion einer Smart-Kaffeemaschine ist automatisches Kapsel-Tracking",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_jlYx7XT5Df8",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_jlYx7XT5Df8",
+  "date": null,
+  "country": "DE",
+  "word_count": 2088
+}

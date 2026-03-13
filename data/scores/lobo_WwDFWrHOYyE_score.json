@@ -1,0 +1,94 @@
+{
+  "economic_score": 2.8,
+  "social_score": 3.6,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "es ist ein Job ja ja der genauso geplant werden muss wie die immobilientätigkeit",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Normalisierung von Sexarbeit als reguläre Geschäftstätigkeit, pragmatisch-unternehmerisch"
+    },
+    {
+      "text": "man nimmt Geld für Sex ist so gesehen eine Prostitution... aber es ist das älteste Gewerbe der Welt",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 4,
+      "reasoning": "Verteidigung von Sexarbeit gegen Stigmatisierung, Befürwortung individueller Freiheit"
+    },
+    {
+      "text": "es funktioniert nur bei 100%tiger Ehrlichkeit... das Passwort dass sie jederzeit reingucken kann",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Befürwortung von Überwachung als Vertrauensmechanismus in Beziehung, eher autoritär"
+    },
+    {
+      "text": "durch die Selbständigkeit man kann sich es ein bisschen einteilen",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Befürwortung von Unternehmertum und Flexibilität des freien Marktes"
+    },
+    {
+      "text": "mein Vater würde ganz gerne dass ich immer aufhöre aber ich sehe das in dem Punkt nicht ein",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 5,
+      "reasoning": "Individuelle Autonomie über Familienautorität, libertäre Haltung"
+    },
+    {
+      "text": "warum wird das halt eben so negativ aufgefasst... Frauen dürfen Callboys nehmen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 6,
+      "reasoning": "Kritik an sozialen Normen, Befürwortung von Gleichberechtigung und Freiheit"
+    },
+    {
+      "text": "wenn wir Kinder kriegen sollten dann wird es natürlich sein dass ich es sein lasse",
+      "speaker": "guest",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Traditionelle Familienrolle mit Einschränkung persönlicher Freiheit, konservativ-pragmatisch"
+    },
+    {
+      "text": "ich bin eher einer der ein bisschen im Hier und Jetzt auch lebt",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatisches, nicht ideologisches Wirtschaftsdenken, anpassungsfähig"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "es ist für mich wie jedes Mal ein erstes Date",
+      "context": "Elias beschreibt seine Vorbereitung auf jeden Callboy-Termin",
+      "quiz_suitable": true
+    },
+    {
+      "text": "es ist eine Parallelwelt die Welt vorher kannte ich so nicht",
+      "context": "Reflexion über die exklusiven Welten seiner wohlhabenden Klientel",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Elias ist mehr Gentleman als ich... das suggeriert der perfekte Prinz",
+      "context": "Beschreibung seines Künstlernamens und der Rollenaufteilung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "warum wird das halt eben so negativ aufgefasst betrachtet das verstehe ich auch nicht",
+      "context": "Kritik an der gesellschaftlichen Stigmatisierung von weiblicher Sexarbeit",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_WwDFWrHOYyE",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_WwDFWrHOYyE",
+  "date": null,
+  "country": "DE",
+  "word_count": 5434
+}

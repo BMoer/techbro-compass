@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.0,
+  "social_score": 2.5,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Bitte und Danke kosten Geld, sehr viel Geld, weil es mehr Rechenleistung verbraucht",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Effizienz/Kostenoptimierung als Argument für Deregulierung von Höflichkeit"
+    },
+    {
+      "text": "Künstliche Intelligenz ist auf natürliche Gespräche trainiert, höfliche Ausdrucksweise bringt bessere Ergebnisse",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Befürwortung sozialer/sprachlicher Normen und deren positive Effekte"
+    },
+    {
+      "text": "Wenn wir uns abtrainieren, bitte und danke zu sagen, trainieren wir es uns auch im menschlichen Zusammenhang ab",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Sorge um Erhalt sozialer Normen und menschliche Kommunikation"
+    },
+    {
+      "text": "Es gibt Studien, die zeigen, dass die Beeinflussung des Outputs durch Bitte/Danke gar nicht so groß ist",
+      "speaker": "host",
+      "economic": null,
+      "social": 0,
+      "reasoning": "Pragmatische, ausgewogene Perspektive ohne klare Wertung"
+    },
+    {
+      "text": "Höflichkeit ist kein Muss, aber ein echter Pluspunkt",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Milde Befürwortung sozialer Normen ohne Zwang"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Bitte und Danke kosten Geld, sehr viel Geld, wenn Nutzer das immer fleißig eingeben",
+      "context": "Sam Oldman Aussage zur Kosteneffizienzdebatte bei KI-Prompting",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn wir uns abtrainieren, bitte und danke zu sagen, trainieren wir es uns auch im menschlichen Zusammenhang ab",
+      "context": "Argument über Auswirkungen von KI-Interaktion auf menschliche Kommunikation",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_1m1Klswegfg",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_1m1Klswegfg",
+  "date": null,
+  "country": "DE",
+  "word_count": 2129
+}

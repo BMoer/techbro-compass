@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 61 column 17 (char 2092)",
+  "raw_response": "{\n  \"economic_score\": -3.4,\n  \"social_score\": 0.8,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.78,\n  \"coded_statements\": [\n    {\n      \"text\": \"Wer regiert kann das Land verändern\",\n      \"speaker\": \"guest\",\n      \"economic\": null,\n      \"social\": null,\n      \"reasoning\": \"Pragmatische Aussage ohne klare ideologische Ausrichtung\"\n    },\n    {\n      \"text\": \"Wenn jeder aber noch zur Miete aufstocken muss dann kann es nicht gerecht sein\",\n      \"speaker\": \"guest\",\n      \"econo",
+  "episode_id": "lobo_E-jLVpQPyTI",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_E-jLVpQPyTI",
+  "date": null,
+  "country": "DE",
+  "word_count": 4466
+}

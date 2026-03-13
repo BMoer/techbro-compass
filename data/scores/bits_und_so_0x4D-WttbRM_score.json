@@ -1,0 +1,17 @@
+{
+  "economic_score": null,
+  "social_score": null,
+  "n_coded": 0,
+  "insufficient_data": true,
+  "confidence": 0.1,
+  "coded_statements": [],
+  "notable_quotes": [],
+  "error": "Transkript ist unlesbar/stark fehlerhaft. Scheint durch OCR oder automatische Spracherkennung mit massiven Fehlern verarbeitet zu sein. Keine meinungstragenden Aussagen zu Politischer-Ökonomie oder Gesellschaftlichen Fragen erkennbar. Inhalt behandelt primär technische Fahrzeugfunktionen (Android Auto, Navigation). Mindestanforderung von 5 codierbaren Aussagen nicht erfüllt.",
+  "episode_id": "bits_und_so_0x4D-WttbRM",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_0x4D-WttbRM",
+  "date": null,
+  "country": "DE",
+  "word_count": 842
+}

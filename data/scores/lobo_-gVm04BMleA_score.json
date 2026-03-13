@@ -1,0 +1,96 @@
+{
+  "economic_score": -2.0,
+  "social_score": -0.5,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Die CDU fischt zu sehr links der Mitte und vernachlässigt klassische Wähler",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an zu linker Wirtschaftspolitik, fordert konservativere Ausrichtung"
+    },
+    {
+      "text": "Nach 12 Jahren Kanzlerschaft nutzen sich Personen ab, junge Köpfe täten gut",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Personelle Debatte ohne ökonomische/gesellschaftliche Position"
+    },
+    {
+      "text": "CSU will nichts vereinbaren, was Bayern schadet - Bayern First",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Föderale Taktik, keine ideologische Position"
+    },
+    {
+      "text": "CSU positioniert sich als Partei der kleinen Leute, will Heimat bieten",
+      "speaker": "guest",
+      "economic": -4,
+      "social": -2,
+      "reasoning": "Sozialpolitische Nähe zu Arbeitern, konservative Rhetorik (Rechtsstaatlichkeit, Heimat)"
+    },
+    {
+      "text": "SPD hat in Groko an Profil verloren, Wähler sehen keinen Unterschied zur Union",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an zu großem Kompromiss, impliziert Bedarf nach stärkerer Profilierung links"
+    },
+    {
+      "text": "SPD muss sich entscheiden: regieren ODER Opposition, nicht beides zugleich",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Taktische Aussage ohne inhaltliche Position"
+    },
+    {
+      "text": "Die Groko ist genau das Dilemma, in dem die SPD steckt, unlogisch erneut zu koalieren",
+      "speaker": "guest",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Fordert andere, womöglich linkere/progressivere Richtung statt Mittelweg-Koalition"
+    },
+    {
+      "text": "CSU offen für Bürgerversicherung, Seehofer als Sozialpolitiker näher bei SPD",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Würdigung linker Sozialpolitik innerhalb konservativer Partei"
+    },
+    {
+      "text": "Obergrenze, Familiennachzug sind Verhandlungspunkte, können aber sprachlich gelöst werden",
+      "speaker": "host",
+      "economic": null,
+      "social": -1,
+      "reasoning": "Migrations- und Sicherheitspolitik, pragmatische Lösungssuche"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Noch nie war ein Kanzler so machtgeil und unpatriotisch - Frau Merkel, treten Sie zurück",
+      "context": "CDU-Basis-Kritik an Merkel auf Parteitag in Mecklenburg-Vorpommern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir haben ein Interesse daran, dass hier noch was übrig bleibt von diesem Laden verdammt noch mal",
+      "context": "Juso-Chef Kühnert zur Kritik an weiterer Groko-Teilnahme",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die SPD hat wahnsinnig an Profil verloren über diese zwei großen Koalitionen",
+      "context": "Spiegel-Redakteur über Folgen der früheren Groko für SPD-Identität",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_-gVm04BMleA",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_-gVm04BMleA",
+  "date": null,
+  "country": "DE",
+  "word_count": 4561
+}

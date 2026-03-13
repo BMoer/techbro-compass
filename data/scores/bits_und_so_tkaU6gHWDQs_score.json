@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Banken behandeln Selbstständige schlecht, wir machen das mal richtig",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Bankenverhalten, Wunsch nach besserer Servicegestaltung für Kleinunternehmer"
+    },
+    {
+      "text": "Das Konto kümmert sich automatisch um Steuern und Buchhaltung",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Technologische Automatisierung reduziert administrative Lasten, pro-Unternehmertum"
+    },
+    {
+      "text": "Pleite Grund Nummer eins: Selbstständige verschätzen sich bei Steuern",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Faktische Aussage über Geschäftsprobleme, keine Meinungsäußerung"
+    },
+    {
+      "text": "Wenn ich das damals gehabt hätte, hätte mir das sehr geholfen",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung von Lösungen für Selbstständige, pragmatisches Unternehmertum"
+    },
+    {
+      "text": "In den Kontoaten liegt die ganze Information schon drin, sehr hilfreich",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Befürwortung von Datennutzung und automatisierter Auswertung für Effizienz"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Gründer dachten: wir machen das mal richtig, keine Lust mehr auf Banken",
+      "context": "Motivation hinter der Gründung von Contest als Banking-Alternative",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Pleite Grund Nummer eins von Selbstständigen: sie verschätzen sich",
+      "context": "Kernproblem, das das Produkt lösen soll",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_tkaU6gHWDQs",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_tkaU6gHWDQs",
+  "date": null,
+  "country": "DE",
+  "word_count": 963
+}

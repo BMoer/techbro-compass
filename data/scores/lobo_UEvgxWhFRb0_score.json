@@ -1,0 +1,94 @@
+{
+  "economic_score": -2.0,
+  "social_score": -1.0,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Kolonien waren wirtschaftlich unrentabel, Kosten überstiegen Gewinne",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an Kolonialwirtschaft, aber keine Umverteilungsforderung"
+    },
+    {
+      "text": "Einzelne Kaufleute profitierten wirtschaftlich von Kolonialbesitz",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung privater Gewinne, aber im kritischen Kontext"
+    },
+    {
+      "text": "Kolonialismus ist strukturell rassistisches Unrechtssystem von Anfang bis Ende",
+      "speaker": "guest",
+      "economic": -5,
+      "social": -6,
+      "reasoning": "Radikale Ablehnung des kolonialen Systems als Unrecht"
+    },
+    {
+      "text": "Eisenbahnen waren nicht Entwicklung sondern Rohstoffraub und Militarismus",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Dekonstruktion von Entwicklungshilfe-Narrativ, anti-kapitalistisch"
+    },
+    {
+      "text": "Europäer lebten 600 Jahre über ihre Verhältnisse durch Kolonialraub",
+      "speaker": "guest",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Systemische Kritik am Kapitalismus und Ressourcenraub"
+    },
+    {
+      "text": "Prügelstrafen waren in Deutschland verboten, in Kolonien aber durchgesetzt",
+      "speaker": "guest",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Kritik an rechtlicher Ungleichbehandlung, autoritäre Praktiken"
+    },
+    {
+      "text": "Wir müssen europäische Weltgeschichte dekolonisieren und Modernität neu überdenken",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 2,
+      "reasoning": "Strukturkritik am System, Forderung nach Perspektivwechsel"
+    },
+    {
+      "text": "Koloniale Kontinuitäten zum NS-Rassenstaat müssen aufgearbeitet werden",
+      "speaker": "guest",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Kritik an Ungleichbehandlung historischer Schuld, Aufarbeitung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das ist ein Unrechtssystem, ein rassistisches Unrechtssystem von Anfang bis zum Ende",
+      "context": "Zimmerer zur deutschen Kolonialpolitik als systematisches Unrecht",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Europäer haben 600 Jahre über ihre Verhältnisse gelebt und Ressourcen von außerhalb geholt",
+      "context": "Globale Perspektive auf europäischen Raubbaukapitalismus seit Kolonialzeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der deutsche Kolonialismus ist älter als das Dritte Reich – das ist mehr als doppelt so lang",
+      "context": "Zur historischen Bedeutung der 35 Jahre deutschen Kolonialherrschaft",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir müssen einsehen, dass unser Großväter und Großmütter tief in menschenverachtenste Praktiken verwickelt waren",
+      "context": "Zur persönlichen Verstrickung deutscher Gesellschaft in Kolonialverbrechen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_UEvgxWhFRb0",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_UEvgxWhFRb0",
+  "date": null,
+  "country": "DE",
+  "word_count": 8827
+}

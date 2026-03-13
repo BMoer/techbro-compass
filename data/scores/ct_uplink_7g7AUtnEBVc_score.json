@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 26 column 17 (char 809)",
+  "raw_response": "{\n  \"economic_score\": -1.25,\n  \"social_score\": 0.75,\n  \"n_coded\": 8,\n  \"insufficient_data\": false,\n  \"confidence\": 0.65,\n  \"coded_statements\": [\n    {\n      \"text\": \"man sollte lieber den Originalakku kaufen auch wenn er teuer ist\",\n      \"speaker\": \"guest\",\n      \"economic\": -2,\n      \"social\": null,\n      \"reasoning\": \"Kritik an Billigmarkt, Verbraucherschutz durch Qualitätskontrolle\"\n    },\n    {\n      \"text\": \"gefälschte und minderwertige Akkus sind erkennbar höhere Schadensquelle\",\n      \"s",
+  "episode_id": "ct_uplink_7g7AUtnEBVc",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_7g7AUtnEBVc",
+  "date": null,
+  "country": "DE",
+  "word_count": 9057
+}

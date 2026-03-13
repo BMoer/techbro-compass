@@ -1,0 +1,110 @@
+{
+  "economic_score": -2.0,
+  "social_score": 2.0,
+  "n_coded": 11,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Klimaschutz nicht nur zur gesellschaftlichen Notwendigkeit sondern zum Treiber von Wettbewerbsvorteilen und wirtschaftlichem Erfolg",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Verbindung von Klimaschutz und Marktwirtschaft, weder links noch rechts"
+    },
+    {
+      "text": "Fossile Energien subventionieren während wir Klimaschutz betreiben - Diesel-Privileg und Kerosin-Steuerbefreiung müssen weg",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Forderung nach Umverteilung und Regulierung (links), aber innerhalb marktwirtschaftlicher Logik"
+    },
+    {
+      "text": "CO2-Bepreisung mit Energiegeld-Rückverteilung an Bürger - wer CO2-intensiv lebt zahlt drauf, arme profitieren",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Marktwirtschaftlich (CO2-Preis), aber mit Umverteilungskomponente (Energiegeld); libertäre Freiheit durch transparente Preissignale"
+    },
+    {
+      "text": "FDP setzt auf Emissionshandel statt Verbote - vertraut nicht auf einzelne Regulierungsmaßnahmen",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Lösung statt Regulierung/Verbote (rechts)"
+    },
+    {
+      "text": "Schuldenbremse beibehalten und nicht an Steuerschraube drehen könnte sich als Bremse für Klimaschutz erweisen",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an fiskalischer Zurückhaltung aus Klimaperspektive (impliziert mehr staatliche Ausgaben nötig)"
+    },
+    {
+      "text": "Gebäudesanierung unwichtig im Diskurs, dabei gehen 30% der CO2-Emissionen dort raus",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Implizierte Forderung nach stärkerer staatlicher/regulatorischer Intervention"
+    },
+    {
+      "text": "Im Verkehr reicht CO2-Preis allein nicht - 6 Cent Zapfsäuleneffekt bei 35€ Preis hat keine Lenkungswirkung",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Argument für notwendige Regulierung/Verbote über Marktelement hinaus (links)"
+    },
+    {
+      "text": "Klimapolitik braucht Regulierung, Verbote und gezielte Subventionen - nicht nur Preismechanismus",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Klare Forderung nach staatlicher Regulierung statt reiner Marktmechanismus"
+    },
+    {
+      "text": "FDP lehnt Verbrennungsmotor-Ausstiegsgesetz ab und nennt es Technologieoffenheit",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Libertäre Ablehnung von regulatorischen Verboten (rechts)"
+    },
+    {
+      "text": "NGO-Einwände bei Windkraftprojekten müssen eingeschränkt werden - oberste Priorität Klimaschutz",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Einschränkung von Partizipationsrechten zugunsten übergeordneter Ziele (autoritär)"
+    },
+    {
+      "text": "Große stabile Koalition aus drei Partnern könnte klimapolitisch ein Gewinn sein, vielleicht sogar mehr als rot-grün allein",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Pragmatische, zentrale Sichtweise auf Koalitionslogik"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die Klimakrise ist im Kanon der großen Themenkomplexe egal wie die Nachrichtenlage ist angekommen",
+      "context": "Kurt Stukenberg über die strukturelle Verankerung von Klima im politischen Diskurs",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Kohlemeiler laufen bei 35€ CO2-Preis sowieso nicht mehr - das kann zu einer Win-Win-Win-Situation werden",
+      "context": "Analyse wie CO2-Preismechanismus sowohl Grüne als auch SPD zufriedenstellen kann",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir subventionieren fossile Energien mit hoher Zahl während wir politisch Klimaschutz vorantreiben - das ist irre",
+      "context": "Kritik an Widerspruch zwischen Klimarhetorik und Diesel-Privileg/Kerosin-Befreiung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_qmjvgIUAzxo",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_qmjvgIUAzxo",
+  "date": null,
+  "country": "DE",
+  "word_count": 4679
+}

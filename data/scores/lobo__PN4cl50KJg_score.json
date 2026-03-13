@@ -1,0 +1,103 @@
+{
+  "economic_score": 1.4,
+  "social_score": -1.4,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "man kann eine Fabrik bauen man kann eine megafabrik bauen aber man muss keine gigafabrik bauen also ich bin dagegen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Überinvestition, pragmatische Skepsis gegenüber Unternehmertum"
+    },
+    {
+      "text": "wir bauen hier tausende Kilometer von Pipelines damit wir Erdgas aus Russland bekommen...jetzt will mir jemand erzählen dass das nicht schaffen 30 mit der Pipeline zu bauen um Wasser woanders herzubekommen",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Pro-Markt-Argument: Infrastruktur kann Probleme lösen, technologischer Optimismus"
+    },
+    {
+      "text": "ich bin dafür wenn unsere Wirtschaft boomt und wenn hier was neues in Gang gesetzt wird",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-Wachstum, Pro-Unternehmertum Position"
+    },
+    {
+      "text": "die Bevölkerung wurde meiner Meinung nach überhaupt nicht aufgeklärt hier weil Jahre hinter verschlossen Türen verhandelt wurde",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Forderung nach Transparenz und Bürgerbeteiligung, Kritik an Intransparenz"
+    },
+    {
+      "text": "die Leute praktisch überfahren werden und man braucht sich dann nicht zu wundern dass dann die Leute auf der Straße gehen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an autoritärer Entscheidungsfindung, Forderung nach demokratischer Partizipation"
+    },
+    {
+      "text": "in Deutschland gibt es keine demokratischen Verfahren wo Sie vor diesem Großprojekt die Leute überhaupt gefragt hätten wollen Sie dieses Großprojekt",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Kritik mangelnder direkter Demokratie, Forderung nach Bürgerbeteiligung"
+    },
+    {
+      "text": "wenn Sie natürlich z.B direkt demokratische Verfahren haben die schon viel früher einsetzen oder sie auch wissen am Ende des Tages muss ich das Volk fragen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Befürwortung direkter Demokratie und Volksentscheide, libertäre Position"
+    },
+    {
+      "text": "Tesla ist ein...eine der ersten Unternehmen die überhaupt sich entschieden haben in Brandenburg zu investieren",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Investition, Pro-Unternehmertum, wirtschaftsliberal"
+    },
+    {
+      "text": "diese Argumente nicht berechtigt sind weil dafür gibt es diese ganzen Verfahren und sie können eine Klage erheben",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Verteidigung bestehender rechtlicher/administrativer Verfahren über direkte Partizipation"
+    },
+    {
+      "text": "das Wasserschutzgebiet...in solchen Gebieten ist es eben auch nicht verboten Industrieanlagen zu bauen Tesla muss dann eben nur ein paar Regelungen beachten",
+      "speaker": "guest",
+      "economic": 3,
+      "social": -1,
+      "reasoning": "Regulierungspragmatismus: Umweltschutz durch Standards, nicht Verbot"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "so blöd kann man auch nicht sein",
+      "context": "Befürworter argumentiert für technische Lösbarkeit von Infrastrukturproblemen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "die Bevölkerung wurde meiner Meinung nach überhaupt nicht aufgeklärt hier weil Jahre hinter verschlossen Türen verhandelt wurde",
+      "context": "Zentrale Kritik an mangelnder demokratischer Partizipation beim Tesla-Projekt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "in Deutschland gibt es keine demokratischen Verfahren wo Sie vor diesem Großprojekt die Leute überhaupt gefragt hätten",
+      "context": "Protestforscher kritisiert Mangel an direkter Demokratie in Deutschland",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo__PN4cl50KJg",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo__PN4cl50KJg",
+  "date": null,
+  "country": "DE",
+  "word_count": 4553
+}

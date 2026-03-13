@@ -1,0 +1,58 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.45,
+  "coded_statements": [
+    {
+      "text": "IKEA-App mit AR-Funktion und Lagerbestandsverwaltung ist innovativ",
+      "speaker": "host",
+      "economic": 2,
+      "social": 1,
+      "reasoning": "Lob für technische Innovation und Effizienz, leicht market-freundlich"
+    },
+    {
+      "text": "Kleinere Einzelhandelsketten können sich solche Investitionen nicht leisten",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Aussage über Marktdynamiken, keine ideologische Position"
+    },
+    {
+      "text": "Packstation-Service bei REWE für 2€ ist großartig",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung von privatem Servicemodell, positiv zu Marktlösung"
+    },
+    {
+      "text": "WLAN und Netzinfrastruktur in IKEA ist problematisch",
+      "speaker": "host",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Rein technische Kritik ohne politische Dimension"
+    },
+    {
+      "text": "Es wäre schön, wenn auch kleine Läden diese Dienste anbieten würden",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Mild-progressive Wunschaussage, aber realistisch zweifelhaft"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "da bräuchte ja wenn du irgendein kleines tante emma laden... warum sollte er da geld reinstecken?",
+      "context": "Diskussion über Machbarkeit für kleine Einzelhandelsketten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_NQm-qJgXIZM",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_NQm-qJgXIZM",
+  "date": null,
+  "country": "DE",
+  "word_count": 1884
+}

@@ -1,0 +1,63 @@
+{
+  "economic_score": 1.0,
+  "social_score": -1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "Netflix kauft einfach alles und macht es wahllos um Abos zu verkaufen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritik an Marktlogik ohne radikale Forderung nach Regulierung"
+    },
+    {
+      "text": "Netflix spart Geld und gibt weniger für Content aus, Strategie muss überdacht werden",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Beobachtung von Geschäftspraktiken, nicht ideologisch"
+    },
+    {
+      "text": "Netflix hatte Konfrontation mit Apple wegen iTunes-Abrechnung - radikal gegen Gebühren",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Würdigt unternehmerische Durchsetzung gegen intermediäre Gebührenmodelle"
+    },
+    {
+      "text": "Sendungen sind so geschnitten, dass man nur Reaktionen sieht - Authentizität verloren",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an manipulativem Medien-Design und fehlender Transparenz"
+    },
+    {
+      "text": "Alte Gameshows mit echtem Charme vs. neu produzierte Versionen sind sterile Nachahmungen",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Nostalgische Kritik an industrialisierter Unterhaltung, leichte Anti-Kommerz-Note"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Netflix denkt sich: mit schlechtem Dreck verkaufen wir noch ein Abo",
+      "context": "Kritik an Streamingplattformen-Geschäftsmodell und Content-Qualität",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Teilnehmer sind super müde nach 24 Stunden - die Sendung ist Schrott",
+      "context": "Bewertung von Netflix-Gameshow, die Müdigkeit als Unterhaltungsfaktor nutzt",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_zAVyMjfIjFs",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_zAVyMjfIjFs",
+  "date": null,
+  "country": "DE",
+  "word_count": 1832
+}

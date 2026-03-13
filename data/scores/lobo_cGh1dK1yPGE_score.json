@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.0,
+  "social_score": -1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.4,
+  "coded_statements": [
+    {
+      "text": "Zeit ist die wichtigste Währung im Leben, nicht Geld oder materielle Güter",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Wertebetrachtung, keine politische Positionierung"
+    },
+    {
+      "text": "Ich möchte auf legalem Weg unternehmerisch tätig sein und Podcasts machen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Pragmatische Unternehmertätigkeit, weder links noch rechts, weder autoritär noch libertär"
+    },
+    {
+      "text": "Die umfangreichen Überwachungsmaßnahmen (verwanzte Autos, Handyspionage) waren entscheidend für die Festnahme",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Beschreibung massiver Überwachung als wirksam; implizite Befürwortung von Sicherheitsmaßnahmen"
+    },
+    {
+      "text": "Besser gar nicht kriminell werden, damit man sich nicht von solchen Maßnahmen rechtfertigen muss",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Implikation, dass intensive Überwachung akzeptable Konsequenz von Kriminalität ist"
+    },
+    {
+      "text": "Man muss sich gegenseitig motivieren weiterzumachen, sonst springen die anderen ab",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Psychologische Analyse von Gruppendynamik, keine politische Aussage"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Die Zeit ist die einzigste Währung, von der wir nicht wissen wie viel noch übrig ist",
+      "context": "Reflexion über Werteverschiebung während Freiheitsstrafe",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir haben uns gesehen wie eine Eliteeinheit, nur auf Seiten der Verbrecher",
+      "context": "Beschreibung des Selbstverständnisses der kriminellen Bande",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_cGh1dK1yPGE",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_cGh1dK1yPGE",
+  "date": null,
+  "country": "DE",
+  "word_count": 4163
+}

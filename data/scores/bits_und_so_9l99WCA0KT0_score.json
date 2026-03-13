@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.0,
+  "social_score": 4.6,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Selbstgehostete Server-Lösung für Unternehmen, die Kontrolle über ihre Daten behalten wollen",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Betonung von Datenkontrolle und Unabhängigkeit von externen Servern, libertäre Perspektive"
+    },
+    {
+      "text": "Organisations-Tool mit End-zu-End-Verschlüsselung für interne und externe Kommunikation",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Fokus auf Verschlüsselung und Privatsphäre als Grundwert für Organisationen"
+    },
+    {
+      "text": "Server in der EU unter europäischem Recht - nicht auf Servern ohne Kontrolle",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Regelkonformität und Datenschutz als Ausschlusskriterium, europäische Regulierung positiv"
+    },
+    {
+      "text": "Multi-Device-Synchronisation über sichere Verschlüsselung statt Cloud-Abhängigkeit",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Betonung technischer Unabhängigkeit und Datensouveränität gegenüber Cloud-Anbietern"
+    },
+    {
+      "text": "Besonders von Rechtsberatern, Finanzberatern und IT-Security-Profis für sensitive Daten genutzt",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Anerkennung von Sicherheit als Geschäftswert, Datenschutz für professionelle Anwendungen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Im Zweifel steht immer noch irgendwo ein Server, den du nicht unter Kontrolle hast",
+      "context": "Kritik an Cloud-Lösungen ohne vollständige Datenkontrolle",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Server in der EU, es gilt europäisches Recht",
+      "context": "Unterscheidung von anderen Plattformen durch regulatorischen Standort",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_9l99WCA0KT0",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_9l99WCA0KT0",
+  "date": null,
+  "country": "DE",
+  "word_count": 449
+}

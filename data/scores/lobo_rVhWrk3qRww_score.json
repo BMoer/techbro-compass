@@ -1,0 +1,82 @@
+{
+  "economic_score": -1.4,
+  "social_score": 1.4,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Die Ukraine ist wirtschaftlich nicht kompatibel mit der EU, Unternehmen könnten nicht konkurrieren",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an wirtschaftlicher Leistungsfähigkeit, aber keine radikal-linke Position"
+    },
+    {
+      "text": "Die EU muss sich selbst reformieren, braucht Mehrheitsentscheidungen statt Einstimmigkeit",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Plädiert für Dezentralisierung von Vetomacht, also mehr dezentrale Entscheidungen"
+    },
+    {
+      "text": "Länder wie Ungarn und Polen sind in die Autokratie zurückgefallen und blockieren die EU",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an autoritären Rückfällen, implizites Plädoyer für Machtkontrolle"
+    },
+    {
+      "text": "Ein Volk das für europäische Werte kämpft gehört in die EU, das ist eine Bereicherung",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 5,
+      "reasoning": "Betont Wertebasis und individuelle Freiheit, pro-Bürgerrechte Rhetorik"
+    },
+    {
+      "text": "Die EU hat einen Beistandsparagraph wie die NATO - automatische Verteidigungspflicht",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Sicherheitslogik, aber kritisch-abwägend, nicht enthusiastisch für Automatismen"
+    },
+    {
+      "text": "Macrons Idee einer 'europäischen politischen Gemeinschaft' ist vage und möglicherweise eine Fake-Lösung",
+      "speaker": "host",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Skeptische Haltung gegenüber Umgehungslösungen, plädiert für echte Integration"
+    },
+    {
+      "text": "Es ist viel verlangt, dass die Ukraine jetzt Korruptionsprobleme bekämpft während sie um ihre Existenz kämpft",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Pragmatische, humanistische Position - verständnis für Kontext, soziale Perspektive"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Entweder streckt Europa seine Hand aus oder andere werden es tun",
+      "context": "Lettischer Premier über Konkurrenzdruck durch China, Türkei und Russland im Westbalkan",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ein Land kann nur noch die EU verlassen wenn es selber gehen will, ansonsten hat man dieses Land im wahrsten Sinne des Wortes an der Backe",
+      "context": "Erklärung warum strenge EU-Aufnahmekriterien notwendig sind",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn die Ukraine diese Annektion nicht akzeptiert, schmälert das ihre Chancen auf EU- und NATO-Beitritt - das wäre eines von Putins Kriegszielen",
+      "context": "Analyse der Geopolitik von 'eingefrorenen Konflikten' wie in Georgien",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_rVhWrk3qRww",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_rVhWrk3qRww",
+  "date": null,
+  "country": "DE",
+  "word_count": 4135
+}

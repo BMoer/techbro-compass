@@ -1,0 +1,80 @@
+{
+  "economic_score": -1.67,
+  "social_score": -4.17,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode, schwache Koalitionsregierungen, keine starke Führung wie in Russland oder China",
+      "speaker": "guest",
+      "economic": 5,
+      "social": -3,
+      "reasoning": "Kritik an westlicher Regulierung (rechts), Bewunderung autoritärer Struktur (autoritär)"
+    },
+    {
+      "text": "Deutsche Wirtschaft opportunistisch, kriecht Putin hinterher, kein Rückgrat bei Gasverhandlungen",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an kapitalistischer Interessenpolitik, fehlendes moralisches Rückgrat"
+    },
+    {
+      "text": "Westliche Sanktionen sind substanziell, treffen Russland erheblich, zerstören Luftfahrtindustrie",
+      "speaker": "guest",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Bestätigung der Wirksamkeit von wirtschaftlichen Strafmaßnahmen gegen Unternehmensfreiheit"
+    },
+    {
+      "text": "Demokratisches Russland nach westlichem Muster wird es nie geben, Russland hat andere Tradition",
+      "speaker": "guest",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Akzeptanz autoritärer Systemlogik als kulturell unvermeidbar, pessimistisch bzgl. Freiheiten"
+    },
+    {
+      "text": "Veränderungen in Russland kommen nur von oben aus der Elite, niemals von unten aus der Straße",
+      "speaker": "guest",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Skepsis gegenüber Bürgerbeteiligung, Affirmation hierarchischer Entscheidungsfindung"
+    },
+    {
+      "text": "Russland wird sich insgesamt sehr nationalistisch entwickeln, friedliche Koexistenz ist maximal erreichbar",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Prognose autoritärer Entwicklung, Ablehnung liberaler Hoffnung auf kurz- bis mittelfristig"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Putin ist ein schlechter Stratege, aber ein hervorragender Taktiker",
+      "context": "Charakterisierung von Putins politischem Stil und Entscheidungsfähigkeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Ukraine zu verlieren hieße für Russland, dass Russland aufhört zu existieren",
+      "context": "Erklärung der philosophischen Obsession Russlands mit der Ukraine",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ivan der Schreckliche wird zum Vorbild: Ein Herrscher, der innere Feinde besiegt, um äußere zu bekämpfen",
+      "context": "Parallelen zwischen historischem Vorbild und Putins aktuellem Vorgehen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Russlands Eliten stammen aus Sicherheitsdiensten, sind Putin ergeben – liberale Variante nicht absehbar",
+      "context": "Prognose der zukünftigen Machtverteilung und ideologischen Ausrichtung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_l3TNDfetnYA",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_l3TNDfetnYA",
+  "date": null,
+  "country": "DE",
+  "word_count": 7709
+}

@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 40 column 17 (char 1375)",
+  "raw_response": "{\n  \"economic_score\": -1.4,\n  \"social_score\": 1.0,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.82,\n  \"coded_statements\": [\n    {\n      \"text\": \"Energiewende als größte industrielle Modernisierung Deutschlands seit 100+ Jahren\",\n      \"speaker\": \"guest\",\n      \"economic\": -3,\n      \"social\": null,\n      \"reasoning\": \"Staatliche Modernisierungsprojekte, massive Investitionen, regulativ gelenkt\"\n    },\n    {\n      \"text\": \"Ampelkoalition will 80% erneuerbare Energien bis 2030, ",
+  "episode_id": "lobo_MGSU9GkO8fc",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_MGSU9GkO8fc",
+  "date": null,
+  "country": "DE",
+  "word_count": 5660
+}

@@ -1,0 +1,122 @@
+{
+  "economic_score": 2.1,
+  "social_score": 1.6,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an Überregulierung, Freemarkt-Position"
+    },
+    {
+      "text": "TikTok rauswerfen ist wirtschaftlicher Protektionismus gegen China",
+      "speaker": "host",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Skeptisch gegenüber protektionistischen Maßnahmen, pro Marktöffnung und Freiheit"
+    },
+    {
+      "text": "Datenschutz ist wichtig, aber Hypokrisie bei Facebook/Instagram Kritik",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Befürwortung von Datenschutzrechten mit pragmatischer Kritik"
+    },
+    {
+      "text": "Alternative Anlagen wie Uhren/Whisky sind schlechte Investitionen",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Rational-ökonomische Analyse gegen spekulative Assets"
+    },
+    {
+      "text": "Crowdfunding ist adverser Selektion und Measure of Last Resort",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Skeptische finanzielle Analyse von Crowdfunding-Mechaniken"
+    },
+    {
+      "text": "Netflix Gewinne sind gut, aber Bewertung ist viel zu teuer",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Freemarkt-Analyse, rationale Preiskritik"
+    },
+    {
+      "text": "Tesla mit 50x Gewinn Multiplikator völlig absurd bewertet",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an Überpreisierung, rationaler Investitionsansatz"
+    },
+    {
+      "text": "Coinbase weicht US-Regulierung aus statt sie zu meistern",
+      "speaker": "host",
+      "economic": -2,
+      "social": 1,
+      "reasoning": "Enttäuschung über Deregulierungs-Trend trotz anfänglichem Idealismus"
+    },
+    {
+      "text": "Med-Startups brauchen echte Forschungserfahrung oder Umweg über Unternehmensberatung",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Karriere-Marktlogik für Healthcare VC"
+    },
+    {
+      "text": "Paginierung im Internet sollte verboten sein statt Scrolling",
+      "speaker": "host",
+      "economic": 0,
+      "social": 4,
+      "reasoning": "UX-Kritik mit libertärer Nutzerfokus-Position"
+    },
+    {
+      "text": "Wenn du Uhren-Renditen so gut erkennst, starte Fund statt Plattform",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Marktlogische Kritik an alternativen Anlageplattformen"
+    },
+    {
+      "text": "Kunstfreiheit vs. Datenschutz: Beide sind legitim abzuwägen",
+      "speaker": "host",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Ausbalancierte liberale Position zu Meinungsfreiheit"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Datenschutz ist wichtig, aber wie sperren wir TikTok wenn Facebook das gleiche macht?",
+      "context": "Debatte über chinesische Apps im AppStore und westliche Heuchelei",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn du das so gut könntest würdest du Geld raisen und nicht Uhren verkaufen",
+      "context": "Kritik an Tokenisierungs-Plattformen für alternative Anlagen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Netflix bei 30x Gewinn - wo soll das Wachstum herkommen?",
+      "context": "Analyse warum Netflix trotz guter Zahlen teuer bewertet ist",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Tesla hat 115% mehr Autos auf Halde - die werden nicht teurer verkauft",
+      "context": "Analyse warum Teslas Rohmargen weiter fallen müssen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_MXYU2mekUgk",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_MXYU2mekUgk",
+  "date": null,
+  "country": "DE",
+  "word_count": 12530
+}

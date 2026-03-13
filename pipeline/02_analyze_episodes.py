@@ -126,6 +126,7 @@ def analyze_episode(transcript_path: Path, client: anthropic.Anthropic) -> dict:
         model="claude-haiku-4-5-20251001",
         max_tokens=4096,
         messages=[{"role": "user", "content": prompt}],
+        timeout=120.0,
     )
     
     response_text = message.content[0].text.strip()
@@ -156,17 +157,62 @@ def analyze_episode(transcript_path: Path, client: anthropic.Anthropic) -> dict:
     return result
 
 
+def _group_by_podcast(files):
+    """Group transcript files by podcast_id read from JSON content.
+
+    Filenames use {podcast_id}_{video_id}.json but video IDs contain
+    underscores, so we read podcast_id from the JSON instead.
+    Only reads the first 500 bytes to extract metadata (avoids loading
+    full transcripts which can be megabytes each).
+    """
+    import re
+    by_podcast = defaultdict(list)
+    pid_re = re.compile(r'"podcast_id"\s*:\s*"([^"]+)"')
+    date_re = re.compile(r'"upload_date"\s*:\s*"([^"]*)"')
+    for f in files:
+        try:
+            with open(f, 'r', encoding='utf-8') as fh:
+                head = fh.read(500)
+            pid_m = pid_re.search(head)
+            date_m = date_re.search(head)
+            pid = pid_m.group(1) if pid_m else "unknown"
+            date = date_m.group(1) if date_m else ""
+            by_podcast[pid].append((f, date))
+        except (OSError, UnicodeDecodeError):
+            continue
+    return by_podcast
+
+
 def sample_per_podcast(files, n_per_podcast):
     """Pick n random files per podcast for a representative sample."""
-    by_podcast = defaultdict(list)
-    for f in files:
-        podcast_id = f.stem.rsplit("_", 1)[0]
-        by_podcast[podcast_id].append(f)
+    by_podcast = _group_by_podcast(files)
 
     sampled = []
     for pid, pfiles in sorted(by_podcast.items()):
         pick = min(n_per_podcast, len(pfiles))
-        sampled.extend(random.sample(pfiles, pick))
+        chosen = random.sample(pfiles, pick)
+        sampled.extend(f for f, _ in chosen)
+    return sorted(sampled)
+
+
+def sample_prime_stride(files, stride):
+    """Sample episodes using a prime-number stride per podcast.
+
+    A prime stride avoids synchronization with weekly/monthly upload patterns,
+    reducing temporal autocorrelation in the sample. Sorts episodes by date
+    within each podcast, then picks every Nth episode (N = prime stride).
+
+    Credit: Manuel Gahn (https://www.linkedin.com/in/manuelgahn/)
+    """
+    by_podcast = _group_by_podcast(files)
+
+    sampled = []
+    for pid, pfiles in sorted(by_podcast.items()):
+        # Sort by upload date for chronological order
+        pfiles_sorted = sorted(pfiles, key=lambda x: x[1])
+        # Pick every stride-th episode, starting at offset 0
+        picked = [pfiles_sorted[i][0] for i in range(0, len(pfiles_sorted), stride)]
+        sampled.extend(picked)
     return sorted(sampled)
 
 
@@ -174,6 +220,8 @@ def main():
     parser = argparse.ArgumentParser(description="Analyze podcast transcripts")
     parser.add_argument("--sample", type=int, default=0,
                         help="Analyze N random episodes per podcast (0 = all)")
+    parser.add_argument("--stride", type=int, default=0,
+                        help="Sample every Nth episode per podcast (use prime like 11 or 13)")
     parser.add_argument("files", nargs="*", help="Specific transcript files to analyze")
     args = parser.parse_args()
 
@@ -199,7 +247,10 @@ def main():
         print("No transcript files found.")
         sys.exit(1)
 
-    if args.sample > 0:
+    if args.stride > 0:
+        transcript_files = sample_prime_stride(transcript_files, args.stride)
+        print(f"PRIME STRIDE MODE: {len(transcript_files)} episodes (every {args.stride}th per podcast)")
+    elif args.sample > 0:
         transcript_files = sample_per_podcast(transcript_files, args.sample)
         print(f"SAMPLE MODE: {len(transcript_files)} episodes ({args.sample} per podcast)")
     else:

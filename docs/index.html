@@ -305,6 +305,88 @@
     .panel-meta { margin-top: 0.6rem; }
   }
 
+  /* ── Party toggle ── */
+  .party-control {
+    margin-top: 1rem;
+    padding-top: 0.6rem;
+    border-top: 1px solid var(--grid);
+  }
+  .party-label {
+    font-size: 0.55rem;
+    color: var(--dim);
+    text-transform: uppercase;
+    letter-spacing: 0.1em;
+    margin-bottom: 0.4rem;
+  }
+  .party-toggles {
+    display: flex;
+    gap: 0.3rem;
+  }
+  .party-btn {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.55rem;
+    padding: 0.25rem 0.5rem;
+    border: 1px solid #ddd;
+    background: transparent;
+    color: var(--dim);
+    cursor: pointer;
+    border-radius: 2px;
+    transition: all 0.15s;
+  }
+  .party-btn:hover { border-color: var(--ink); color: var(--ink); }
+  .party-btn.active { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+
+  /* ── Tutorial overlay ── */
+  .tutorial-overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.65);
+    z-index: 200;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition: opacity 0.4s;
+  }
+  .tutorial-overlay.visible { opacity: 1; }
+  .tutorial-box {
+    background: var(--paper);
+    max-width: 420px;
+    width: 90%;
+    padding: 1.5rem 1.8rem;
+    border-radius: 4px;
+    text-align: center;
+  }
+  .tutorial-box h2 {
+    font-family: 'Instrument Serif', serif;
+    font-size: 1.3rem;
+    font-weight: 400;
+    margin-bottom: 0.6rem;
+  }
+  .tutorial-box p {
+    font-size: 0.65rem;
+    color: #666;
+    line-height: 1.6;
+    margin-bottom: 0.8rem;
+  }
+  .tutorial-box .tutorial-hint {
+    font-size: 0.55rem;
+    color: var(--dim);
+    margin-bottom: 1rem;
+  }
+  .tutorial-next {
+    font-family: 'DM Mono', monospace;
+    font-size: 0.6rem;
+    padding: 0.4rem 1.2rem;
+    border: none;
+    background: var(--ink);
+    color: var(--paper);
+    cursor: pointer;
+    border-radius: 2px;
+    transition: opacity 0.15s;
+  }
+  .tutorial-next:hover { opacity: 0.8; }
+
   /* ── Small phones ── */
   @media (max-width: 480px) {
     body { font-size: 12px; }
@@ -343,12 +425,48 @@
     </div>
     <div class="time-display" id="time-display"></div>
   </div>
+  <div class="party-control">
+    <div class="party-label">Parteien als Referenz</div>
+    <div class="party-toggles">
+      <button class="party-btn" data-party="AT" onclick="toggleParty('AT')">AT</button>
+      <button class="party-btn" data-party="DE" onclick="toggleParty('DE')">DE</button>
+      <button class="party-btn active" data-party="off" onclick="toggleParty(null)">Aus</button>
+    </div>
+  </div>
   <div class="panel-meta" id="panel-meta"></div>
+</div>
+
+<!-- Tutorial overlay -->
+<div class="tutorial-overlay" id="tutorial-overlay" style="display:none">
+  <div class="tutorial-box" id="tutorial-box"></div>
 </div>
 
 <div class="tooltip" id="tooltip"></div>
 
 <script>
+// ── Political parties (approximate Political Compass positions) ──
+const PARTIES = {
+  AT: [
+    { name: 'SPÖ', econ: -3, soc: 1, color: '#c41e18' },
+    { name: 'ÖVP', econ: 4, soc: -2, color: '#63c3d0' },
+    { name: 'FPÖ', econ: 2, soc: -6, color: '#0056a2' },
+    { name: 'Grüne', econ: -3, soc: 4, color: '#87b52a' },
+    { name: 'NEOS', econ: 5, soc: 4, color: '#e84188' },
+    { name: 'KPÖ', econ: -7, soc: 1, color: '#cc0000' },
+  ],
+  DE: [
+    { name: 'SPD', econ: -2, soc: 0, color: '#e3000f' },
+    { name: 'CDU/CSU', econ: 3, soc: -2, color: '#000000' },
+    { name: 'Grüne', econ: -2, soc: 3, color: '#64a12d' },
+    { name: 'FDP', econ: 6, soc: 3, color: '#ffed00' },
+    { name: 'AfD', econ: 2, soc: -7, color: '#009ee0' },
+    { name: 'Linke', econ: -5, soc: 2, color: '#be3075' },
+    { name: 'BSW', econ: -3, soc: -4, color: '#731744' },
+  ],
+};
+
+let partyMode = null; // 'AT', 'DE', or null
+
 const COLORS = {
   'Future Weekly': '#c23616',
   'Doppelg\u00E4nger Tech Talk': '#2d5aa0',
@@ -395,6 +513,21 @@ function epTip(ep, extra) {
 }
 
 function hideTip() { tooltip.classList.remove('visible'); }
+
+// ── Party toggle ──
+
+function toggleParty(mode) {
+  if (mode === null) {
+    partyMode = null;
+  } else {
+    partyMode = partyMode === mode ? null : mode;
+  }
+  document.querySelectorAll('.party-btn').forEach(b => {
+    const val = b.getAttribute('data-party');
+    b.classList.toggle('active', val === (partyMode || 'off'));
+  });
+  renderCompass();
+}
 
 // ── Time filter ──
 
@@ -648,6 +781,38 @@ function renderCompass() {
     });
   }
 
+  // Party reference dots
+  if (partyMode && PARTIES[partyMode] && !zoomed) {
+    const pg = el('g', { 'clip-path': 'url(#ca)' });
+    PARTIES[partyMode].forEach(p => {
+      const px = sx(p.econ), py = sy(p.soc);
+      const size = isMobile ? 5 : 3.5;
+      // Diamond shape for parties
+      const diamond = el('polygon', {
+        points: [px, py - size, px + size, py, px, py + size, px - size, py].join(','),
+        fill: p.color, stroke: 'white', 'stroke-width': '1',
+        opacity: '0.7',
+      });
+      const tipHtml = '<div class="tp">' + p.name + ' (' + partyMode + ')</div><div class="tv">Econ ' + p.econ + ' | Soc ' + p.soc + '</div>';
+      diamond.style.cursor = 'default';
+      diamond.addEventListener('mouseenter', e => showTip(e, tipHtml));
+      diamond.addEventListener('mouseleave', hideTip);
+      pg.appendChild(diamond);
+      // Label
+      const labelSize = isMobile ? 8 : 6.5;
+      const lbl = el('text', {
+        x: px + size + 3, y: py + 2.5,
+        'font-family': 'DM Mono,monospace', 'font-size': labelSize,
+        fill: p.color, opacity: '0.6', 'pointer-events': 'none',
+      });
+      // FDP needs dark text since yellow is invisible
+      if (p.name === 'FDP') lbl.setAttribute('fill', '#b8a900');
+      lbl.textContent = p.name;
+      pg.appendChild(lbl);
+    });
+    svg.appendChild(pg);
+  }
+
   renderLegend(byPod);
 }
 
@@ -704,6 +869,67 @@ function renderLegend(byPod) {
     episodes.length + '/' + allEpisodes.length + ' Episoden<br>Claude Haiku 4.5 \u00B7 <a href="methodik.html">Methodik \u2192</a>';
 }
 
+// ── Tutorial ──
+
+const TUTORIAL_STEPS = [
+  {
+    title: 'Der Political Compass',
+    body: 'Zwei Achsen: <b>Links–Rechts</b> (Wirtschaft) und <b>Libertär–Autoritär</b> (Gesellschaft). Jeder Punkt wird auf beiden Dimensionen verortet.',
+    hint: 'Bekannt von politicalcompass.org — basierend auf Eysenck (1954) und Nolan (1971).',
+    action: () => { toggleParty('AT'); },
+    btn: 'Parteien als Orientierung →',
+  },
+  {
+    title: 'Parteien als Referenz',
+    body: 'Hier siehst du österreichische Parteien als <b>◆ Rauten</b> — zur Orientierung, wo die Quadranten politisch liegen. Du kannst jederzeit zwischen AT und DE wechseln.',
+    hint: 'Positionen sind Näherungswerte, nicht absolute Wahrheit.',
+    action: () => { toggleParty('DE'); },
+    btn: 'Deutsche Parteien →',
+  },
+  {
+    title: 'Und jetzt: die Podcasts',
+    body: 'Jede <b>● Kugel</b> ist eine Podcast-Episode, codiert via LLM. Die großen Punkte zeigen den Durchschnitt pro Podcast. Klick auf einen Podcast zum Reinzoomen.',
+    hint: 'Die Parteien kannst du rechts jederzeit ein- und ausblenden.',
+    action: () => { toggleParty(null); },
+    btn: 'Los geht\u2019s',
+  },
+];
+
+let tutorialStep = 0;
+
+function showTutorial() {
+  const overlay = document.getElementById('tutorial-overlay');
+  const box = document.getElementById('tutorial-box');
+  tutorialStep = 0;
+  renderTutorialStep(box, overlay);
+  overlay.style.display = 'flex';
+  requestAnimationFrame(() => overlay.classList.add('visible'));
+}
+
+function renderTutorialStep(box, overlay) {
+  const step = TUTORIAL_STEPS[tutorialStep];
+  step.action();
+  box.innerHTML =
+    '<h2>' + step.title + '</h2>' +
+    '<p>' + step.body + '</p>' +
+    '<div class="tutorial-hint">' + step.hint + '</div>' +
+    '<button class="tutorial-next" id="tutorial-next">' + step.btn + '</button>';
+  document.getElementById('tutorial-next').addEventListener('click', () => {
+    tutorialStep++;
+    if (tutorialStep >= TUTORIAL_STEPS.length) {
+      closeTutorial(overlay);
+    } else {
+      renderTutorialStep(box, overlay);
+    }
+  });
+}
+
+function closeTutorial(overlay) {
+  overlay.classList.remove('visible');
+  setTimeout(() => { overlay.style.display = 'none'; }, 400);
+  localStorage.setItem('compass-tutorial-seen', '1');
+}
+
 // ── Load ──
 
 async function loadData() {
@@ -718,6 +944,11 @@ async function loadData() {
   if (allEpisodes.length > 0) {
     episodes = [...allEpisodes];
     initTimeSlider();
+
+    // Show tutorial on first visit
+    if (!localStorage.getItem('compass-tutorial-seen')) {
+      setTimeout(showTutorial, 600);
+    }
   }
 }
 

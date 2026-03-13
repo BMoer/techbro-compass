@@ -1,0 +1,108 @@
+{
+  "economic_score": -3.4,
+  "social_score": 1.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Der exklusive Privattunnel hat überhaupt keinen Mehrwert für die Allgemeinheit.",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik an privatem Projekt ohne öffentlichen Nutzen; kritisiert Kapitalismus-Exzesse"
+    },
+    {
+      "text": "Wir sind gegen Sonderrechte für Private, egal ob sie reich sind oder nicht.",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 3,
+      "reasoning": "Anti-Privilegien-Haltung (links), libertäre Komponente gegen Bevormundung durch Staat"
+    },
+    {
+      "text": "Das Projekt ist ökologisch Wahnsinn, weil wir in Grünland uns befinden.",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Umweltschutz-Argument, implizit anti-kapitalistisches Wachstumskritik"
+    },
+    {
+      "text": "Das ist strukturelle Ungerechtigkeit, die es zu überwinden gilt.",
+      "speaker": "guest",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Explizit systemische Kapitalismuskritik; radikalere linke Position"
+    },
+    {
+      "text": "Wenn er hier 10 Millionen investiert, beschäftigt er Salzburger Architekturbüros und Baufirmen.",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Unternehmertum; Argument für wirtschaftliche Vorteile der Investition"
+    },
+    {
+      "text": "Wir räumen ja nur eine Dienstbarkeit ein, verkaufen nicht den Grund.",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische, rechtlich-marktwirtschaftliche Argumentation"
+    },
+    {
+      "text": "Egal wie lange ich mich anstrenge, das schaffe ich einfach nicht.",
+      "speaker": "guest",
+      "economic": -7,
+      "social": null,
+      "reasoning": "Radikale Kritik an ungleicher Vermögensverteilung; systemisch-linke Position"
+    },
+    {
+      "text": "Es gibt diese ganze Entscheidungsmacht bei einer Einzelperson – das ist nicht demokratisch.",
+      "speaker": "guest",
+      "economic": -5,
+      "social": 6,
+      "reasoning": "Kritik an Macht konzentration; pro-Demokratie, libertäre Komponente gegen unilaterale Macht"
+    },
+    {
+      "text": "Superreiche prägen mit ihrem Geld Regionen, bringen Wohlstand und fördern Kunst.",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-Kapitalismus; würdigt wirtschaftliche Rolle von Milliardären"
+    },
+    {
+      "text": "Die Politik müsse Milliardären nicht alles genehmigen, was sie sich wünschen.",
+      "speaker": "host",
+      "economic": -2,
+      "social": 2,
+      "reasoning": "Gemäßigte Kritik an Überpriorisierung von Vermögen; leicht pro-Regulation"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Der exklusive Privattunnel hat überhaupt keinen Mehrwert für die Allgemeinheit.",
+      "context": "Kritik an Porsche-Tunnel als Symbol für Privilegien der Superreichen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Egal wie lange ich mich anstrenge, das schaffe ich einfach nicht.",
+      "context": "Aktivist kritisiert strukturelle Vermögensungleichheit als systemisches Problem",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das ist strukturelle Ungerechtigkeit, die es zu überwinden gilt.",
+      "context": "Radikale Systemkritik am Kapitalismus durch Klimaaktivisten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt diese ganze Entscheidungsmacht bei einer Einzelperson – das ist nicht demokratisch.",
+      "context": "Kritik an fehlender Gewaltenteilung durch Milliardärseinfluss",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_z1ECa2_teLs",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_z1ECa2_teLs",
+  "date": null,
+  "country": "DE",
+  "word_count": 5212
+}

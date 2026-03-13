@@ -1,0 +1,68 @@
+{
+  "economic_score": 0.4,
+  "social_score": -1.6,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.6,
+  "coded_statements": [
+    {
+      "text": "man gibt ja sein Leben ja zum Teil auf als Butler damit man jemanden anderen dienen kann",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Subordination, Aufgabe von Autonomie für Dienst"
+    },
+    {
+      "text": "alles was sich im Rahmen der Möglichkeiten bewegt kann man natürlich viele Dinge verlangen alles was natürlich auch legal ist",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Akzeptanz breiter Autorität des Arbeitgebers, legale Grenzen nur Grenze"
+    },
+    {
+      "text": "Butler können von 50.000 bis 150.000 bis zu ein Million Euro im Jahr verdienen ist halt immer die Frage für wen arbeitest du",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Marktbasierte Einkommensunterschiede, privatwirtschaftliche Preisbildung"
+    },
+    {
+      "text": "man ist nicht Teil der Familie selbst wenn du nach 10 nach 15 oder nach 20 Jahren für jemanden gearbeitet hast",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Hierarchische Grenzziehung, Statusunterschied trotz Nähe"
+    },
+    {
+      "text": "Service zu geben schon immer etwas war was mir sehr sehr Spaß gemacht hat und ich das nach wie vor auch als Berufung gesehen habe",
+      "speaker": "guest",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Intrinsische Motivation für Serviceleistung, nicht Gewinnmaximierung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "man gibt sein Leben zum Teil auf als Butler damit man jemanden anderen dienen kann",
+      "context": "Philip beschreibt die existenzielle Dimension des Butlerberufs",
+      "quiz_suitable": true
+    },
+    {
+      "text": "man ist nicht Teil der Familie selbst wenn du nach 20 Jahren für jemanden gearbeitet hast",
+      "context": "Klare Grenzziehung trotz enger emotionaler Beziehung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Butler können von 50.000 bis eine Million Euro im Jahr verdienen je nachdem für wen arbeitest du",
+      "context": "Massive Einkommensungleichheit basierend auf Arbeitgeber-Status",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_o42TsthVOyQ",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_o42TsthVOyQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 5210
+}

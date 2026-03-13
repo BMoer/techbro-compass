@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 25 column 19 (char 771)",
+  "raw_response": "{\n  \"economic_score\": 1.4,\n  \"social_score\": 1.6,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.82,\n  \"coded_statements\": [\n    {\n      \"text\": \"Regulierung schafft Wettbewerbsvorteil und Innovation\",\n      \"speaker\": \"host\",\n      \"economic\": -3,\n      \"social\": null,\n      \"reasoning\": \"Pro-Regulierung für EU, aber pragmatisch nicht ideologisch links\"\n    },\n    {\n      \"text\": \"Kleine Startups treffen Regulierungskosten härter als Big Tech\",\n      \"speaker\": \"host\",\n      \"",
+  "episode_id": "future_weekly_XKKbW9F79Rk",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_XKKbW9F79Rk",
+  "date": null,
+  "country": "AT",
+  "word_count": 7027
+}

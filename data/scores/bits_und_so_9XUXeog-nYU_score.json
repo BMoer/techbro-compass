@@ -1,0 +1,117 @@
+{
+  "economic_score": -1.2,
+  "social_score": 1.4,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Apple sollte Ersatzteile und Reparaturanleitungen für alle anbieten",
+      "speaker": "host",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Pro-Verbraucherregulation, Anti-Monopol-Praktiken, Transparenz"
+    },
+    {
+      "text": "Hersteller verdienen mehr durch Neuverkauf als durch Reparaturen",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Kritik an Geschäftsmodell, Anreize gegen Reparierbarkeit"
+    },
+    {
+      "text": "Sicherheitsrisiken rechtfertigen Reparaturbeschränkungen",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Sicherheit vor Freiheit, Haftungsargument für Kontrolle"
+    },
+    {
+      "text": "Hersteller könnten autorisierte Reparaturbetriebe mit Standards zertifizieren",
+      "speaker": "host",
+      "economic": -2,
+      "social": 3,
+      "reasoning": "Regulierungslösung, Mittelweg zwischen Kontrolle und Zugang"
+    },
+    {
+      "text": "Tesla überwacht und sperrt Fahrzeuge bei Zahlungsausfall",
+      "speaker": "host",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Digitale Kontrolle, Überwachung, Abschaffung von Eigentumsrechten"
+    },
+    {
+      "text": "Subprime Auto-Kredite mit Startsperren sind wie Subprime Mortgages",
+      "speaker": "host",
+      "economic": -5,
+      "social": -4,
+      "reasoning": "Kritik an predatorischen Finanzierungspraktiken und Kontrolle"
+    },
+    {
+      "text": "Samsung thematisiert Note-7-Akkuprobleme transparent in Werbung",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Transparenz, Fehlereingeständnis, Verbraucherkommunikation"
+    },
+    {
+      "text": "Geräte wurden unter Druck schnell fertiggestellt, was Fehler verursachte",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an profitmaximiertem Produktionsprozess zu Lasten Qualität"
+    },
+    {
+      "text": "Reparaturgesetze sind an der praktischen Realität vorbei",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Skeptisch gegenüber Regulierung, technische Machbarkeit argumentiert"
+    },
+    {
+      "text": "Weniger als 1% der Nutzer wollen selbst reparieren",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktargument gegen Regulierungsbedarf, Verbraucherpräferenz"
+    },
+    {
+      "text": "Apple könnte Ersatzteile verkaufen ohne zu sterben",
+      "speaker": "host",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Kritik an künstlicher Knappheit, Argument für Verfügbarkeit"
+    },
+    {
+      "text": "Haftungsrisiken führen Hersteller dazu, Reparaturen zu monopolisieren",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Juristische Kontrolllogik, Vorsorgeprinzip begrenzt Freiheit"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Apple macht sich Dollarzeichen in den Augen zu, nicht aus Reparatur-Gewinn sondern um Leute zum Neukauf zu bewegen",
+      "context": "Analyse der wahren wirtschaftlichen Anreize hinter Reparaturbeschränkungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Tesla sperrt Autos wenn Fahrer Raten nicht zahlt - wie Subprime Mortgages bei der Finanzkrise",
+      "context": "Kritik an digitaler Kontrolle und predatorischen Finanzierungsmodellen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Samsung thematisiert Note-7-Akkudesaster explizit statt es zu vergessen",
+      "context": "Überraschend positive Beispiel von Transparenz statt Vertuschung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_9XUXeog-nYU",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_9XUXeog-nYU",
+  "date": null,
+  "country": "DE",
+  "word_count": 4203
+}

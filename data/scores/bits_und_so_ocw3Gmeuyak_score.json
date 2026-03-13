@@ -1,0 +1,32 @@
+{
+  "economic_score": 2.5,
+  "social_score": 0,
+  "n_coded": 2,
+  "insufficient_data": true,
+  "confidence": 0.3,
+  "coded_statements": [
+    {
+      "text": "Man muss Produkte nicht gleich kaufen, sondern kann sie monatsweise mieten und ausprobieren",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Befürwortung von Sharing-Economy und Alternative zum Kaufzwang, pragmatisches Unternehmertum"
+    },
+    {
+      "text": "Entfliehe dem Kaufrausch - man kann Sachen ausleihen statt zu kaufen",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Kritik an Konsumismus, aber neutrale Positionierung als praktische Alternative"
+    }
+  ],
+  "notable_quotes": [],
+  "issues": "Transkript ist stark fragmentiert und transkriptionsfehlerbelastet. Enthält primär Werbung für Grover-Mietservice ohne politische oder gesellschaftliche Meinungsäußerungen. Weniger als 5 codierbare Aussagen vorhanden. Keine Positionen zu Regulierung, Freiheitsrechten oder autoritären Themen erkennbar.",
+  "episode_id": "bits_und_so_ocw3Gmeuyak",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_ocw3Gmeuyak",
+  "date": null,
+  "country": "DE",
+  "word_count": 507
+}

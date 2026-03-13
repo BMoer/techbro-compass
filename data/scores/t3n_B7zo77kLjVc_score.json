@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Amazon Prime Air ist hauptsächlich eine Marketingstrategie fürs Weihnachtsgeschäft",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an Unternehmens-Marketing, pragmatisch-skeptisch gegenüber Geschäftsmodell"
+    },
+    {
+      "text": "Drohnenlieferungen machen in abgelegenen Gebieten Sinn, z.B. für Medikamente nach Naturkatastrophen",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Befürwortung von Technologie für Gemeinwohl und Infrastruktur, pragmatisch"
+    },
+    {
+      "text": "E-Commerce und Versandhändler haben jetzt unheimlich viel zu tun durch Online-Bestellungen",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Feststellung wirtschaftlicher Realität, keine Wertung"
+    },
+    {
+      "text": "Mit 8 km Reichweite erreicht Amazon nur kleine Zielgruppe - sehr begrenzte praktische Anwendbarkeit",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Technische Skepsis gegenüber Geschäftsmodell, marktkritisch"
+    },
+    {
+      "text": "Drohnenlieferungen könnten Zustellung lösen, wenn man nicht zuhause ist - echte Kundenprobleme adressieren",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Befürwortung innovativer Lösungen für Marktprobleme, unternehmensorientiert"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Es gibt nichts nervigeres - man ist nicht zu Hause und muss irgendwas umständlich organisieren",
+      "context": "Kritik an Logistik-Ineffizienz im E-Commerce und wie Drohnen das lösen könnten",
+      "quiz_suitable": false
+    },
+    {
+      "text": "Aktuell ist es nicht mehr als ein Zukunftsplan - erst in 50 Jahren vielleicht Realität",
+      "context": "Skepsis gegenüber Amazon Prime Air Machbarkeit und Zeitrahmen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_B7zo77kLjVc",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_B7zo77kLjVc",
+  "date": null,
+  "country": "DE",
+  "word_count": 1133
+}

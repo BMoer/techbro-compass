@@ -1,0 +1,82 @@
+{
+  "economic_score": -1.4,
+  "social_score": -1.6,
+  "n_coded": 7,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "SPD will raus aus Gefangenschaft der Großkoalition, braucht Politikwechsel und mehr Gerechtigkeit",
+      "speaker": "guest",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Links-Rhetorik: Mehr Gerechtigkeit, Regulierungswille, Ablehnung Status quo"
+    },
+    {
+      "text": "Linkspartei mit unrealistischen Thesen, rot-rot-grün funktioniert nicht auf Bundesebene",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an radikaler Umverteilung; eher marktfreundliche Position"
+    },
+    {
+      "text": "Große Koalition unter Merkel war erfolgreiches Modell, funktioniert auch im Bund",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pro-Status quo, pro-Kontinuität, gemäßigt marktfreundlich"
+    },
+    {
+      "text": "CDU kann rot-rot-grün als Schreckgespenst an die Wand malen, mobilisiert Unionsklientel",
+      "speaker": "guest",
+      "economic": 4,
+      "social": -3,
+      "reasoning": "Warnt vor linkem Bündnis aus bürgerlicher Perspektive; impliziert Sicherheitsdenken"
+    },
+    {
+      "text": "Linkspartei müsste sich reformieren und regierungsfähig machen, haben aber falsches Personal",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Kritik an radikaler Linke, implizite Präferenz für gemäßigte Politik"
+    },
+    {
+      "text": "Streitthemen: Sozialstaat, Steuern, Auslandseinsätze, Waffenlieferungen, Europa-Politik",
+      "speaker": "guest",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Nennung von Umverteilung/Sozialstaat als zentral; linksorientierte Agenda"
+    },
+    {
+      "text": "Großkoalition unter Schulz' Führung ist realistische Machtperspektive für SPD",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische, zentristisch-Position; akzeptiert Status quo"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "die große Koalition ist für Merkel so ein heimlicher Wahlkampf Hit",
+      "context": "Analyse von Merkels Wahlstrategie beim Bekenntnis zur Großkoalition",
+      "quiz_suitable": true
+    },
+    {
+      "text": "die SPD wirbt ja immer damit dass sie so viele Dinge umgesetzt hat von ihrem sozialdemokratischen Programm das hat der SPD aber bisher einfach gar nichts gebracht",
+      "context": "Kritik an SPD-Bilanz in der Großkoalition",
+      "quiz_suitable": true
+    },
+    {
+      "text": "die Linkspartei müsste sich quasi selbst reformiert und regierungsfähig machen – die haben sie im Grunde nicht die Kraft",
+      "context": "Skeptik gegenüber rot-rot-grünem Koalitionspotenzial",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_tUjD4FgK0gQ",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_tUjD4FgK0gQ",
+  "date": null,
+  "country": "DE",
+  "word_count": 2257
+}

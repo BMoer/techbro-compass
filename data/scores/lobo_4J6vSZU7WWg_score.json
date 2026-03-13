@@ -1,0 +1,122 @@
+{
+  "economic_score": -1.0,
+  "social_score": 1.2,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Ökonomische Ungleichheit in den USA ist obszön",
+      "speaker": "host",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Kritik an Ungleichheit, implizite Forderung nach Umverteilung"
+    },
+    {
+      "text": "Alte Linke kämpfte für Umverteilung, gerechte Löhne, höhere Steuern für Reiche",
+      "speaker": "guest",
+      "economic": -7,
+      "social": null,
+      "reasoning": "Beschreibung linker Umverteilungspolitik als Referenz"
+    },
+    {
+      "text": "Neue Linke ersetzt Geldfragen durch Sprachkontrolle und Identitätspolitik",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an Sprachkontrolle, implizit für weniger Regulierung von Rede"
+    },
+    {
+      "text": "Trump verspricht, Globalisierung zurückzudrehen und Arbeiter schützen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Protektionismus, aber mit Fokus auf Arbeiter statt radikale Umverteilung"
+    },
+    {
+      "text": "Demokraten sind zur Partei der akademischen Elite geworden",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Elitekritik, implizite Kritik an akademischer Autorität"
+    },
+    {
+      "text": "Liberale hoffen auf Marketplace of Ideas statt ideologische Kontrolle",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Befürwortung freier Ideenkonkurrenz, Anti-Zensur-Position"
+    },
+    {
+      "text": "Rechte versuchen, linke Begriffe aus öffentlichem Diskurs zu verbannen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Kritik an Sprachkontrolle von rechts, autoritäre Tendenz"
+    },
+    {
+      "text": "Universitäten werden politisch unter Druck gesetzt, Geld wird entzogen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": -5,
+      "reasoning": "Kritik an Kontrolle von Institutionen, kombiniert ökonomisch/autoritär"
+    },
+    {
+      "text": "Trump will Golf von Mexiko umbenennen, entzieht AP Zugang",
+      "speaker": "guest",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Sprachkontrolle von oben, Medienkontrolle, stark autoritär"
+    },
+    {
+      "text": "Rechte bereiten sich mit Projekt 2025 systematisch auf Machtübernahme vor",
+      "speaker": "guest",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Kritik an organisierter ideologischer Kontrevolution"
+    },
+    {
+      "text": "Trump hat keine ausformulierte Ideologie, nur Reflexe und Opportunismus",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Pragmatismus statt Ideologie, wirtschaftliche Opportunität über Prinzipien"
+    },
+    {
+      "text": "Zölle sind wirtschaftlich kontrap produktiv und werden Preise erhöhen",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an Trumps Protektionismus aus ökonomisch pragmatischer Sicht"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Politik ist downstream von Kultur",
+      "context": "Anführung des Satzes von Andrew Breitbart zur Erklärung Trumps Erfolgs",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn ihr Fortschritt wollt, dann wählt den anderen",
+      "context": "Kevin Kostners Zeile in Yellowstone als Symbol der Anti-Modernisierungsbewegung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt keine Pendelbewegung, sondern einen Übergang zu einem rechtsdoktrinären Weltbild",
+      "context": "Kritik am Verständnis der derzeitigen Kontrarevolution als bloßes Pendel",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Wahrheit liegt im Portemonnaie",
+      "context": "Trumps ideologische Versprechen scheitern an Realität steigender Preise",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_4J6vSZU7WWg",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_4J6vSZU7WWg",
+  "date": null,
+  "country": "DE",
+  "word_count": 4230
+}

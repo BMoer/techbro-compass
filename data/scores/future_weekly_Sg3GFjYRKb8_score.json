@@ -1,0 +1,89 @@
+{
+  "economic_score": 1.0,
+  "social_score": 2.0,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Österreich ist einfach ein zu kleiner Markt für E-Commerce",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Marktanalyse, leicht pro-Wachstum/Skalierung"
+    },
+    {
+      "text": "Logistik ist für Online-Shops das notwendige Übel, aber kritischer Kundenkontaktpunkt",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Beschreibung von Marktdynamiken, keine ideologische Position"
+    },
+    {
+      "text": "Automatisierung wird wegen Kostendruck im E-Commerce immer wichtiger",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Befürwortung von Effizienzsteigerung durch Technologie, leicht pro-Markt"
+    },
+    {
+      "text": "Kleine Händler müssen mit Amazon/Zalando konkurrieren, brauchen also Automatisierung",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Akzeptanz von Marktlogik und Konkurrenzdruck, pragmatisch-kapitalistisch"
+    },
+    {
+      "text": "Nachhaltigkeit wird Standard-Anforderung von Endkonsumenten und Regulierung",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Befürwortung von Nachhaltigkeitszielen, leicht pro-Regulierung"
+    },
+    {
+      "text": "Wir sind seit 2020 CO2-neutral, nutzen optionale CO2-neutrale Versandoptionen",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 4,
+      "reasoning": "Freiwillige Nachhaltigkeitsmaßnahmen, marktgetrieben, nicht ideologisch"
+    },
+    {
+      "text": "Politik braucht langfristige Anreize für gesellschaftliche Themen wie Bildung",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an Kurzzeitdenken, Forderung nach strukturellen Änderungen"
+    },
+    {
+      "text": "Dropshipping mit China wird unattraktiv wegen Nachhaltigkeitsanforderungen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 4,
+      "reasoning": "Marktveränderung durch Nachhaltigkeitsdruck, kombiniert ökonomisch und sozial"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wir sind zusammen genervt und nicht voneinander genervt",
+      "context": "Petra beschreibt Team-Resilienz bei Rückschlägen wie 2 Minuten 2 Millionen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Marketing sagt das ist eine coole Idee, aber der Markt sagt das funktioniert nicht",
+      "context": "Reflexion über den gescheiterten Privatkundenmarkt trotz TV-Präsenz",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Mein Handy ist seit drei Jahren auf lautlos - ich wundere mich später wer angerufen hat",
+      "context": "Petra über ihren persönlichen Life-Hack für Work-Life-Balance",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_Sg3GFjYRKb8",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_Sg3GFjYRKb8",
+  "date": null,
+  "country": "AT",
+  "word_count": 8426
+}

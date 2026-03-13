@@ -1,0 +1,37 @@
+{
+  "economic_score": null,
+  "social_score": 2.5,
+  "n_coded": 2,
+  "insufficient_data": true,
+  "confidence": 0.3,
+  "coded_statements": [
+    {
+      "text": "Apple sollte Google Authenticator oder ähnliche Standards verwenden statt proprietärer Lösungen",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an proprietärem System, Forderung nach offenen Standards erhöht Nutzerfreiheit"
+    },
+    {
+      "text": "Die Anforderung, sich aus iCloud auszuloggen, um 2FA zu aktivieren, ist unwirtschaftliches Design",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an restriktivem, unbenutzerfreundlichem System; impliziert Datenschutzkomplikationen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das ist halt der Käse und der Schritt der bleibt die hält erspart wenn du diese Ersteinrichtung auf Mac hast",
+      "context": "Kritik an Apples unnötigen Umwegen bei 2FA-Aktivierung mit mehreren Apple-IDs",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "bits_und_so_Mub043ryZzk",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_Mub043ryZzk",
+  "date": null,
+  "country": "DE",
+  "word_count": 1792
+}

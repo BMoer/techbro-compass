@@ -1,0 +1,122 @@
+{
+  "economic_score": 1.2,
+  "social_score": 2.4,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Wir brauchen viel weniger Bürokratie, mehr Geschwindigkeit, Fortschritt in Bildung und Digitalisierung",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Kritik an Regulierung und Bürokratie, Befürwortung von Geschwindigkeit/Marktdynamik"
+    },
+    {
+      "text": "Das Unternehmen unter einem Dach zu halten ermöglicht Resilienz und Diversifikation statt Aufspaltung",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Haltung zu Unternehmensstruktur, weder links noch rechts, situativ"
+    },
+    {
+      "text": "Ich glaube, dass Wissenschaft, Forschung und Entwicklung viele Lösungen für Klimawandel bringen kann",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 3,
+      "reasoning": "Vertrauen in Marktlösungen und Innovation statt Staatseingriffen, aber mit gesellschaftlichem Anspruch"
+    },
+    {
+      "text": "Die Familie besteht aus 200 Personen mit 60% Stammaktien in Aktienpool – wir sprechen mit einer Stimme",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Beschreibung kollektiver Governance-Struktur, weder autoritär noch libertär, organisiert"
+    },
+    {
+      "text": "Henkel sollte zukunftsfähig bleiben – nichts ist unantastbar, auch nicht die Unternehmensstruktur",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatisch-flexible Haltung, keine ideologische Position"
+    },
+    {
+      "text": "Mein Anspruch ist es, möglichst alle Familienmitglieder zu erreichen durch Struktur und Organisation",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Willingness to organize/structure family governance, slight paternalistic approach"
+    },
+    {
+      "text": "Der größte CO2-Hebel liegt in der Anwendungsphase, nicht in der Produktion unserer Produkte",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 4,
+      "reasoning": "Market-based approach to sustainability, consumer education rather than regulation"
+    },
+    {
+      "text": "Ich würde mir wünschen, es gäbe eine Art vernünftige Weltregierung für diese globalen Themen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Suggests global coordination/regulation needed, some skepticism of market solutions alone"
+    },
+    {
+      "text": "Der Börsenk­urs sollte die Zukunftsfähigkeit abbilden – im Moment ist er nicht da, wo er sein sollte",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Factual statement about capital markets, no political position"
+    },
+    {
+      "text": "Vielfalt ist extrem wichtig zu fördern, besonders bei Frauen in Führungspositionen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Pro-diversity, equality-focused stance, libertarian-leaning on inclusion"
+    },
+    {
+      "text": "Es reicht nicht, wenn Wirtschaft Frauen fördert – Gesellschaft muss Kindergärten bereitstellen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 5,
+      "reasoning": "Recognizes need for state/social support for equality, pro-public infrastructure"
+    },
+    {
+      "text": "Der Mensch hat es immer geschafft, sich aus schwierigen Situationen rauszuziehen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Optimistic view of human capability and innovation, market-friendly perspective"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Ich würde mir wünschen, es gäbe eine vernünftige Weltregierung für globale Themen",
+      "context": "Guest expresses frustration with national fragmentation in climate policy.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "60% der Stammaktien sind gepooled – wir sprechen mit einer Stimme",
+      "context": "Describes family governance structure that preserves control across 200 family members.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Zwei Drittel der CO2-Produktion findet beim Verbraucher statt, nicht in unserer Fabrik",
+      "context": "Challenges conventional sustainability assumptions about production vs. consumer use.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Man muss sich keine Sorge machen – wir sind auf dem richtigen Weg für Börsenwert",
+      "context": "CEO optimism despite historically low stock price compared to 10 years ago.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_WiSV-UqGQSI",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_WiSV-UqGQSI",
+  "date": null,
+  "country": "DE",
+  "word_count": 12762
+}

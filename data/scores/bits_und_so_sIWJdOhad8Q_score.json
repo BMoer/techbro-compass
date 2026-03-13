@@ -1,0 +1,103 @@
+{
+  "economic_score": -1.6,
+  "social_score": 3.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Open Source Tools sind besser als proprietäre Lösungen, weil man reinschauen kann",
+      "speaker": "host",
+      "economic": -4,
+      "social": 5,
+      "reasoning": "Pro-Open-Source, Anti-Proprietary; Datenschutz/Transparenz"
+    },
+    {
+      "text": "Sunbird hat den dümmsten/einfachsten Weg gewählt und damit alles offen gelassen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritik an Datenschutzvernachlässigung, keine ökonomische Aussage"
+    },
+    {
+      "text": "Messenger-Vereinheitlichung ist großes Problem, aber fragmentierte Plattformen sind notwendig",
+      "speaker": "host",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Pragmatische, abwägende Position ohne klare ideologische Ausrichtung"
+    },
+    {
+      "text": "Multimessenger-Konvergenz wird nicht passieren, unique features gehen verloren",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Skeptis gegenüber Monopolisierung, Fokus auf Vielfalt/Features"
+    },
+    {
+      "text": "RCS wurde nur erfunden um Gebühren zu generieren (39 Cent pro Foto)",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik an Profitmaximierung durch Zahlungsmodelle des Telekoms"
+    },
+    {
+      "text": "WhatsApp hat die Pläne der Telekoms zerstört - das war unbeabsichtigt positiv",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Implizite Kritik an Gebührenmodellen, positive Bewertung von Disruption"
+    },
+    {
+      "text": "Signal und andere versuchen Telefonnummern aus Identifikation rauszuwerfen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Befürwortung von Dezentralisierung und Privatsphäre"
+    },
+    {
+      "text": "Die Digital Markets Act bringt Bewegung in Messaging-Interoperabilität",
+      "speaker": "host",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Pro-Regulierung, öffnet Märkte; datenschutzorientiert"
+    },
+    {
+      "text": "Fediverse als dezentral-zentralisierte Lösung für Social Media",
+      "speaker": "host",
+      "economic": -3,
+      "social": 6,
+      "reasoning": "Anti-Monopol, Pro-Dezentralisierung, libertäre Technik-Philosophie"
+    },
+    {
+      "text": "Unified Messaging wird nicht in breiter Realität ankommen, auch nicht mit Automatic",
+      "speaker": "host",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Skeptisch gegenüber Marktkonsolidierung, pragmatisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "WhatsApp hat ihnen einen Strich durch die Rechnung gemacht - 39 Cent pro Foto",
+      "context": "Kritik an RCS als Gebührenmodell der Telekoms",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Multimessenger verlieren damit unique features, verlieren damit Sicherheit - saublöd",
+      "context": "Argumente gegen forcierte Messenger-Konvergenz",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich warte seit Juli auf meinen Invite zu texts - das wird nicht passieren",
+      "context": "Skeptis gegenüber Multimessenger-Adoption",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_sIWJdOhad8Q",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_sIWJdOhad8Q",
+  "date": null,
+  "country": "DE",
+  "word_count": 4041
+}

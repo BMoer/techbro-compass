@@ -1,0 +1,148 @@
+{
+  "economic_score": 1.4,
+  "social_score": 3.6,
+  "n_coded": 15,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Unternehmertum sollte so normal wie Skifahren in Österreich sein",
+      "speaker": "host",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Befürwortung von Unternehmertum als Norm, leicht marktfreundlich"
+    },
+    {
+      "text": "Big Tech Plattformen sollten bei Zensur inhalte moderieren, Google/Apple könnten russische Nutzer aufklären",
+      "speaker": "host",
+      "economic": -2,
+      "social": -3,
+      "reasoning": "Befürwortung von Regulierung/Moderation großer Plattformen, paternalistisch"
+    },
+    {
+      "text": "Crypto ermöglicht Freiheit, Unabhängigkeit von Ländern, Menschen können Vermögen mitnehmen",
+      "speaker": "host",
+      "economic": 5,
+      "social": 6,
+      "reasoning": "Libertäre Befürwortung von Kryptowährungen als Freiheitswerkzeug"
+    },
+    {
+      "text": "Wehrpflicht/Militär ist notwendig zur Abschreckung von Diktatoren wie Putin",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Befürwortung von Sicherheitsmaßnahmen, Staatliche Gewalt akzeptiert"
+    },
+    {
+      "text": "Menschen sollten Erste-Hilfe und Notfall-Grundfertigkeiten lernen statt klassisches Militär",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Dezentralisierte Alternative zu Autorität, bürgerliche Kompetenz"
+    },
+    {
+      "text": "Sanktionen gegen Russland waren notwendig und verhältnismäßig, auch gegen Zentralbank",
+      "speaker": "host",
+      "economic": -4,
+      "social": null,
+      "reasoning": "Befürwortung starker staatlicher Wirtschaftsmaßnahmen zur Konfrontation"
+    },
+    {
+      "text": "Unicorn-Bewertungen sind fragwürdig als Gradmesser, makroökonomische Rahmenbedingungen entscheidend",
+      "speaker": "guest",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Kritische, pragmatische Haltung zu Marktmetriken"
+    },
+    {
+      "text": "Österreich hat Unicorns ohne externe Investitionen erreicht (Luxoft, Copadata)",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Anerkennung von Bootstrapping, leicht kapitalismusfreundlich"
+    },
+    {
+      "text": "48% des Kapitals für europäische Unicorns kommt aus USA, das ist problematisch",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an externer Kapitalabhängigkeit, europäische Autonomie-Anspruch"
+    },
+    {
+      "text": "Unternehmertum bedeutet Verantwortung für das eigene Schicksal übernehmen, keine Ausreden",
+      "speaker": "host",
+      "economic": 4,
+      "social": 1,
+      "reasoning": "Marktwirtschaftliche Meritokratie-Idee, individuelle Verantwortung"
+    },
+    {
+      "text": "Facebook's Top-Post war wahrscheinlich Gewaltverherrlichung, 128M Views vor Löschung",
+      "speaker": "host",
+      "economic": -1,
+      "social": -5,
+      "reasoning": "Kritik an Plattform-Moderation, Regulierungsbedarf impliziert"
+    },
+    {
+      "text": "Appeasement-Politik gegenüber Putin war Fehler der Jahrzehnte",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Kritik an zu liberaler Sicherheitspolitik, härterer Kurs befürwortet"
+    },
+    {
+      "text": "Deutschland investiert 100 Mrd in Militär - Paradigmenwechsel nach 20 Jahren Demilitarisierungsdebatte",
+      "speaker": "host",
+      "economic": -5,
+      "social": -4,
+      "reasoning": "Akzeptanz massiver Staatsinvestitionen in Sicherheit, pragmatisch"
+    },
+    {
+      "text": "Europäische Best-Practices zu Entrepreneurship sollten EU-weit skaliert werden",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 2,
+      "reasoning": "Befürwortung von Policy-Skalierung für unternehmertische Kompetenz"
+    },
+    {
+      "text": "Globalisierung vernetzt alle so stark, dass rationaler Konflikt unmöglich sein sollte",
+      "speaker": "host",
+      "economic": 0,
+      "social": 1,
+      "reasoning": "Liberale Friedenshypothese, Interdependenz-Glaube"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Unternehmertum sollte so normal wie Skifahren sein, nicht nur wie auf Kopfstand gehen",
+      "context": "Vision für europäische Kultur der Gründung und Problemlösung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich brauche keine Tickets, ich brauche Munition - Selensky zeigt, wie echtes Leadership funktioniert",
+      "context": "Analyse von Selensky als Gegenpol zu Putin während der Invasion",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Crypto ist der Beweis: Wenn dein Geld auf der Bank ist und ein Irrer die Welt lahmlegt, bist du am Arsch",
+      "context": "Verteidigung von Kryptowährungen als Schutz vor Bankensanktionen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn Europa demilitarisiert wäre, würde Putin bis zur Biskaya marschieren",
+      "context": "Argument für notwendige Aufrüstung gegen autoritäre Bedrohungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt keine richtige Art, über Krieg zu sprechen, nur viele falsche Wege",
+      "context": "Reflexion über Journalismus während des Ukraine-Konflikts",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_mnfI2dRN63Y",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_mnfI2dRN63Y",
+  "date": null,
+  "country": "AT",
+  "word_count": 10790
+}

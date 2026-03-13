@@ -1,0 +1,169 @@
+{
+  "economic_score": 1.5,
+  "social_score": 2.9,
+  "n_coded": 18,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Bestehende Wirtschaft wird von Startup-Methoden lernen müssen, besonders Effizienz und Leistungstransparenz",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Leichte Kritik an bestehendem System, aber nicht ideologisch aufgeladen"
+    },
+    {
+      "text": "Remote-Arbeit ermöglicht Effizienz und bricht elendige Meeting-Kultur auf",
+      "speaker": "host",
+      "economic": 4,
+      "social": 3,
+      "reasoning": "Pro-Flexibilisierung, Pro-Eigenverantwortung, libertäre Arbeitnehmersicht"
+    },
+    {
+      "text": "Subscription-Modelle sollten in mehr Bereichen etabliert werden, auch Mobilität",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatisches Geschäftsmodell, weder links noch rechts"
+    },
+    {
+      "text": "Autohersteller droht Nokia-Falle, müssen schnell auf Subscription-Mobilität reagieren",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Pro-Marktdynamik, Kritik an Innovationsträgheit"
+    },
+    {
+      "text": "Big Tech wie Amazon und Facebook sind mächtiger als Nationalstaaten und müssen zerschlagen werden",
+      "speaker": "host",
+      "economic": -7,
+      "social": 1,
+      "reasoning": "Klare Anti-Monopol-Position, aber nicht mit autoritärer Kontrolle vermischt"
+    },
+    {
+      "text": "Social Media Sucht ist real, TikTok zeigt extremes Suchtpotenzial durch Algorithmus",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an Plattform-Design, Befürwortung von Datenschutz/Nutzerrechten"
+    },
+    {
+      "text": "Cancel Culture ist gefährlich und führt zu Selbstzensur in der Gesellschaft",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Starke libertäre Position gegen Zensur, für Redefreiheit"
+    },
+    {
+      "text": "Man darf nicht einfach Meinungen bestrafen, das zerstört Debatte und Vertrauen",
+      "speaker": "host",
+      "economic": null,
+      "social": 7,
+      "reasoning": "Pro-Redefreiheit, Anti-autoritär, Abwehr von Kontrollmechanismen"
+    },
+    {
+      "text": "Humor darf nicht beschnitten werden, das ist gefährlich für Gesellschaft",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Pro-Kunstfreiheit, gegen kulturelle Zensur"
+    },
+    {
+      "text": "Bei echten Grundrechtsverletzungen (Antisemitismus, Homophobie) muss klare Grenze gezogen werden",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Libertäre Redefreiheit mit klaren Grenzen bei existenziellen Bedrohungen"
+    },
+    {
+      "text": "Falsche Toleranz gegenüber Intoleranten ist brandgefährlich",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Anti-extremistische Position, aber mit Vorsicht vor Überreach"
+    },
+    {
+      "text": "TikTok wird in Europa nicht verboten, aber möglicherweise zum Verkauf gezwungen",
+      "speaker": "host",
+      "economic": 2,
+      "social": -2,
+      "reasoning": "Moderate regulatorische Position, nicht ideologisch"
+    },
+    {
+      "text": "Die Börse ist massiv überbewertet, Entkopplung Realwirtschaft-Finanzwirtschaft ist problematisch",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Finanzmärkte-Spekulation, keine radikale Position"
+    },
+    {
+      "text": "Twitter sollte Donald Trump sperren, falls er gegen Policy verstößt",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Für private Moderation, aber gemäßigt, eher pragmatisch"
+    },
+    {
+      "text": "Apple wird kein Auto bauen, sondern Automotive über Software dominieren",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Marktwirtschaftliche Logik, keine ideologische Position"
+    },
+    {
+      "text": "Österreich sollte neue Gründerrechtsform etablieren und Startup-Kultur fördern",
+      "speaker": "host",
+      "economic": 3,
+      "social": 1,
+      "reasoning": "Leicht pro-Deregulierung für Gründer, pragmatisch"
+    },
+    {
+      "text": "2021 wird Jahr der Reibung und Polarisierung, Mitte muss wieder Position beziehen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Pro-kontroverser Debatte, gegen falsche Harmonie"
+    },
+    {
+      "text": "Bitcoins werden vor 50.000 Dollar noch einmal krachen, aber langfristig wichtig",
+      "speaker": "host",
+      "economic": 6,
+      "social": 5,
+      "reasoning": "Pro-Krypto und dezentralisierte Finanzierung, libertäre Haltung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Big Tech ist mächtiger als Nationalstaaten und muss zerschlagen werden",
+      "context": "Diskussion über Amazon, Facebook und ihre Marktmacht",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Cancel Culture ist gefährlich, weil sie zu Selbstzensur führt und echte Debatten unmöglich macht",
+      "context": "Reflexion über veränderte Meinung zur Gesellschaftskohäsion 2020",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Falsche Toleranz gegenüber Intoleranten ist brandgefährlich für die Demokratie",
+      "context": "Warnung vor Radikalisierung an den Rändern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn man von jeder Kleinigkeit getriggert ist, bin ich das Problem, nicht die anderen",
+      "context": "Kritik an oberflächlicher Empörungskultur",
+      "quiz_suitable": true
+    },
+    {
+      "text": "2021 wird das Jahr der Reibung sein – die Mitte muss wieder Stellung beziehen",
+      "context": "Prognose für politisches Klima nach Corona",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_hnFxRaDWrkE",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_hnFxRaDWrkE",
+  "date": null,
+  "country": "AT",
+  "word_count": 17588
+}

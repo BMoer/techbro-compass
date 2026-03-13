@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 25 column 19 (char 814)",
+  "raw_response": "{\n  \"economic_score\": -2.6,\n  \"social_score\": 1.2,\n  \"n_coded\": 10,\n  \"insufficient_data\": false,\n  \"confidence\": 0.82,\n  \"coded_statements\": [\n    {\n      \"text\": \"Plastikproduktion verdreifacht sich bis 2060, klimaschädliche Emissionen verdoppeln sich\",\n      \"speaker\": \"guest\",\n      \"economic\": -5,\n      \"social\": null,\n      \"reasoning\": \"Kritik an unkontrolliertem Kapitalwachstum und Konsumismus\"\n    },\n    {\n      \"text\": \"Recycling-Material ist doppelt so teuer wie Kunststoff aus Erdöl\",",
+  "episode_id": "lobo_Xd5dzAiPvhU",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_Xd5dzAiPvhU",
+  "date": null,
+  "country": "DE",
+  "word_count": 4332
+}

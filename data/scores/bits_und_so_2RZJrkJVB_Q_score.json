@@ -1,0 +1,56 @@
+{
+  "economic_score": 0.5,
+  "social_score": 0,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.4,
+  "coded_statements": [
+    {
+      "text": "die m220 kostet nur 12 Euro, bestes Preis-Leistungs-Verhältnis für leise Mäuse",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Preisbewusstsein, pragmatische Wertorientierung, Effizienz"
+    },
+    {
+      "text": "Logitech verkauft verschiedene Mäuse mit inkompatiblen Empfängern und mehreren Apps - haarsträubend",
+      "speaker": "host",
+      "economic": -1,
+      "social": null,
+      "reasoning": "Kritik an Fragmentierung statt einheitlicher Standards, anti-Konsumismus"
+    },
+    {
+      "text": "ich habe entschieden, für die MX Master 2 keine Software zu installieren - das mache ich nicht",
+      "speaker": "host",
+      "economic": 0,
+      "social": 1,
+      "reasoning": "Ablehnung von Zumutungen/Überwachung durch Herstellersoftware, Datenschutz/Autonomie"
+    },
+    {
+      "text": "die m220 hat keinen Treiber, normales USB-Gerät - mehr brauche ich nicht",
+      "speaker": "host",
+      "economic": 0,
+      "social": 2,
+      "reasoning": "Bevorzugung von Einfachheit ohne Software-Overhead, Anti-Tracking, technische Unabhängigkeit"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "dieser Kindergarten Scheiß mit Treibersoftware - das mache ich nicht mehr",
+      "context": "Ablehnung von Herstellersoftware für Maus-Zubehör",
+      "quiz_suitable": true
+    },
+    {
+      "text": "haarsträubend aber der ist auch nicht USB-C - Logitech Adapter Fasching",
+      "context": "Kritik an Logitech's fragmentiertem Zubehörkosmos",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_2RZJrkJVB_Q",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_2RZJrkJVB_Q",
+  "date": null,
+  "country": "DE",
+  "word_count": 1028
+}

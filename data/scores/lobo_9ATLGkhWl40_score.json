@@ -1,0 +1,101 @@
+{
+  "economic_score": -1.4,
+  "social_score": 2.8,
+  "n_coded": 9,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Parkplätze müssen für Radwege weichen, um CO2-Emissionen zu reduzieren",
+      "speaker": "guest",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Regulierung zugunsten öffentlicher Güter, gegen Privatnutzung von Straßenraum"
+    },
+    {
+      "text": "Das Privileg, sein Auto überall abzustellen, wurde dem Autoverkehr in den 50ern geschenkt und muss überprüft werden",
+      "speaker": "guest",
+      "economic": -4,
+      "social": 3,
+      "reasoning": "Kritik an historischem Privileg, Umverteilung von Raum, Bürgerrechte auf öffentliche Plätze"
+    },
+    {
+      "text": "Es braucht verbindliche Festschreibung: Jede Kommunal-, Landes- und Bundesstraße muss sichere Fahrradstreifen haben",
+      "speaker": "guest",
+      "economic": -5,
+      "social": 0,
+      "reasoning": "Starke Regulierung, staatliche Verpflichtung statt Marktmechanismen"
+    },
+    {
+      "text": "Wo sichere Radwege entstehen, vervierfacht sich die Zahl der Fahrradfahrenden",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Deskriptive Aussage, keine Meinungsäußerung"
+    },
+    {
+      "text": "Die Automobilindustrie ist der bedeutendste Wirtschaftszweig Deutschlands, daher die Angst vor Autoreduktion",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Pragmatische Analyse wirtschaftlicher Abhängigkeit, neutral dargestellt"
+    },
+    {
+      "text": "Man muss behutsam miteinander reden, nicht von 'Autohassern' sprechen oder 'libidinösem Verhältnis zum Auto'",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Plädoyer für respektvolle Kommunikation, gegen polarisierende Sprache und Zensur von Debatten"
+    },
+    {
+      "text": "Das Fahrrad ist nur für kurze städtische Wege relevant, 75% der CO2-Probleme im Verkehr sind Langstrecken",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Kritik an übertriebenen Erwartungen, Fokus auf Effizienz"
+    },
+    {
+      "text": "Die CDU muss auf Bundesebene noch mehr für echte Klimapolitik tun, auf kommunaler Ebene aber sind die BürgermeisterInnen aktiv",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an zu zögerlicher Bundespolitik, Befürwortung von Klimaschutzmaßnahmen"
+    },
+    {
+      "text": "Der Wahlslogan 'Lass dir das Auto nicht verbieten' war eher ein Medienkonstrukt als echter Autowahlkampf",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 0,
+      "reasoning": "Ironische/relativierende Einschätzung, keine klare Position"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Jeder Fahrradbügel ist ein Angriff auf die deutsche Autoindustrie - so denken viele in Deutschland",
+      "context": "Analyst beschreibt strukturelle Abhängigkeit der Wirtschaft vom Auto",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es gibt Leute, die ihre gesamte Biografie ums Auto strukturiert haben - jeder Quadratzentimeter Platz ein Angriff auf ihre Persönlichkeit",
+      "context": "Mobilitätsforscher erklärt psychologische Widerstände gegen Verkehrswende",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wer Straßen säht, erntet Verkehr - auch fürs Fahrrad gilt: wer Radwege säht, erntet Radverkehr",
+      "context": "Argument dass sichere Infrastruktur das Nutzerverhalten bestimmt",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Recht sein Fahrzeug überall abzustellen ist ein Privileg was den Autoverkehr in den 50ern geschenkt wurde",
+      "context": "Kritik am historisch gewachsenen Vorrecht des Autos auf öffentliche Flächen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_9ATLGkhWl40",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_9ATLGkhWl40",
+  "date": null,
+  "country": "DE",
+  "word_count": 4026
+}

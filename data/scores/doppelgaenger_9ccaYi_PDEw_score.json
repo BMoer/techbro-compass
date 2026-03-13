@@ -1,0 +1,94 @@
+{
+  "economic_score": 1.2,
+  "social_score": 1.6,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Europa reguliert sich zu Tode, vereinheitlichter Binnenmarkt ist wichtiger als Startup-Subventionen",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Markt, anti-Regulierung, aber konstruktiv"
+    },
+    {
+      "text": "Flüge sind unattraktiv für Reisebucher wegen niedriger Provisionen, Hotels sind das spannendere Geschäft",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktlogik, Rentabilität vor Größe"
+    },
+    {
+      "text": "LinkedIn-Engagement-Farming ist Problem, persönliche Brand und Kompetenz sind wichtiger als Reichweite",
+      "speaker": "host",
+      "economic": -1,
+      "social": 2,
+      "reasoning": "Kritik an Algorithm-Gaming, Wert von Qualität über Quantität"
+    },
+    {
+      "text": "Elon Musk bezahlt 47$ pro Petition-Unterschrift, umgeht Wahlkauf-Gesetze mit Referral-System",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Grenzüberschreitung bei politischer Beeinflussung"
+    },
+    {
+      "text": "Google-Zerschlagung: Holding-Abschlag möglich, aber Unternehmen können privatrechtliche Verträge neu regeln",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pro-Marktmechanismus, Vertrauen in Wettbewerb"
+    },
+    {
+      "text": "Perplexity scraping Wall Street Journal ist strategisches Problem, aber AI-Such muss auf Daten aufbauen",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatisches Verständnis für Daten-Notwendigkeit vs. IP-Schutz"
+    },
+    {
+      "text": "SAP Cloud-Business mit 25% Wachstum ist hervorragend positioniert für KI wegen Single Source of Truth",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Pro-Marktkonzentration bei bestehenden Anbietern, Effizienzlogik"
+    },
+    {
+      "text": "Für LinkedIn-Personal-Branding: Qualität über Engagement-Farming, Kompetenz verkauft sich langfristig besser",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Anti-Manipulation, für authentische Kommunikation"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wer mit seiner Anzahl LinkedIn Follower wirbt, wirbt um Kunden die das Business nicht verstehen",
+      "context": "Diskussion über LinkedIn-Strategie und False Metrics",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die größte Gefahr für Google ist dass sie ein Job angebot machen und er hat so viel Essen in der Kantine",
+      "context": "Scherzhafter Kommentar zu Google-Zerschlagung und Unternehmenskultur",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Es ist wichtiger für was du bekannt bist als ob du bekannt bist",
+      "context": "LinkedIn Personal Branding Philosophy",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Elon Musk versuchst die Verfassung nicht mit Füßen zu treten aber zeigt ihr einen Finger",
+      "context": "Analyse der America PAC 47$ Petition-Strategie",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "doppelgaenger_9ccaYi_PDEw",
+  "podcast": "Doppelgänger Tech Talk",
+  "podcast_id": "doppelgaenger",
+  "title": "doppelgaenger_9ccaYi_PDEw",
+  "date": null,
+  "country": "DE",
+  "word_count": 11623
+}

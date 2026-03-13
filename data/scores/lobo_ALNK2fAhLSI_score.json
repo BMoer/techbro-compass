@@ -1,0 +1,94 @@
+{
+  "economic_score": -1.0,
+  "social_score": 2.0,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Die alte Eliten delegitimierten sich selbst durch den Krieg, alles Neue musste versucht werden",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 4,
+      "reasoning": "Kritik an altem System, Hoffnung auf Neues, aber nicht radikal revolutionary"
+    },
+    {
+      "text": "Plattformen/Tech-Unternehmen müssen reguliert und kontrolliert werden",
+      "speaker": "host",
+      "economic": -4,
+      "social": -2,
+      "reasoning": "Implizite Regulierungsforderung, gesellschaftliche Kontrolle über Innovation"
+    },
+    {
+      "text": "Demokratie ist nicht selbstverständlich, muss verteidigt und bewahrt werden",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Sicherheit/Stabilität vor radikalen Veränderungen, Schutz bestehender Ordnung"
+    },
+    {
+      "text": "Vergleiche zu heute sind zu einfach - materielle Not der 20er Jahre existiert heute nicht",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Anerkennung wirtschaftlicher Stabilität, Wohlstandswachstum seit 2008"
+    },
+    {
+      "text": "Kämpferische, nicht fatalistische Haltung zur Demokratie nötig",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Aktivistische Position für Freiheit und Partizipation, gegen Passivität"
+    },
+    {
+      "text": "Wer völkisch denkt passt nicht in demokratisches Spektrum",
+      "speaker": "guest",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Starke Anti-autoritäre Position, Verteidigung liberaler Grundwerte"
+    },
+    {
+      "text": "Das Neue war auf allen politischen Seiten 1918-33 besetzt, auch bei Nazis",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an utopischem Denken quer durch Spektrum, Warnung vor Universalismus"
+    },
+    {
+      "text": "Revolutionen führen nicht zu erwarteten Ergebnissen, sind unberechenbar",
+      "speaker": "guest",
+      "economic": 0,
+      "social": 1,
+      "reasoning": "Skeptisches Konservativismus gegenüber radikalen Umbruch, realistische Ernüchterung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Mit dem Moment der Revolution fängt die Arbeit erst an, nicht getan",
+      "context": "Warnung vor naivem Revolutionsoptimismus, Verweis auf Jahrzehnte nötiger Arbeit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wer völkisch denkt passt nicht in demokratisches Spektrum",
+      "context": "Scharfe Abgrenzung gegen völkische Ideologie als unvereinbar mit Demokratie",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Nazis sind auch nicht kaisertreu, sondern revolutionär als Jugendbewegung",
+      "context": "Kontraintuitive Deutung der NS als революционары, nicht reaktionär",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir müssen kämpferisch werden und nicht fatalistisch denken",
+      "context": "Appell gegen Defätismus bei Vergleichen zu den 20ern und potenziellem Systemkollaps",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_ALNK2fAhLSI",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_ALNK2fAhLSI",
+  "date": null,
+  "country": "DE",
+  "word_count": 12727
+}

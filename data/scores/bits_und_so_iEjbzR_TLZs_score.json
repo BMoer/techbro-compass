@@ -1,0 +1,63 @@
+{
+  "economic_score": -1.4,
+  "social_score": 1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.62,
+  "coded_statements": [
+    {
+      "text": "Apple hielt absichtlich 7 Tage Wartezeit bei App Reviews ein, um Arbeitslast zu stabilisieren",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Kritik an künstlicher Marktbremse/Produktionsdrosselung zur Kostenkontrolle"
+    },
+    {
+      "text": "App Store funktioniert oberflächlich gut, aber hat tiefere strukturelle Probleme",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Plattformkontrolle und fehlender Transparenz des Ökosystems"
+    },
+    {
+      "text": "Apple könnte mit richtigem Management Produktsparten schnell voranbringen",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Anerkennung von Apples Ressourcen und Managementfähigkeit, neutral-pragmatisch"
+    },
+    {
+      "text": "Fehlende Rückversion-Funktion im App Store ist offensichtliche Funktionslücke",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Kritik an Nutzerrechten und fehlender Kontrolle über digitale Produkte"
+    },
+    {
+      "text": "iOS-Komplexität nimmt zu, viele Apps nutzen nicht alle Möglichkeiten aus",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Beobachtung über technische Komplexität ohne normative Position"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Der Typ wurde gefeuert, der diese künstliche eine Wochen Verzögerung drin hatte",
+      "context": "Apple-Manager angeblich entlassen wegen absichtlicher Review-Verzögerung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Diese sieben Tage oder fünf Werktage waren eine sehr klare Bremse irgendwo eingebaut",
+      "context": "These über systematische Drosselung der App-Update-Geschwindigkeit",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_iEjbzR_TLZs",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_iEjbzR_TLZs",
+  "date": null,
+  "country": "DE",
+  "word_count": 1932
+}

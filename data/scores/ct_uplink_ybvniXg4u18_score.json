@@ -1,0 +1,89 @@
+{
+  "economic_score": 0.6,
+  "social_score": 1.4,
+  "n_coded": 8,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Wir haben bei CT behaupten wir ungern Dinge die wir nicht selber getestet haben",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Transparenz und Verantwortung gegenüber Publikum, leicht libertär"
+    },
+    {
+      "text": "Open Source Ersatz für proprietäre Game Launcher - Heroic Games Launcher, Lutris",
+      "speaker": "host",
+      "economic": 3,
+      "social": 4,
+      "reasoning": "Befürwortung von Alternativen zu monopolistischen Plattformen, dezentralere Strukturen"
+    },
+    {
+      "text": "Die Community hilft mit Tipps bei Lutris - das ist gut",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Würdigung von kollaborativen, gemeinschaftlichen Lösungsansätzen"
+    },
+    {
+      "text": "Spiele-Hersteller sollten dafür sorgen dass Versionen gute Versionen sind",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Forderung nach Qualitätsstandards/Regulierung gegenüber Herstellern"
+    },
+    {
+      "text": "Proton ist Open Source wine, wird von Valve entwickelt und gibt auch zurück an wine Projekt",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 5,
+      "reasoning": "Lobpreis von Wertschöpfung durch Open Source und Commons-Ansätze"
+    },
+    {
+      "text": "Linux Gaming funktioniert jetzt deutlich besser, kein Windows mehr nötig",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 2,
+      "reasoning": "Befreiung von Abhängigkeit zu Microsoft-Ökosystem, technologische Souveränität"
+    },
+    {
+      "text": "Epic Games Spiele kostenlos einsammeln - über 300 Spiele für Linux spielbar",
+      "speaker": "guest",
+      "economic": 1,
+      "social": 1,
+      "reasoning": "Positive Effekte von plattformübergreifender Freiheit, aber neutrale Haltung"
+    },
+    {
+      "text": "Valve/Steam Deck trägt dazu bei dass Hersteller Interesse haben Linux Support anzubieten",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Marktmacht als Hebel für ökologische/technische Verbesserungen nutzen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Bei mir ist es mittlerweile so dass ich das oft vergesse dass es diesen Unterschied überhaupt gibt",
+      "context": "Windows-Spiele laufen über Proton auf Linux so nahtlos dass der Unterschied irrelevant wird",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Im allerschlimmsten Fall Cloud Gaming",
+      "context": "Selbst wenn lokales Linux Gaming fehlschlägt gibt es noch Ausweichoptionen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wer nicht arbeitet soll nicht essen trifft hier nicht zu - Open Source Community hilft einfach",
+      "context": "Mutualistisches Gegenbild zu libertären Selektivitätsideologien",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "ct_uplink_ybvniXg4u18",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_ybvniXg4u18",
+  "date": null,
+  "country": "DE",
+  "word_count": 7797
+}

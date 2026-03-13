@@ -1,0 +1,70 @@
+{
+  "economic_score": -3.5,
+  "social_score": -4.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "iTunes Nutzungsbedingungen sollten Apple optisch schöner und inhaltlich besser aufbereiten",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an Unternehmens-Transparenz, libertäre Forderung nach besserer Informationsgestaltung"
+    },
+    {
+      "text": "Der Staatstrojaner ist ein großer Skandal - Polizei darf Beweismittel nicht unterschieben und beliebig Software installieren",
+      "speaker": "host",
+      "economic": null,
+      "social": 7,
+      "reasoning": "Starke libertäre Ablehnung von Staatlicher Überwachung und Befugnissen ohne Kontrolle"
+    },
+    {
+      "text": "Mit dem Staatstrojaner könnten Leuten ohne ihr Wissen Beweismittel unterschoben werden",
+      "speaker": "host",
+      "economic": null,
+      "social": 8,
+      "reasoning": "Kritik an unkontrollierter staatlicher Macht, fundamentale Bürgerrechtsbedenken"
+    },
+    {
+      "text": "Softwareentwickler sagen: Wir machen nur das, was im Auftrag bekommen wird - und reden sich da schön raus",
+      "speaker": "host",
+      "economic": -4,
+      "social": -5,
+      "reasoning": "Kritik an Unternehmensverantwortung und staatlichem Missbrauch durch private Kontraktoren"
+    },
+    {
+      "text": "Blackberry-Ausfallskandal ist ein riesen Image-Schaden - Leute konnten drei Tage keine Mails schicken",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Unternehmensversagen bei Infrastrukturversorgung, regulatorische Implikation"
+    },
+    {
+      "text": "WebGL und moderne Webtechnologien ermöglichen interaktive Erlebnisse ohne Flash - das ist großartig",
+      "speaker": "host",
+      "economic": 2,
+      "social": 1,
+      "reasoning": "Befürwortung offener, dezentraler Webtechnologien statt proprietärer Lösungen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Du könntest ohne dass der Nutzer das mitkriegt alle möglichen Sachen aus dem Internet nachladen - das ist ein großer Skandal",
+      "context": "Kritik am Staatstrojaner und seiner Funktionalität zur Fremd-Installation von Software",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Sie sagen natürlich: Haben wir ja auch nie gemacht, wussten wir gar nicht dass das geht",
+      "context": "Ironische Kritik an der Rechtfertigung staatlicher Behörden beim Trojaner-Skandal",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_jEjirwho7Hg",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_jEjirwho7Hg",
+  "date": null,
+  "country": "DE",
+  "word_count": 1983
+}

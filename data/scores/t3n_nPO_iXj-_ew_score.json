@@ -1,0 +1,70 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "KI hilft dabei, Rabattcodes zu finden und Geld zu sparen - das ist praktisch und effizient",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung von KI als Marktmechanismus zur Effizienzsteigerung und Kostenoptimierung"
+    },
+    {
+      "text": "Dubious Shops sind ein Risiko - prüft die Quellen und bestellt nur bei seriösen Anbietern",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Warnung vor unseriösen Akteuren, Verbraucherschutz und Transparenzforderung"
+    },
+    {
+      "text": "Black Friday Marketing manipuliert: Preise werden hochgesetzt, um später Rabatte zu geben",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an Marktmanipulation und irreführenden Preisstrategien durch Einzelhandel"
+    },
+    {
+      "text": "Kauft nur was ihr braucht, lasst euch vom Black Friday Marketing nicht verrückt machen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Warnung vor Konsumismus und Forderung nach rationalem Konsum statt Impulsivität"
+    },
+    {
+      "text": "Mit Rabattcodes und rechtzeitigem Einkauf habt ihr weniger Stress und spart Geld - Win-Win",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Betonung von Markteffizienz und individuellem Vorteil durch gutes Timing"
+    },
+    {
+      "text": "ChatGPT Rabattsuche hat früher nicht funktioniert, jetzt funktioniert es - KI-Fortschritt ist real",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Optimismus gegenüber KI-Technologie als Problemlöser im Konsumbereich"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn ihr nicht braucht, dann braucht ihr es auch nicht am Black Friday kaufen",
+      "context": "Warnung vor manipulativem Marketing und unbewusstem Konsumismus",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Produkte wurden vorher ganz kurz einfach hochpreisiger eingestellt, damit man dann wieder runter preist",
+      "context": "Kritik an Preismanipulation durch Einzelhandelstaktiken vor Black Friday",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_nPO_iXj-_ew",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_nPO_iXj-_ew",
+  "date": null,
+  "country": "DE",
+  "word_count": 2712
+}

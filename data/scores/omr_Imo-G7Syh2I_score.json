@@ -1,0 +1,122 @@
+{
+  "economic_score": 3.4,
+  "social_score": 0.6,
+  "n_coded": 12,
+  "insufficient_data": false,
+  "confidence": 0.75,
+  "coded_statements": [
+    {
+      "text": "Die Leute wollen mobil handeln, eine App, einfach handeln, oneclick handeln - das ist eine Kundenklientel, die du nicht weglassen kannst",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Marktorientiert, Kundenverhalten erkennen und erfüllen"
+    },
+    {
+      "text": "Wir haben kein Preismodell gemacht, das einfach so günstig wie möglich ist - nur Transaktionsgebühr, alles andere ist kostenlos",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Freier Markt, aggressive Deregulierung von versteckten Gebühren"
+    },
+    {
+      "text": "Die Neobroker sind überfinanziert, müssen jetzt mal Laufschritt aufnehmen - es wird ein Haufen Geld verdient im Kryptobereich",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Unternehmertum, Wettbewerbsfähigkeit, Gewinnorientierung"
+    },
+    {
+      "text": "Ich glaube, dass es verschiedene Welten sind zwischen Kryptohandel und Aktienhandel - Bitcoin ist ein politisches Konstrukt",
+      "speaker": "guest",
+      "economic": 4,
+      "social": 6,
+      "reasoning": "Dezentralisierung/Freiheit, aber auch pragmatisch diversifiziert"
+    },
+    {
+      "text": "Ich habe mir diese Firma angeschaut, das war smarteste, dass ich ever gesehen habe - einfach ein Euro überweisen, Konto offen",
+      "speaker": "guest",
+      "economic": 8,
+      "social": null,
+      "reasoning": "Deregulierung bewundern, Effizienz und freie Marktkräfte"
+    },
+    {
+      "text": "Ich musste Gebäude bauen, Maschinen kaufen - wir haben das in Auftrag gegeben um Markteintrittsbarrieren zu umgehen",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Unternehmertum, Kostenoptimierung, Outsourcing statt Verstaatlichung"
+    },
+    {
+      "text": "Die KI ist für mich der absolute Brandbeschleuniger - alle Branchen werden verändert, auch Journalismus",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Technologieoptimismus, Marktveränderung als Chance"
+    },
+    {
+      "text": "Warren Buffett und Charlie Munger kaufen einfach Qualität in Crashes, wenn alle Angst haben",
+      "speaker": "guest",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kapitalistische Investmentphilosophie, Krisengewinnertum"
+    },
+    {
+      "text": "Ich bin Arbeiterhaushalt, meine Mutter hat geputzt, mein Vater in der Brauerei - ich wollte mehr",
+      "speaker": "guest",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Soziale Mobilität durch Unternehmertum und Kapitalismus"
+    },
+    {
+      "text": "Ich mache mir Gedanken um die Ukraine-Situation, Krieg ist schlecht - das ist der erste Punkt",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Humanitäre Bedenken, aber pragmatisch nicht zentral"
+    },
+    {
+      "text": "Datenschutz ist wichtig, aber wir brauchen Transparenz - Trade Republic versteckt Spread, wir zeigen ihn",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Verbraucherschutz durch Transparenz, Anti-Täuschung"
+    },
+    {
+      "text": "Ich gebe Leuten Arbeit und gucke auf die Wirtschaft - das ist meine Verantwortung, keine politische Rolle",
+      "speaker": "guest",
+      "economic": 5,
+      "social": 1,
+      "reasoning": "Unternehmertum als gesellschaftliche Verantwortung, aber begrenzt"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Du musst ja nichts anderes machen, als sie zu kopieren. Wenn du selbst wenn du die schlecht kopierst, dann bist zum Markt",
+      "context": "Ratschlag zur Konkurrenz mit Neobroker-Startups durch einfache Nachahmung",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Warren Buffett und Charlie Munger sitzen da, kaufen Cherry Coke und warten, bis der Crash kommt",
+      "context": "Kernstrategie erfolgreicher Value-Investoren: Geduld und Opportunismus",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Bei der Fladex haben wir 590€ flat - alles drin, egal ob 100€ oder 1 Million€ groß",
+      "context": "Erklärung des revolutionären transparenten Gebührenmodells",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich bin kein Politiker, ich gebe Leuten Arbeit und schaue auf die Wirtschaft",
+      "context": "Abgrenzung seiner Rolle als Unternehmer von politischer Verantwortung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "omr_Imo-G7Syh2I",
+  "podcast": "OMR Podcast",
+  "podcast_id": "omr",
+  "title": "omr_Imo-G7Syh2I",
+  "date": null,
+  "country": "DE",
+  "word_count": 18697
+}

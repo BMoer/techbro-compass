@@ -1,0 +1,141 @@
+{
+  "economic_score": 2.1,
+  "social_score": -3.6,
+  "n_coded": 14,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Sozialleistungen machen abhängig, Leute müssen arbeiten für ihren Platz",
+      "speaker": "guest",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Stark marktorientiert, Leistungsprinzip, wenig Sozialstaat"
+    },
+    {
+      "text": "Im Club herrscht Freiheit, freedom ist unsere Religion, keine Regeln",
+      "speaker": "guest",
+      "economic": 6,
+      "social": 4,
+      "reasoning": "Anti-staatlich, pro-Eigenverantwortung, aber faktisch hierarchisch"
+    },
+    {
+      "text": "Ich regele das selbst, brauche keine Polizei, kein Vertrauen in Staat",
+      "speaker": "guest",
+      "economic": 5,
+      "social": 6,
+      "reasoning": "Privatjustiz statt Staatsjustiz, radikale Eigenständigkeit"
+    },
+    {
+      "text": "Mit Angst regiert? Das kann ich nicht beurteilen, war so üblich",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Gewaltanwendung als Führungsinstrument, autoritärer Führungsstil"
+    },
+    {
+      "text": "Prospect muss 24 Stunden abrufbar sein, genauso wie ich als Präsident",
+      "speaker": "guest",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Totale Kontrolle, keine Privatsphäre, strikte Hierarchie"
+    },
+    {
+      "text": "Wer sich dem System anschließt, akzeptiert alle Konsequenzen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Autoritäre Logik: freiwillige Unterwerfung unter strenge Regeln"
+    },
+    {
+      "text": "Bei mir: Motorrad im Club bleibt, wenn jemand geht - war freiwillig",
+      "speaker": "guest",
+      "economic": 6,
+      "social": -5,
+      "reasoning": "Zwangseigentum, Enteignung unter dem Mantel der Freiwilligkeit"
+    },
+    {
+      "text": "Prostitution: Ich verdiene Geld, indem ich Frauen manipuliere",
+      "speaker": "guest",
+      "economic": 7,
+      "social": -8,
+      "reasoning": "Zuhältertum, Menschenhandel, ökonomische Ausbeutung"
+    },
+    {
+      "text": "Wahlen? Klar, aber ich wusste ich bin der Einzige für den Job",
+      "speaker": "guest",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Autoritäre Pseudodemokratie, Diktatur mit Legitimationsfassade"
+    },
+    {
+      "text": "Schläge waren nötig, damit Leute nie vergessen, wer ich bin",
+      "speaker": "guest",
+      "economic": null,
+      "social": -9,
+      "reasoning": "Gewalt als Dressur, Terror-Führung, stark autoritär"
+    },
+    {
+      "text": "Zur Polizei gehen? Niemals, das geht gegen meine Kinderregeln",
+      "speaker": "guest",
+      "economic": 5,
+      "social": 5,
+      "reasoning": "Privatjustiz-Philosophie, Ablehnung staatlicher Institutionen"
+    },
+    {
+      "text": "Verrät schmerzt mehr als Gewalt, weil es gegen meine Ehre geht",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Privateigene Rechtsnormen wichtiger als staatliches Recht"
+    },
+    {
+      "text": "Ich habe die Frauen wie Ware behandelt, das tut mir leid",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Späte, begrenzte Einsicht, aber nur für Frauenhandel nicht für Gewalt"
+    },
+    {
+      "text": "Tiere sind loyal, Menschen verraten - darum rette ich Tiere",
+      "speaker": "guest",
+      "economic": -2,
+      "social": 4,
+      "reasoning": "Gemeinnütziger Gnadenhof-Plan, Tierschutz über Profit"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Wenn das noch mal machst, schlage ich dir das Schädel ein",
+      "context": "Warnung an Clubmitglied, das Drogen nahm trotz Verbot",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Freedom is our Religion, bei uns kannst du mehr oder weniger machen was du willst",
+      "context": "Gast behauptet Freiheit im Club, aber es folgt Beschreibung strikter Regeln",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich hätte heute diese Summe nicht genommen sondern monatlich - weil ich durfte",
+      "context": "Aushandlung von Zuhälter-Anteil bei Prostitution einer Frau",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Mit Sicherheit hätte ich mich nicht zur Wahl gestellt, wenn ich Angst hätte",
+      "context": "Retrospektive über seine Wahlsicherheit 2009",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ein Hund ist das einzigste Lebewesen, das dich immer mehr liebt als sich selbst",
+      "context": "Erklärung seiner Tierliebestatt Menschenliebe",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_QKJoDKJwNYc",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_QKJoDKJwNYc",
+  "date": null,
+  "country": "DE",
+  "word_count": 9465
+}

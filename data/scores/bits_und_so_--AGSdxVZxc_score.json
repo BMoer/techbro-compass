@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 1.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.45,
+  "coded_statements": [
+    {
+      "text": "Bargeld ist das zentrale Element auf der Wiesn, überall Geldautomaten",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung von Bargeld als Zahlungsmittel, Skepsis gegenüber digitalen Systemen"
+    },
+    {
+      "text": "EC-Geräte-Ausfälle zeigen Infrastruktur-Versagen, man braucht Redundanz",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an Betriebssicherheit; neutral-pragmatischer Blick auf Zahlungssysteme"
+    },
+    {
+      "text": "Die Wiesn-Betreiber haben kriminelle Energie, betrügen bei Steuern/Immobilien",
+      "speaker": "host",
+      "economic": -4,
+      "social": -3,
+      "reasoning": "Kritik an Kapitalisten/Unternehmern; implizite Forderung nach stärkerer Kontrolle"
+    },
+    {
+      "text": "Kunde könnte einfach sagen 'ich zahle nicht' und sich hinsetzen",
+      "speaker": "host",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Hinterfragt ungleiche Machtposition, aber ironisch; leichte Sympathie für Kundenrechte"
+    },
+    {
+      "text": "Tim Cook mit Apple Card auf Wiesn - symbiotisch tech & tradition",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Beobachtung ohne Bewertung; Bericht über Veranstaltung, keine Meinung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Bargeld und EC greifen das beste war ja noch dieser ganze Wahnsinn",
+      "context": "Kritik am Zahlungs-Chaos auf der Wiesn",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das ist sein ding und man einfach sagt kosten nichts da haben wir drei stuck in der schublade",
+      "context": "Kritik am fehlenden Service bei EC-Geräte-Ausfall",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_--AGSdxVZxc",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_--AGSdxVZxc",
+  "date": null,
+  "country": "DE",
+  "word_count": 2753
+}

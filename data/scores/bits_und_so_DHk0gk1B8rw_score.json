@@ -1,0 +1,70 @@
+{
+  "economic_score": 1.0,
+  "social_score": 0.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.6,
+  "coded_statements": [
+    {
+      "text": "ich bin eher einer beta phase also ich hab ja mal ein foto länger benutze ich habe apple schon mal ausprobiert würde ich sagen",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Persönliche Erfahrungsbeschreibung, keine Meinungsäußerung zu politischen Dimensionen"
+    },
+    {
+      "text": "ich glaube es ist ein extrem großer schritt den diese ab machen kann weil dieses ist halt sollten auch ein sehr wichtiger schritt",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Befürwortung von Apples proprietärem Cloud-Service-Ansatz; leicht pro-Markt/pro-Unternehmen"
+    },
+    {
+      "text": "fotos ist nun wirklich extrem guter schritt noch nicht so umfangreich wie die wws hat so ein paar funktionen noch nicht",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Positive Bewertung proprietärer Apple-Lösung, pragmatisch-akzeptierend gegenüber Marktsituation"
+    },
+    {
+      "text": "ich glaube dass vielleicht ist es ist nicht deine anwendung da sie also aus aperture gibt es nun den schritt zu leiten das ist das andere",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale, pragmatische Analyse von Marktangeboten für verschiedene Zielgruppen"
+    },
+    {
+      "text": "ich bin sehr gerne bereit auch geld auszugeben wenn das alles so funktioniert und das wäre dann nämlich die politik",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Befürwortung von Paid Services für bessere Funktionalität; marktorientiert"
+    },
+    {
+      "text": "die idee dass die strategie von amazon ist ja jetzt irgendwie der unbegrenzten wolken speicherplatz zu geben aber keine möglichkeit drauf",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritische Analyse von konkurrierendem Geschäftsmodell, wertneutral-pragmatisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "ich bin sehr gerne bereit auch geld auszugeben wenn das alles so funktioniert",
+      "context": "Host befürwortet bezahlte Cloud-Services von Apple als Geschäftsmodell",
+      "quiz_suitable": true
+    },
+    {
+      "text": "es scheint ja kein kompletter ausfall zu sein so wie manch andere raik laut einführung",
+      "context": "Relativierend positive Bewertung von Apples Feature-Implementierung im Vergleich zu Konkurrenz",
+      "quiz_suitable": false
+    }
+  ],
+  "episode_id": "bits_und_so_DHk0gk1B8rw",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_DHk0gk1B8rw",
+  "date": null,
+  "country": "DE",
+  "word_count": 2461
+}

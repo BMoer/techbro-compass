@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.6,
+  "social_score": 3.2,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "wenn Apple das iPad so aufmachen würde wie diese metaquest offen ist da wäre echt was gewonnen",
+      "speaker": "host",
+      "economic": 5,
+      "social": 4,
+      "reasoning": "Befürwortung von Offenheit/Interoperabilität gegen Apple-Geschlossenheit, pro-Markt, pro-Freiheit"
+    },
+    {
+      "text": "da könnten Leute mit spielen da wären Sachen die passieren würden auch Sachen passieren die Apple nicht recht sind aber das ist wurscht",
+      "speaker": "host",
+      "economic": 3,
+      "social": 5,
+      "reasoning": "Freie Nutzung über Herstellerkontrolle, libertäre Haltung gegenüber Restriktionen"
+    },
+    {
+      "text": "Meta hat sich auf dieses Gaming Ding konzentriert und das ist okay aber da gibt's noch mehr außenrum was Entwickler trotzdem drauf können",
+      "speaker": "host",
+      "economic": 2,
+      "social": 4,
+      "reasoning": "Anerkennung von Ökosystem-Offenheit, Entwicklerfreiheit schätzend"
+    },
+    {
+      "text": "diese ganze Abschottung die dieses Ding bietet wenn ich Film geschaut habe habe ich diesen Film geschaut und nicht mit dem iPhone gespielt",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Positive Bewertung von Kontrolle/Einschränkung für Nutzererlebnis, leicht autoritär"
+    },
+    {
+      "text": "das Gerät kostet ja irgendwie in Anführungszeichen nur 330€ und 330€ wirkt dann sehr günstig",
+      "speaker": "host",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Betonung von Preiswertigkeit und Markteffizienzmechanismen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wenn Apple das iPad so aufmachen würde wie diese metaquest offen ist da wäre echt was gewonnen",
+      "context": "Kritik an Apples geschlossenem Ökosystem vs. Metas offene Plattform",
+      "quiz_suitable": true
+    },
+    {
+      "text": "da könnten Leute mit spielen und Sachen würden passieren die Apple nicht recht sind aber das ist wurscht",
+      "context": "Verteidigung von Entwicklerfreiheit gegen Herstellerkontrolle",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_2XzCxcrn1Q4",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_2XzCxcrn1Q4",
+  "date": null,
+  "country": "DE",
+  "word_count": 4763
+}

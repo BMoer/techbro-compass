@@ -1,0 +1,113 @@
+{
+  "economic_score": -2.0,
+  "social_score": 3.6,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Wir brauchen als Antwort auf COVID-19 eine Epidemie der Empathie",
+      "speaker": "host",
+      "economic": null,
+      "social": 6,
+      "reasoning": "Betonung von Empathie und sozialer Solidarität statt Härte"
+    },
+    {
+      "text": "Heldenverehrung von Pflegepersonal ist oft Ablasshandel, ohne echte Verbesserung der Arbeitsbedingungen",
+      "speaker": "host",
+      "economic": -4,
+      "social": 3,
+      "reasoning": "Kritik an symbolischer Anerkennung ohne strukturelle Lohnverbesserungen im Pflegesektor"
+    },
+    {
+      "text": "CDU trägt Verantwortung für schlechte Bezahlung systemrelevanter Berufe",
+      "speaker": "host",
+      "economic": -6,
+      "social": null,
+      "reasoning": "Kritik an konservativer Sparpolitik und Mindestlohn-Verzögerung"
+    },
+    {
+      "text": "Wir leben nicht in einer Expertokratie, sondern in einer liberalen Demokratie mit Debattenprozessen",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Ablehnung von autoritärer Expertise-Diktatur, Betonung von demokratischen Prozessen"
+    },
+    {
+      "text": "Digitale Vernetzung ist essentiell für Corona-Bewältigung durch Homeoffice und Koordination",
+      "speaker": "host",
+      "economic": 2,
+      "social": 4,
+      "reasoning": "Befürwortung von digitaler Infrastruktur als moderne Lösung für Krisenbewältigung"
+    },
+    {
+      "text": "Singapurs digitale Nachverfolgung mit Standortdaten hilft Pandemie-Bekämpfung, erfordert aber Vorsicht",
+      "speaker": "host",
+      "economic": 1,
+      "social": -3,
+      "reasoning": "Pragmatische Anerkennung von effektiver Technologie mit Überwachungsbedenken"
+    },
+    {
+      "text": "Stress in der Krise ist nicht nur hausgemacht, sondern strukturell durch Belastungsgrenzen",
+      "speaker": "host",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Kritik an privilegierter Perspektive, die individuelle Verantwortung überbewertet"
+    },
+    {
+      "text": "Soziale Medien sind Schlüssel zur Verbesserung der Stimmung in der Gesellschaft",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Vertraut auf digitale Kommunikation zur sozialen Lösungsfindung statt nur auf Experten"
+    },
+    {
+      "text": "Hilflosigkeit führt zu Wut; diese Wut ist teilweise berechtigt und kann zu Veränderung führen",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Verständnis für Wut als psychologische Reaktion auf systemische Probleme"
+    },
+    {
+      "text": "Männer haben größere Schwierigkeiten mit Hilflosigkeit und werden leichter wütend",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Geschlechterkritische Beobachtung; sanfte Kritik an toxischen Reaktionsmustern"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Der wissenschaftliche Fachausdruck für Menschen, die besonders schlecht mit Hilflosigkeit umgehen können und deshalb leichter wütend werden, lautet übrigens: Männer",
+      "context": "Lobo analysiert psychologische Muster der Corona-Wut und zieht ein satirisches Fazit",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wenn ich zu weniger Wut aufrufe und Menschen reagieren mit bestürzend weniger Empathie und besonders wütend, ist meine Intention gescheitert",
+      "context": "Lobo reflektiert kritisch die Gegenreaktion auf seine Kolumne",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Balkonklatschen ist eine schöne Geste der Solidarität, aber nicht zu verwechseln mit echter Veränderung der Arbeitsbedingungen",
+      "context": "Lobo kritisiert symbolische Anerkennung als Ablasshandel",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Wir sind nicht nur in einer physischen, sondern auch in einer psychischen Globalkrise",
+      "context": "Lobo definiert die Corona-Pandemie als multi-dimensionale Krise",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Alle Formen von Erlöser-Wunschdenken werden enttäuscht",
+      "context": "Lobo warnt vor unrealistischen Erwartungen in Drosten und Experten als Heilsfiguren",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_GXxW334fvPM",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_GXxW334fvPM",
+  "date": null,
+  "country": "DE",
+  "word_count": 7743
+}

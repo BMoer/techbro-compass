@@ -1,0 +1,137 @@
+{
+  "economic_score": 2.1,
+  "social_score": 1.4,
+  "n_coded": 14,
+  "insufficient_data": false,
+  "confidence": 0.78,
+  "coded_statements": [
+    {
+      "text": "Wir haben einen eigenen Energiemanagement-System der dezentrales virtuelles Kraftwerk aufbaut",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Technologische Innovation im Markt, dezentrale Strukturen"
+    },
+    {
+      "text": "Größer denken - auch Österreicher trauen sich oft nicht Europa/Global zu denken",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Unternehmertum fördern, aber weniger konkret pro/anti-Markt"
+    },
+    {
+      "text": "Geld war damals günstig, nicht zu schnell skalieren, Prozesse anpassen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an überhastet Wachstum, eher vorsichtiges Management"
+    },
+    {
+      "text": "Ich will in Klimakrise einen Impact haben, daher in diesem Bereich aktiv",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Persönliche Werte, gesellschaftlicher Impact, progressive Haltung"
+    },
+    {
+      "text": "Gesellschaftlich ist die Dringlichkeit der Klimakrise noch nicht angekommen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik mangelnder Bewusstsein, aber nicht autoritär formuliert"
+    },
+    {
+      "text": "Politik ist nur eine Darstellung gesellschaftlicher Realitäten, keine Mehrheit für Klimaschutz",
+      "speaker": "guest",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Realistische, nicht ideologische Sicht auf Zusammenhänge"
+    },
+    {
+      "text": "Niederländer haben standardisierte Häuser, daher schneller/günstiger PV-Installationen",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Praktische Marktlogik, neutrale Analyse von Kosten"
+    },
+    {
+      "text": "Europa braucht Wind, PV und Atomstrom für Energiewende",
+      "speaker": "guest",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Technologiemischung, marktwirtschaftliche Sicht"
+    },
+    {
+      "text": "Wind-Ausbau hinkt hinterher wegen Zulassungen und lokalem Widerstand",
+      "speaker": "guest",
+      "economic": 2,
+      "social": -2,
+      "reasoning": "Kritik an Regulierung und lokalen Blockaden"
+    },
+    {
+      "text": "Ich investiere als Angel in Startups statt ETFs, macht mehr Spaß mit Gründern zu arbeiten",
+      "speaker": "guest",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Unternehmerische Aktivität, Risikobereitschaft, persönliches Engagement"
+    },
+    {
+      "text": "Ich möchte mehr Climate-Tech Pitches bekommen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Fokus auf nachhaltige Innovation, gesellschaftlicher Impact"
+    },
+    {
+      "text": "Hiring: Die Person ist entscheidend, auf Bauchgefühl hören, persönliche Treffen",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Menschenzentrierter Ansatz, Intuition über Metriken"
+    },
+    {
+      "text": "Ich bin großer Wolt und Forora Kunde, kaufe wenig selbst, koche wenig",
+      "speaker": "guest",
+      "economic": 4,
+      "social": null,
+      "reasoning": "Konsumentenhaltung, Inanspruchnahme von Gig-Economy Services"
+    },
+    {
+      "text": "Fürchte, wir machen Geo-Engineering mit unkalkalierbaren Risiken, wenn Dringlichkeit zu spät kommt",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Pessimistische Vorhersage, Besorgnis um Kontrollverlust durch Technologie",
+      "quiz_suitable": true
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Größer denken - Deutschland-Plan statt Wien-Plan. Das trauen sich Österreicher oft nicht.",
+      "context": "Christian reflektiert auf n26's europäische Expansion als Vorbild für österreichische Gründer.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Gesellschaftlich ist die Dringlichkeit der Klimakrise noch nicht angekommen - speziell in der Mitte.",
+      "context": "Christian diskutiert die Kluft zwischen aktivistischen und breiten Bevölkerungsschichten beim Klimaschutz.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Ich fürchte, Geo-Engineering kommt - mit unkalkalierbaren Risiken.",
+      "context": "Christians düstere Vorhersage zur Reaktion auf zu späte Klimawende-Realisation.",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Nicht zu schnell skalieren. Der Output wächst nicht proportional mit dem Team-Wachstum.",
+      "context": "Lessons learned aus n26's Hypergrowth-Phase mit 500% Team-Expansion.",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "future_weekly_qOg25BbVt1k",
+  "podcast": "Future Weekly",
+  "podcast_id": "future_weekly",
+  "title": "future_weekly_qOg25BbVt1k",
+  "date": null,
+  "country": "AT",
+  "word_count": 6280
+}

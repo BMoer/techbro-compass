@@ -1,0 +1,75 @@
+{
+  "economic_score": -2.0,
+  "social_score": -3.5,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Die Emirate drohen mit Strafverfolgung, wenn man Gerüchte über die Sicherheitslage in sozialen Netzwerken verbreitet.",
+      "speaker": "host",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Zensur und Überwachung von Informationen; autoritäre Kontrolle"
+    },
+    {
+      "text": "Diese Staaten funktionieren nicht ohne ausländische Arbeitskräfte im Niedriglohensektor oder als Experten/Investoren.",
+      "speaker": "guest",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Kritik an Abhängigkeit von exploitativer Arbeitsmigration; implizit: Regulierungsbedarf"
+    },
+    {
+      "text": "Saudi-Arabien und die Emirate waren alles andere als entzückt über Rufe nach Demokratie im arabischen Frühling.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -8,
+      "reasoning": "Beschreibung von autoritären Regimen, die Demokratie ablehnen und unterdrücken"
+    },
+    {
+      "text": "Diese Staaten sehen Demokratiebewegungen als Gefahr für ihre eigenen Herrschaftssysteme.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -7,
+      "reasoning": "Analyse von Unterdrückungslogik; starker Autoritarismus"
+    },
+    {
+      "text": "Der Gesichtsverlust der Golfstaaten besteht darin, dass sie ihre Bevölkerung letztendlich nicht schützen können.",
+      "speaker": "guest",
+      "economic": -1,
+      "social": -1,
+      "reasoning": "Kritik an Scheitern von Sicherheitsversprechen; implizite Forderung nach besserer Infrastruktur"
+    },
+    {
+      "text": "Iran hat nichts zu verlieren und man muss sich Sorgen vor Staaten machen, die nichts mehr zu verlieren haben.",
+      "speaker": "guest",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Analyse von destabilisierendem Staatsverhalten ohne ideologische Positionierung"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Emirate drohen mit Strafverfolgung für Gerüchte über Sicherheitslage in sozialen Netzwerken",
+      "context": "Erklärung, warum Menschen offiziell Sicherheit behaupten, obwohl sie in Tiefgaragen flüchten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "10% Einheimische, 90% Ausländer – diese Staaten funktionieren nicht ohne Arbeitskräfte",
+      "context": "Beschreibung der demographischen und wirtschaftlichen Abhängigkeit der Golfstaaten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das ist wie suizidales Verhalten – man möchte möglichst viele mit in den Abgrund ziehen",
+      "context": "Analyse des iranischen Druckausübungs-Ansatzes durch Angriffe auf Golfstaaten",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_7rqPqnCDXU0",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_7rqPqnCDXU0",
+  "date": null,
+  "country": "DE",
+  "word_count": 2006
+}

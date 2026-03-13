@@ -1,0 +1,108 @@
+{
+  "economic_score": -1.6,
+  "social_score": 2.0,
+  "n_coded": 10,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Schweden hat Schulen und Kitas offen gelassen, nur Empfehlungen statt Verbote erlassen",
+      "speaker": "guest",
+      "economic": 3,
+      "social": 2,
+      "reasoning": "Marktwirtschaftliche Offenheit, Vertrauen statt Zwang"
+    },
+    {
+      "text": "Die Virologen haben die Macht übernommen; in Deutschland bestimmten Wissenschaftler die Politik",
+      "speaker": "host",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritik an Machtverhältnissen; Sorge vor Übermacht einer Interessensgruppe"
+    },
+    {
+      "text": "Wenn man einen härteren Lockdown macht, bekommen wir gesellschaftliche und gesundheitliche Folgen: Leute gehen nicht zum Arzt, Kinder können nicht zur Schule",
+      "speaker": "guest",
+      "economic": 2,
+      "social": 1,
+      "reasoning": "Pro-Markt-Argument gegen Regulierung; Fokus auf Gesellschaftseffekte"
+    },
+    {
+      "text": "Es gibt überhaupt kein Contact Tracing in Schweden, deswegen kann die Bevölkerung nicht kontinuierlich lernen",
+      "speaker": "guest",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik mangelnder Informationstransparenz und dezentraler Kontrolle"
+    },
+    {
+      "text": "Man sollte Ehrgeiz haben, auch 96-Jährige noch den nächsten Frühling sehen zu lassen, nicht einfach sagen sie sterben eh",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Ethische Kritik an gleichgültiger Haltung; pro-sozialer Wert"
+    },
+    {
+      "text": "Schweden hat Personen über 80 gar nicht ins Krankenhaus geschickt; Triage im Altersheim statt Notaufnahme",
+      "speaker": "guest",
+      "economic": null,
+      "social": -6,
+      "reasoning": "Implizite Rationierung nach Alter; authoritative Filterentscheidung vorab"
+    },
+    {
+      "text": "Schweden geht davon aus, dass das Virus wiederkommt und dann werden andere Länder Ausgangssperren erlassen",
+      "speaker": "guest",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Langfristiges ökonomisches Argument für Freiheit statt kurzfristige Maßnahmen"
+    },
+    {
+      "text": "Die politische Opposition war mucksmäuschenstill, es gab einen Burgfrieden, Kritiker wurden beschimpft",
+      "speaker": "host",
+      "economic": null,
+      "social": -5,
+      "reasoning": "Kritik an Unterdrückung von Dissent; mangelnde Meinungsfreiheit im Krisenmodus"
+    },
+    {
+      "text": "Es gibt keine ernsthafte Studie, wie lange man immun bleibt nach Corona-Infektion",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Kritik an wissenschaftlichen Annahmen als Basis für Freiheitspolitik"
+    },
+    {
+      "text": "Schweden hatte nur 500 Intensivbetten bei 10 Millionen Einwohnern, Deutschland 25.000 bei 80 Millionen",
+      "speaker": "guest",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Implizit: Ressourcenmangel führt zu Not-ökonomischen Entscheidungen (Sparmaßnahmen)"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Schweden ist die Kontrollgruppe für das weltexperiment Corona",
+      "context": "Lobo führt Episode ein und positioniert Schweden als Vergleichsfall",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Schweden haben gesagt: Ihr fahrt alle in die falsche Richtung, nur wir liegen richtig",
+      "context": "Charakterisierung der schwedischen Haltung gegenüber anderen Ländern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Man hat Personen über 80 nicht ins Krankenhaus geschickt - Triage im Altersheim statt Notaufnahme",
+      "context": "Offenlegung der schwedischen Priorisierungspolitik für medizinische Ressourcen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Kritiker wurden beschimpft nach dem Motto: Was mischt ihr euch ein, wir haben einen Staatsepidemiologen",
+      "context": "Darstellung fehlender Debattenkultur in Schweden während Krise",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_erpzz7UhA8k",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_erpzz7UhA8k",
+  "date": null,
+  "country": "DE",
+  "word_count": 4491
+}

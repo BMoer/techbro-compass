@@ -1,0 +1,75 @@
+{
+  "economic_score": 0.0,
+  "social_score": 0.67,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Brad ist eine Lebenseinstellung wo du chaotisch sein kannst, dich nicht zu ernst nimmst",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Anti-autoritäre Haltung: Ablehnung von Kontrolle und Regelkonformität zugunsten individueller Freiheit"
+    },
+    {
+      "text": "Frauen in männlichen Gefilden: Absurdität hervorheben und patriarchale Strukturen und Sexismus hinweisen",
+      "speaker": "guest",
+      "economic": -3,
+      "social": 3,
+      "reasoning": "Kritik an struktureller Benachteiligung; leicht links; gesellschaftlich libertär (gegen Machtstrukturen)"
+    },
+    {
+      "text": "Kamala is Brat: Das Marketing Team hat es sofort übernommen im limettengrünen Design",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Reine Factual-Beobachtung, keine Wertung zur Politik oder Philosophie"
+    },
+    {
+      "text": "Stefan Raab sagte: Wenn ich 9 Millionen Follower bekomme, komme ich zurück",
+      "speaker": "guest",
+      "economic": null,
+      "social": null,
+      "reasoning": "Beschreibung von Populär-Phänomen ohne ideologische Position"
+    },
+    {
+      "text": "Rachel Gunn wurde gehänselt, man sagte sie verdient nicht da zu sein und zweifelte ihre Qualifikation an",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Kritische Beschreibung autoritärer/ausgrenzender Verhaltensweisen im Netz gegen Minderheit"
+    },
+    {
+      "text": "Christian Lindner: Das Internet machte Memes über ihn, Berliner Verkehrsbetriebe boten ihm Busfahrer-Job an",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Humorvolle Kritik an Machtperson durch dezentralisierte Netzkritik (libertäre Tendenzen)"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Brad bedeutet: chaotisch sein, nicht alles beisammen haben, aber immer ehrlich und mit Spaß",
+      "context": "Charlie XCX prägt Lebenseinstellung die gegen 'Clean Girl Aesthetic' rebelliert",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Eine TikTokerin rechnete aus: In ganz Amerika gibt es wahrscheinlich nur 2 Männer die allen Kriterien entsprechen",
+      "context": "Satire auf unrealistische Dating-Standards im 'Man in Finance' Song",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Rachel Gunn gab Breakdance-Karriere auf nach Hänseleien wegen Olympia-Performance",
+      "context": "Netzmob führte zu realen beruflichen Konsequenzen für Athletin",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_hkrF460ZwbU",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_hkrF460ZwbU",
+  "date": null,
+  "country": "DE",
+  "word_count": 3085
+}

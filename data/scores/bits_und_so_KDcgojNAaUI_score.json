@@ -1,0 +1,63 @@
+{
+  "economic_score": 1.0,
+  "social_score": 3.5,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.45,
+  "coded_statements": [
+    {
+      "text": "MakerBot hat ihre Community verraten und den Open-Source-Gedanken nachgelassen",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Kritik an Kommerzialisierung vs. Open-Source-Idealen"
+    },
+    {
+      "text": "Makerspaces und Bibliotheken bieten kostenlose/günstige 3D-Druck-Zugang für alle",
+      "speaker": "host",
+      "economic": -3,
+      "social": 5,
+      "reasoning": "Gemeinschaftliche Ressourcenteilung, Zugang für alle statt Markt"
+    },
+    {
+      "text": "Bei Shapeways kann man Modelle hochladen und sie drucken lassen - Service statt Ownership",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Marktbasierter Service-Ansatz, Flexibilität durch Spezialisierung"
+    },
+    {
+      "text": "Man kann günstige Prototypen drucken, testen und dann teure Metallversionen anfertigen",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatischer Mix aus kostengünstigem Prototyping und Premium-Materialien"
+    },
+    {
+      "text": "Jede Bibliothek sollte einen 3D-Drucker haben, den man reservieren kann",
+      "speaker": "host",
+      "economic": -4,
+      "social": 6,
+      "reasoning": "Öffentliche Infrastruktur, Zugangsdemokratisierung, Anti-Konsumismus"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "MakerBot hat ihre Community so ein bisschen verraten und das fanden die gar nicht so ok",
+      "context": "Kritik an der Kommerzialisierung von ehemals open-source Plattformen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Man muss sich einfach ein Makerspace mit Bibliothek oder Einrichtung in der Gegend suchen",
+      "context": "Argument für gemeinschaftliche statt private 3D-Drucker-Nutzung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_KDcgojNAaUI",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_KDcgojNAaUI",
+  "date": null,
+  "country": "DE",
+  "word_count": 2495
+}

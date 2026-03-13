@@ -1,0 +1,80 @@
+{
+  "economic_score": -1.67,
+  "social_score": 1.67,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "die Migration ist die Mutter aller Probleme",
+      "speaker": "guest",
+      "economic": null,
+      "social": -4,
+      "reasoning": "Autoritäre Fokussierung auf Sicherheit/Kontrol­le über Freiheit"
+    },
+    {
+      "text": "wenn wir die Stromkosten höher machen, können sich Rentner Kuchen nicht mehr leisten",
+      "speaker": "guest",
+      "economic": 0,
+      "social": -2,
+      "reasoning": "Sicherheits-/Kontrollargument gegen Klima­maßnahmen via Wohlfahrt"
+    },
+    {
+      "text": "die Grünen sind Teil des Problems, nicht der Lösung, nur Umwelt-Folklore",
+      "speaker": "guest",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Anti-autoritative Kritik an etablierter Politik, fordert echte Veränderung"
+    },
+    {
+      "text": "wir wollen ja auch die Diplomatie aufrecht erhalten gegenüber Russland",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Libertäre Position gegen militärische Intervention, für Vermittlung"
+    },
+    {
+      "text": "Waffenlieferungen sind für uns tabu",
+      "speaker": "guest",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Pazifistische/anti-militärische libertäre Position"
+    },
+    {
+      "text": "ich finde das mit defensivwaffen sollten wir diskutieren können ohne Meinungsdruck",
+      "speaker": "guest",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Anti-Zensur, Forderung nach differenzierter Debatte ohne Bekenntniswang"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "wenn es Merkel nicht gäbe dann müsste es eigentlich die AFD gar nicht geben",
+      "context": "Wutbürger-Analyse 2015: Enttäuschung über Regierungspolitik als Ursprung von Protestbewegungen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "wir werden sie jagen, wir werden unser Volk zurückholen",
+      "context": "Gauland 2017 Wahlkampf: Aggressive Rhetorik gegen Merkel mit delegitimierenden Implikationen",
+      "quiz_suitable": true
+    },
+    {
+      "text": "das Land zurückholen impliziert, dass die jetzigen Entscheider nicht legitimiert sind",
+      "context": "Analyse der AFD-Narrative: Kritik an delegitimierender Herrschaftsrhetorik",
+      "quiz_suitable": true
+    },
+    {
+      "text": "ich sehe die Grünen als Teil des Problems nicht als Teil der Lösung",
+      "context": "2021 Fridays-Aktivist nach Grünem Heizungsgesetz: Enttäuschung über fehlende Klassensensibilität",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_of7EBleqBoo",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_of7EBleqBoo",
+  "date": null,
+  "country": "DE",
+  "word_count": 7642
+}

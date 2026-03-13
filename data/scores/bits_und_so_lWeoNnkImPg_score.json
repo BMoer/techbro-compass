@@ -1,0 +1,63 @@
+{
+  "economic_score": 0.0,
+  "social_score": 2.5,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "DPD muss sich Mühe geben, weil sie nicht die größten sind, DHL ist groß und faul",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Beschreibt Marktdynamik, keine klare politische Position"
+    },
+    {
+      "text": "Die live-Sicht auf Paketposition ist die essentiellste Information für Kunden",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Befürwortung von Transparenz/Kundeneinflussmöglichkeiten, leicht libertär"
+    },
+    {
+      "text": "Datenschutzproblematik ob Mitarbeiter überwacht werden darf - das mag eine Frage sein",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Erkennt Datenschutzbedenken an, aber pragmatisch/abwägend, nicht entschieden"
+    },
+    {
+      "text": "DPD hat nachgedacht was man nicht von allen behaupten kann bezüglich Sicherheit",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Lob für Datenschutzverantwortung, Kritik an mangelnder Sicherheit anderer"
+    },
+    {
+      "text": "Du kannst in der App direkt reagieren ob du zu Hause bist oder nicht - viel Wert",
+      "speaker": "host",
+      "economic": null,
+      "social": 3,
+      "reasoning": "Wertschätzung von Kundenkontrolle und Selbstbestimmung in der App"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "DPD hat nachgedacht was man nicht von allen behaupten kann",
+      "context": "Im Vergleich zu Konkurrenten wie Packstation mit Sicherheitslöchern",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Die Datenschutzproblematik in Deutschland ist besonders spezifisch",
+      "context": "Beim Tracking von Lieferfahrzeugen und deren Überwachung",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_lWeoNnkImPg",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_lWeoNnkImPg",
+  "date": null,
+  "country": "DE",
+  "word_count": 1696
+}

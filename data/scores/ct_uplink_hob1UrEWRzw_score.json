@@ -1,0 +1,11 @@
+{
+  "error": "Expecting value: line 26 column 17 (char 927)",
+  "raw_response": "{\n  \"economic_score\": -2.0,\n  \"social_score\": 1.67,\n  \"n_coded\": 12,\n  \"insufficient_data\": false,\n  \"confidence\": 0.78,\n  \"coded_statements\": [\n    {\n      \"text\": \"Plattformen profitieren massiv von KI Slop und fördern das auch, weil es billig skaliert.\",\n      \"speaker\": \"guest\",\n      \"economic\": -4,\n      \"social\": null,\n      \"reasoning\": \"Kritik an Plattform-Ökonomie, die Kosteneinsparung über Qualität stellt\"\n    },\n    {\n      \"text\": \"KI Model Llama wird kostenlos weitergegeben, um meh",
+  "episode_id": "ct_uplink_hob1UrEWRzw",
+  "podcast": "c't uplink",
+  "podcast_id": "ct_uplink",
+  "title": "ct_uplink_hob1UrEWRzw",
+  "date": null,
+  "country": "DE",
+  "word_count": 10374
+}

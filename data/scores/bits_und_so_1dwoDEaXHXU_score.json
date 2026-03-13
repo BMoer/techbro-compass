@@ -1,0 +1,51 @@
+{
+  "economic_score": 2.5,
+  "social_score": 3.75,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "wenn du lokale Modelle verwendest gratis",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Betonung von kostenloser lokaler Nutzung ohne Cloud-Abhängigkeit"
+    },
+    {
+      "text": "wenn man dessen äh Wolkenmodell benutzen möchte, dann kostet Geld",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Feststellung von Geschäftsmodell, pragmatisch"
+    },
+    {
+      "text": "du kannst halt deinen dein diktierten Text durch weitere Sachen durchschleusen",
+      "speaker": "host",
+      "economic": 5,
+      "social": 5,
+      "reasoning": "Betonung von Nutzerautonomie und lokaler Kontrolle ohne zentrale Abhängigkeit"
+    },
+    {
+      "text": "man muss halt diesen diesen äh jetzt sofort Abo abschließen Button muss man wegklicken",
+      "speaker": "host",
+      "economic": 0,
+      "social": 3,
+      "reasoning": "Kritik an dunklen Mustern, implizite Kritik an manipulativer UX"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Vielleicht löscht auch deine Festplatte. Man weiß es ja nicht.",
+      "context": "Humorvoller Warnung vor automatisierter Skriptausführung ohne Verständnis",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_1dwoDEaXHXU",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_1dwoDEaXHXU",
+  "date": null,
+  "country": "DE",
+  "word_count": 461
+}

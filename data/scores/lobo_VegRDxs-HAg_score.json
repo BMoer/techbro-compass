@@ -1,0 +1,51 @@
+{
+  "economic_score": 0.0,
+  "social_score": -1.5,
+  "n_coded": 4,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "Deutschland darf sich wegen transatlantischer Zerrüttung nicht einem Regime an den Hals werfen, das Bürger schikaniert und ausspäht",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Kritik an Überwachungsstaat, warnt vor Autoritarismus"
+    },
+    {
+      "text": "Die deutsche Wirtschaft braucht China weiterhin dringend als wichtigen Absatzmarkt",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Pragmatische Marktwirtschaftsperspektive, Handelsabhängigkeit"
+    },
+    {
+      "text": "Für März wäre es ein Gewinn, wenn er zu Jinping eine gute Arbeitsbeziehung aufbauen kann",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Freemarkt-orientiert, Geschäftsbeziehungen priorisieren"
+    },
+    {
+      "text": "Es wäre der gleiche Fehler wie im Umgang mit Russland, nur in größer - sich autoritären Regimen anzunähern",
+      "speaker": "host",
+      "economic": null,
+      "social": -2,
+      "reasoning": "Warnt vor Appeasement-Politik gegenüber Autoritarismus"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Deutschland darf nicht der Versuchung erliegen, sich wegen der transatlantischen Zerrüttung einem Regime an den Hals zu werfen, das seine Bürger schikaniert und ausspäht",
+      "context": "Kritik an potenzieller Annäherung an China trotz Menschenrechtsverletzungen",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "lobo_VegRDxs-HAg",
+  "podcast": "Lobo – Der Debatten-Podcast",
+  "podcast_id": "lobo",
+  "title": "lobo_VegRDxs-HAg",
+  "date": null,
+  "country": "DE",
+  "word_count": 783
+}

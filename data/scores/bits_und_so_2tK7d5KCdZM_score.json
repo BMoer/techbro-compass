@@ -1,0 +1,70 @@
+{
+  "economic_score": 0.4,
+  "social_score": 0.0,
+  "n_coded": 6,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Apple sollte entweder was Spannendes mit dem Mac Pro machen oder ihn einfach abschaffen statt ihn zu ignorieren",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Kritik an fehlender Produktstrategie, keine ökonomische oder gesellschaftliche Position"
+    },
+    {
+      "text": "Tim Cook-Doktrin: Jeden Schmord weiter verkaufen, bis der letzte Dollar rausgeholt wird",
+      "speaker": "host",
+      "economic": 7,
+      "social": null,
+      "reasoning": "Kritik an maximaler Profitextraktion und Gewinnmaximierung - libertär-kapitalistisch"
+    },
+    {
+      "text": "Apple hat sich von interner Erweiterbarkeit komplett verabschiedet",
+      "speaker": "host",
+      "economic": 5,
+      "social": null,
+      "reasoning": "Kritik an fehlender Reparierbarkeit/Modularität, implizit: Marktzwang zu Neukäufen"
+    },
+    {
+      "text": "Es verdirbt die Geschichte, alte Geräte im Lineup zu halten, die keiner mehr kauft und keinen interessieren",
+      "speaker": "host",
+      "economic": 6,
+      "social": null,
+      "reasoning": "Argument für Marktbereinigung und Effizienz statt Sentimentalität"
+    },
+    {
+      "text": "Die Mac Pro Geschichte wird mehr drüber gesprochen als Geräte verkauft werden",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Beobachtung über Marktdynamiken, keine normative Position"
+    },
+    {
+      "text": "Apple kann nicht einfach alte Zöpfe abschneiden wie früher unter Steve Jobs - das ist nicht die Tim Cook Doktrin",
+      "speaker": "host",
+      "economic": -3,
+      "social": null,
+      "reasoning": "Nostalgische Kritik an Profitmaximierung gegenüber Produktvision - schwach linke Position"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Tim-Doktrin ist jeden Schmord weiter zu verkaufen, bis der letzte verdammte Dollar aus dem Gerät rausgeholt wird",
+      "context": "Kritik an Apples Geschäftsmodell unter Tim Cook vs. Steve Jobs",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Der Mac Pro ist das einzige Apple-Gerät, bei dem es so eindeutig ist - das ist einfach nichts, was Apple noch braucht",
+      "context": "Fazit zur Zukunftslosigkeit des Mac Pro im aktuellen Lineup",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_2tK7d5KCdZM",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_2tK7d5KCdZM",
+  "date": null,
+  "country": "DE",
+  "word_count": 3675
+}

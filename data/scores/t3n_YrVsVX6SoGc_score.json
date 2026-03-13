@@ -1,0 +1,63 @@
+{
+  "economic_score": -2.4,
+  "social_score": -1.6,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.72,
+  "coded_statements": [
+    {
+      "text": "Konzerne haben das Internet-Regime übernommen, individuelle Rechte sind ihnen egal",
+      "speaker": "host",
+      "economic": -6,
+      "social": -3,
+      "reasoning": "Kritik an Konzernmacht + Überwachung/Kontrollverlust"
+    },
+    {
+      "text": "Das Internet zu reparieren ist nicht mehr möglich - es ist verloren",
+      "speaker": "host",
+      "economic": -5,
+      "social": null,
+      "reasoning": "Anti-Kapitalismus-kritik, dezentrales Netzwerk verloren"
+    },
+    {
+      "text": "Arbeitgeber sollen Arbeitszeiten erfassen - für Pflege/Handwerk sinnvoll",
+      "speaker": "host",
+      "economic": -3,
+      "social": -2,
+      "reasoning": "Arbeitnehmer-Schutz, aber auch Überwachung der Arbeitszeit"
+    },
+    {
+      "text": "Tesla Megapack ermöglicht mehr erneuerbare Energie und senkt Schadstoffbelastung",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Privatunternehmen als Lösungsanbieter für Infrastruktur"
+    },
+    {
+      "text": "Starren Regelungen des Arbeitszeitgesetzes widersprechen moderner Arbeitswirklichkeit",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Deregulierung/Flexibilisierung gefordert, pragmatisch"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das Internet steuert auf einen Punkt ohne Wiederkehr zu",
+      "context": "Lohfink vergleicht Internet-Zusammenbruch mit Klimawandel",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Das Sterben des Internets ist nicht ein Problem der Infrastruktur, sondern das Ende einer Ära",
+      "context": "Dezentrales Netzwerk-Ideal verloren an Konzerne",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "t3n_YrVsVX6SoGc",
+  "podcast": "t3n Podcast",
+  "podcast_id": "t3n",
+  "title": "t3n_YrVsVX6SoGc",
+  "date": null,
+  "country": "DE",
+  "word_count": 944
+}

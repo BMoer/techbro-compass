@@ -1,0 +1,56 @@
+{
+  "economic_score": 0.0,
+  "social_score": 2.5,
+  "n_coded": 4,
+  "insufficient_data": true,
+  "confidence": 0.35,
+  "coded_statements": [
+    {
+      "text": "Apple sollte Apple Music auf allen Plattformen anbieten, nicht nur auf Apple-Geräten",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Plädiert für offene Plattformen und gegen Closed-Ecosystem-Ansatz"
+    },
+    {
+      "text": "Ein Dienst auf die eigene Hardware zu beschränken ist wirtschaftlich unsinnig",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Kritik an restriktiven Geschäftsmodellen, eher marktorientiert"
+    },
+    {
+      "text": "YouTube Premium mit Werbefrei-Kauf widerspricht Googles Geschäftskonzept komplett",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an hybriden Monetarisierungsmodellen, präferiert klare ökonomische Logik"
+    },
+    {
+      "text": "Podcast-Funktionen auf Smart-Speakern sind derzeit nutzlos implementiert",
+      "speaker": "host",
+      "economic": null,
+      "social": 2,
+      "reasoning": "Kritik an Benutzerkontrolle und Wahlfreiheit bei Drittanbieter-Apps"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Das ist einfach unsinn für einen dienst den dienst auf die eigene plattform einzuschränken",
+      "context": "Kritik an Apples Strategie, Dienste plattformgebunden anzubieten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Entweder du willst dienste anbieten oder du willst sie für dich selbst behalten - aber nicht beides",
+      "context": "Fundamentale Kritik an Apples hybrider Geschäftsstrategie",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_X_w9U0ChLiY",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_X_w9U0ChLiY",
+  "date": null,
+  "country": "DE",
+  "word_count": 3869
+}

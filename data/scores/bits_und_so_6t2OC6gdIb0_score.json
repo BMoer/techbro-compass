@@ -1,0 +1,63 @@
+{
+  "economic_score": -1.0,
+  "social_score": 3.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.55,
+  "coded_statements": [
+    {
+      "text": "Google will diese Google-Handys in die Häuser reinstellen, um Nutzer mit dem Sprachassistenten vertraut zu machen",
+      "speaker": "host",
+      "economic": -2,
+      "social": null,
+      "reasoning": "Kritik an Marktmacht/Monopolisierungsstrategien großer Tech-Konzerne"
+    },
+    {
+      "text": "Das Gerät hat keine Kamera, was ich für eine gute Idee halte - das sollten sie sich sparen",
+      "speaker": "host",
+      "economic": null,
+      "social": 5,
+      "reasoning": "Befürwortung von Datenschutz und Privatsphäre als Designprinzip"
+    },
+    {
+      "text": "Wenn du der Meinung bist dass kein Problem hast dass dir jemand beim Klatschen zuhört im Schlafzimmer - aber es guckt dir niemand zu",
+      "speaker": "host",
+      "economic": null,
+      "social": 4,
+      "reasoning": "Kritische Differenzierung zwischen Audioüberwachung und Videoüberwachung; Datenschutzbewusstsein"
+    },
+    {
+      "text": "Facebook bringt nach diesem Skandal ein Produkt mit Kamera - wenn du nicht denkst da hat jemand mitgedacht, dann ist denen wirklich alles egal",
+      "speaker": "host",
+      "economic": -3,
+      "social": 2,
+      "reasoning": "Kritik an Unternehmensethik/Verantwortung von Tech-Konzernen nach Datenskandalen; Verbraucher-Skepsis"
+    },
+    {
+      "text": "Mit dem Google Home kann ich mein komplettes Smarthome steuern - aber ich muss immer mit dem Gerät reden",
+      "speaker": "host",
+      "economic": null,
+      "social": 1,
+      "reasoning": "Praktische Abwägung zwischen Konvenienz (Sprachsteuerung) und möglichen Privatsphäre-Implikationen"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Facebook bringt nach diesem Skandal ein Produkt mit Kamera - dann ist denen wirklich alles egal",
+      "context": "Kritik an Tech-Konzernen, die trotz Datenskandalen invasive Produkte vermarkten",
+      "quiz_suitable": true
+    },
+    {
+      "text": "Keine Kamera, weil wir wollen dass du das Ding auch im Schlafzimmer benutzt",
+      "context": "Ironie: Gerät hört trotzdem zu, aber zumindest nicht visuell - Datenschutz-Paradox",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_6t2OC6gdIb0",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_6t2OC6gdIb0",
+  "date": null,
+  "country": "DE",
+  "word_count": 1202
+}

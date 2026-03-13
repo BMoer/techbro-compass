@@ -1,0 +1,63 @@
+{
+  "economic_score": 2.0,
+  "social_score": 0.0,
+  "n_coded": 5,
+  "insufficient_data": false,
+  "confidence": 0.65,
+  "coded_statements": [
+    {
+      "text": "Peakdesign Sachen sind teuer, aber man erwartet lange Haltbarkeit dafür",
+      "speaker": "host",
+      "economic": 3,
+      "social": null,
+      "reasoning": "Befürwortung von Premium-Produkten mit Qualitätsargument, marktwirtschaftlich"
+    },
+    {
+      "text": "Bei Decathlon bekommst du preislich deutlich interessantere Sachen",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Pragmatische Preisvergleiche, Verbraucher-orientiert, weder links noch rechts"
+    },
+    {
+      "text": "Man kann sich auch günstigere Alternativen zusammenbasteln",
+      "speaker": "host",
+      "economic": 0,
+      "social": null,
+      "reasoning": "Neutrale Feststellung über Kostenalternativen, pragmatisch"
+    },
+    {
+      "text": "Sipback-Beutel landen am Schluss im Müll – nicht optimal",
+      "speaker": "host",
+      "economic": 1,
+      "social": null,
+      "reasoning": "Kritik an Wegwerfprodukten, subtile Nachhaltigkeit/Umweltbewusstsein, leicht links"
+    },
+    {
+      "text": "Hersteller nehmen Sachen aus USA-Programm raus wegen Kosten aus China",
+      "speaker": "host",
+      "economic": 2,
+      "social": null,
+      "reasoning": "Beobachtung von Fertigungsverlagerung und Kostenoptimierung, neutral-marktwirtschaftlich"
+    }
+  ],
+  "notable_quotes": [
+    {
+      "text": "Da kommst du einfach ohne Geld wieder raus – alles so kleinsten süßen Teile",
+      "context": "Kritik an Outdoor-Laden-Preisen und Kaufsucht durch Zubehör",
+      "quiz_suitable": false
+    },
+    {
+      "text": "Zweite die Kameras werden teurer. Viel Spaß. Tschüss.",
+      "context": "Sarkastische Kritik an Hersteller, der USA-Fabrik abbaut",
+      "quiz_suitable": true
+    }
+  ],
+  "episode_id": "bits_und_so_ACibt0r-PnI",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_ACibt0r-PnI",
+  "date": null,
+  "country": "DE",
+  "word_count": 1484
+}

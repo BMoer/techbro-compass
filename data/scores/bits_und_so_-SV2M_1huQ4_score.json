@@ -1,0 +1,32 @@
+{
+  "economic_score": 0,
+  "social_score": 0,
+  "n_coded": 2,
+  "insufficient_data": true,
+  "confidence": 0.3,
+  "coded_statements": [
+    {
+      "text": "Supermarkt schaltet NFC ab, weil jemand damit bezahlen könnte",
+      "speaker": "host",
+      "economic": null,
+      "social": -3,
+      "reasoning": "Ablehnung von Technologie aus Sicherheitsangst; paternalistisches Verhalten"
+    },
+    {
+      "text": "Ich bin echt für jeden Tag am Meer",
+      "speaker": "host",
+      "economic": null,
+      "social": null,
+      "reasoning": "Nicht meiningstragend, persönliche Bemerkung ohne Aussagegehalt"
+    }
+  ],
+  "notable_quotes": [],
+  "comment": "Das Transkript ist stark fragmentiert, teilweise unverständlich und besteht hauptsächlich aus Erzählungen über technische Probleme (Apple Pay in Deutschland, NFC-Terminal-Inkompatibilität). Es enthält nur eine codierbare Meinungsäußerung zur Sicherheitsangst bei NFC-Zahlungen. Der Rest sind sachliche Beschreibungen von Ereignissen ohne klare normative Positionierung. Für eine aussagekräftige Analyse wären deutlich mehr strukturierte Meinungsaussagen erforderlich.",
+  "episode_id": "bits_und_so_-SV2M_1huQ4",
+  "podcast": "Bits und so",
+  "podcast_id": "bits_und_so",
+  "title": "bits_und_so_-SV2M_1huQ4",
+  "date": null,
+  "country": "DE",
+  "word_count": 489
+}
